@@ -871,7 +871,14 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/6589
 http://mytv-extra.com:80/t12mgxyb335/9832948789/6588
 #EXTINF:-1 group-title="🇲🇾 | ASTRO SPORTS" tvg-logo="https://lo1.in/MALAY/astroassp4.png" ,MY| ASTRO SUPERSPORT 4 HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/6592
-
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/assp1.png" group-title="🇲🇾 | ASTRO SPORTS",ASSP 1
+http://newlife3.wanicelife.com:8880/D12m2806/32723612/1722|user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/assp2.png" group-title="🇲🇾 | ASTRO SPORTS",ASSP 2
+http://newlife3.wanicelife.com:8880/29us1033n02/4567tfwede/1721|user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/assp3.png" group-title="🇲🇾 | ASTRO SPORTS",ASSP 3
+http://newlife3.wanicelife.com:8880/29us1033n02/4567tfwede/1720|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/assp4.png" group-title="🇲🇾 | ASTRO SPORTS",ASSP 4
+http://newlife3.wanicelife.com:8880/29us1033n02/4567tfwede/1719|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 //========================================================================
 //copy right by,@hometv menampilkan playlist >>> UK | SKY SPORTS
 //========================================================================
