@@ -3,7 +3,14 @@
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 
-
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/transtv.png" group-title="🇮🇩 LOKAL ID HD",TRANS TV HD
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILhWiy0db5rOicIj_mG9fjXw
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png" group-title="🇮🇩 LOKAL ID HD",INDOSIAR HD
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILl7aEnRaxnUIxBYYj2eez54
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/sctv.png" group-title="🇮🇩 LOKAL ID HD",SCTV HD
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILmNFiqRqSkFPWqM-ZBxNKiw
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/rcti.png" group-title="🇮🇩 LOKAL ID HD",RCTI HD
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILsDzYcZfHj_bAH34-SQdxQc
 
 
                         ==========BRI LIGA 1=====
