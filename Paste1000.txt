@@ -3,14 +3,16 @@
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/transtv.png" group-title="🇮🇩 LOKAL ID HD",TRANS TV HD
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILhWiy0db5rOicIj_mG9fjXw
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png" group-title="🇮🇩 LOKAL ID HD",INDOSIAR HD
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILl7aEnRaxnUIxBYYj2eez54
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/sctv.png" group-title="🇮🇩 LOKAL ID HD",SCTV HD
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILmNFiqRqSkFPWqM-ZBxNKiw
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/rcti.png" group-title="🇮🇩 LOKAL ID HD",RCTI HD
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILsDzYcZfHj_bAH34-SQdxQc
+#EXTINF:-1 tvg-id="Trans7" tvg-name="TRANS 7" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjPiejPtrhp_TZeZj9yC8LTa2yc1SM4bUSE1-v39HgCjm2KGOLutnmvLMMKoEI266Q.png" group-title="✅ LOKAL ID",TRANS 7
+http://play.fastkobar.my.id:8080/play/jchjBeZ_Auvc7VKriTrILoxGYh3x0H1uUyYZNYzMCVc
+#EXTINF:-1 tvg-id="TransTV" tvg-name="TRANS TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjPiejPtrhp_TZeZj9yC8LTLROIL00EakzlOIzd0BriqZUXbdFrlp3O_zS9Du8j9tk.png" group-title="✅ LOKAL ID",TRANS TV
+http://play.fastkobar.my.id:8080/play/jchjBeZ_Auvc7VKriTrILhWiy0db5rOicIj_mG9fjXw
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhXhxE1kvPc6h5bT9T3Z56s6kfi7U3er5U_X59ser2z5t0ky6erF8wk4UotfSAWqRI.png" group-title="✅ LOKAL ID",INDOSIAR
+http://play.fastkobar.my.id:8080/play/jchjBeZ_Auvc7VKriTrILl7aEnRaxnUIxBYYj2eez54
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhPoybscXHQQGc7TxdwIKdrMMvazJ_yMxLbREqNSe04qg.png" group-title="✅ LOKAL ID",SCTV
+http://play.fastkobar.my.id:8080/play/jchjBeZ_Auvc7VKriTrILmNFiqRqSkFPWqM-ZBxNKiw
+#EXTINF:-1 tvg-id="3003" tvg-name="RCTI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgn9dNvlfaXz9JyL7gOjaB9o53_C1U6OqfUMQ-MNUZ9tg.png" group-title="✅ LOKAL ID",RCTI
+http://play.fastkobar.my.id:8080/play/jchjBeZ_Auvc7VKriTrILsDzYcZfHj_bAH34-SQdxQc
 
 
                         ==========BRI LIGA 1=====
