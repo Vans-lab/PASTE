@@ -5,7 +5,26 @@
 
 
                         ==========BRI LIGA 1=====
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-name="Live Event" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFuPbj8DTKRUufS6fzYDsaqnj55GmF6MyGRg&usqp=CAU", SPORTSTAR HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eMmJG6jmwQ0n0kHvTARJsg", "kid":"z1Tiza2nSL-MySHNK5FOBQ" } ], "type":"temporary" }
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-name="Live Event" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDEDj8YyNxEJTdLU7bW4quWonFGVOQZKzIBg&usqp=CAU", SPORTSTAR 2 HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "rNVXL8NGeUZUBuxfklZLqQ", "kid": "pJGPv2G-TPWWsX4Fw5i73g"}], "type": "temporary"}
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-name="Live Event" tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png", SPORTSTAR 3 HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CyTNaYa1iCPSt37X7k+rmw", "kid":"WT7dKRJDRyagmjZLs2p1qg" } ], "type":"temporary" }
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 #EXTINF:0 tvg-logo="https://bit.ly/logo-liga-bri" group-title="BRI LIGA 1",LIGA BRI (1) MPD 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=17622&type=drm 
