@@ -5,46 +5,23 @@
 
 
                         ==========BRI LIGA 1=====
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-name="Live Event" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFuPbj8DTKRUufS6fzYDsaqnj55GmF6MyGRg&usqp=CAU", SPORTSTAR HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eMmJG6jmwQ0n0kHvTARJsg", "kid":"z1Tiza2nSL-MySHNK5FOBQ" } ], "type":"temporary" }
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-name="Live Event" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDEDj8YyNxEJTdLU7bW4quWonFGVOQZKzIBg&usqp=CAU", SPORTSTAR 2 HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "rNVXL8NGeUZUBuxfklZLqQ", "kid": "pJGPv2G-TPWWsX4Fw5i73g"}], "type": "temporary"}
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="BRI LIGA 1",LIVE 1
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10
+https://tv.burhansyam.com/api/vd.m3u8?ch=indosiar&t=666
 
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-name="Live Event" tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png", SPORTSTAR 3 HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CyTNaYa1iCPSt37X7k+rmw", "kid":"WT7dKRJDRyagmjZLs2p1qg" } ], "type":"temporary" }
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-#EXTINF:0 tvg-logo="https://bit.ly/logo-liga-bri" group-title="BRI LIGA 1",LIGA BRI (1) MPD 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=17622&type=drm 
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://sritv.serv00.net/red/play.mpd?id=17622&type=dash
-#EXTINF:0 tvg-logo="https://bit.ly/logo-liga-bri" group-title="BRI LIGA 1",LIGA BRI 1 (2) 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=205&type=drm 
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sportstar3.png" group-title="BRI LIGA 1",Sportstars 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rplus/drm.php?id=1002
-https://dusk.biz.id/rplus/index.mpd?id=1002
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="BRI LIGA 1",LIVE 2
+http://xtv.ooo:8080/live/83212539/43153928/350972.ts
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="BRI LIGA 1",LIVE 4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="BRI LIGA 1",LIVE 3
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
-#EXTINF:-1 xui-id="304" tvg-id="" tvg-name="LIGA 1 BRI" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkROIzL4HtL9obxJPF2Un_bEcj5WnzhovJx3HzNhCPfgYM.png" group-title="BRI LIGA 1",LIGA 1 BRI
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILlo-Oof8f7AcwqBUjOwb7to
-
+           
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="BRI LIGA 1",LIVE 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=36eed60064f380997fc93263d226a074:967adafdf64e6cc3b4662920cfe0abab
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17904_stream.mpd?hdnts=exp=1727279411~acl=/drm/dash/17904*~id=69852964~hmac=a9cc8e2bc325c761964eadce0d0ccbf574df154669c68920e9b4407bea5d137e
 //========================================================================
 //PERSADA LIVE >>> LOKAL
 //========================================================================
