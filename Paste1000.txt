@@ -14,8 +14,11 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd
+
+
 #EXTINF:-1 xui-id="3" tvg-id="" tvg-name="TRANS 7" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqVcxXdXG3cgK8Y7Nz6dMc0w.png" group-title="MANDALIKA",TRANS 7
 https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILoxGYh3x0H1uUyYZNYzMCVc
+
 #EXTINF:-1 xui-id="324" tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkIHwMZyAVBpAdMJNcaj7mvQ.png" group-title="MANDALIKA",SPOTV 2
 https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILsc-OBH1AdOeRmtE7DO-vP0
 #EXTINF:-1 xui-id="359" tvg-id="" tvg-name="SuperSport MotorSport" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkIxw9uFtTRmdiBat8vJs1n4QE_9wJiD-s_qFJxRk-pu0.png" group-title="MANDALIKA",SuperSport MotorSport
