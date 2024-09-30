@@ -3,49 +3,6 @@
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tnt2.png" group-title="MANDALIKA",TNT SPORTS 2X
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/Jp53UAb.jpg" group-title="MANDALIKA", GO3 Sport 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
-https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd
-
-
-#EXTINF:-1 xui-id="3" tvg-id="" tvg-name="TRANS 7" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqVcxXdXG3cgK8Y7Nz6dMc0w.png" group-title="MANDALIKA",TRANS 7
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILoxGYh3x0H1uUyYZNYzMCVc
-
-#EXTINF:-1 xui-id="324" tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkIHwMZyAVBpAdMJNcaj7mvQ.png" group-title="MANDALIKA",SPOTV 2
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILsc-OBH1AdOeRmtE7DO-vP0
-#EXTINF:-1 xui-id="359" tvg-id="" tvg-name="SuperSport MotorSport" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkIxw9uFtTRmdiBat8vJs1n4QE_9wJiD-s_qFJxRk-pu0.png" group-title="MANDALIKA",SuperSport MotorSport
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILi_TqBSdRtUMKkE8Sl7sipY
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/spotv2.png" group-title="MANDALIKA",SPOTV 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|Referer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/9c1465ab/79a6_r32.jpg" group-title="MANDALIKA",SpoTV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
-#EXTINF:-1 xui-id="370" tvg-id="" tvg-name="TNT 2 HD" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="MANDALIKA",TNT 2 HD
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILq8Ah9OGFfRCQFQYc1-tU6A
-#EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="MANDALIKA" , DAZN 1 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
-#EXTINF:-1 group-title="MANDALIKA" tvg-id="SSC 2" tvg-logo="https://i.ibb.co.com/CWX5CS0/ssc2.png", SSC 2 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
-https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
-
-
                         ==========BRI LIGA 1=====
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -722,18 +679,76 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
 #EXTINF:-1 group-title="SPORTS MIX" tvg-logo="https://i.postimg.cc/Nf99zRQ8/sony-4.png" ,Sony Sports 4
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
-#EXTINF:-1 tvg-ID="" tvg-name="|MY| BEIN SPORTS ᴴᴰ" tvg-logo="" group-title="SPORTS MIX",|MY| BEIN SPORTS ᴴᴰ
-http://fuego-iptv.net:2082/live/trdfklaa_724692/cAKDks6D/306410.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="|MY| BEIN SPORTS 2 ᴴᴰ" tvg-logo="" group-title="SPORTS MIX",|MY| BEIN SPORTS 2 ᴴᴰ
-http://fuego-iptv.net:2082/live/trdfklaa_724692/cAKDks6D/306411.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="|MY| BEIN SPORTS 3 ᴴᴰ" tvg-logo="" group-title="SPORTS MIX",|MY| BEIN SPORTS 3 ᴴᴰ
-http://fuego-iptv.net:2082/live/trdfklaa_724692/cAKDks6D/306412.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="|MY| SONY TEN 1" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="SPORTS MIX",|MY| SONY TEN 1
-http://fuego-iptv.net:2082/live/trdfklaa_724692/cAKDks6D/306419.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="|MY| SONY TEN 2" tvg-logo="" group-title="SPORTS MIX",|MY| SONY TEN 2
-http://fuego-iptv.net:2082/live/trdfklaa_724692/cAKDks6D/306420.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="|MY| SONY TEN 3" tvg-logo="" group-title="SPORTS MIX",|MY| SONY TEN 3
-http://fuego-iptv.net:2082/live/trdfklaa_724692/cAKDks6D/306421.m3u8
+#EXTINF:-1 tvg-id="Lokal" group-title="SPORTS MIX tvg-logo="https://w7.pngwing.com/pngs/621/229/png-transparent-superliga-argentina-de-futbol-logo-tnt-sports-logo-sport-text-trademark-logo.png" ch-number="92" group-logo="",TNT SPORT 1
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+https://desah.combilolo.my.id/play.php?ch=eyJ1c2VyX3Rva2VuIjoiY2FOUzVqdXkiLCJyZWZyZXNoX3Rva2VuIjoiZEFxQ3RyUDZxZmt3SEh5OHVQYWNWK2hYNE1NdkFQYVBwWTNZOU5FcWtER1pQbmliYTdhSmJNQ2FpR0YzVWlBM3ZqUnBIaW15VXNEZzVrVEtkTndLdHkrRjdQTWczSkdtNllDcHdqTXF0VVFKTGZ3cFgxVjNXS2VCdmJGbnhScjljTHh6RUFycXZuVXIwZFROdWw5UFRYMEtGbHhSeWlYdTZcLzhqSXFWcFlrck84QWZ0M3BGelJxblNoZlcxeG9penRcL3IyQ1lrUUV6Nk12bXhhUnVrMFNia2pmdHJGQ0JDUE45R3pVa004UU9EVmhMUzB6THVicEFLTXlKclBWTDFhVk84akE4SUdpZHYzb0FDd29jTDBVdlJwZ1k2SEZtU0lZaDRROG5rWUZhMUZFNXA4V2hEQnlRditqYmd3WHh0eUp6TFNjdEZ4RFU1UDIzOHIyZFJVSUpVU2RJbzZQbW1nQlZ4eDUza0NaeWJPaFdJclwvSTVnRDArZUpKVmJrWmg1In0=
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="SPORTS MIX tvg-logo="https://w7.pngwing.com/pngs/621/229/png-transparent-superliga-argentina-de-futbol-logo-tnt-sports-logo-sport-text-trademark-logo.png" ch-number="92" group-logo="",TNT SPORT 2
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+https://desah.combilolo.my.id/play.php?ch=eyJ1c2VyX3Rva2VuIjoid1JsWTI0VW8iLCJyZWZyZXNoX3Rva2VuIjoiZGNDczUwbVdXYnlpTUJYdUR6YTNqMmtaWlRPenp3amRBMXppNDdzelBRQ2VNMUJPZkw2XC90TlwvT1d4MGN0ZjczRk1rd25tU3o0bnVRWVl6TjF2OFl2cTlvREpQd0h3YkpJNTZnWlRRbWZSeitcL3dOXC9QRUpITjM3WDNUTFBTZHZSaHh3RVkwRXpqWTRuWUN5YmxSY29tbyswMmhFb3J1TTZ5ZWN2XC9jVHJUekI0Z05yYWU1SFRTcDZxOHVrYktrcXpcL1wvVG4rUFZYZVpSWHZoaDJUTURaZElkVGxDVjNDZ1BFR2Y3emZkSU9aWVl1UnNpZklRKzQzamloQ1ZmUFNFZDlobCtMZFZMWUE4SDV3blVhNFpqVVpQalVvUjE2SW5XQ25mdDJXQ3JVR1hBb0NseUlIY1FCTWRDYk9CRUN6S0MwTzNIXC9qUWg0RjZWeFhqS3ZrN2hVR0FsQ2E3dUJiWWl3aEN2akN4c3hZVXhhVm05YWgyWDdPVWU5MG1tY2ltQXMifQ==
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="SPORTS MIX tvg-logo="https://w7.pngwing.com/pngs/621/229/png-transparent-superliga-argentina-de-futbol-logo-tnt-sports-logo-sport-text-trademark-logo.png" ch-number="92" group-logo="",TNT SPORT 2
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+https://desah.combilolo.my.id/play.php?ch=eyJ1c2VyX3Rva2VuIjoiSjNnREZ4NFciLCJyZWZyZXNoX3Rva2VuIjoielwvaUlDTloya3JtVjUyWHZ0aGpaT1VGN2Ntb0tOUkxjZ0h5dkRPRzRjaVBxbzJqc3M3SjdCNjFxSVhHYW5FMUhrSnlMeExqTDhwbUdWdVdLTXZcL1dsK0ZrdWpPeHpqOFI0dGVJTThpTXlmQjlJRkVPVWZ0TFNTZUdsMllsSHo2VGNXK0NSdmNIcU1iTENVdkVWaTFWUm9TM1g4bUV4WW5xZW5SWmR6eHlUUUR6V2VwZkhoWmpSQWplK3RrVUx2alV6K3VDUVVYWkZhcXBkQWtRUXFHaHpiVTRLRE04ckwrZnhDT09uXC9uZHlGNllEVFhTUDJIK1wvSVwvRWZ6UGlIZDNKa0plbnpyNytDMVpmS1VmWkpVbkZXMXFMNE9VZVNPMkFmT215TVd2dkNsZW00U240Z2h5XC9qcGVlVUw0MFd2UktoVEtVUmM2S0VuZkZLdlNVUEgxTDFCZXhxVDlQMDhyY1wvOFNjZ1wvUXdUblFUNTNQQVhROFwvaGdPN0xSb05wa09mIn0=
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="SPORTS MIX tvg-logo="https://w7.pngwing.com/pngs/621/229/png-transparent-superliga-argentina-de-futbol-logo-tnt-sports-logo-sport-text-trademark-logo.png" ch-number="92" group-logo="",TNT SPORT 3
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+https://desah.combilolo.my.id/play.php?ch=eyJ1c2VyX3Rva2VuIjoiTk9TVDJLa3YiLCJyZWZyZXNoX3Rva2VuIjoiR25hRzhyRHJWQm12UnBSWk8wRGxvclpJVnUxSkJWTnZ0dEliZHFPME40Mk8reTBET1RjOHhOcUxKdm5FSW1ScGduNXoyRnJGVGJROG5mditBNXpVN09xMlZEWWRmYTY0NVwvRVk2Z2tzc0ZEeDN1MVZqSkwyUGdEdkc1SktwZVBUQXNvWGdZdWFsdlhTRW5Jazl2d3JBXC8zS003cXBmRWtIcFdFdmlJbjQ0c0Q1WllMYmxCSnFNQUx6SUE5MjJMU3ZHZUVINFl0U3NtQjVHME5QWXY1QWNtb0M1MjdJVkd2SU9tS0w2ektXRjlVZ0JDdml3VkxFQWJKaFE4ZE5GSFdvWVhwbXA2YkZQS2dMNkpOSjFhc1JzaG1aZnhodFBPWGU1eDNkc1dVbTNZSXp1THBET3Bva1RFQTluMjFRYjVBM21rcENZV0QyUzdcLzJsZEsxNjhcL1AxRnNjTjlvUTVPSVFzbmYrekc2T2VHWStoK1o2N09Ua1dmTzJPa1dJOXZZViJ9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="SPORTS MIX tvg-logo="https://w7.pngwing.com/pngs/621/229/png-transparent-superliga-argentina-de-futbol-logo-tnt-sports-logo-sport-text-trademark-logo.png" ch-number="92" group-logo="",TNT SPORT 4
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+https://desah.combilolo.my.id/play.php?ch=eyJ1c2VyX3Rva2VuIjoiYmVOdVEzN0EiLCJyZWZyZXNoX3Rva2VuIjoiWVpnYnJBUkN2MFlObGt3ZGVPRDFpQlV3ZlhqXC9nVmxKc0d6ZDRldUpEall6M3NLVFJnNUtsYUQxMzNXWnI2NDBUeERnQW5USmQxMGoxZ01vbVkxNU5mNU4rYjVmVVI3akVsRXBxbEFWenJwdW1jXC81RW0yNFZHSWFJSUdvYlNFNkxYSmQySG9MUmNEUFB3VzRNVDFFc1U0akNEWkNPb050ejZqRzRzZk1pTFwvcUxxUFhPeGtvekc5R05xV1JyNDRSUUgxeFBLMlk2MEtaK1VjNTZ2cElFNEVZdG5uclZ3SEJhOEkrdEhMNFRIWlp3MVhtQVNuSVhmZ2hvSVhjU0dScUM4XC9hTWxSYTRyS05xMXpOVFhlVVdvM01Hc2M0U2hHaWpEWHpnNUEyeEt2TnR6ZWI5c1I0eTR3R1lXbzN3Q3k4QzFxSTlpclFieDk4S1dQZkhCdFp3Z0RsZ3BFeSs3NGFlb085anI3dHpBNll6aENjVEZmQXNwT1E5akRUclhqeiJ9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="SPORTS MIX tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png" ch-number="92" group-logo="",SuperSport Premier League
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+https://desah.combilolo.my.id/play.php?ch=eyJ1c2VyX3Rva2VuIjoiY053YjhPUTYiLCJyZWZyZXNoX3Rva2VuIjoiSVpycDBXUGhrN2pLWVpGWEs3a1BqN21rZklXSFgwdXJ0OXlHREN1U0ZnXC9TZFY4YWpIQmE4aGxIeW9TNEVrS0VlQzdBckFQUk1zUUJZenUyK1wvcHkrWUlMUFdVOENSXC9jXC8xQVdXY01hXC9mak93RnRUa1BEM2RMNW9LZVNGQlljK2Z3S28zc3Rnek5DZGtWaU5sbDN3V2h0bEZwanVpOXN6NWlNK1FsUTRQaVF6aVwvY3hndEJzUHkrUnludUM2elRIV0JrdzZTSkxzeXc1SzNYTzA4TEJvbmNKWGowNWRzaGxcL25XRllETG1uZEJRR0c1TmhPNzJsRkhwcENmSFd6ZFNBTXlCYVZcLzVDNUMxR2lRcGdcL2pYRWp3UjV5cWZYTm5tV0FOZkFjc1Q1UzI0dklZQ0VFNWNtaGhsZlI2Sk00WVlMaWw5d2lPQ2s2Tlc1dlwvNVlDXC9lZitqZUxKRjBiTGZcL25vNThuYmhMYzBidkdXU2pXT0JnVzhNQnM1NHpCTUdMaHpVM21qbisyRGRkemNmZWdcL1RVYXc9PSJ9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="SPORTS MIX tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png" ch-number="92" group-logo="",SuperSport LaLiga
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+https://desah.combilolo.my.id/play.php?ch=eyJ1c2VyX3Rva2VuIjoidndqSkc4aGsiLCJyZWZyZXNoX3Rva2VuIjoiUlZETkp0NzE2YURZVlJBeHFPVHpManNhenNKUEE4RUZVRjVtTDBVVmFJMEhEbzN3RWxHTmdNNjBsNjVxSTYwTW1wMTNXV0ViN211d3RmeTRCbTlzWTgrQ3p3Y0ZBQ1A1TzQzR1RyeHE2RVdRdXd0dGpnMU4yK2hYNWY5OFNSenlRdWZiYTJrcTJkdTV4MkZRR1NyeG1lMFFFTjFXR1loRElPMStQWFkyTGhtMnd0QzBZNlZsNmo5KytmU3B5OG5HRHpvQ0ljQkVLaURxTWs0Y0ZHTnFUbnRhYjJsejYrMDNldmt5R0xUakNnTkRkb3NvWkNrOW15RmJzOWtEeXlsZGs0K2MwTW9ndnF6T2EyM2oza2NVS0NNWXBiR1lpRTgxazVpcFBaYlNcL2t4QURqOGFIQkNvWVZzRWtYb0JvTlwvVlRxdU0xZVU3RHhXWUNXMWs2RE9FeGlLZTVDOGJHN1ZPZEx2Q0FpZlFXTlQzWFJzajR6bGtaXC9RM3M3T05IT3FEQ0RSYnAzOWp3SE1rK2pTd2dLZEVYUT09In0=
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="SPORTS MIX tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png" ch-number="92" group-logo="",SuperSport Action
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+https://desah.combilolo.my.id/play.php?ch=eyJ1c2VyX3Rva2VuIjoibFpoaU5GQnIiLCJyZWZyZXNoX3Rva2VuIjoiaDFybjZMZTZNSXZlbVhuaVZpWjhZSG4xUVpncXlieG1MbVFXTVcxeHhpcGcxamJOdzNXVW40aGh5ZWw1bmxsNitIZDhFb3RJWm1nbThxcmViUVBtb1VMWXZiSGlZY3RoSEdIeVY2NHFnUERDSWlLdGpZdFFvNDVDSittZFVoQWhKZGpUNDNVV3Z4Vm10eXVSZUtpNTRsaEMxQmJYNFlaNjl0VGlaekdOTGR2ZVNFZ21jXC9NNGgxQ3BWSGNzSjVLRm9ZaEh6cE1xUnp2aEV0M3NtYUx3cVJNR0hWN08waDhaZloxYldzUFIxbzNEaW8yT3pPYlpuekRISnJFOWphXC9qaW1WRjk5R3FUWDhvTXhcL29jOUtTak94cG9VZWZFSlpuaktsRWMwVWtnRmZ3c0ErTEY4VDRYOG9cL0JhUGRvQmRMVVBhNjA2dzJCemNnelZkVmc5NWdyY2NkRUdvRVdINENZVHhTTHA4WmViRmg2U3diYXh5eVVISjFCRGk5a3k0ck1CT1JhTDdXQ3M2T1d6eTFOYlpuRWc9PSJ9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="SPORTS MIX tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png" ch-number="92" group-logo="",SuperSport Blitz
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+https://desah.combilolo.my.id/play.php?ch=eyJ1c2VyX3Rva2VuIjoiemVQeHIyUTUiLCJyZWZyZXNoX3Rva2VuIjoiSU5vd2tFM1ZWWHNxc0Q2VWxqRmFQNG91Y2g1SERCVDQyUDJFQVwvbzh6V3VKcndRamo5TDJETklScEQwemp5bTEyMEw1UE1tTTEyYmljMWhZamkxeHh2ZW5VOERkS1BFRXo4N1VHNFp1eVRLUDZNNDZlUmoyTEtFdHNBN1V0MXVcL1ZXK3RoakU4VWt5Y1dQK1V0MU42NzU0RGRNdjBsK1M5dzVlQ3ZBbWlmZDk5MDExRjF6YmtWT1p0MndBYWErUzIwMmNpd3dIWWtJZnRTR0RHZ2RwcDM0RFVlWk12OE1yOXk4V1JRRVZaU1wveUVqbFI5WmlaVEQ4cWZqcEpBM05MU0hPUVo2QXpabHFvUFZ2MDQ3ZU1udjJSSGsreDE2Uld6WmpGdnd5K1phMG5aVGFxSlNhS3RGRmpkdmZQQUQrUUhhdHY2NzRzWmYwQnRoeEZhcm5wODZtRzlTWGxDSFRpUTZPOE5DWVFiWWRMZklBUGxuSXF6c3hjVjdrQjk2TWZHN01mS3B5elRQTFJnWmg3dHFSS1BJQT09In0=
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="SPORTS MIX tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png" ch-number="92" group-logo="",SuperSport Cricket
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+https://desah.combilolo.my.id/play.php?ch=eyJ1c2VyX3Rva2VuIjoiU2tGUXpLeVgiLCJyZWZyZXNoX3Rva2VuIjoiWEU2VGY5NkJnYjlHWFM0ZzRNbnREbWU2ZG5HSGF4b2ZzekdwcG9QRFFJUDZZb0lQUG5XSVBERTRFMWRCUGViTW5EbDJYWDFGMTdBOWRkeDBcL3hYQitVZUVMWUxPTlwvM0xTNEZsQ1pEVEU0aGZuRXBSVklmMjRGNW9OUmRacEJiajFEZTExSlVBWlBwSnFIWXAwWlp3VmwzcEhTNTk4c1BNNW9ObU9mTWFEV0s2dXlsNjBWbzRGckxKOTJUS1NpaFg0Kyt0dmp1dW91WmcwQUNMMTZUaVwvRHBtWFUyYzFmejNYQ3JuUEg1akUwZjdydGpKRWZyMGFXU1JEWHhuS1NKWVF3NUpTcDFIZSswaWMzdFdZTVkyb3lYWlo0ODJuS3Q1ckxWVjZCUFJqdGdrMjN3MFIzeUJVbVpkaDVCRmd5ZnBWanFUWFNKTlwvQTVpR3kwRXMzZnpCbEIzK0wrZkxoYzlhVSs3eEJ5N3VTMFwvbEh6MjRPXC9LUGIwcmZLWGNmY05qMERxTkVkN1dwTWZZSmJ3NjQ3WXNQZz09In0=
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="SPORTS MIX tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png" ch-number="92" group-logo="",SuperSport Football
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+https://desah.combilolo.my.id/play.php?ch=eyJ1c2VyX3Rva2VuIjoiMkk5T1lNdUgiLCJyZWZyZXNoX3Rva2VuIjoibUhYZUg5NmUxbW1sc3V5c2oyOVQyXC93aDM1ZE5aTzdpWlNnSlJZVlhkc2FvdlNQRnR1ZzVVTTl5MElZTTRTTkJtOE12b2FQNmlzemtQOVlFVFIyek9KNm4xMXR0SkNoaFRHWjc5SVpLbWtIZ0xoNUx2Syt4Rk5oaHVLZXhLTFwvd3A0aGRpSHFidjJkQUp2VGkrN0VEOFdGSHg3eThQT0lURTVcL2NjVlNkb0NYT2pET25nMGFlbWRpdnlYUm9OaTdLNkR0cUtCUFZJSmFFTk1kMllMdXc1akFCcTRwMklCMHFTZ1RKRnNxbkNYMGdyalQ4b290VFZYckQ3QlVXd09ReHRDZjJNbE4xZjFJUnVGWHpUWUV0K2dSSHJcLzFKUEVlYUpKNHBlMnUxV1pcLzZpYWE3cE10TUI3Ujh0bGNxS1krRjFOU3pwYVNiYWFPNFhKVGc3Q2tBV041Q0c2NjZvOVF1eGloVU95Z1FcL2ZzTWNjZmROcHB5MTNrdElQWk5rUUZTbFBVZjRNT3FycjkzQTlhUHNRbjNkdz09In0=
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="SPORTS MIX tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png" ch-number="92" group-logo="",SuperSport Golf
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+https://desah.combilolo.my.id/play.php?ch=eyJ1c2VyX3Rva2VuIjoiZDV2MnNYSjciLCJyZWZyZXNoX3Rva2VuIjoiZ3o3cDN5a0pUSWY5OUZqQkNNQ1ZpZmJkUkNvYlgwNGd0SWZBUUZcL0UwUTQ4cmh0THNpU2REbEFTbGtGUXNMa2xxWlhHTmxVRUxHM3UzMkNJZkpsRVRFbCs2bTRpTUFkWUlvVWxXNjNhZlwvZVwveGY4Rkt1ckEwS0hrVjUyb1VyYTlqSjdXVzRVS3NmTldMV1A5bGorQ0JBeUQ3VDVFTTNsVlpZNlphdnhZWEFlMkR1STdINHJsK2Yzb1drSnVaM3RTaGZGNlZxR1B5OTZnTmV5RG5DazBwY29JbGhcL1dQOXZFc0FRMnAxb0lpXC9WZXdVK3hVSTF6OFZ6SVwvdG95bzVmdTRaZ20zTnhqMW9pT2tZOGpxN2dub0d3VTcyd2xWZ0FySjFMT1JlSHJuN0JZUVZkbVpsSVBxVHhmWjE0V0gwWXp1V2FMUm9XcnNrQXgxSnFFQWlaVTNSNU1vZjdZUXVOQ0VlMjhzekZVN25lR1lXeDN2M3JJbzEyUXlkRUVWZGlWIn0=
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="SPORTS MIX tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png" ch-number="92" group-logo="",SuperSport Rubgy
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+https://desah.combilolo.my.id/play.php?ch=eyJ1c2VyX3Rva2VuIjoiOENWWnBXbUUiLCJyZWZyZXNoX3Rva2VuIjoiYzVYcVd4aTZlUzQ2N1wvY3FGYWlhMDh4eU9Ia1JDNm9zRHY4VmxwMDVuSlpzemRxOHRcL1wvU1FSTGplYVUwZklaUzU5b1JXeE5vSEMxR1BoZ3ZRaGtzWXV1VHRcL0orczIyTGdEM3k0dVRZR1lxQ29kVWtuUVdkUnlmTDZFb1NIMlNHOG1LQnZMSytpQ2dORkYzR3VXXC9rdm9cL3hvQlNCQVVlMU1GdE1Zdk0wXC8ySjNlaXFWNm9rejVOZHdDXC95ekR3RFJTSFwvS09GOGYrandpRFl6Zmp1QjVsdHBPbGxqNTJjaFhTNnhCZXJYS01qMWczSUZVQm51UVhkS2tPUlVhRGJMT2pTa1dLNHRZZm1hTzRTUXgwRm5WT3FTVzdFWW1TZ0RQMG1iRnQ1dzZCNFZnTnRcL090WXpzeTV6MGUyZVhxc1VXaGxMN1RNS3E2WXkxVng4elFcL2EyOHhtd1QwVDJHXC9hYmRiaEhtYk9ZcVBtYVRacGY2QkJnSVNjZWRkK0luTkpzcXhQaGRndklOQkpXTWsxMjJBczhFdz09In0=
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="SPORTS MIX tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png" ch-number="92" group-logo="",SuperSport Tennis
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+https://desah.combilolo.my.id/play.php?ch=eyJ1c2VyX3Rva2VuIjoiVnQwcndBaU4iLCJyZWZyZXNoX3Rva2VuIjoiZEN3QzVuUHltWUE4VGt1UTV5eFBoSmljMStpVE1VTFVsXC9xYmRWS3ZQOGR0VjA1d0QxcjRFbTE1aTd3VGlRNmw5ZGVxWjhHTnRqWHdTWERGVmJHUGcreEJYM0VkM2hidm1DSTBHM3VZcU9IeU9hSGlMWlhoaEV3bjlTR0JaaHZaaCtOVFp4QkUwV3dEUktuUUZJYlJxNDNKSkRTczJoS1RCMHNxYlpwZXg1SVU4YVhwYTFrMjlsTjJIb0U5VHNcL2xrMTA0OHF2cEdNenVGKzNoYUFkYmI1NkhcLzNFU0lDV1g1UG5hSWkxaWQ2aEJ5QkZmenhhZzhwcDVFNnJqOUZ2XC90ZHVWQWl3VjlKelNDVm5BZWJjSldaZ0lIMWNaMWlzWHFSWU1EXC9VbWVYV3R0a29XeW1Gb3FvTWtKVGlKTktXUUZlTTM0c2pMS0VCem9LNmlGbUVXbTloMnVcL0ZyMGh3Z09OZ1dEcUZ6QUM1bCs2dUFDOFNkZUw4ZU5YWGRHYjR5YUxsdkRCNmczbjUxK2xLekVjY0dtdz09In0=
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 
 ==================== OPTUS SPORTS ==================
 #EXTINF:-1 group-title="SPORTS MIX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" ,OPTUS 1 Australia
