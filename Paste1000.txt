@@ -3,6 +3,36 @@
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sportstar2.png" group-title="TIMNAS",Sportstars 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-logo="https://i.ibb.co.com/0nnQYrN/rounded-in-photoretrica.png" tvg-id="Sportstar2.id" tvg-name="ID: Sportstar 2" group-title="TIMNAS", SPORTSTARS 2
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title="TIMNAS",Sportstars 2
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title="TIMNAS", Astro Arena
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/157485
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title="TIMNAS", Astro Arena 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/287793
+
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title="TIMNAS",ASTRO ARENA BOLA 1
+http://mytv-extra.com:80/t12mgxyb335/9832948789/23931
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title="TIMNAS", ASTRO ARENA BOLA 2
+http://mytv-extra.com:80/t12mgxyb335/9832948789/23930
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title=group-title="TIMNAS", Bahrain Sports 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/121097
+
+
                         ==========BRI LIGA 1=====
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
