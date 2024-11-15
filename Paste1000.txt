@@ -34,6 +34,30 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 tvg-ID="espn.nl" tvg-name="NL ▎ESPN 1 HD" tvg-logo="http://img.logo-cdn.cc/espn.png" group-title="TIMNAS",ESPN 1 HD
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/2956
 
+UEFA NATION LEAGUE
+#EXTINF:-1 group-title="UEFA NATION LEAGUE" tvg-logo="https://i.imgur.com/4GJB37R.png" tvg-name="UEFA EVENTO 1" ,SERVER 1 (Event Only)
+http://743318648773663334.ofxn1112.xyz:80/play/te814832/msk4dUvYcDf/663334.ts
+#EXTINF:-1 group-title="UEFA NATION LEAGUE" tvg-logo="https://i.imgur.com/4GJB37R.png" tvg-name="UEFA EVENTO 2" ,SERVER 2 (Event Only)
+http://743318648773663335.ofxn1112.xyz:80/play/te814832/msk4dUvYcDf/663335.ts
+#EXTINF:-1 group-title="UEFA NATION LEAGUE" tvg-logo="https://i.imgur.com/4GJB37R.png" tvg-name="UEFA EVENTO 3" ,SERVER 3 (Event Only)
+http://743318648773663336.ofxn1112.xyz:80/play/te814832/msk4dUvYcDf/663336.ts
+#EXTINF:-1 group-title="UEFA NATION LEAGUE" tvg-logo="https://i.imgur.com/4GJB37R.png" tvg-name="UEFA EVENTO 4" ,SERVER 4 (Event Only)
+http://743318648773663337.ofxn1112.xyz:80/play/te814832/msk4dUvYcDf/663337.ts
+#EXTINF:-1 group-title="UEFA NATION LEAGUE" tvg-logo="https://i.imgur.com/4GJB37R.png" tvg-name="UEFA EVENTO 5" ,SERVER 5 (Event Only)
+http://743318648773663338.ofxn1112.xyz:80/play/te814832/msk4dUvYcDf/663338.ts
+#EXTINF:-1 group-title="UEFA NATION LEAGUE" tvg-logo="https://i.imgur.com/4GJB37R.png" tvg-name="UEFA EVENTO 6" ,SERVER 6 (Event Only)
+http://743318648773663339.ofxn1112.xyz:80/play/te814832/msk4dUvYcDf/663339.ts
+#EXTINF:-1 group-title="UEFA NATION LEAGUE" tvg-logo="https://i.imgur.com/4GJB37R.png" tvg-name="UEFA EVENTO 7" ,SERVER 7 (Event Only)
+CONMEBOL QUALIFIERS
+#EXTINF:-1 group-title="CONMEBOL QUALIFIERS" tvg-logo="https://i.imgur.com/6spEOUt.jpeg" tvg-name="PT: SPORT TV 1 HD" ,SPORT TV 1 PT
+http://vipgsiv.top:8080/VIP0177170900965854/531c8824d282/99484
+#EXTINF:-1 group-title="CONMEBOL QUALIFIERS" tvg-logo="https://i.imgur.com/6spEOUt.jpeg" tvg-name="PT: SPORT TV 2 HD" ,SPORT TV 2 PT
+http://vipgsiv.top:8080/VIP0177170900965854/531c8824d282/99485
+#EXTINF:-1 group-title="CONMEBOL QUALIFIERS" tvg-logo="https://i.imgur.com/6spEOUt.jpeg" tvg-name="CRO: ARENA SPORT 1" ,ARENA SPORT 1
+http://vipulra.top:8080/VIP0178171692966081/78cbc5b2e11a/2991
+#EXTINF:-1 group-title="CONMEBOL QUALIFIERS" tvg-logo="https://i.imgur.com/6spEOUt.jpeg" tvg-name="CRO: ARENA SPORT 2" ,ARENA SPORT 2
+🏁MOTOGP
+
                         ==========BRI LIGA 1=====
 
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="BRI LIGA 1",Indosiar (live)
