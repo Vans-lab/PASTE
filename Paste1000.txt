@@ -2,7 +2,9 @@
 
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
-
+EXTINF:-1 tvg-id="" group-title="JACK PAUL VS TYSON" tvg-id="" tvg-logo="", LIVE 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://super-cdn.link/jakepaulvsmiketyson/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sportstar2.png" group-title="TIMNAS",Sportstars 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
