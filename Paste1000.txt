@@ -3,9 +3,16 @@
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 
-EXTINF:-1 tvg-id="" group-title="JACK PAUL VS TYSON", tvg-logo="", LIVE 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://super-cdn.link/jakepaulvsmiketyson/tracks-v1a1/mono.m3u8
+MOTOGP
+#EXTINF:-1 group-title="MOTOGP" tvg-logo="https://i.imgur.com/ZSooUZS.gif" ,.Info Motogp
+https://raw.githubusercontent.com/forumberbagi/forumberbagi/main/eventliga.mp4?raw=true
+#EXTINF:-1 group-title="MOTOGP" tvg-logo="https://i.imgur.com/1onrAZA.png" tvg-name="SKY SPORT MOTOGP 4K" ,Server 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:39:A8:AD&stream=883287&extension=ts
+#EXTINF:-1 group-title="MOTOGP" tvg-logo="https://i.imgur.com/1onrAZA.png" tvg-name="IT: Sky Sport MotoGP" ,Server 2
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400459082
+#EXTINF:-1 group-title="MOTOGP" tvg-logo="https://i.imgur.com/1onrAZA.png" ,Server 3
+https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|Referer=https://www.visionplus.id/
+#EXTINF:-1 group-title="MOTOGP" tvg-logo="https://i.imgur.com/1onrAZA.png" ,Server 4
 
 #EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sportstar2.png" group-title="TIMNAS",Sportstars 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
