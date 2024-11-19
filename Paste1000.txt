@@ -3,6 +3,12 @@
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 
+#EXTINF:-1 tvg-id="musantv" group-title="TIMNAS" tvg-logo="https://cdn-profiles.tunein.com/p3892582/images/logog.png?t=1" ch-number="92" group-logo="",Indonesia vs Saudi Arabia (2024-11-19 19:00:00 WIB)
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://bwangtest.koyeb.app/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMHVEeXN6T20iLCJyZWZyZXNoX3Rva2VuIjoib1hUMStBVGgwdFJUTEhSQzBDT1paTThyTERTOHpsOFV4eGdpKzFid0h3TTVBZUVoOENOTExNZDF4Z3RTREg1eUJnbVRnT2dDREdJQmJcL0RaM3NxS3IrMTNReWYyT24wbFwvSStjakt3NlI5K1wvZUNOQitOVUM1SytzOHI4SmJBNjFCczR0Wk96UmViOVhCclJhUkVkWGR5ZzJuNGdDa0t3VzF6UkR4U2paNnZQdXNGcTEwVlBNMGJMUW9MZUpycitwbFwvdzU3SDBsWVJnNVBieTNMcEpTUGhnMVJtdkdDUFV0cEJCZGpcL1huVE1LU3N2WXI2STd5eGVxcjNCaElBUDVGN1wvTWtOXC85Y2JiRDhJSjQxbEI2YmZURnhzd3lSTG5cL1d1K1czaFZPTXdFRmJDVHcydWM5S3pLc04wMEhVWTl4Qzc5eDliWkxCRFoyZWM0d1pwdThDclJcL3RDOFFEWUdwbnh0N082Nk9ORk5UNlJlRVJhaDByaTM0Q2sxYUc0OFdWIn0=
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
