@@ -2,6 +2,12 @@
 
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
+#EXTINF:-1 tvg-id="Lokal" group-title="TIMNAS" tvg-logo="https://www.visionplus.id/images/repository/319/244319-SNAPSHOT-m.jpg" ch-number="1", AFC Asian Qualifiers Road to World Cup 2026 : Indonesia vs Arab Saudi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://bwangtest.koyeb.app/vis/drm.php?id=113&token=9h8669pcp4
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://bwangtest.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiTzd1WEFzZlIiLCJyZWZyZXNoX3Rva2VuIjoiWk14OEZHbXZhUDl5V0RpblpLUmpxUU4zK0JHNHFDVGtrT0tYZFpmMDJWaUdKOU5zcHZFNlBcL3FzU1Q0dEtBdHVOZzUrdTFpaDAwU1Z4WUFMdStDOHpyZDhZWmR1XC82YSsyWlQwQnYxM096YlwvYldITDZNdjFFcDVWVEpnRmdsOTVXZk5XKzBPN2Ezd0l0eEVPOE1pNnRlU2FOMDBRRGlab0o4SFZDMjZUZ3dFR0lZVjA0NkFLZkppdEdSMEpNZk1oMitDRGhyY282K3VkXC9qMkpUeGcyczVYdHJ5Mk9rVWVFaFAzYTkwWGNwV2lKbHdFQmRKMlFHWHRoVHdFTGpjUXZCaitkQjYxR3J2RmRzcTc1djVkUHg0MjFsK2ZBVVZVMVB4ZUo4Z3JkM1pjM21CZjBTeFcxSEZRekRZY3R4OUtacGVhK2R3ejdLSmxqdWpTR1wvRFllY25WSktnV3hTRk5MNmd1YXNLa0JHR3M9In0=
 
 #EXTINF:-1 tvg-id="musantv" group-title="TIMNAS" tvg-logo="https://cdn-profiles.tunein.com/p3892582/images/logog.png?t=1" ch-number="92" group-logo="",Indonesia vs Saudi Arabia (2024-11-19 19:00:00 WIB)
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
