@@ -2,55 +2,25 @@
 
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
-#EXTINF:-1 tvg-id="Lokal" group-title="TIMNAS" tvg-logo="https://www.visionplus.id/images/repository/319/244319-SNAPSHOT-m.jpg" ch-number="1", AFC Asian Qualifiers Road to World Cup 2026 : Indonesia vs Arab Saudi
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://bwangtest.koyeb.app/vis/drm.php?id=113&token=9h8669pcp4
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://bwangtest.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiTzd1WEFzZlIiLCJyZWZyZXNoX3Rva2VuIjoiWk14OEZHbXZhUDl5V0RpblpLUmpxUU4zK0JHNHFDVGtrT0tYZFpmMDJWaUdKOU5zcHZFNlBcL3FzU1Q0dEtBdHVOZzUrdTFpaDAwU1Z4WUFMdStDOHpyZDhZWmR1XC82YSsyWlQwQnYxM096YlwvYldITDZNdjFFcDVWVEpnRmdsOTVXZk5XKzBPN2Ezd0l0eEVPOE1pNnRlU2FOMDBRRGlab0o4SFZDMjZUZ3dFR0lZVjA0NkFLZkppdEdSMEpNZk1oMitDRGhyY282K3VkXC9qMkpUeGcyczVYdHJ5Mk9rVWVFaFAzYTkwWGNwV2lKbHdFQmRKMlFHWHRoVHdFTGpjUXZCaitkQjYxR3J2RmRzcTc1djVkUHg0MjFsK2ZBVVZVMVB4ZUo4Z3JkM1pjM21CZjBTeFcxSEZRekRZY3R4OUtacGVhK2R3ejdLSmxqdWpTR1wvRFllY25WSktnV3hTRk5MNmd1YXNLa0JHR3M9In0=
-
-#EXTINF:-1 tvg-id="musantv" group-title="TIMNAS" tvg-logo="https://cdn-profiles.tunein.com/p3892582/images/logog.png?t=1" ch-number="92" group-logo="",Indonesia vs Saudi Arabia (2024-11-19 19:00:00 WIB)
-#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://bwangtest.koyeb.app/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMHVEeXN6T20iLCJyZWZyZXNoX3Rva2VuIjoib1hUMStBVGgwdFJUTEhSQzBDT1paTThyTERTOHpsOFV4eGdpKzFid0h3TTVBZUVoOENOTExNZDF4Z3RTREg1eUJnbVRnT2dDREdJQmJcL0RaM3NxS3IrMTNReWYyT24wbFwvSStjakt3NlI5K1wvZUNOQitOVUM1SytzOHI4SmJBNjFCczR0Wk96UmViOVhCclJhUkVkWGR5ZzJuNGdDa0t3VzF6UkR4U2paNnZQdXNGcTEwVlBNMGJMUW9MZUpycitwbFwvdzU3SDBsWVJnNVBieTNMcEpTUGhnMVJtdkdDUFV0cEJCZGpcL1huVE1LU3N2WXI2STd5eGVxcjNCaElBUDVGN1wvTWtOXC85Y2JiRDhJSjQxbEI2YmZURnhzd3lSTG5cL1d1K1czaFZPTXdFRmJDVHcydWM5S3pLc04wMEhVWTl4Qzc5eDliWkxCRFoyZWM0d1pwdThDclJcL3RDOFFEWUdwbnh0N082Nk9ORk5UNlJlRVJhaDByaTM0Q2sxYUc0OFdWIn0=
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png" group-title="TIMNAS",Sportstars 2 (VIS-WV)
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
-#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sportstar2.png" group-title="TIMNAS",Sportstars 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beINSports1.qa" tvg-logo="https://media.tv4.live/beINSports1.qa.png" group-title="TIMNAS",beIN 1
-http://ktv.im:8080/kk56712/kk12345/49522
-
-#EXTINF:-1 group-title="TIMNAS" tvg-logo="https://i.imgur.com/kx5QtX3.gif" ,SPORTSTAR 2X
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8
-
-#EXTINF:-1 group-title="TIMNAS" tvg-logo="https://i.imgur.com/kx5QtX3.gif" tvg-id="espn.nl" tvg-name="NL ESPN 1" ,ESPN 1 NL
-http://200.26.188.39:80/Y9R1MZ/VFSBKA/933005
-#EXTINF:-1 group-title="TIMNAS" tvg-logo="https://i.imgur.com/kx5QtX3.gif" tvg-id="sportdigital" tvg-name="DE: SPORT DIGITAL" ,SPORT DIGITAL
-http://vipgsiv.top:8080/VIP0177170900965854/531c8824d282/1424
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/rcti.png" group-title="TIMNAS",RCTI
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-  
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/gtv.png" group-title="TIMNAS" tvg-id="GTV" tvg-name="GTV", GTV
-https://cempedak-cdn-fly.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-
-#EXTINF:-1 tvg-ID="espn.nl" tvg-name="NL ▎ESPN 1 HD" tvg-logo="http://img.logo-cdn.cc/espn.png" group-title="TIMNAS",ESPN 1 HD
-http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/2956
+🇬🇧LIGA INGGRIS🇬🇧
+#EXTINF:-1 group-title="🇬🇧 LIGA INGGRIS" tvg-logo="https://i.imgur.com/uAO10rV.png" tvg-name="[UK] SUPERSPORT PREMIER LEAGUE HD" ,Server 1
+http://line.best-pro.cc:80/live/67A383/98D8C1/248283.m3u8
+#EXTINF:-1 group-title="🇬🇧 LIGA INGGRIS" tvg-logo="https://i.imgur.com/uAO10rV.png" tvg-name="[DE] SKY SPORT PREMIER LEAGUE HD" ,Server 2
+http://line.best-pro.cc:80/live/67A383/98D8C1/638318.m3u8
+#EXTINF:-1 group-title="🇬🇧 LIGA INGGRIS" tvg-logo="https://i.imgur.com/uAO10rV.png" tvg-name="[UK] TNT SPORTS 1 HD" ,Server 3
+http://line.best-pro.cc:80/live/67A383/98D8C1/103142.m3u8
+#EXTINF:-1 group-title="🇬🇧 LIGA INGGRIS" tvg-logo="https://i.imgur.com/uAO10rV.png" tvg-name="HK ▎NOW SPORTS EPL 4K" ,Server 4
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/691248
+#EXTINF:-1 group-title="🇬🇧 LIGA INGGRIS" tvg-logo="https://i.imgur.com/uAO10rV.png" ,OPTUS 01
+http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/376362
+#EXTINF:-1 group-title="🇬🇧 LIGA INGGRIS" tvg-logo="https://i.imgur.com/uAO10rV.png" ,OPTUS 02
+http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/376363
+#EXTINF:-1 group-title="🇬🇧 LIGA INGGRIS" tvg-logo="https://i.imgur.com/uAO10rV.png" ,OPTUS 03
+http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/376364
+#EXTINF:-1 group-title="🇬🇧 LIGA INGGRIS" tvg-logo="https://i.imgur.com/uAO10rV.png" ,OPTUS 04
+http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/376365
+#EXTINF:-1 group-title="🇬🇧 LIGA INGGRIS" tvg-logo="https://i.imgur.com/uAO10rV.png" ,OPTUS 05
+http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/376366
 
 UEFA NATION LEAGUE
 #EXTINF:-1 group-title="UEFA NATION LEAGUE" tvg-logo="https://i.imgur.com/4GJB37R.png" tvg-name="UEFA EVENTO 1" ,SERVER 1 (Event Only)
@@ -86,6 +56,28 @@ http://xtv.ooo:8080/live/83212539/43153928/350972.ts
 
 #EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" tvg-name="[ID] Indosiar" group-title="BRI LIGA 1",Indosiar (Live Sports Only)
 https://v.af/visionples-indosiar
+
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" ,🟢INDOSIAR 01
+http://opplex.tv:8080/live/1525939/1552699/350972.ts
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" ,INDOSIAR (xplayer1)
+http://xtvplayer.top:8080/live/MAZHAR44/44MAZHAR/350972.ts
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" ,INDOSIAR (xplayer2)
+http://xtvplayer.top:8080/live/Atiffb694/2840914/350972.ts
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" ,INDOSIAR (ts)
+http://shareext@15.235.181.35/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75&id=indosiar
+
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" ,INDOSIAR (opx)
+http://opplex.tv:8080/3116580700/0700/350972
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" ,INDOSIAR (opx2)
+http://opplex.tv:8080/live/global/global/350972.ts
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" ,INDOSIAR__x
+http://xtv.ooo:8080/live/35588981/18988553/350972.ts
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" ,INDOSIAR_(xtv1)
+http://xtv.ooo:8080/0966717777/0966717777/350972
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" ,INDOSIAR_(xtv2)
+http://xtv.ooo:8080/live/Raza335/3355141450/350972.ts
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" ,INDOSIAR_(xtv3)
+http://xtv.ooo:8080/owais1/12345/350972
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sctv.png" group-title="TV INDONESIA",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
