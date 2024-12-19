@@ -134,6 +134,41 @@ http://xtv.ooo:8080/live/Raza335/3355141450/350972.ts
 #EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" ,INDOSIAR_(xtv3)
 http://xtv.ooo:8080/owais1/12345/350972
 
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="TV JUARA",Champions TV 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=17938&type=drm
+https://luck.openwindows038.workers.dev/play.mpd?id=17938&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="TV JUARA",Champions TV 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=6686&type=drm
+https://luck.openwindows038.workers.dev/play.mpd?id=6686&type=dash 
+
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/2lP42X2.png" group-title="TV JUARA",Champions TV 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=6786&type=drm 
+https://luck.openwindows038.workers.dev/play.mpd?id=6786&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="TV JUARA",Champions TV 5
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9182&type=drm 
+https://luck.openwindows038.workers.dev/play.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="TV JUARA",Champions TV 6
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9183&type=drm 
+https://luck.openwindows038.workers.dev/play.mpd?id=9183&type=dash
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sctv.png" group-title="TV INDONESIA",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
