@@ -24,75 +24,6 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 
-
-                        ==========BRI LIGA 1=====
-
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="BRI LIGA 1",Indosiar (live)
-http://opplex.tv:8080/3116580700/0700/350972
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="BRI LIGA 1",LIVE 2
-http://xtv.ooo:8080/live/83212539/43153928/350972.ts
-
-
-#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" tvg-name="[ID] Indosiar" group-title="BRI LIGA 1",Indosiar (Live Sports Only)
-https://v.af/visionples-indosiar
-
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" ,🟢INDOSIAR 01
-http://opplex.tv:8080/live/1525939/1552699/350972.ts
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" ,INDOSIAR (xplayer1)
-http://xtvplayer.top:8080/live/MAZHAR44/44MAZHAR/350972.ts
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" ,INDOSIAR (xplayer2)
-http://xtvplayer.top:8080/live/Atiffb694/2840914/350972.ts
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" ,INDOSIAR (ts)
-http://shareext@15.235.181.35/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75&id=indosiar
-
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" ,INDOSIAR (opx)
-http://opplex.tv:8080/3116580700/0700/350972
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" ,INDOSIAR (opx2)
-http://opplex.tv:8080/live/global/global/350972.ts
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" ,INDOSIAR__x
-http://xtv.ooo:8080/live/35588981/18988553/350972.ts
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" ,INDOSIAR_(xtv1)
-http://xtv.ooo:8080/0966717777/0966717777/350972
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" ,INDOSIAR_(xtv2)
-http://xtv.ooo:8080/live/Raza335/3355141450/350972.ts
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" ,INDOSIAR_(xtv3)
-http://xtv.ooo:8080/owais1/12345/350972
-
-#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="TV JUARA",Champions TV 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=17938&type=drm
-https://luck.openwindows038.workers.dev/play.mpd?id=17938&type=dash
-
-#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="TV JUARA",Champions TV 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=6686&type=drm
-https://luck.openwindows038.workers.dev/play.mpd?id=6686&type=dash 
-
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/2lP42X2.png" group-title="TV JUARA",Champions TV 3
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=6786&type=drm 
-https://luck.openwindows038.workers.dev/play.mpd?id=6786&type=dash
-
-#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="TV JUARA",Champions TV 5
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9182&type=drm 
-https://luck.openwindows038.workers.dev/play.mpd?id=9182&type=dash
-
-#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="TV JUARA",Champions TV 6
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9183&type=drm 
-https://luck.openwindows038.workers.dev/play.mpd?id=9183&type=dash
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sctv.png" group-title="TV INDONESIA",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
@@ -1769,19 +1700,6 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 
 
-==================== OPTUS SPORTS ==================
-#EXTINF:-1 group-title="SPORTS MIX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" ,OPTUS 1 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
-#EXTINF:-1 group-title="SPORTS MIX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" ,OPTUS 2 Australia
-https://canale.mizhls.ru/lb/37/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS MIX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" ,OPTUS 3 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37399.m3u8
-#EXTINF:-1 group-title="SPORTS MIX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" ,OPTUS 4 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37398.m3u8
-#EXTINF:-1 group-title="SPORTS MIX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" ,OPTUS 5 Australia
-
-
-
 //========================================================================
 //PERSADA LIVE >>> SPORTS
 //========================================================================
@@ -2001,197 +1919,504 @@ https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/asi
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png" group-title="SPORTS", NOW SPORT PREMIER 5
 https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/asia%20sport/NowsportPL1.m3u8
 
-#EXTM3U
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisg4rrwd9b8aiMvLR6y0hJXnrmcTkikcMxXduHwLwIK_DMI9xrGRSOwk1ob2Vj2zbyPsbn1Jt4GISY_hWMxHUHLMy2_G9rVZ_xFcXchc_L7Fuh5gae8THvgaEAY6K7X4_bGTwHvKPLIAPNkPF9nuVQLyn301e-MelsfZGx-1_zZTiF68D18VTYI8_cbPTe/s320/20240817_035248.png" , SERVER 0 [ iKiTV.WapKa.Co ]
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisg4rrwd9b8aiMvLR6y0hJXnrmcTkikcMxXduHwLwIK_DMI9xrGRSOwk1ob2Vj2zbyPsbn1Jt4GISY_hWMxHUHLMy2_G9rVZ_xFcXchc_L7Fuh5gae8THvgaEAY6K7X4_bGTwHvKPLIAPNkPF9nuVQLyn301e-MelsfZGx-1_zZTiF68D18VTYI8_cbPTe/s320/20240817_035248.png" , SERVER 0000 [ iKiTV.WapKa.Co ]
-http://ikitv.serv00.net/stream/ikitv-epl00.m3u8
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisg4rrwd9b8aiMvLR6y0hJXnrmcTkikcMxXduHwLwIK_DMI9xrGRSOwk1ob2Vj2zbyPsbn1Jt4GISY_hWMxHUHLMy2_G9rVZ_xFcXchc_L7Fuh5gae8THvgaEAY6K7X4_bGTwHvKPLIAPNkPF9nuVQLyn301e-MelsfZGx-1_zZTiF68D18VTYI8_cbPTe/s320/20240817_035248.png" , SERVER 0001 [ iKiTV.WapKa.Co ]
-http://ikitv.serv00.net/stream/ikitv-epl01.m3u8
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisg4rrwd9b8aiMvLR6y0hJXnrmcTkikcMxXduHwLwIK_DMI9xrGRSOwk1ob2Vj2zbyPsbn1Jt4GISY_hWMxHUHLMy2_G9rVZ_xFcXchc_L7Fuh5gae8THvgaEAY6K7X4_bGTwHvKPLIAPNkPF9nuVQLyn301e-MelsfZGx-1_zZTiF68D18VTYI8_cbPTe/s320/20240817_035248.png" , SERVER 0002 [ iKiTV.WapKa.Co ]
-http://ikitv.serv00.net/stream/ikitv-epl02.m3u8
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisg4rrwd9b8aiMvLR6y0hJXnrmcTkikcMxXduHwLwIK_DMI9xrGRSOwk1ob2Vj2zbyPsbn1Jt4GISY_hWMxHUHLMy2_G9rVZ_xFcXchc_L7Fuh5gae8THvgaEAY6K7X4_bGTwHvKPLIAPNkPF9nuVQLyn301e-MelsfZGx-1_zZTiF68D18VTYI8_cbPTe/s320/20240817_035248.png" , SERVER 0003 [ iKiTV.WapKa.Co ]
-http://ikitv.serv00.net/stream/ikitv-epl03.m3u8
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisg4rrwd9b8aiMvLR6y0hJXnrmcTkikcMxXduHwLwIK_DMI9xrGRSOwk1ob2Vj2zbyPsbn1Jt4GISY_hWMxHUHLMy2_G9rVZ_xFcXchc_L7Fuh5gae8THvgaEAY6K7X4_bGTwHvKPLIAPNkPF9nuVQLyn301e-MelsfZGx-1_zZTiF68D18VTYI8_cbPTe/s320/20240817_035248.png" , SERVER 0004 [ iKiTV.WapKa.Co ]
-http://ikitv.serv00.net/stream/ikitv-epl04.m3u8
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisg4rrwd9b8aiMvLR6y0hJXnrmcTkikcMxXduHwLwIK_DMI9xrGRSOwk1ob2Vj2zbyPsbn1Jt4GISY_hWMxHUHLMy2_G9rVZ_xFcXchc_L7Fuh5gae8THvgaEAY6K7X4_bGTwHvKPLIAPNkPF9nuVQLyn301e-MelsfZGx-1_zZTiF68D18VTYI8_cbPTe/s320/20240817_035248.png" , SERVER 0005 [ iKiTV.WapKa.Co ]
-https://m.waroenktv.uk:443/live/premium/adamaling/400230451.m3u8
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisg4rrwd9b8aiMvLR6y0hJXnrmcTkikcMxXduHwLwIK_DMI9xrGRSOwk1ob2Vj2zbyPsbn1Jt4GISY_hWMxHUHLMy2_G9rVZ_xFcXchc_L7Fuh5gae8THvgaEAY6K7X4_bGTwHvKPLIAPNkPF9nuVQLyn301e-MelsfZGx-1_zZTiF68D18VTYI8_cbPTe/s320/20240817_035248.png" , SERVER 0006 [ iKiTV.WapKa.Co ]
-http://ikitv.serv00.net/jancok-ojok-didol-cok-bangsat-raimu/ikitv-epl05.m3u8
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisg4rrwd9b8aiMvLR6y0hJXnrmcTkikcMxXduHwLwIK_DMI9xrGRSOwk1ob2Vj2zbyPsbn1Jt4GISY_hWMxHUHLMy2_G9rVZ_xFcXchc_L7Fuh5gae8THvgaEAY6K7X4_bGTwHvKPLIAPNkPF9nuVQLyn301e-MelsfZGx-1_zZTiF68D18VTYI8_cbPTe/s320/20240817_035248.png" , SERVER 00 [ iKiTV.WapKa.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/eepl1.m3u8
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisg4rrwd9b8aiMvLR6y0hJXnrmcTkikcMxXduHwLwIK_DMI9xrGRSOwk1ob2Vj2zbyPsbn1Jt4GISY_hWMxHUHLMy2_G9rVZ_xFcXchc_L7Fuh5gae8THvgaEAY6K7X4_bGTwHvKPLIAPNkPF9nuVQLyn301e-MelsfZGx-1_zZTiF68D18VTYI8_cbPTe/s320/20240817_035248.png" , SERVER 01 [ iKiTV.WapKa.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/eepl2.m3u8
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisg4rrwd9b8aiMvLR6y0hJXnrmcTkikcMxXduHwLwIK_DMI9xrGRSOwk1ob2Vj2zbyPsbn1Jt4GISY_hWMxHUHLMy2_G9rVZ_xFcXchc_L7Fuh5gae8THvgaEAY6K7X4_bGTwHvKPLIAPNkPF9nuVQLyn301e-MelsfZGx-1_zZTiF68D18VTYI8_cbPTe/s320/20240817_035248.png" , SERVER 02 [ iKiTV.WapKa.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/eepl3.m3u8
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisg4rrwd9b8aiMvLR6y0hJXnrmcTkikcMxXduHwLwIK_DMI9xrGRSOwk1ob2Vj2zbyPsbn1Jt4GISY_hWMxHUHLMy2_G9rVZ_xFcXchc_L7Fuh5gae8THvgaEAY6K7X4_bGTwHvKPLIAPNkPF9nuVQLyn301e-MelsfZGx-1_zZTiF68D18VTYI8_cbPTe/s320/20240817_035248.png" , SERVER 03 [ iKiTV.WapKa.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/eepl4.m3u8
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisg4rrwd9b8aiMvLR6y0hJXnrmcTkikcMxXduHwLwIK_DMI9xrGRSOwk1ob2Vj2zbyPsbn1Jt4GISY_hWMxHUHLMy2_G9rVZ_xFcXchc_L7Fuh5gae8THvgaEAY6K7X4_bGTwHvKPLIAPNkPF9nuVQLyn301e-MelsfZGx-1_zZTiF68D18VTYI8_cbPTe/s320/20240817_035248.png" , SERVER 04 [ iKiTV.WapKa.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/eepl5.m3u8
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisg4rrwd9b8aiMvLR6y0hJXnrmcTkikcMxXduHwLwIK_DMI9xrGRSOwk1ob2Vj2zbyPsbn1Jt4GISY_hWMxHUHLMy2_G9rVZ_xFcXchc_L7Fuh5gae8THvgaEAY6K7X4_bGTwHvKPLIAPNkPF9nuVQLyn301e-MelsfZGx-1_zZTiF68D18VTYI8_cbPTe/s320/20240817_035248.png" , SERVER 05 [ iKiTV.WapKa.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/eepl6.m3u8
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisg4rrwd9b8aiMvLR6y0hJXnrmcTkikcMxXduHwLwIK_DMI9xrGRSOwk1ob2Vj2zbyPsbn1Jt4GISY_hWMxHUHLMy2_G9rVZ_xFcXchc_L7Fuh5gae8THvgaEAY6K7X4_bGTwHvKPLIAPNkPF9nuVQLyn301e-MelsfZGx-1_zZTiF68D18VTYI8_cbPTe/s320/20240817_035248.png" , SERVER 06 [ iKiTV.WapKa.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/eepl7.m3u8
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisg4rrwd9b8aiMvLR6y0hJXnrmcTkikcMxXduHwLwIK_DMI9xrGRSOwk1ob2Vj2zbyPsbn1Jt4GISY_hWMxHUHLMy2_G9rVZ_xFcXchc_L7Fuh5gae8THvgaEAY6K7X4_bGTwHvKPLIAPNkPF9nuVQLyn301e-MelsfZGx-1_zZTiF68D18VTYI8_cbPTe/s320/20240817_035248.png" , SERVER 07 [ iKiTV.WapKa.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/eepl8.m3u8
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisg4rrwd9b8aiMvLR6y0hJXnrmcTkikcMxXduHwLwIK_DMI9xrGRSOwk1ob2Vj2zbyPsbn1Jt4GISY_hWMxHUHLMy2_G9rVZ_xFcXchc_L7Fuh5gae8THvgaEAY6K7X4_bGTwHvKPLIAPNkPF9nuVQLyn301e-MelsfZGx-1_zZTiF68D18VTYI8_cbPTe/s320/20240817_035248.png" , SERVER 08 [ iKiTV.WapKa.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/eepl9.m3u8
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisg4rrwd9b8aiMvLR6y0hJXnrmcTkikcMxXduHwLwIK_DMI9xrGRSOwk1ob2Vj2zbyPsbn1Jt4GISY_hWMxHUHLMy2_G9rVZ_xFcXchc_L7Fuh5gae8THvgaEAY6K7X4_bGTwHvKPLIAPNkPF9nuVQLyn301e-MelsfZGx-1_zZTiF68D18VTYI8_cbPTe/s320/20240817_035248.png" , SERVER 09 [ iKiTV.WapKa.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/eepl10.m3u8
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisg4rrwd9b8aiMvLR6y0hJXnrmcTkikcMxXduHwLwIK_DMI9xrGRSOwk1ob2Vj2zbyPsbn1Jt4GISY_hWMxHUHLMy2_G9rVZ_xFcXchc_L7Fuh5gae8THvgaEAY6K7X4_bGTwHvKPLIAPNkPF9nuVQLyn301e-MelsfZGx-1_zZTiF68D18VTYI8_cbPTe/s320/20240817_035248.png" , SERVER 10 [ iKiTV.WapKa.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/eepl11.m3u8
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisg4rrwd9b8aiMvLR6y0hJXnrmcTkikcMxXduHwLwIK_DMI9xrGRSOwk1ob2Vj2zbyPsbn1Jt4GISY_hWMxHUHLMy2_G9rVZ_xFcXchc_L7Fuh5gae8THvgaEAY6K7X4_bGTwHvKPLIAPNkPF9nuVQLyn301e-MelsfZGx-1_zZTiF68D18VTYI8_cbPTe/s320/20240817_035248.png" , SERVER 11 [ iKiTV.WapKa.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/eepl12.m3u8
-#EXTINF:-1 group-title="LIGA ITALIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpaXTJLORZfH9E9gIfLU_nRWxfQLpcj6HEcC57Z_O9PLeqHUDjgReiWIgMg-FNGEidJhnaoQzHFbMBrpcgQ4hK5RZb9eVHhwlQGIurEehoruUgsSU-fGgsGDyGlmTxvcOaVmC60umxExUfmPxfDaOC4wfwxPtW2qii6dtofD7kuSzczg69eXZ1ENl5krcC/s320/20240817_123650.png" , SERVER 000 - [ iKiTV.Wapka.Co ]
-https://xyzdddd.mizhls.ru/lb/premium56/index.m3u8
-#EXTINF:-1 group-title="LIGA ITALIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpaXTJLORZfH9E9gIfLU_nRWxfQLpcj6HEcC57Z_O9PLeqHUDjgReiWIgMg-FNGEidJhnaoQzHFbMBrpcgQ4hK5RZb9eVHhwlQGIurEehoruUgsSU-fGgsGDyGlmTxvcOaVmC60umxExUfmPxfDaOC4wfwxPtW2qii6dtofD7kuSzczg69eXZ1ENl5krcC/s320/20240817_123650.png" , SERVER 00 - [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/lligaitali1.m3u8
-#EXTINF:-1 group-title="LIGA ITALIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpaXTJLORZfH9E9gIfLU_nRWxfQLpcj6HEcC57Z_O9PLeqHUDjgReiWIgMg-FNGEidJhnaoQzHFbMBrpcgQ4hK5RZb9eVHhwlQGIurEehoruUgsSU-fGgsGDyGlmTxvcOaVmC60umxExUfmPxfDaOC4wfwxPtW2qii6dtofD7kuSzczg69eXZ1ENl5krcC/s320/20240817_123650.png" , SERVER 01 - [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/lligaitali2.m3u8
-#EXTINF:-1 group-title="LIGA ITALIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpaXTJLORZfH9E9gIfLU_nRWxfQLpcj6HEcC57Z_O9PLeqHUDjgReiWIgMg-FNGEidJhnaoQzHFbMBrpcgQ4hK5RZb9eVHhwlQGIurEehoruUgsSU-fGgsGDyGlmTxvcOaVmC60umxExUfmPxfDaOC4wfwxPtW2qii6dtofD7kuSzczg69eXZ1ENl5krcC/s320/20240817_123650.png" , SERVER 02 - [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/lligaitali3.m3u8
-#EXTINF:-1 group-title="LIGA ITALIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpaXTJLORZfH9E9gIfLU_nRWxfQLpcj6HEcC57Z_O9PLeqHUDjgReiWIgMg-FNGEidJhnaoQzHFbMBrpcgQ4hK5RZb9eVHhwlQGIurEehoruUgsSU-fGgsGDyGlmTxvcOaVmC60umxExUfmPxfDaOC4wfwxPtW2qii6dtofD7kuSzczg69eXZ1ENl5krcC/s320/20240817_123650.png" , SERVER 03 - [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/lligaitali4.m3u8
-#EXTINF:-1 group-title="LIGA ITALIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpaXTJLORZfH9E9gIfLU_nRWxfQLpcj6HEcC57Z_O9PLeqHUDjgReiWIgMg-FNGEidJhnaoQzHFbMBrpcgQ4hK5RZb9eVHhwlQGIurEehoruUgsSU-fGgsGDyGlmTxvcOaVmC60umxExUfmPxfDaOC4wfwxPtW2qii6dtofD7kuSzczg69eXZ1ENl5krcC/s320/20240817_123650.png" , SERVER 04 - [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/lligaitali5.m3u8
-#EXTINF:-1 group-title="LIGA ITALIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpaXTJLORZfH9E9gIfLU_nRWxfQLpcj6HEcC57Z_O9PLeqHUDjgReiWIgMg-FNGEidJhnaoQzHFbMBrpcgQ4hK5RZb9eVHhwlQGIurEehoruUgsSU-fGgsGDyGlmTxvcOaVmC60umxExUfmPxfDaOC4wfwxPtW2qii6dtofD7kuSzczg69eXZ1ENl5krcC/s320/20240817_123650.png" , SERVER 05 - [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/lligaitali6.m3u8
-#EXTINF:-1 group-title="LIGA ITALIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpaXTJLORZfH9E9gIfLU_nRWxfQLpcj6HEcC57Z_O9PLeqHUDjgReiWIgMg-FNGEidJhnaoQzHFbMBrpcgQ4hK5RZb9eVHhwlQGIurEehoruUgsSU-fGgsGDyGlmTxvcOaVmC60umxExUfmPxfDaOC4wfwxPtW2qii6dtofD7kuSzczg69eXZ1ENl5krcC/s320/20240817_123650.png" , SERVER 06 - [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/lligaitali7.m3u8
-#EXTINF:-1 group-title="LIGA ITALIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpaXTJLORZfH9E9gIfLU_nRWxfQLpcj6HEcC57Z_O9PLeqHUDjgReiWIgMg-FNGEidJhnaoQzHFbMBrpcgQ4hK5RZb9eVHhwlQGIurEehoruUgsSU-fGgsGDyGlmTxvcOaVmC60umxExUfmPxfDaOC4wfwxPtW2qii6dtofD7kuSzczg69eXZ1ENl5krcC/s320/20240817_123650.png" , SERVER 07 - [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/lligaitali8.m3u8
-#EXTINF:-1 group-title="LIGA ITALIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpaXTJLORZfH9E9gIfLU_nRWxfQLpcj6HEcC57Z_O9PLeqHUDjgReiWIgMg-FNGEidJhnaoQzHFbMBrpcgQ4hK5RZb9eVHhwlQGIurEehoruUgsSU-fGgsGDyGlmTxvcOaVmC60umxExUfmPxfDaOC4wfwxPtW2qii6dtofD7kuSzczg69eXZ1ENl5krcC/s320/20240817_123650.png" , SERVER 08 - [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/lligaitali9.m3u8
-#EXTINF:-1 group-title="LIGA ITALIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpaXTJLORZfH9E9gIfLU_nRWxfQLpcj6HEcC57Z_O9PLeqHUDjgReiWIgMg-FNGEidJhnaoQzHFbMBrpcgQ4hK5RZb9eVHhwlQGIurEehoruUgsSU-fGgsGDyGlmTxvcOaVmC60umxExUfmPxfDaOC4wfwxPtW2qii6dtofD7kuSzczg69eXZ1ENl5krcC/s320/20240817_123650.png" , SERVER 09 - [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/lligaitali10.m3u8
-#EXTINF:-1 group-title="LIGA ITALIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpaXTJLORZfH9E9gIfLU_nRWxfQLpcj6HEcC57Z_O9PLeqHUDjgReiWIgMg-FNGEidJhnaoQzHFbMBrpcgQ4hK5RZb9eVHhwlQGIurEehoruUgsSU-fGgsGDyGlmTxvcOaVmC60umxExUfmPxfDaOC4wfwxPtW2qii6dtofD7kuSzczg69eXZ1ENl5krcC/s320/20240817_123650.png" , SERVER 10- [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/lligaitali11.m3u8
-#EXTINF:-1 group-title="LIGA JERMAN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYYwjixBxhPWykP2Pi6ThFtR58uA9DnA6KkTs52XP6kfGakb9RvmZdiOxzxdZPNr2qbBFqnzMlli5missZz6ZszYC8kvrrxqAyCRH0IhpdVuJDaNmYkVW7cufJHQNM2gy3_h2J2WrFSHICph9eIu7uqgop8ivY4F_zxCqaqa-0kXHr1vHAVP3AEwPafdRp/s320/20240817_123440.png" , SERVER 01 - [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/bbundesliga1.m3u8
-#EXTINF:-1 group-title="LIGA JERMAN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYYwjixBxhPWykP2Pi6ThFtR58uA9DnA6KkTs52XP6kfGakb9RvmZdiOxzxdZPNr2qbBFqnzMlli5missZz6ZszYC8kvrrxqAyCRH0IhpdVuJDaNmYkVW7cufJHQNM2gy3_h2J2WrFSHICph9eIu7uqgop8ivY4F_zxCqaqa-0kXHr1vHAVP3AEwPafdRp/s320/20240817_123440.png" , SERVER 02 - [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/bbundesliga2.m3u8
-#EXTINF:-1 group-title="LIGA JERMAN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYYwjixBxhPWykP2Pi6ThFtR58uA9DnA6KkTs52XP6kfGakb9RvmZdiOxzxdZPNr2qbBFqnzMlli5missZz6ZszYC8kvrrxqAyCRH0IhpdVuJDaNmYkVW7cufJHQNM2gy3_h2J2WrFSHICph9eIu7uqgop8ivY4F_zxCqaqa-0kXHr1vHAVP3AEwPafdRp/s320/20240817_123440.png" , SERVER 03 - [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/bbundesliga3.m3u8
-#EXTINF:-1 group-title="LIGA JERMAN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYYwjixBxhPWykP2Pi6ThFtR58uA9DnA6KkTs52XP6kfGakb9RvmZdiOxzxdZPNr2qbBFqnzMlli5missZz6ZszYC8kvrrxqAyCRH0IhpdVuJDaNmYkVW7cufJHQNM2gy3_h2J2WrFSHICph9eIu7uqgop8ivY4F_zxCqaqa-0kXHr1vHAVP3AEwPafdRp/s320/20240817_123440.png" , SERVER 04 - [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/bbundesliga4.m3u8
-#EXTINF:-1 group-title="LIGA JERMAN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYYwjixBxhPWykP2Pi6ThFtR58uA9DnA6KkTs52XP6kfGakb9RvmZdiOxzxdZPNr2qbBFqnzMlli5missZz6ZszYC8kvrrxqAyCRH0IhpdVuJDaNmYkVW7cufJHQNM2gy3_h2J2WrFSHICph9eIu7uqgop8ivY4F_zxCqaqa-0kXHr1vHAVP3AEwPafdRp/s320/20240817_123440.png" , SERVER 05 - [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/bbundesliga5.m3u8
-#EXTINF:-1 group-title="LIGA JERMAN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYYwjixBxhPWykP2Pi6ThFtR58uA9DnA6KkTs52XP6kfGakb9RvmZdiOxzxdZPNr2qbBFqnzMlli5missZz6ZszYC8kvrrxqAyCRH0IhpdVuJDaNmYkVW7cufJHQNM2gy3_h2J2WrFSHICph9eIu7uqgop8ivY4F_zxCqaqa-0kXHr1vHAVP3AEwPafdRp/s320/20240817_123440.png" , SERVER 06 - [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/bbundesliga6.m3u8
-#EXTINF:-1 group-title="LIGA JERMAN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYYwjixBxhPWykP2Pi6ThFtR58uA9DnA6KkTs52XP6kfGakb9RvmZdiOxzxdZPNr2qbBFqnzMlli5missZz6ZszYC8kvrrxqAyCRH0IhpdVuJDaNmYkVW7cufJHQNM2gy3_h2J2WrFSHICph9eIu7uqgop8ivY4F_zxCqaqa-0kXHr1vHAVP3AEwPafdRp/s320/20240817_123440.png" , SERVER 07 - [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/bbundesliga7.m3u8
-#EXTINF:-1 group-title="LIGA JERMAN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYYwjixBxhPWykP2Pi6ThFtR58uA9DnA6KkTs52XP6kfGakb9RvmZdiOxzxdZPNr2qbBFqnzMlli5missZz6ZszYC8kvrrxqAyCRH0IhpdVuJDaNmYkVW7cufJHQNM2gy3_h2J2WrFSHICph9eIu7uqgop8ivY4F_zxCqaqa-0kXHr1vHAVP3AEwPafdRp/s320/20240817_123440.png" , SERVER 08 - [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/bbundesliga8.m3u8
-#EXTINF:-1 group-title="LIGA PRANCIS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWIYMmmBwdNSJxyZogodVaxlIB3WRG_594qh0SpW7SbP8Mo7OYvoO8vBFuU-aB5MKcdDu2MnF8Lczha8xRu-S-pSQqfLwShft9s8BkarIaPYZ-exeTYgsnEju4UA6yTT5HL1arJAGulmBW4vU-gy3POZBV9VSKKxDUPxqLq979gVAKKJkAUv_kCev04NQ2/s320/20240817_123923.png" , SERVER 01 - [ iKiTV.Wapka.Co ]
-http://ikitv.serv00.net/lp1.m3u8
-#EXTINF:-1 group-title="LIGA PRANCIS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWIYMmmBwdNSJxyZogodVaxlIB3WRG_594qh0SpW7SbP8Mo7OYvoO8vBFuU-aB5MKcdDu2MnF8Lczha8xRu-S-pSQqfLwShft9s8BkarIaPYZ-exeTYgsnEju4UA6yTT5HL1arJAGulmBW4vU-gy3POZBV9VSKKxDUPxqLq979gVAKKJkAUv_kCev04NQ2/s320/20240817_123923.png" , SERVER 02 - [ iKiTV.Wapka.Co ]
-http://ikitv.serv00.net/lp2.m3u8
-#EXTINF:-1 group-title="LIGA PRANCIS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWIYMmmBwdNSJxyZogodVaxlIB3WRG_594qh0SpW7SbP8Mo7OYvoO8vBFuU-aB5MKcdDu2MnF8Lczha8xRu-S-pSQqfLwShft9s8BkarIaPYZ-exeTYgsnEju4UA6yTT5HL1arJAGulmBW4vU-gy3POZBV9VSKKxDUPxqLq979gVAKKJkAUv_kCev04NQ2/s320/20240817_123923.png" , SERVER 03 - [ iKiTV.Wapka.Co ]
-http://crut.ikitv.site:80/play/live.php?mac=00:1A:79:78:AA:34&stream=507698&extension=ts
-#EXTINF:-1 group-title="LIGA PRANCIS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWIYMmmBwdNSJxyZogodVaxlIB3WRG_594qh0SpW7SbP8Mo7OYvoO8vBFuU-aB5MKcdDu2MnF8Lczha8xRu-S-pSQqfLwShft9s8BkarIaPYZ-exeTYgsnEju4UA6yTT5HL1arJAGulmBW4vU-gy3POZBV9VSKKxDUPxqLq979gVAKKJkAUv_kCev04NQ2/s320/20240817_123923.png" , SERVER 04 - [ iKiTV.Wapka.Co ]
-http://crut.ikitv.site:80/play/live.php?mac=00:1A:79:78:AA:34&stream=507713&extension=ts
-#EXTINF:-1 group-title="LIGA PRANCIS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWIYMmmBwdNSJxyZogodVaxlIB3WRG_594qh0SpW7SbP8Mo7OYvoO8vBFuU-aB5MKcdDu2MnF8Lczha8xRu-S-pSQqfLwShft9s8BkarIaPYZ-exeTYgsnEju4UA6yTT5HL1arJAGulmBW4vU-gy3POZBV9VSKKxDUPxqLq979gVAKKJkAUv_kCev04NQ2/s320/20240817_123923.png" , SERVER 05 - [ iKiTV.Wapka.Co ]
-http://ikitv.serv00.net/pr5.m3u8
-#EXTINF:-1 group-title="LIGA PRANCIS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWIYMmmBwdNSJxyZogodVaxlIB3WRG_594qh0SpW7SbP8Mo7OYvoO8vBFuU-aB5MKcdDu2MnF8Lczha8xRu-S-pSQqfLwShft9s8BkarIaPYZ-exeTYgsnEju4UA6yTT5HL1arJAGulmBW4vU-gy3POZBV9VSKKxDUPxqLq979gVAKKJkAUv_kCev04NQ2/s320/20240817_123923.png" , SERVER 06 - [ iKiTV.Wapka.Co ]
-http://ikitv.serv00.net/pr5.m3u8
-#EXTINF:-1 group-title="LIGA PRANCIS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWIYMmmBwdNSJxyZogodVaxlIB3WRG_594qh0SpW7SbP8Mo7OYvoO8vBFuU-aB5MKcdDu2MnF8Lczha8xRu-S-pSQqfLwShft9s8BkarIaPYZ-exeTYgsnEju4UA6yTT5HL1arJAGulmBW4vU-gy3POZBV9VSKKxDUPxqLq979gVAKKJkAUv_kCev04NQ2/s320/20240817_123923.png" , SERVER 07 - [ iKiTV.Wapka.Co ]
-http://ikitv.serv00.net/pr5.m3u8
-#EXTINF:-1 group-title="LIGA PRANCIS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWIYMmmBwdNSJxyZogodVaxlIB3WRG_594qh0SpW7SbP8Mo7OYvoO8vBFuU-aB5MKcdDu2MnF8Lczha8xRu-S-pSQqfLwShft9s8BkarIaPYZ-exeTYgsnEju4UA6yTT5HL1arJAGulmBW4vU-gy3POZBV9VSKKxDUPxqLq979gVAKKJkAUv_kCev04NQ2/s320/20240817_123923.png" , SERVER 08 - [ iKiTV.Wapka.Co ]
-http://ikitv.serv00.net/pr5.m3u8
-#EXTINF:-1 group-title="LIGA PRANCIS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWIYMmmBwdNSJxyZogodVaxlIB3WRG_594qh0SpW7SbP8Mo7OYvoO8vBFuU-aB5MKcdDu2MnF8Lczha8xRu-S-pSQqfLwShft9s8BkarIaPYZ-exeTYgsnEju4UA6yTT5HL1arJAGulmBW4vU-gy3POZBV9VSKKxDUPxqLq979gVAKKJkAUv_kCev04NQ2/s320/20240817_123923.png" , SERVER 09 - [ iKiTV.Wapka.Co ]
-http://ikitv.serv00.net/pr5.m3u8
-#EXTINF:-1 group-title="LIGA PRANCIS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWIYMmmBwdNSJxyZogodVaxlIB3WRG_594qh0SpW7SbP8Mo7OYvoO8vBFuU-aB5MKcdDu2MnF8Lczha8xRu-S-pSQqfLwShft9s8BkarIaPYZ-exeTYgsnEju4UA6yTT5HL1arJAGulmBW4vU-gy3POZBV9VSKKxDUPxqLq979gVAKKJkAUv_kCev04NQ2/s320/20240817_123923.png" , SERVER 10 - [ iKiTV.Wapka.Co ]
-http://ikitv.serv00.net/pr5.m3u8
-#EXTINF:-1 group-title="LIGA SPANYOL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh__rPg4ggBppt7OlWFN3C9-HW8eplR2b1vA2H2hCNFtuDMNhCHFtbrpw-pkElVxXENiPJf6jE-3KytvYRHC6MR-wSw3SpZUm2QaJgtrf8pALcXQC5qhuCWesNL8cuzK-rK084zrfv4TObquypfEuful33fF7ucCgcPYXmV7oecmv-Z8G-p3of_0RC3Qhqv/s320/20240817_124254.png" , SERVER 00 - [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/llaliga1.m3u8
-#EXTINF:-1 group-title="LIGA SPANYOL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh__rPg4ggBppt7OlWFN3C9-HW8eplR2b1vA2H2hCNFtuDMNhCHFtbrpw-pkElVxXENiPJf6jE-3KytvYRHC6MR-wSw3SpZUm2QaJgtrf8pALcXQC5qhuCWesNL8cuzK-rK084zrfv4TObquypfEuful33fF7ucCgcPYXmV7oecmv-Z8G-p3of_0RC3Qhqv/s320/20240817_124254.png" , SERVER 01 - [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/llaliga2.m3u8
-#EXTINF:-1 group-title="LIGA SPANYOL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh__rPg4ggBppt7OlWFN3C9-HW8eplR2b1vA2H2hCNFtuDMNhCHFtbrpw-pkElVxXENiPJf6jE-3KytvYRHC6MR-wSw3SpZUm2QaJgtrf8pALcXQC5qhuCWesNL8cuzK-rK084zrfv4TObquypfEuful33fF7ucCgcPYXmV7oecmv-Z8G-p3of_0RC3Qhqv/s320/20240817_124254.png" , SERVER 02 - [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/llaliga3.m3u8
-#EXTINF:-1 group-title="LIGA SPANYOL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh__rPg4ggBppt7OlWFN3C9-HW8eplR2b1vA2H2hCNFtuDMNhCHFtbrpw-pkElVxXENiPJf6jE-3KytvYRHC6MR-wSw3SpZUm2QaJgtrf8pALcXQC5qhuCWesNL8cuzK-rK084zrfv4TObquypfEuful33fF7ucCgcPYXmV7oecmv-Z8G-p3of_0RC3Qhqv/s320/20240817_124254.png" , SERVER 03 - [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/llaliga4.m3u8
-#EXTINF:-1 group-title="LIGA SPANYOL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh__rPg4ggBppt7OlWFN3C9-HW8eplR2b1vA2H2hCNFtuDMNhCHFtbrpw-pkElVxXENiPJf6jE-3KytvYRHC6MR-wSw3SpZUm2QaJgtrf8pALcXQC5qhuCWesNL8cuzK-rK084zrfv4TObquypfEuful33fF7ucCgcPYXmV7oecmv-Z8G-p3of_0RC3Qhqv/s320/20240817_124254.png" , SERVER 04 - [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/llaliga5.m3u8
-#EXTINF:-1 group-title="LIGA SPANYOL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh__rPg4ggBppt7OlWFN3C9-HW8eplR2b1vA2H2hCNFtuDMNhCHFtbrpw-pkElVxXENiPJf6jE-3KytvYRHC6MR-wSw3SpZUm2QaJgtrf8pALcXQC5qhuCWesNL8cuzK-rK084zrfv4TObquypfEuful33fF7ucCgcPYXmV7oecmv-Z8G-p3of_0RC3Qhqv/s320/20240817_124254.png" , SERVER 05 - [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/llaliga6.m3u8
-#EXTINF:-1 group-title="LIGA SPANYOL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh__rPg4ggBppt7OlWFN3C9-HW8eplR2b1vA2H2hCNFtuDMNhCHFtbrpw-pkElVxXENiPJf6jE-3KytvYRHC6MR-wSw3SpZUm2QaJgtrf8pALcXQC5qhuCWesNL8cuzK-rK084zrfv4TObquypfEuful33fF7ucCgcPYXmV7oecmv-Z8G-p3of_0RC3Qhqv/s320/20240817_124254.png" , SERVER 06 - [ iKiTV.Wapka.Co ]
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/refs/heads/B-inal22/llaliga7.m3u8
-#EXTINF:-1 group-title="LIGA BELANDA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvOk0WEv3c3BKrwhDpn0MwsAUl0HL2DnTn0bYwIljHFZyTY88RIWAqOqY1i7vglZdKqoAYRsaxxN4Ol0ParOBH6SKTiWpy-Fa2VdtnA-DpuppfgGFfERicSMIwclJb-xl9vGXM-zkVx2kLw6laqJFKgVb3a_jIXU7vaVL8HqqeDqHL3aIXZ8eFyugnRgHx/s320/20240817_124115.png" , SERVER 00 - [ iKiTV.Wapka.Co ]
-https://xyzdddd.mizhls.ru/lb/premium379/index.m3u8
-#EXTINF:-1 group-title="LIGA BELANDA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvOk0WEv3c3BKrwhDpn0MwsAUl0HL2DnTn0bYwIljHFZyTY88RIWAqOqY1i7vglZdKqoAYRsaxxN4Ol0ParOBH6SKTiWpy-Fa2VdtnA-DpuppfgGFfERicSMIwclJb-xl9vGXM-zkVx2kLw6laqJFKgVb3a_jIXU7vaVL8HqqeDqHL3aIXZ8eFyugnRgHx/s320/20240817_124115.png" , SERVER 01 - [ iKiTV.Wapka.Co ]
-https://xyzdddd.mizhls.ru/lb/premium386/index.m3u8
-#EXTINF:-1 group-title="LIGA BELANDA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvOk0WEv3c3BKrwhDpn0MwsAUl0HL2DnTn0bYwIljHFZyTY88RIWAqOqY1i7vglZdKqoAYRsaxxN4Ol0ParOBH6SKTiWpy-Fa2VdtnA-DpuppfgGFfERicSMIwclJb-xl9vGXM-zkVx2kLw6laqJFKgVb3a_jIXU7vaVL8HqqeDqHL3aIXZ8eFyugnRgHx/s320/20240817_124115.png" , SERVER 02 - [ iKiTV.Wapka.Co ]
-https://xyzdddd.mizhls.ru/lb/premium398/index.m3u8
-#EXTINF:-1 group-title="LIGA BELANDA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvOk0WEv3c3BKrwhDpn0MwsAUl0HL2DnTn0bYwIljHFZyTY88RIWAqOqY1i7vglZdKqoAYRsaxxN4Ol0ParOBH6SKTiWpy-Fa2VdtnA-DpuppfgGFfERicSMIwclJb-xl9vGXM-zkVx2kLw6laqJFKgVb3a_jIXU7vaVL8HqqeDqHL3aIXZ8eFyugnRgHx/s320/20240817_124115.png" , SERVER 03 - [ iKiTV.Wapka.Co ]
-https://xyzdddd.mizhls.ru/lb/premium571/index.m3u8
-#EXTINF:-1 group-title="LIGA BELANDA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvOk0WEv3c3BKrwhDpn0MwsAUl0HL2DnTn0bYwIljHFZyTY88RIWAqOqY1i7vglZdKqoAYRsaxxN4Ol0ParOBH6SKTiWpy-Fa2VdtnA-DpuppfgGFfERicSMIwclJb-xl9vGXM-zkVx2kLw6laqJFKgVb3a_jIXU7vaVL8HqqeDqHL3aIXZ8eFyugnRgHx/s320/20240817_124115.png" , SERVER 04 - [ iKiTV.Wapka.Co ]
-http://hqth.me/iKiTV-LIGA-Belanda04
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   01
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942079
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   02
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942080
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   03
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942081
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   04
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942082
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   05
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942083
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   06
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942084
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   07
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942085
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   08
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942086
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   09
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942087
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   10
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942088
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   11
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942089
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   12
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942090
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   13
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942091
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   14
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942092
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   15
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942093
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   16
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942094
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   17
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942095
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   18
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942096
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   19
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942097
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   20
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942098
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   21
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942099
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   22
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942100
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   23
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942101
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   24
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942102
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   25
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942103
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   26
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942104
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   27
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942105
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   28
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942106
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   29
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942107
-#EXTINF:-1 group-title="SETANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQGyO02jIJXG1wRqdXzOXQ1hVC_lJyueL_i_6O9punj5K5vlXt-cRSYWubUyoGU4zZibpqJPPJQ_Bf4shI4SiG4FpDXXWXxqA9Jrmz06ySVLtA-W1_XphQpTUnKbnhtYq88ZnMf4laGPhwr2xEKSqA8512v6Geo2NbnX0C9ESoF-jD3W9gFk6Vsr36gj_/s320/20240901_223432.png" ,   30
-http://monstertv.site:8080/phesterjere@gmail.com/4698764/942108
+===================================================================================================================
+============================================ BRI LIGA 1 =============================================================
+===================================================================================================================
 
 
-                 =======DAZN======
+#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="BRI LIGA 1", Live 1
+http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/162138.ts
+#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="BRI LIGA 1", Live 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+http://xtvplayer.top:8080/live/Atiffb694/2840914/350972.ts
+#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="BRI LIGA 1", Live 3
+http://tv.cloudcdn.me/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75
+#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="BRI LIGA 1", Live 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+http://opplex.tv:8080/live/starmpk/mpk1234/350972.ts
+#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="BRI LIGA 1", Live 5
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
+#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="BRI LIGA 1", Live 6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+http://xtv.ooo:8080/live/Raza335/3355141450/350972.ts
+#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="BRI LIGA 1", Live 7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+http://xtv.ooo:8080/live/jk8010801099/jk8010801099/350972.ts
+#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="BRI LIGA 1", Live 8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+http://xtv.ooo:8080/live/827281020/827292929/350972.ts
 
 
-#EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="DAZN ELEVEN" , DAZN ELEVEN 1
+===================================================================================================================
+============================================ VOLLY ===============================================================
+===================================================================================================================
+
+
+#EXTINF:-1 tvg-name="VOLLY" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/VOLLY.jpeg" group-title="VOLLY", Live 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+http://xtvplayer.top:8080/live/Atiffb694/2840914/350997.ts
+
+#EXTINF:-1 tvg-name="VOLLY" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/VOLLY.jpeg" group-title="VOLLY", Live 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts
+
+#EXTINF:-1 tvg-name="VOLLY" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/VOLLY.jpeg" group-title="VOLLY", Live 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+http://xtv.ooo:8080/live/Irfan36368/Irfan64689/350997.ts
+
+#EXTINF:-1 tvg-name="VOLLY" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/VOLLY.jpeg" group-title="VOLLY", Live 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+http://xtv.ooo:8080/live/827281020/827292929/350997.ts
+
+#EXTINF:-1 tvg-name="VOLLY" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/VOLLY.jpeg" group-title="VOLLY", Live 5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+http://mag.king-4k.cc:80/live/00447341550145nigel2/45C411/1505856.ts
+
+#EXTINF:-1 tvg-name="VOLLY" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/VOLLY.jpeg" group-title="VOLLY", Live 6
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:1
+#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXT-X-ALLOW-CACHE:NO
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:FF:04:8C&stream=267259&extension=ts&play_token=2nWaCM8UCW
+
+#EXTINF:-1 tvg-name="VOLLY" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/VOLLY.jpeg" group-title="VOLLY", Live 7
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:1
+#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXT-X-ALLOW-CACHE:NO
+http://srv.hostinggon11.xyz:2082/Xplus-1-yxT4GKMWDZ/J04VbW0AQz/1016
+
+#EXTINF:-1 tvg-name="VOLLY" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/VOLLY.jpeg" group-title="VOLLY", Live 8
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:1
+#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXT-X-ALLOW-CACHE:NO
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111025
+
+#EXTINF:-1 tvg-name="VOLLY" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/VOLLY.jpeg" group-title="VOLLY", Live 9
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:1
+#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXT-X-ALLOW-CACHE:NO
+http://srv.hostinggon11.xyz:2082/Xplus-1-yxT4GKMWDZ/J04VbW0AQz/993
+
+#EXTINF:-1 tvg-name="VOLLY" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/VOLLY.jpeg" group-title="VOLLY", Live 10
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-STREAM-INF:BANDWIDTH=4300000,AVERAGE-BANDWIDTH=3191434,RESOLUTION=720x480,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
+http://f01.live:8080/live/vY1014Qs/uZPt3MFH/618912.m3u8
+
+#EXTINF:-1 tvg-name="VOLLY" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/VOLLY.jpeg" group-title="VOLLY", Live 11
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-STREAM-INF:BANDWIDTH=4300000,AVERAGE-BANDWIDTH=3191434,RESOLUTION=720x480,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:FF:04:8C&stream=17613&extension=m3u8
+
+#EXTINF:-1 tvg-name="VOLLY" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/VOLLY.jpeg" group-title="VOLLY", Live 12
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-STREAM-INF:BANDWIDTH=4300000,AVERAGE-BANDWIDTH=3191434,RESOLUTION=720x480,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:FF:04:8C&stream=339066&extension=m3u8
+
+#EXTINF:-1 tvg-name="VOLLY" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/VOLLY.jpeg" group-title="VOLLY", Live 13
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E1:2E&stream=550007&extension=ts
+@http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:FF:04:8C&stream=3065&extension=ts&play_token=lOnEIK2iS1
+
+===================================================================================================================
+============================================ PRO LIGA ===============================================================
+===================================================================================================================
+
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/PROLIGA.png" group-title="PRO LIGA",Live 1
+https://cempedak-cdn-fly.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/PROLIGA.png" group-title="PRO LIGA",Live 2
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/PROLIGA.png" group-title="PRO LIGA",Live 3
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/PROLIGA.png" group-title="PRO LIGA",Live 4
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+============================================================================
+===================== LIGA INGGRIS ===========================================
+============================================================================
+
+
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="" tvg-logo="https://iili.io/d3txEAl.png", USA (WEST) 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NBCUniverso_logo.png" group-title="LIGA INGGRIS" tvg-id="001" tvg-name="",NBC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
+
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="TNTSports1.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png",TNT SPORTS 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="LIGA INGGRIS", LIVE 01
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-name="TRUE PREMIER FOOTBALL" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="LIGA INGGRIS",TRUE PREMIER 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="TRUE PREMIER FOOTBALL" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="LIGA INGGRIS",TRUE PREMIER 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="TRUE PREMIER FOOTBALL" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier3.png" group-title="LIGA INGGRIS",TRUE PREMIER 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/Jpw0blp.png" group-title="LIGA INGGRIS", LIVE 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium130/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png" group-title="LIGA INGGRIS", LIVE 03  Southampton vs Manchester United 18.30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium9/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="LIGA INGGRIS", LIVE 04 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png" group-title="LIGA INGGRIS", LIVE 05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium125/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="LIGA INGGRIS", LIVE 06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium414/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png" group-title="LIGA INGGRIS", LIVE 07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium400/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png" group-title="LIGA INGGRIS", LIVE 08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium401/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f2/Premier_League_Logo.svg/250px-Premier_League_Logo.svg.png" group-title="LIGA INGGRIS", LIVE 09
+http://109.61.81.147:2080/cdn2/1255/video.m3u8?token=4444
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-maximo-1-za.png" group-title="LIGA INGGRIS", LIVE 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium572/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/dMT5qsj.png" group-title="LIGA INGGRIS", LIVE 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium913/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png" group-title="LIGA INGGRIS", LIVE 12 ARSENAL VS LEICESTER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium59/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/dMTWpj4.png" group-title="LIGA INGGRIS", LIVE 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium343/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/dMTGNEX.png" group-title="LIGA INGGRIS", LIVE 14 NEW CASTLE VS SPURS 19.30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium55/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/dMTexoJ.png" group-title="LIGA INGGRIS", LIVE 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://topembed.mizhls.ru/lb/premium599/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="LIGA INGGRIS", LIVE 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://topembed.mizhls.ru/lb/premium91/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="LIGA INGGRIS", LIVE 17 BRENFORD VS WHU 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="LIGA INGGRIS", LIVE 18 ARSENAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium23/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="LIGA INGGRIS", LIVE 19 CHELSEA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium25/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="LIGA INGGRIS", LIVE 20 EVERTON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium26/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="LIGA INGGRIS", LIVE 21 FULHAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium27/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkySports EPL NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-8-nz.png" group-title="LIGA INGGRIS", SkySPORTS EPL NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://topembed.mizhls.ru/lb/premium595/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkySports 7 NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-7-nz.png" group-title="LIGA INGGRIS", SkySPORTS 7 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://topembed.mizhls.ru/lb/premium594/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkySports 9 NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-9-nz.png" group-title="LIGA INGGRIS", SkySPORTS 9 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://topembed.mizhls.ru/lb/premium596/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkySports 2 NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-4-nz.png" group-title="LIGA INGGRIS", SkySPORTS 4 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.webhd.ru/lb/premium591/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#EXTINF:-1 group-title="LIGA INGGRIS"  tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",PeacockTV Premier League
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Peacock 1
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Peacock 2
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/_FpbvyWRq_L-tWczpfJDqfyyjIix1_iGEMpN61gUFDz4quy8h2SW_YDs-nyiTXdhwkU4cHJPepJLjzcxZ2lZpqyzgvq997HM8geixwMnfnEyoHMv5G6Z" group-title="LIGA INGGRIS", HUB 1
+http://109.61.81.147:2080/cdn2/1255/video.m3u8?token=4444
+
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/_FpbvyWRq_L-tWczpfJDqfyyjIix1_iGEMpN61gUFDz4quy8h2SW_YDs-nyiTXdhwkU4cHJPepJLjzcxZ2lZpqyzgvq997HM8geixwMnfnEyoHMv5G6Z" group-title="LIGA INGGRIS", HUB 2
+http://109.61.81.147:2080/cdn2/47/video.m3u8?token=4444
+
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/_FpbvyWRq_L-tWczpfJDqfyyjIix1_iGEMpN61gUFDz4quy8h2SW_YDs-nyiTXdhwkU4cHJPepJLjzcxZ2lZpqyzgvq997HM8geixwMnfnEyoHMv5G6Z" group-title="LIGA INGGRIS", HUB 3
+http://109.61.81.147:2080/cdn2/4851/video.m3u8?token=4444
+
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/_FpbvyWRq_L-tWczpfJDqfyyjIix1_iGEMpN61gUFDz4quy8h2SW_YDs-nyiTXdhwkU4cHJPepJLjzcxZ2lZpqyzgvq997HM8geixwMnfnEyoHMv5G6Z" group-title="LIGA INGGRIS", HUB 4
+http://109.61.81.147:2080/cdn2/4886/video.m3u8?token=4444
+
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/_FpbvyWRq_L-tWczpfJDqfyyjIix1_iGEMpN61gUFDz4quy8h2SW_YDs-nyiTXdhwkU4cHJPepJLjzcxZ2lZpqyzgvq997HM8geixwMnfnEyoHMv5G6Z" group-title="LIGA INGGRIS", HUB 5
+http://109.61.81.147:2080/cdn2/1053/video.m3u8?token=4444
+
+
+=========================================================================================
+=======================================   LIGA SPANYOL ====================================
+=========================================================================================
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/laliga-tv-hypermotion-es.png" group-title="LIGA SPANYOL", LALIGA 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/241px-LaLiga_logo_2023.svg.png" group-title="LIGA SPANYOL", LALIGA 2
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv17/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/241px-LaLiga_logo_2023.svg.png" group-title="LIGA SPANYOL", LALIGA 3
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/laliga-tv-hypermotion-es.png" group-title="LIGA SPANYOL", LALIGA 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/laliga-tv-hypermotion-es.png" group-title="LIGA SPANYOL", LALIGA 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-4-bg.png" group-title="LIGA SPANYOL", LALIGA 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium475/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png?20220126204156" group-title="LIGA SPANYOL", LALIGA 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium85/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="LIGA SPANYOL", LALIGA 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium430/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="LIGA SPANYOL", LALIGA 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium580/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mplus-laliga-es.png" group-title="LIGA SPANYOL", LALIGA 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium539/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png" group-title="LIGA SPANYOL", LALIGA 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium415/playlist.m3u8
+
+===================== BUNDES LIGA=========================================
+
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://www.lyngsat.com/logo/tv/ss/soccer-channel-id.png" group-title="BUNDES LIGA", SOCCER CHANNEL
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd  
+
+#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-name="Sportstars" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportstars-id.png" group-title="BUNDES LIGA", SPORTSTARS
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+
+
+#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="BUNDES LIGA", SPORTSTARS 2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sat1_de.png" group-title="BUNDES LIGA", BUNDES 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://topembed.mizhls.ru/lb/premium729/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png" group-title="BUNDES LIGA", BUNDES 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://topembed.mizhls.ru/lb/premium886/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/diema-sport-3-bg.png" group-title="BUNDES LIGA", BUNDES 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://topembed.mizhls.ru/lb/premium467/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Vodafone_2017_logo.svg/220px-Vodafone_2017_logo.svg.png" group-title="BUNDES LIGA", BUNDES 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://topembed.mizhls.ru/lb/premium260/playlist.m3u8
+
+=====================================LIGA PRANCIS==========================================================
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-360-fr.png" group-title="LIGA PRANCIS", FR 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://topembed.mizhls.ru/lb/premium464/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg/revision/latest/scale-to-width-down/300?cb=20231020154516" group-title="LIGA PRANCIS", FR 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://topembed.mizhls.ru/lb/premium74/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="LIGA PRANCIS", FR 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://topembed.mizhls.ru/lb/premium91/playlist.m3u8
+
+====================================LIGA BELANDA==============================================================
+#EXTINF:-1 tvg-logo="https://iili.io/dW5zNn9.png" group-title="LIGA BELANDA",NL 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium386/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/dW5I5Sj.png" group-title="LIGA BELANDA",NL 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://topembed.mizhls.ru/lb/premium379/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/dW5I5Sj.png" group-title="LIGA BELANDA",NL 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://topembed.mizhls.ru/lb/premium571/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIGA BELANDA", NL 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.le.live/
+https://topembed.mizhls.ru/lb/bet6547719/playlist.enow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIGA BELANDA", NL 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1live/
+https://topembed.mizhls.ru/lb/bet6342732/playlist.m3u8wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="DAZN ELEVEN" , DAZN ELEVEN 1
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
