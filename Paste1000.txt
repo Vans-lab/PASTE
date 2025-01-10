@@ -2001,7 +2001,8 @@ http://xtv.ooo:8080/live/827281020/827292929/350972.ts
 ============================================ VOLLY ===============================================================
 ===================================================================================================================
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="VOLLY", MOJI PROLIGA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505856
 #EXTINF:-1 tvg-name="VOLLY" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/VOLLY.jpeg" group-title="VOLLY", Live 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
