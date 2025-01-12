@@ -2,6 +2,15 @@
 
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
+#EXTINF:-1 tvg-logo="https://wikisinetron.com/app/uploads/2024/03/Poster-Mufasa-The-Lion-King.jpg" group-title="MOVIE 2025", MUFASA
+https://hls23-eu.zcdn.stream/356fc51121dec26bc64a20a66c9ece3a/2025-01-06/1080.m3u8?token=2b9ca6aa410b4e275ec90837fbffdc6c&client=6fe34c7542624cd2c865ec367608af0a&expires=1736710539&type=edge&asn=20473&node=6GGSnz_YTWx_aZx4z1cQzoEoNpPKp6oYXUhWuI08tBXiKS4eHXKSqD4VDFVRy8iYbsGr7L--fSTNL_Pyq4tpHQ
+#EXTINF:-1 tvg-logo="https://www.cinemaonett.com/wp-content/uploads/Moana-2-poster-scaled.jpg" group-title="MOVIE 2025", MOANA 2
+https://sto45-eu.zcdn.stream/8d49d1aa557f4cbb21704596ece7acbe/2025-01-06/1080.m3u8?token=e45d67cc52c527fc80a06532203c09f2&client=6fe34c7542624cd2c865ec367608af0a&expires=1736710863&type=edge&asn=20473&node=0H3dx6t_c-pdRWbprZGIHkNSxkz2b-sbQ4xRqIsVyzvv8b_dsySw3AFsS0mIWSRi8vlGTCTXF5GnKcrDkeAIXg
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTJhY2IxYzUtZTFjMy00ODYzLWJkOGUtM2EwN2VlYjdiYzM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE 2025", KANG MAK
+https://hls9-eu.zcdn.stream/3378367dacbd80f074182e5ccbe5a4a6/2024-12-30/720.m3u8?token=9c8919ead44f85e2b934f3337b809fae&client=6fe34c7542624cd2c865ec367608af0a&expires=1736711056&type=edge&asn=20473&node=KVqwwFtwKI8dHALjbcJaJb_vz32_x7zwdzADnCjyWKlR8ei4CguFX_GYnNC3pzBIWSTQFbHmC0fOcskRundLaw
+
+
+
 #EXTINF:-1 group-title="JUARA TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_1.png", ChampionsTV1_mpd [ott.nav]
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
