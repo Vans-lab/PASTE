@@ -1998,6 +1998,8 @@ http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505856
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 http://xtvplayer.top:8080/live/Atiffb694/2840914/350997.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="Moji" tvg-logo="https://i.ibb.co.com/dJYMs07/20250104-134026.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png" group-title="VOLLY",live3
+http://tv.kudigital.pw:8080/28122024KM/28122024/30
 #EXTINF:-1 tvg-name="VOLLY" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/VOLLY.jpeg" group-title="VOLLY", Live 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
