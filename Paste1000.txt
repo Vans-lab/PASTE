@@ -48,14 +48,17 @@ https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=9183
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://imgcdn.espos.id/@espos/images/2023/11/logo-liga-voli-korea-2023-2.jpg" group-title="VOLLEY KOREA",CH1
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/qihhj7yrun5mwdjvzbxm1e9etjd3h5c20kal/hdntl=exp=1736698692~acl=*%2fqihhj7yrun5mwdjvzbxm1e9etjd3h5c20kal%2f*~data=hdntl~hmac=a2b18399f53e999857ed3e1a0c58696e6379e67ddaf20f5f9e82a4d4dc897a21/chunklist_480.stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://imgcdn.espos.id/@espos/images/2023/11/logo-liga-voli-korea-2023-2.jpg" group-title="VOLLEY KOREA",CH3
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/qihhj7yrun5mwdjvzbxm1e9etjd3h5c20kal/hdntl=exp=1736698692~acl=*%2fqihhj7yrun5mwdjvzbxm1e9etjd3h5c20kal%2f*~data=hdntl~hmac=a2b18399f53e999857ed3e1a0c58696e6379e67ddaf20f5f9e82a4d4dc897a21/chunklist_1080.stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://imgcdn.espos.id/@espos/images/2023/11/logo-liga-voli-korea-2023-2.jpg" group-title="VOLLEY KOREA",CH2
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/qihhj7yrun5mwdjvzbxm1e9etjd3h5c20kal/hdntl=exp=1736698692~acl=*%2fqihhj7yrun5mwdjvzbxm1e9etjd3h5c20kal%2f*~data=hdntl~hmac=a2b18399f53e999857ed3e1a0c58696e6379e67ddaf20f5f9e82a4d4dc897a21/chunklist_720.stream.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtoJyl.png" group-title="TV INDONESIA",Duta TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnNpV.png" group-title="TV INDONESIA",Banjar TV
+https://banjartv.siar.us/banjartv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnWrb.png" group-title="TV INDONESIA",Balikpapan TV
+https://63b2dc7196c38.streamlock.net:1937/ch10/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1WmX.png" group-title="TV INDONESIA",TVRI Kalimantan Selatan
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sctv.png" group-title="TV INDONESIA",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
