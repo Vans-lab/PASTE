@@ -5,12 +5,12 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/J9rV1fo4Hu8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCIO8j7wAonnab3xh1NtT1QcI0xLg" group-title="LIVE VOLLEY KOREA",CH1 WOMEN
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/273/2023/11/09/InShot_20231109_104325335-4216165226.jpg" group-title="LIVE VOLLEY KOREA",CH1 WOMEN
 https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/qnneyfjbr3k284o8vqnmdwwfcjkuyb51d1k3/hdntl=exp=1737485386~acl=*%2fqnneyfjbr3k284o8vqnmdwwfcjkuyb51d1k3%2f*~data=hdntl~hmac=2bc5d1639699c57d2ed588602eed62709299ac5d41b10125537ec88719605ecd/chunklist_480.stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/J9rV1fo4Hu8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCIO8j7wAonnab3xh1NtT1QcI0xLg" group-title="LIVE VOLLEY KOREA",CH2 WOMEN
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/273/2023/11/09/InShot_20231109_104325335-4216165226.jpg" group-title="LIVE VOLLEY KOREA",CH2 WOMEN
 https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/qnneyfjbr3k284o8vqnmdwwfcjkuyb51d1k3/hdntl=exp=1737485386~acl=*%2fqnneyfjbr3k284o8vqnmdwwfcjkuyb51d1k3%2f*~data=hdntl~hmac=2bc5d1639699c57d2ed588602eed62709299ac5d41b10125537ec88719605ecd/chunklist_720.stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/J9rV1fo4Hu8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCIO8j7wAonnab3xh1NtT1QcI0xLg" group-title="LIVE VOLLEY KOREA",CH3 WOMEN
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/273/2023/11/09/InShot_20231109_104325335-4216165226.jpg" group-title="LIVE VOLLEY KOREA",CH3 WOMEN
 https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/qnneyfjbr3k284o8vqnmdwwfcjkuyb51d1k3/hdntl=exp=1737485386~acl=*%2fqnneyfjbr3k284o8vqnmdwwfcjkuyb51d1k3%2f*~data=hdntl~hmac=2bc5d1639699c57d2ed588602eed62709299ac5d41b10125537ec88719605ecd/chunklist_1080.stream.m3u8
 
 
