@@ -22,13 +22,13 @@ https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/qnneyfjbr3k284o8vqnm
 
 
 
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/11/logo-liga-voli-korea-2023-2.jpg" group-title="VOLLEY KOREA",CH1 MEN
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/m8bwyt9b3wv2yagvh6nkchqqo1950dyebcm4/hdntl=exp=1737140712~acl=*%2fm8bwyt9b3wv2yagvh6nkchqqo1950dyebcm4%2f*~data=hdntl~hmac=f0acaa7d23e0eee4ae961372c24bb2d454e4220e7f2406348ad8e604a637db9d/chunklist_480.stream.m3u8
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/11/logo-liga-voli-korea-2023-2.jpg" group-title="VOLLEY KOREA",CH2 MEN
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/m8bwyt9b3wv2yagvh6nkchqqo1950dyebcm4/hdntl=exp=1737140712~acl=*%2fm8bwyt9b3wv2yagvh6nkchqqo1950dyebcm4%2f*~data=hdntl~hmac=f0acaa7d23e0eee4ae961372c24bb2d454e4220e7f2406348ad8e604a637db9d/chunklist_720.stream.m3u8
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/11/logo-liga-voli-korea-2023-2.jpg" group-title="VOLLEY KOREA MEN",CH1 
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/whojh4kyfp4i2ahemvczgcomhjkuyyxxtvks/hdntl=exp=1737485631~acl=*%2fwhojh4kyfp4i2ahemvczgcomhjkuyyxxtvks%2f*~data=hdntl~hmac=d24ff35e8e01d0a7fa5c7408b1f1f0083f5a817b7ec044fb2d59465ab3946ae1/chunklist_480.stream.m3u8
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/11/logo-liga-voli-korea-2023-2.jpg" group-title="VOLLEY KOREA MEN",CH2 
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/whojh4kyfp4i2ahemvczgcomhjkuyyxxtvks/hdntl=exp=1737485631~acl=*%2fwhojh4kyfp4i2ahemvczgcomhjkuyyxxtvks%2f*~data=hdntl~hmac=d24ff35e8e01d0a7fa5c7408b1f1f0083f5a817b7ec044fb2d59465ab3946ae1/chunklist_720.stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/11/logo-liga-voli-korea-2023-2.jpg" group-title="VOLLEY KOREA",CH3 MEN
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/m8bwyt9b3wv2yagvh6nkchqqo1950dyebcm4/hdntl=exp=1737140712~acl=*%2fm8bwyt9b3wv2yagvh6nkchqqo1950dyebcm4%2f*~data=hdntl~hmac=f0acaa7d23e0eee4ae961372c24bb2d454e4220e7f2406348ad8e604a637db9d/chunklist_1080.stream.m3u8
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/11/logo-liga-voli-korea-2023-2.jpg" group-title="VOLLEY KOREA MEN",CH3 
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/whojh4kyfp4i2ahemvczgcomhjkuyyxxtvks/hdntl=exp=1737485631~acl=*%2fwhojh4kyfp4i2ahemvczgcomhjkuyyxxtvks%2f*~data=hdntl~hmac=d24ff35e8e01d0a7fa5c7408b1f1f0083f5a817b7ec044fb2d59465ab3946ae1/chunklist_1080.stream.m3u8
 
 
 #EXTINF:-1 group-title="LOVB LIVE" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",104. SPOTV
