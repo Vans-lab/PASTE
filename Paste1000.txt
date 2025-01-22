@@ -6,13 +6,13 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/273/2023/11/09/InShot_20231109_104325335-4216165226.jpg" group-title="LIVE VOLLEY KOREA",CH1 WOMEN
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/qnneyfjbr3k284o8vqnmdwwfcjkuyb51d1k3/hdntl=exp=1737485386~acl=*%2fqnneyfjbr3k284o8vqnmdwwfcjkuyb51d1k3%2f*~data=hdntl~hmac=2bc5d1639699c57d2ed588602eed62709299ac5d41b10125537ec88719605ecd/chunklist_480.stream.m3u8
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/273/2023/11/09/InShot_20231109_104325335-4216165226.jpg" group-title="LIVE VOLLEY KOREA",CH2 WOMEN
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/qnneyfjbr3k284o8vqnmdwwfcjkuyb51d1k3/hdntl=exp=1737485386~acl=*%2fqnneyfjbr3k284o8vqnmdwwfcjkuyb51d1k3%2f*~data=hdntl~hmac=2bc5d1639699c57d2ed588602eed62709299ac5d41b10125537ec88719605ecd/chunklist_720.stream.m3u8
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/11/megawati-hangestri-red-sparks.jpg?quality=60" group-title="LIVE VOLLEY KOREA",CH1
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/xjbrqry0mk1apdffcqg2flhro6knrg5ny864/hdntl=exp=1737571747~acl=*%2fxjbrqry0mk1apdffcqg2flhro6knrg5ny864%2f*~data=hdntl~hmac=0ba2f8cc974758095b5d74776739e69a6cd1279e57aaf52bd0957220b5795864/chunklist_480.stream.m3u8
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/11/megawati-hangestri-red-sparks.jpg?quality=60" group-title="LIVE VOLLEY KOREA",CH2
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/xjbrqry0mk1apdffcqg2flhro6knrg5ny864/hdntl=exp=1737571747~acl=*%2fxjbrqry0mk1apdffcqg2flhro6knrg5ny864%2f*~data=hdntl~hmac=0ba2f8cc974758095b5d74776739e69a6cd1279e57aaf52bd0957220b5795864/chunklist_720.stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/273/2023/11/09/InShot_20231109_104325335-4216165226.jpg" group-title="LIVE VOLLEY KOREA",CH3 WOMEN
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/qnneyfjbr3k284o8vqnmdwwfcjkuyb51d1k3/hdntl=exp=1737485386~acl=*%2fqnneyfjbr3k284o8vqnmdwwfcjkuyb51d1k3%2f*~data=hdntl~hmac=2bc5d1639699c57d2ed588602eed62709299ac5d41b10125537ec88719605ecd/chunklist_1080.stream.m3u8
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/11/megawati-hangestri-red-sparks.jpg?quality=60" group-title="LIVE VOLLEY KOREA",CH3
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/xjbrqry0mk1apdffcqg2flhro6knrg5ny864/hdntl=exp=1737571747~acl=*%2fxjbrqry0mk1apdffcqg2flhro6knrg5ny864%2f*~data=hdntl~hmac=0ba2f8cc974758095b5d74776739e69a6cd1279e57aaf52bd0957220b5795864/chunklist_1080.stream.m3u8
 
 
 
