@@ -17,12 +17,12 @@ https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/qnneyfjbr3k284o8vqnm
 
 
 #EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/11/logo-liga-voli-korea-2023-2.jpg" group-title="VOLLEY KOREA MEN",CH1 
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/whojh4kyfp4i2ahemvczgcomhjkuyyxxtvks/hdntl=exp=1737485631~acl=*%2fwhojh4kyfp4i2ahemvczgcomhjkuyyxxtvks%2f*~data=hdntl~hmac=d24ff35e8e01d0a7fa5c7408b1f1f0083f5a817b7ec044fb2d59465ab3946ae1/chunklist_480.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/tfksh80a8hxqkxpfkrzxvrlz84aw42dw5xas/hdntl=exp=1737571623~acl=*%2ftfksh80a8hxqkxpfkrzxvrlz84aw42dw5xas%2f*~data=hdntl~hmac=6527e85e62628ade8eda0c782a0252e57d53e6fd23e810e2b891136e931618a7/chunklist_480.stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/11/logo-liga-voli-korea-2023-2.jpg" group-title="VOLLEY KOREA MEN",CH2 
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/whojh4kyfp4i2ahemvczgcomhjkuyyxxtvks/hdntl=exp=1737485631~acl=*%2fwhojh4kyfp4i2ahemvczgcomhjkuyyxxtvks%2f*~data=hdntl~hmac=d24ff35e8e01d0a7fa5c7408b1f1f0083f5a817b7ec044fb2d59465ab3946ae1/chunklist_720.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/tfksh80a8hxqkxpfkrzxvrlz84aw42dw5xas/hdntl=exp=1737571623~acl=*%2ftfksh80a8hxqkxpfkrzxvrlz84aw42dw5xas%2f*~data=hdntl~hmac=6527e85e62628ade8eda0c782a0252e57d53e6fd23e810e2b891136e931618a7/chunklist_720.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/11/logo-liga-voli-korea-2023-2.jpg" group-title="VOLLEY KOREA MEN",CH3 
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/whojh4kyfp4i2ahemvczgcomhjkuyyxxtvks/hdntl=exp=1737485631~acl=*%2fwhojh4kyfp4i2ahemvczgcomhjkuyyxxtvks%2f*~data=hdntl~hmac=d24ff35e8e01d0a7fa5c7408b1f1f0083f5a817b7ec044fb2d59465ab3946ae1/chunklist_1080.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/tfksh80a8hxqkxpfkrzxvrlz84aw42dw5xas/hdntl=exp=1737571623~acl=*%2ftfksh80a8hxqkxpfkrzxvrlz84aw42dw5xas%2f*~data=hdntl~hmac=6527e85e62628ade8eda0c782a0252e57d53e6fd23e810e2b891136e931618a7/chunklist_1080.stream.m3u8
 
 
 #EXTINF:-1 group-title="LOVB LIVE" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",104. SPOTV
