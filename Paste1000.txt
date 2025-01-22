@@ -3,6 +3,13 @@
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 
+#EXTM3U
+#EXTINF:30,index.m3u8
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737537590/ei/1mOQZ9CpKMGI0u8Pjf-riQ8/ip/92.223.44.57/id/yIfvVtD3YTM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/uz/ss/1/siu/1/bui/AY2Et-NM8eM2uGBw6jWqheHvP8_SAaXFemBEXGmXNSdmZyug8SQOJhA3Cw_QmN90TEYKR7kcRQ/spc/9kzgDQsFV72rYIRL-bJxipWyHkOpxY9jfZY07W1jgNk6h9rSd8UyxW9G6yU4vGUlGg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Css%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgVfmc4bWeEqwxPEN3VTsRjgEKNhmF1V66QYAZOhAB3R4CIB8dwlxMjof56RMBNKMxrX74XP-CisoJxcdr9reisoWR/file/index.m3u8
+#EXTINF:0,index.m3u8
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737537590/ei/1mOQZ9CpKMGI0u8Pjf-riQ8/ip/92.223.44.57/id/yIfvVtD3YTM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/uz/ss/1/siu/1/bui/AY2Et-NM8eM2uGBw6jWqheHvP8_SAaXFemBEXGmXNSdmZyug8SQOJhA3Cw_QmN90TEYKR7kcRQ/spc/9kzgDQsFV72rYIRL-bJxipWyHkOpxY9jfZY07W1jgNk6h9rSd8UyxW9G6yU4vGUlGg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Css%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgVfmc4bWeEqwxPEN3VTsRjgEKNhmF1V66QYAZOhAB3R4CIB8dwlxMjof56RMBNKMxrX74XP-CisoJxcdr9reisoWR/file/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/273/2023/11/09/InShot_20231109_104325335-4216165226.jpg" group-title="LIVE VOLLEY KOREA",CH1 WOMEN
