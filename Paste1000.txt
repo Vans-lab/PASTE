@@ -7,22 +7,22 @@
 
 
 #EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/72/2024/10/22/IMG_20241022_053438-4253425196.jpg" group-title="V LEAGUE",CH1 SD
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/xjbrqry0mk1apdffcqg2flhro6knrg5ny864/hdntl=exp=1737571747~acl=*%2fxjbrqry0mk1apdffcqg2flhro6knrg5ny864%2f*~data=hdntl~hmac=0ba2f8cc974758095b5d74776739e69a6cd1279e57aaf52bd0957220b5795864/chunklist_480.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/zlnuzwmi9ei5onejx4nvigx5cjmk9nulgzli/hdntl=exp=1737658184~acl=*%2fzlnuzwmi9ei5onejx4nvigx5cjmk9nulgzli%2f*~data=hdntl~hmac=7d435530890f4af9697fc4ee7d16a04ceeb2d86215ade7f17c7afc0e8f980e74/chunklist_480.stream.m3u8
 #EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/72/2024/10/22/IMG_20241022_053438-4253425196.jpg" group-title="V LEAGUE",CH2 HD
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/xjbrqry0mk1apdffcqg2flhro6knrg5ny864/hdntl=exp=1737571747~acl=*%2fxjbrqry0mk1apdffcqg2flhro6knrg5ny864%2f*~data=hdntl~hmac=0ba2f8cc974758095b5d74776739e69a6cd1279e57aaf52bd0957220b5795864/chunklist_720.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/zlnuzwmi9ei5onejx4nvigx5cjmk9nulgzli/hdntl=exp=1737658184~acl=*%2fzlnuzwmi9ei5onejx4nvigx5cjmk9nulgzli%2f*~data=hdntl~hmac=7d435530890f4af9697fc4ee7d16a04ceeb2d86215ade7f17c7afc0e8f980e74/chunklist_720.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/72/2024/10/22/IMG_20241022_053438-4253425196.jpg" group-title="V LEAGUE",CH3 FHD
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/xjbrqry0mk1apdffcqg2flhro6knrg5ny864/hdntl=exp=1737571747~acl=*%2fxjbrqry0mk1apdffcqg2flhro6knrg5ny864%2f*~data=hdntl~hmac=0ba2f8cc974758095b5d74776739e69a6cd1279e57aaf52bd0957220b5795864/chunklist_1080.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/zlnuzwmi9ei5onejx4nvigx5cjmk9nulgzli/hdntl=exp=1737658184~acl=*%2fzlnuzwmi9ei5onejx4nvigx5cjmk9nulgzli%2f*~data=hdntl~hmac=7d435530890f4af9697fc4ee7d16a04ceeb2d86215ade7f17c7afc0e8f980e74/chunklist_1080.stream.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-251M8m0Xnu1J_yL9Af-2jtznah3xSG6VRQ&s" group-title="V LEAGUE",SD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/tfksh80a8hxqkxpfkrzxvrlz84aw42dw5xas/hdntl=exp=1737571623~acl=*%2ftfksh80a8hxqkxpfkrzxvrlz84aw42dw5xas%2f*~data=hdntl~hmac=6527e85e62628ade8eda0c782a0252e57d53e6fd23e810e2b891136e931618a7/chunklist_480.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/4zvvaqvxcbc8pc0pq1c1hddhehed8w1p6vrz/hdntl=exp=1737657965~acl=*%2f4zvvaqvxcbc8pc0pq1c1hddhehed8w1p6vrz%2f*~data=hdntl~hmac=fd8d99dcac541d0fd752215cdfde5edd87f9dc7ba99e310975ad8ac031b85c2f/chunklist_480.stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-251M8m0Xnu1J_yL9Af-2jtznah3xSG6VRQ&s" group-title="V LEAGUE",HD 
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/tfksh80a8hxqkxpfkrzxvrlz84aw42dw5xas/hdntl=exp=1737571623~acl=*%2ftfksh80a8hxqkxpfkrzxvrlz84aw42dw5xas%2f*~data=hdntl~hmac=6527e85e62628ade8eda0c782a0252e57d53e6fd23e810e2b891136e931618a7/chunklist_720.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/4zvvaqvxcbc8pc0pq1c1hddhehed8w1p6vrz/hdntl=exp=1737657965~acl=*%2f4zvvaqvxcbc8pc0pq1c1hddhehed8w1p6vrz%2f*~data=hdntl~hmac=fd8d99dcac541d0fd752215cdfde5edd87f9dc7ba99e310975ad8ac031b85c2f/chunklist_720.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-251M8m0Xnu1J_yL9Af-2jtznah3xSG6VRQ&s" group-title="V LEAGUE",FHD 
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/tfksh80a8hxqkxpfkrzxvrlz84aw42dw5xas/hdntl=exp=1737571623~acl=*%2ftfksh80a8hxqkxpfkrzxvrlz84aw42dw5xas%2f*~data=hdntl~hmac=6527e85e62628ade8eda0c782a0252e57d53e6fd23e810e2b891136e931618a7/chunklist_1080.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/4zvvaqvxcbc8pc0pq1c1hddhehed8w1p6vrz/hdntl=exp=1737657965~acl=*%2f4zvvaqvxcbc8pc0pq1c1hddhehed8w1p6vrz%2f*~data=hdntl~hmac=fd8d99dcac541d0fd752215cdfde5edd87f9dc7ba99e310975ad8ac031b85c2f/chunklist_1080.stream.m3u8
 
 
 #EXTINF:-1 group-title="LOVB LIVE" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",104. SPOTV
