@@ -6,22 +6,22 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/11/megawati-hangestri-red-sparks.jpg?quality=60" group-title="LIVE VOLLEY KOREA",CH1
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/72/2024/10/22/IMG_20241022_053438-4253425196.jpg" group-title="V LEAGUE",CH1 SD
 https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/xjbrqry0mk1apdffcqg2flhro6knrg5ny864/hdntl=exp=1737571747~acl=*%2fxjbrqry0mk1apdffcqg2flhro6knrg5ny864%2f*~data=hdntl~hmac=0ba2f8cc974758095b5d74776739e69a6cd1279e57aaf52bd0957220b5795864/chunklist_480.stream.m3u8
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/11/megawati-hangestri-red-sparks.jpg?quality=60" group-title="LIVE VOLLEY KOREA",CH2
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/72/2024/10/22/IMG_20241022_053438-4253425196.jpg" group-title="V LEAGUE",CH2 HD
 https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/xjbrqry0mk1apdffcqg2flhro6knrg5ny864/hdntl=exp=1737571747~acl=*%2fxjbrqry0mk1apdffcqg2flhro6knrg5ny864%2f*~data=hdntl~hmac=0ba2f8cc974758095b5d74776739e69a6cd1279e57aaf52bd0957220b5795864/chunklist_720.stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/11/megawati-hangestri-red-sparks.jpg?quality=60" group-title="LIVE VOLLEY KOREA",CH3
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/72/2024/10/22/IMG_20241022_053438-4253425196.jpg" group-title="V LEAGUE",CH3 FHD
 https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/xjbrqry0mk1apdffcqg2flhro6knrg5ny864/hdntl=exp=1737571747~acl=*%2fxjbrqry0mk1apdffcqg2flhro6knrg5ny864%2f*~data=hdntl~hmac=0ba2f8cc974758095b5d74776739e69a6cd1279e57aaf52bd0957220b5795864/chunklist_1080.stream.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/11/logo-liga-voli-korea-2023-2.jpg" group-title="VOLLEY KOREA MEN",CH1 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-251M8m0Xnu1J_yL9Af-2jtznah3xSG6VRQ&s" group-title="V LEAGUE",SD
 https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/tfksh80a8hxqkxpfkrzxvrlz84aw42dw5xas/hdntl=exp=1737571623~acl=*%2ftfksh80a8hxqkxpfkrzxvrlz84aw42dw5xas%2f*~data=hdntl~hmac=6527e85e62628ade8eda0c782a0252e57d53e6fd23e810e2b891136e931618a7/chunklist_480.stream.m3u8
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/11/logo-liga-voli-korea-2023-2.jpg" group-title="VOLLEY KOREA MEN",CH2 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-251M8m0Xnu1J_yL9Af-2jtznah3xSG6VRQ&s" group-title="V LEAGUE",HD 
 https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/tfksh80a8hxqkxpfkrzxvrlz84aw42dw5xas/hdntl=exp=1737571623~acl=*%2ftfksh80a8hxqkxpfkrzxvrlz84aw42dw5xas%2f*~data=hdntl~hmac=6527e85e62628ade8eda0c782a0252e57d53e6fd23e810e2b891136e931618a7/chunklist_720.stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/11/logo-liga-voli-korea-2023-2.jpg" group-title="VOLLEY KOREA MEN",CH3 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-251M8m0Xnu1J_yL9Af-2jtznah3xSG6VRQ&s" group-title="V LEAGUE",FHD 
 https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/tfksh80a8hxqkxpfkrzxvrlz84aw42dw5xas/hdntl=exp=1737571623~acl=*%2ftfksh80a8hxqkxpfkrzxvrlz84aw42dw5xas%2f*~data=hdntl~hmac=6527e85e62628ade8eda0c782a0252e57d53e6fd23e810e2b891136e931618a7/chunklist_1080.stream.m3u8
 
 
