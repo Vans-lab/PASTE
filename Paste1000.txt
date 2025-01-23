@@ -5,7 +5,11 @@
 
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8J-2Z4z0PXLqlmSt_MMs9N47JkXqyTSakhQ&s" group-title="AUSTRALIA OPEN 2025", SEMIFINAL 2 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd|referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/72/2024/10/22/IMG_20241022_053438-4253425196.jpg" group-title="V LEAGUE",CH1 SD
 https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/zlnuzwmi9ei5onejx4nvigx5cjmk9nulgzli/hdntl=exp=1737658184~acl=*%2fzlnuzwmi9ei5onejx4nvigx5cjmk9nulgzli%2f*~data=hdntl~hmac=7d435530890f4af9697fc4ee7d16a04ceeb2d86215ade7f17c7afc0e8f980e74/chunklist_480.stream.m3u8
 #EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/72/2024/10/22/IMG_20241022_053438-4253425196.jpg" group-title="V LEAGUE",CH2 HD
