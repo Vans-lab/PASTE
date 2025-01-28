@@ -6,12 +6,12 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Red-Sparks-memburu-kemenangan-ke-1311333.jpg" group-title="V LEAGUE",CH1 SD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/bwli9nelwgekamkmlmvpcmgja6nyj6kx2d1t/hdntl=exp=1737906805~acl=*%2fbwli9nelwgekamkmlmvpcmgja6nyj6kx2d1t%2f*~data=hdntl~hmac=ad34e74b2025e64eb5496e4c30509c5c011e8831ae7f3ba453ef1779c15a3640/chunklist_480.stream.m3u8
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Red-Sparks-memburu-kemenangan-ke-1311333.jpg" group-title="V LEAGUE",CH2 HD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/bwli9nelwgekamkmlmvpcmgja6nyj6kx2d1t/hdntl=exp=1737906805~acl=*%2fbwli9nelwgekamkmlmvpcmgja6nyj6kx2d1t%2f*~data=hdntl~hmac=ad34e74b2025e64eb5496e4c30509c5c011e8831ae7f3ba453ef1779c15a3640/chunklist_720.stream.m3u8
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Red-Sparks-memburu-kemenangan-ke-1311333.jpg" group-title="V LEAGUE",CH3 FHD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/bwli9nelwgekamkmlmvpcmgja6nyj6kx2d1t/hdntl=exp=1737906805~acl=*%2fbwli9nelwgekamkmlmvpcmgja6nyj6kx2d1t%2f*~data=hdntl~hmac=ad34e74b2025e64eb5496e4c30509c5c011e8831ae7f3ba453ef1779c15a3640/chunklist_1080.stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp2vJddMYSBDMKfMZiU1_jT9SAAMGsKFD5dQ&s" group-title="V LEAGUE",CH1 SD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/arg06excekgw7soxjomwlkairnf83er4x4fy/hdntl=exp=1738081132~acl=*%2farg06excekgw7soxjomwlkairnf83er4x4fy%2f*~data=hdntl~hmac=b7653605de6292a9f384d6f414f455f1b1a420841857c305b5b778be2ad9ba52/chunklist_480.stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp2vJddMYSBDMKfMZiU1_jT9SAAMGsKFD5dQ&s" group-title="V LEAGUE",CH2 HD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/arg06excekgw7soxjomwlkairnf83er4x4fy/hdntl=exp=1738081132~acl=*%2farg06excekgw7soxjomwlkairnf83er4x4fy%2f*~data=hdntl~hmac=b7653605de6292a9f384d6f414f455f1b1a420841857c305b5b778be2ad9ba52/chunklist_720.stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp2vJddMYSBDMKfMZiU1_jT9SAAMGsKFD5dQ&s" group-title="V LEAGUE",CH3 FHD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/arg06excekgw7soxjomwlkairnf83er4x4fy/hdntl=exp=1738081132~acl=*%2farg06excekgw7soxjomwlkairnf83er4x4fy%2f*~data=hdntl~hmac=b7653605de6292a9f384d6f414f455f1b1a420841857c305b5b778be2ad9ba52/chunklist_1080.stream.m3u8
 
 
 
