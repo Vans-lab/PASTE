@@ -1522,6 +1522,360 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-720H.m3u8
 
+-----------------------------------------------------------------------------VOD BARAT--------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="Boy Kills World" tvg-logo="https://prolitenews.com/wp-content/uploads/2024/11/flow_image-une-fiche-film-cannes-2024.jpg" group-title="VOD BARAT", FLOW (2024)
+https://cinema21.my.id/play/y2b2dol_Ep0ac75F7fO5f6K4mulQBT36i9RSgU54E56a-_mdrDdVO1we_JvElnTu
+
+#EXTINF:-1 tvg-id="" tvg-name="Boy Kills World" tvg-logo="https://www.tvri.co.id/wp-content/uploads/2024/12/Sinopsis-Kraven-the-Hunter-2024.jpg" group-title="VOD BARAT", Kraven (2024)
+https://cinema21.my.id/play/y2b2dol_Ep0ac75F7fO5fwmLYTJT7LfrKi7umQig87vA06TKAB0im2mkDk3N-4gZ
+
+#EXTINF:-1 tvg-id="" tvg-name="Boy Kills World" tvg-logo="https://sumeks.disway.id/upload/ebd8e163f9fd64a906ce908177cd5b21.jpg" group-title="VOD BARAT", Carry On (2024)
+https://cinema21.my.id/play/y2b2dol_Ep0ac75F7fO5f6V47W-s3qVla2CUJuaCOF7dYHa86LhcwuRvZn9HUp9u
+
+#EXTINF:-1 tvg-id="" tvg-name="Boy Kills World" tvg-logo="https://asset-2.tstatic.net/pekanbaru/foto/bank/images/Nonton-Film-The-Beekeeper-2024-Sub-Indo-Film-Jason-Statham-Terbaru.jpg" group-title="VOD BARAT", The Beekeeper (2024)
+https://stream.hownetwork.xyz/yyy/the-beekeeper-2024-bluray_X_08ae710c/1000/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Boy Kills World" tvg-logo="https://moshfishreviews.com/wp-content/uploads/2022/06/uncharted.png?w=1200" group-title="VOD BARAT", Uncharted (2022)
+https://stream.hownetwork.xyz/xxx/uncharted-2022-bluray/11/480.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Boy Kills World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ43vwv8vzZ0xH8b5javBAkNzDPs-sMJz5pjg&s" group-title="VOD BARAT", Heretic (2024)
+https://cinema21.my.id/play/y2b2dol_Ep0ac75F7fO5f7zCJyDhA6u04zFnZePfDvF1T7ZfuXk5ABJEm-mpkgda
+
+#EXTINF:-1 tvg-id="" tvg-name="Boy Kills World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdsAry0TwQKe3GVN07KwRNBcIcwgtnE2S49KblEuKeRkpcc_SU6-vlsg8&s=10" group-title="VOD BARAT", Sonic The Hedgehog 3 (2024)
+https://delivery-node-d5smxwchgxpvan0s.voe-network.net/engine/hls2/01/13211/eumuzo0mkm7r_,n,.urlset/index-v1-a1.m3u8?t=z1A8Mf3y4pPJbrx8gGByvBHH81rzhkJZ6k-V6PtgBeU&s=1736168917&e=14400&f=66055729&node=GdZ/z4Uc5qHC+9gNoVwZpHP+k0Q+Wbb90yaT+3vXPAo=&i=0.1&sp=2500&asn=30633&q=n
+
+#EXTINF:-1 tvg-id="" tvg-name="Boy Kills World" tvg-logo="https://asset-2.tstatic.net/tribunnewswiki/foto/bank/images/FILM-Red-One-2024.jpg" group-title="VOD BARAT", Red One (2024)
+https://stream.hownetwork.xyz/xxx/red-one-2024-webdl_X_896c2bf0/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Boy Kills World" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/592/2024/10/08/Panda-Plan-Garut-XXI-1177835310.jpg" group-title="VOD BARAT", Panda Plan (2024)
+https://stream.hownetwork.xyz/xxx/panda-plan-2024-webdl_X_c46024d8/26/480.m3u8
+
+
+-----------------------------------------------------------------------------VOD--------------------------------------------------------------------------------
+#EXTINF:-1 type="movie" group-title="VOD INDO" tvg-logo="https://image.tmdb.org/t/p/original/hMpdF4B15DHMj5eK6I6IuvlA87k.jpg",Sesuai Aplikasi
+https://mastertv.tech/VOD/INDO/Sesuai.Aplikasi.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHq_W-x3VOn-o4kS-mkqoIo0qqnfV14ao-Zw&s", Guru-Guru Gokil (2020)
+https://mastertv.tech/VOD/INDO/Guru.Guru.Gokil.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTYwMWVkNWUtYjhlYS00MTA5LTk5ZDUtNWNlODEzNTllNjVkXkEyXkFqcGc@._V1_.jpg" group-title="VOD INDO", Air Mata di Ujung Sajadah (2023)
+https://mastertv.tech/VOD/INDO/Air.Mata.di.Ujung.Sajadah.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtDoCH2qeb1CLS7gnJUaS_pLQvuEn24-1fIw&s" group-title="VOD INDO", Perjalanan Pembuktian Cinta (2024)
+https://mastertv.tech/VOD/INDO/Perjalanan.Pembuktian.Cinta.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3b/99_Nama_Cinta.jpg" group-title="VOD INDO", 99 Nama Cinta
+https://mastertv.tech/VOD/INDO/99 Nama Cinta (2019).mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Land of Bad" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmVjZDkzMmUtOTA2Mi00YjJmLTkyYzctNjI5ODJhYWZkYTM1XkEyXkFqcGc@._V1_.jpg" group-title="VOD INDO", Srimulat: Hidup Memang Komedi (2023)
+https://mastertv.tech/VOD/INDO/Srimulat.Hidup.Memang.Komedi.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Land of Bad" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkyODc1MTMtMDRlOC00ZThhLTgwNGItZDc1MmQ1NjYyNmRiXkEyXkFqcGc@._V1_.jpg" group-title="VOD INDO", Ayo Putus (2022)
+https://mastertv.tech/VOD/INDO/Ayo.Putus.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Land of Bad" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLlqMzB4KMAGLFlBuU5zb9137atagabqvz7g&s" group-title="VOD INDO", Ayo Balikan (2024)
+https://mastertv.tech/VOD/INDO/Ayo.Balikan.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4RrqDvKKQycCjUXVX_h87-k8Rsd5GHQ3xUw&s" group-title="VOD INDO", Petualangan Sherina 2 (2023)
+https://mastertv.tech/VOD/INDO/Petualangan.Sherina.2.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Land of Bad" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/05/31/poster-catatan-harian-menantu-sinting.jpeg?w=600&q=90" group-title="VOD INDO", Catatan Harian Menantu Sinting (2024)
+https://mastertv.tech/VOD/INDO/Catatan.Harian.Menantu.Sinting.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ3KPu5T9eHzhFDzGNtAi6Cv6vKZ1JEugHfw&s" group-title="VOD INDO", Mungkin Esok Lusa Atau Nanti
+https://mastertv.tech/VOD/INDO/Mungkin.Esok.Lusa.Atau.Nanti.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.rri.co.id/berita/Padang/t/1724051525090-kang_mak/tbwjovmpuj6w0u4.jpeg" group-title="VOD INDO", Kang Mak from Pee Mak (2024)
+https://mastertv.tech/VOD1/INDO/kangmak.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjE1M2NkN2UtZjYzMS00ZjMyLWI2NDctYTFlMDg3MzI5MzJhXkEyXkFqcGc@._V1_.jpg" group-title="VOD INDO", Dilan 1990 (2018)
+https://mastertv.tech/VOD/INDO/Dilan.1990.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjE1M2NkN2UtZjYzMS00ZjMyLWI2NDctYTFlMDg3MzI5MzJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD INDO", Dilan 1991 (2019)
+https://mastertv.tech/VOD/INDO/Dilan.1991.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyYTc3ZWUtYzg0Ny00YTRiLWE4MTEtNDNiNDk0MGY2YWEzXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg" group-title="VOD INDO", Dilan 1983 (2024)
+https://mastertv.tech/VOD1/INDO/Dilan.1983.mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/936/2024/07/04/4-SEKAWAN-LIMO-3249509380.jpg" group-title="VOD INDO", Sekawan Limo
+https://mastertv.tech/VOD/INDO/Sekawan Limo (2024).mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.beritainn.com/wp-content/uploads/2024/02/Screenshot_2024_0207_123115.jpg" group-title="VOD INDO", Agak Laen
+https://mastertv.tech/VOD/INDO/agaklaen.mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://ruang.co.id/wp-content/uploads/2024/06/Ipar-Adalah-Maut.jpeg" group-title="VOD INDO", Ipar Adalah Maut
+https://mastertv.tech/VOD/INDO/ipar_adalah_maut.mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://cdn0-production-images-kly.akamaized.net/-oawNObNFBwO5lk_j7vQyMEmM8Q=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/4919347/original/043542100_1723724971-bonnie-0a1531.jpg" group-title="VOD INDO", Bonnie (2024)
+https://mastertv.tech/VOD/INDO/Bonnie.mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://dianns.org/wp-content/uploads/2024/04/van-der-1280x640.jpg" group-title="VOD INDO", Tenggelamnya Kapal Van Der Wijck (2013)
+https://mastertv.tech/VOD/INDO/tenggelamnya_kapal.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDMyNWJjZWMtOTg5ZC00NTM4LWFkM2MtMzJhODQ1ZTlkZmRmXkEyXkFqcGc@._V1_.jpg" group-title="HOROR INDO",Ada Hantu 2
+https://mastertv.tech/VOD/INDO/Ada.Hantu.2.mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://mediaindonesia.com/cdn-cgi/image/width=1200,quality=80,format=webp/https://asset.mediaindonesia.com/news/2024/07/f537c8bb02ff3572fdf34b97b280b4f4.jpg" group-title="HOROR INDO", Jurnal Risa by Risa Saraswati
+https://mastertv.tech/VOD/INDO/Jurnal Risa by Risa Saraswati (2024).mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZZHXmGrlP_rU-jzdBTzC26vMuwhSPmBV09Q&s" group-title="HOROR INDO", Sewu Dino (2023)
+https://mastertv.tech/VOD/INDO/Sewu.Dino.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzk0N2QxZDYtOGQxZS00NzIxLWFjM2YtMGZkNzkwMjU3MGQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="HOROR INDO", Pocong The Origin (2019)
+https://mastertv.tech/VOD/INDO/Pocong the Origin 2019.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/FnGivUsnxl0xxFci-emFh8Svoyk=/500x667/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4571530/original/012233300_1694445209-Poster_Film_Kisah_Tanah_Jawa.jpg" group-title="HOROR INDO",Kisah Tanah Jawa: Pocong Gundul (2023)
+https://mastertv.tech/VOD/INDO/Kisah.Tanah.Jawa.Pocong.Gundul.mp4
+
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/kapanlagi.com/p/img20231028wa0013.jpg" group-title="HOROR INDO", Siksa Neraka (2023)
+https://mastertv.tech/VOD/INDO/Siksa.Nerakap.mp4
+
+
+
+------------------------------------------------------------------------Squid Game – Season 1--------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="SERIES|Squid Game – Season 1", Episode 1
+https://stream.hownetwork.xyz/xxx/squid-game-season-1-episode-1-2021-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="SERIES|Squid Game – Season 1", Episode 2
+https://stream.hownetwork.xyz/xxx/squid-game-season-1-episode-2-2021-webdl_X_1988d11b/22/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="SERIES|Squid Game – Season 1", Episode 3
+https://stream.hownetwork.xyz/xxx/squid-game-season-1-episode-3-2021-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="SERIES|Squid Game – Season 1", Episode 4
+https://stream.hownetwork.xyz/xxx/squid-game-season-1-episode-4-2021-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="SERIES|Squid Game – Season 1", Episode 5
+https://stream.hownetwork.xyz/xxx/squid-game-season-1-episode-5-2021-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="SERIES|Squid Game – Season 1", Episode 6
+https://stream.hownetwork.xyz/xxx/squid-game-season-1-episode-6-2021-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="SERIES|Squid Game – Season 1", Episode 7
+https://stream.hownetwork.xyz/xxx/squid-game-season-1-episode-7-2021-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="SERIES|Squid Game – Season 1", Episode 8
+https://stream.hownetwork.xyz/xxx/squid-game-season-1-episode-8-2021-webdl_X_88562b72/18/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="SERIES|Squid Game – Season 1", Episode 9
+https://stream.hownetwork.xyz/xxx/squid-game-season-1-episode-9-2021-webdl/14/480.m3u8
+
+
+------------------------------------------------------------------------Squid Game – Season 2--------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumb.viva.id/vivagadget/665x374/2024/12/26/676d40fb85fde-link-nonton-film-squid-game-2-resolusi-hd-jernih-dan-audio-mantap_.jpg" group-title="SERIES|Squid Game – Season 2", Episode 1
+https://cdn1.turboviplay.cc/data1/676d81533a6ba/676d81533a6ba.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumb.viva.id/vivagadget/665x374/2024/12/26/676d40fb85fde-link-nonton-film-squid-game-2-resolusi-hd-jernih-dan-audio-mantap_.jpg" group-title="SERIES|Squid Game – Season 2", Episode 2
+https://cdn1.turboviplay.cc/data1/676d872398090/676d872398090480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumb.viva.id/vivagadget/665x374/2024/12/26/676d40fb85fde-link-nonton-film-squid-game-2-resolusi-hd-jernih-dan-audio-mantap_.jpg" group-title="SERIES|Squid Game – Season 2", Episode 3
+https://cdn1.turboviplay.cc/data1/676d8e4050d2f/676d8e4050d2f480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumb.viva.id/vivagadget/665x374/2024/12/26/676d40fb85fde-link-nonton-film-squid-game-2-resolusi-hd-jernih-dan-audio-mantap_.jpg" group-title="SERIES|Squid Game – Season 2", Episode 4
+https://cdn1.turboviplay.cc/data1/676d9410128b4/676d9410128b4480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumb.viva.id/vivagadget/665x374/2024/12/26/676d40fb85fde-link-nonton-film-squid-game-2-resolusi-hd-jernih-dan-audio-mantap_.jpg" group-title="SERIES|Squid Game – Season 2", Episode 5
+https://cdn1.turboviplay.cc/data1/676d9c62be105/676d9c62be105480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumb.viva.id/vivagadget/665x374/2024/12/26/676d40fb85fde-link-nonton-film-squid-game-2-resolusi-hd-jernih-dan-audio-mantap_.jpg" group-title="SERIES|Squid Game – Season 2", Episode 6
+https://cdn1.turboviplay.cc/data1/676da2255d8de/676da2255d8de480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumb.viva.id/vivagadget/665x374/2024/12/26/676d40fb85fde-link-nonton-film-squid-game-2-resolusi-hd-jernih-dan-audio-mantap_.jpg" group-title="SERIES|Squid Game – Season 2", Episode 7
+https://cdn1.turboviplay.cc/data1/676da925519a6/676da925519a6480.m3u8
+
+
+
+
+
+------------------------------------------------------------------------ZONA MERAH--------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX9U1S7KFWD9ug-RO9fXwGbKEGRTGrqaTMIw&s" group-title="SERIES|Zona Merah", Episode 1
+https://mastertv.tech/VOD/SERIES/ZonaMerah/Episode1.mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX9U1S7KFWD9ug-RO9fXwGbKEGRTGrqaTMIw&s" group-title="SERIES|Zona Merah", Episode 2
+https://mastertv.tech/VOD/SERIES/ZonaMerah/Episode2.mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX9U1S7KFWD9ug-RO9fXwGbKEGRTGrqaTMIw&s" group-title="SERIES|Zona Merah", Episode 3
+https://mastertv.tech/VOD/SERIES/ZonaMerah/Episode3.mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX9U1S7KFWD9ug-RO9fXwGbKEGRTGrqaTMIw&s" group-title="SERIES|Zona Merah", Episode 4
+https://mastertv.tech/VOD/SERIES/ZonaMerah/Zona_Merah_04.mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX9U1S7KFWD9ug-RO9fXwGbKEGRTGrqaTMIw&s" group-title="SERIES|Zona Merah", Episode 5
+https://mastertv.tech/VOD/SERIES/ZonaMerah/Zona_Merah_05.mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX9U1S7KFWD9ug-RO9fXwGbKEGRTGrqaTMIw&s" group-title="SERIES|Zona Merah", Episode 6
+https://mastertv.tech/VOD/SERIES/ZonaMerah/Zona Merah 06.mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX9U1S7KFWD9ug-RO9fXwGbKEGRTGrqaTMIw&s" group-title="SERIES|Zona Merah", Episode 7
+https://mastertv.tech/VOD/SERIES/ZonaMerah/Zona_Merah_Eps.7.mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX9U1S7KFWD9ug-RO9fXwGbKEGRTGrqaTMIw&s" group-title="SERIES|Zona Merah", Episode 8
+https://mastertv.tech/VOD/SERIES/ZonaMerah/Zona.Merah.S01E08.mp4
+
+
+------------------------------------------------------------------------ Main Api Season 1 ------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2024/11/08/196280271.jpg" group-title="SERIES|Main Api", Episode 1A
+https://mastertv.tech/VOD1/SERIES/MainApi/Main Api S01E1A.mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2024/11/08/196280271.jpg" group-title="SERIES|Main Api", Episode 1B
+https://mastertv.tech/VOD1/SERIES/MainApi/Main Api S01E1B.mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2024/11/08/196280271.jpg" group-title="SERIES|Main Api", Episode 2A
+https://mastertv.tech/VOD1/SERIES/MainApi/Main Api S01E2A.mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2024/11/08/196280271.jpg" group-title="SERIES|Main Api", Episode 2B
+https://mastertv.tech/VOD1/SERIES/MainApi/Main Api S01E2B.mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2024/11/08/196280271.jpg" group-title="SERIES|Main Api", Episode 3A
+https://mastertv.tech/VOD1/SERIES/MainApi/Main Api S01E3A.mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2024/11/08/196280271.jpg" group-title="SERIES|Main Api", Episode 3B
+https://mastertv.tech/VOD1/SERIES/MainApi/Main Api S01E3B.mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2024/11/08/196280271.jpg" group-title="SERIES|Main Api", Episode 4A
+https://mastertv.tech/VOD1/SERIES/MainApi/Main Api S01E4A.mp4
+
+
+
+
+------------------------------------------------------------------------Jangan Salahkan Aku Selingkuh--------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc4Wyib6UrySGf7RKe0YnT5ZgUFc4FnWQXcw&s" group-title="SERIES|Jangan Salahkan Aku Selingkuh", Episode 1
+https://mastertv.tech/VOD/SERIES/JanganSalahkanAkuSelingkuh/E01.mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc4Wyib6UrySGf7RKe0YnT5ZgUFc4FnWQXcw&s" group-title="SERIES|Jangan Salahkan Aku Selingkuh", Episode 2
+https://mastertv.tech/VOD/SERIES/JanganSalahkanAkuSelingkuh/E02.mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc4Wyib6UrySGf7RKe0YnT5ZgUFc4FnWQXcw&s" group-title="SERIES|Jangan Salahkan Aku Selingkuh", Episode 3
+https://mastertv.tech/VOD/SERIES/JanganSalahkanAkuSelingkuh/E03.mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc4Wyib6UrySGf7RKe0YnT5ZgUFc4FnWQXcw&s" group-title="SERIES|Jangan Salahkan Aku Selingkuh", Episode 4
+https://mastertv.tech/VOD/SERIES/JanganSalahkanAkuSelingkuh/E04.mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc4Wyib6UrySGf7RKe0YnT5ZgUFc4FnWQXcw&s" group-title="SERIES|Jangan Salahkan Aku Selingkuh", Episode 5
+https://mastertv.tech/VOD/SERIES/JanganSalahkanAkuSelingkuh/E05.mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc4Wyib6UrySGf7RKe0YnT5ZgUFc4FnWQXcw&s" group-title="SERIES|Jangan Salahkan Aku Selingkuh", Episode 6
+https://mastertv.tech/VOD/SERIES/JanganSalahkanAkuSelingkuh/E06.mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc4Wyib6UrySGf7RKe0YnT5ZgUFc4FnWQXcw&s" group-title="SERIES|Jangan Salahkan Aku Selingkuh", Episode 7
+https://mastertv.tech/VOD/SERIES/JanganSalahkanAkuSelingkuh/E07.mp4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc4Wyib6UrySGf7RKe0YnT5ZgUFc4FnWQXcw&s" group-title="SERIES|Jangan Salahkan Aku Selingkuh", Episode 8
+https://mastertv.tech/VOD/SERIES/JanganSalahkanAkuSelingkuh/E08.mp4
+
+
+------------------------------------------------------------------------PERTARUHAN--------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumbor.prod.vidiocdn.com/m6SLgaq7HPU5ONBmITXaSnyPFl8=/1280x720/filters:quality(70)/vidio-media-production/uploads/image/source/3766/889e75.jpg" group-title="SERIES|Pertaruhan", Episode 1
+
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumbor.prod.vidiocdn.com/m6SLgaq7HPU5ONBmITXaSnyPFl8=/1280x720/filters:quality(70)/vidio-media-production/uploads/image/source/3766/889e75.jpg" group-title="SERIES|Pertaruhan", Episode 2
+
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumbor.prod.vidiocdn.com/m6SLgaq7HPU5ONBmITXaSnyPFl8=/1280x720/filters:quality(70)/vidio-media-production/uploads/image/source/3766/889e75.jpg" group-title="SERIES|Pertaruhan", Episode 3
+
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumbor.prod.vidiocdn.com/m6SLgaq7HPU5ONBmITXaSnyPFl8=/1280x720/filters:quality(70)/vidio-media-production/uploads/image/source/3766/889e75.jpg" group-title="SERIES|Pertaruhan", Episode 4
+
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumbor.prod.vidiocdn.com/m6SLgaq7HPU5ONBmITXaSnyPFl8=/1280x720/filters:quality(70)/vidio-media-production/uploads/image/source/3766/889e75.jpg" group-title="SERIES|Pertaruhan", Episode 5
+
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumbor.prod.vidiocdn.com/m6SLgaq7HPU5ONBmITXaSnyPFl8=/1280x720/filters:quality(70)/vidio-media-production/uploads/image/source/3766/889e75.jpg" group-title="SERIES|Pertaruhan", Episode 6
+
+
+
+------------------------------------------------------------------------VOD LAWAS--------------------------------------------------------------------------------
+#EXTINF:-1  group-title="VOD LAWAS" tvg-logo="https://i.ytimg.com/vi/vwxSByDnmOI/maxresdefault.jpg", Jaka Sembung Sang Penakluk (1981)
+https://mastertv.tech/VOD/Sembung.Sang.Penakluk.1981.mp4
+
+#EXTINF:-1  group-title="VOD LAWAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM4d1o0zV33s5HrOQAq0cWslv89dJIQOlMhQ&s",Golok Setan (1983)
+#EXTVLCOPT:http-referrer=https://www.dubbindo.site/
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://files.dubbindo.site/upload/videos/2024/08/lYq1VwMaWoBLs5tEXXkR_04_f9dbd8a4b71f08ffb65ad7c9ddd4bad8_video_720p_converted.mp4
+
+#EXTINF:-1  group-title="VOD LAWAS" tvg-logo="https://thumb.viva.id/intipseleb/1265x711/2024/03/09/65ec2af128200-aksi-para-jawara-hajar-kompeni-saksikan-bajing-ireng-dan-jaka-sembung.jpg",Jaka Sembung Dan Bajing Ireng (1983)
+#EXTVLCOPT:http-referrer=https://www.dubbindo.site/
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://files.dubbindo.site/upload/videos/2024/09/ZybwvgQGvArA9NVjFpIv_22_f8b6e3f4f3c4b9ca88f8c346e01a5663_video_720p_converted.mp4
+
+#EXTINF:-1  group-title="VOD LAWAS" tvg-logo="https://thumb.viva.id/antvklik/1265x711/2024/05/06/6638a23cd32de-sinopsis-film-pancasona-sinema-laga-klasik-spesial-barry-prima_antvklik.jpg",Pancasona (1989)
+#EXTVLCOPT:http-referrer=https://www.dubbindo.site/
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://files.dubbindo.site/upload/videos/2024/09/DizwWtubPxapcycV3qb6_03_75d2be93845d93bd90944c07e9e03ce6_video_720p_converted.mp4
+
+#EXTINF:-1  group-title="VOD LAWAS" tvg-logo="https://pbs.twimg.com/media/FWTyhlOakAAQ6lD.jpg",Jaka Sembung dan Dewi Samudra (1990)
+#EXTVLCOPT:http-referrer=https://www.dubbindo.site/
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://files.dubbindo.site/upload/videos/2024/10/XZJjGAJOGcMtoSaPzUXu_14_ee36017c7a85e18dbfd4ceaad10a832f_video_720p_converted.mp4
+
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2JlYjI1ZDAtYjQyOC00Mjk2LTg1MWQtMjc0NmNmY2U3Y2E5XkEyXkFqcGc@._V1_.jpg",Benyamin Biang Kerok 1 (1972)
+http://abf.filmbluray.id/b6mp2h8
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f6/Benyamin_Biang_Kerok_2.jpg",Benyamin Biang Kerok 2 (2020)
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/55/Benyamin_Tukang_Ngibul.jpg",Benyamin Tukang Ngibul (1975)
+http://abf.filmbluray.id/4jtnuly
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e2/Bumi_Bulat_Bundar_%281983%3B_obverse%3B_wiki%29.jpg",Bumi Bulat Bundar (1983)
+http://abf.filmbluray.id/u1mz6p4
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/Catatan_si_boy.jpg",Catatan Si Boy 1 (1987)
+http://abf.filmbluray.id/d0xr764
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e8/Cabo_2.jpg/220px-Cabo_2.jpg",Catatan Si Boy 2 (1988)
+http://abf.filmbluray.id/ykxe9e0
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTI5ODhlMWItNjY1Mi00NDA3LWI2NjEtZGQyNGJiNTQyZjc3XkEyXkFqcGc@._V1_.jpg",Catatan Si Boy 3 (1990)
+http://abf.filmbluray.id/izf4ks7
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb6uHhSC__stVrRhfbfAS1ceR8wlxJNadMYw&s",Catatan Si Boy 4 (1990)
+http://abf.filmbluray.id/qz4odn2
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTkzZGQzMmYtNjc0NS00YTMwLWIzNjItNjgyZjAxZjFkODFlXkEyXkFqcGc@._V1_.jpg",Catatan Si Boy 5 (1991)
+http://abf.filmbluray.id/1ewwag1
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://media.themoviedb.org/t/p/w500/toCvWrpx25gp7bNls0XbqrjuvUI.jpg",Gadis Pendekar (1990)
+http://abf.filmbluray.id/ddn6jok
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://www.flkcinema.com/Uploads/RSleeves/Buronan-(Gembong-Wulung)-NEW.gif,Gembong Wulung (Buronan) (1989)
+http://abf.filmbluray.id/ub4y18f
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTc0MGI0YzctNzAxOC00NTFkLWE0MDAtYWE4MDczMzliNDljXkEyXkFqcGc@._V1_.jpg",Gundala Putra Petir (1981)
+http://abf.filmbluray.id/mg755oj
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://content1.jdmagicbox.com/comp/jd_social/news/2018jul26/image-152324-uko6wyic9l.jpg?fit=around|210:308&crop=210:308;*,*",Isabella (1990)
+http://abf.filmbluray.id/9kdepbi
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://media.themoviedb.org/t/p/w500/2iQXqLv7WSlbMel8cbFBDZ3xx01.jpg",Jampang (1989)
+http://abf.filmbluray.id/2n3v6ev
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://media.themoviedb.org/t/p/w500/r0yH9Zi3kzXMm6GTIV45cVbFEXE.jpg",Mandala Dari Sungai Ular (1987)
+http://abf.filmbluray.id/i6hsojv
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTg3ZmQzM2ItNmI4Yi00ZmVkLWJhZmQtOTVhOTU0ODljMDJkXkEyXkFqcGc@._V1_.jpg",Mat Peci (1978)
+http://abf.filmbluray.id/lptqclw
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://media.themoviedb.org/t/p/w116_and_h174_face/ulAKK4X45LTG6NfGlLztNG8fQdm.jpg",Musuh Bebuyutan (Benyamin S) (1974)
+http://abf.filmbluray.id/1pxt4q4
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDk5ZWY0MmQtYWUxMy00YmFhLThmMzMtNDk0NmVjNDE0ZmNlXkEyXkFqcGc@._V1_.jpg",Nagabonar (1986)
+http://abf.filmbluray.id/7uqjtej
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://file.indonesianfilmcenter.com/filmdata/images/cover/coverIdFC_16062011_94382.jpg",Ngipri Monyet (1988)
+http://abf.filmbluray.id/unpcc1i
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://live.staticflickr.com/4105/35255972600_1924c24b7a_b.jpg",Pasukan Berani Mati (1982)
+http://abf.filmbluray.id/0g6dv1t
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWViYWUwNWMtMDliYS00OWY5LTkxNzktZDcyYTMzYmZmZDU5XkEyXkFqcGc@._V1_.jpg",Penumpasan Pengkhianatan G 30 S PKI (1984)
+http://abf.filmbluray.id/ksu7miq
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2022/09/30/film-penumpasan-sisa-sisa-pki-di-blitar-selatan-operasi-trisula_11.jpeg?w=1200",Penumpasan Sisa-sisa PKI di Blitar Selatan - Trisula (1987)
+http://abf.filmbluray.id/uqrrnvz
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/22/Ratu_ilmu_hitam.jpg",Ratu Ilmu Hitam (1981)
+http://abf.filmbluray.id/xtqso6i
+
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjgxYWQzY2ItY2ZjMy00MmVlLWFkMGQtMTNlY2FhZDA3OTBkXkEyXkFqcGc@._V1_.jpg",Sangkuriang (Suzanna) (1982)
+http://abf.filmbluray.id/v2z5f79
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BODk2NjFkZjgtMWYzMC00MTFhLTkzZDctNGJkZjMyOTczZDBhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Saur Sepuh 1 : Satria Madangkara (1988)
+http://abf.filmbluray.id/dmk0xbv
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTYwMGJhMjAtMzcyNy00OWNjLThjZGUtYTkxMGM1OTljOTNhXkEyXkFqcGc@._V1_.jpg",Saur Sepuh 2 : Pesanggrahan Keramat (1989)
+http://abf.filmbluray.id/sdjejy6
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://assets-a1.kompasiana.com/statics/crawl/5529f65e6ea834731f8b4567.jpeg",Saur Sepuh 3 : Kembang Gunung Lawu (1990)
+http://abf.filmbluray.id/gzw2s5b
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWFlZjg0ZTgtMGRlNi00Y2M1LTgyMDQtZmJiNGMyNGE1YzJiXkEyXkFqcGc@._V1_.jpg",Saur Sepuh 4 : Titisan Darah Biru (1991)
+http://abf.filmbluray.id/1mi9n8d
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzhiNWRkMzAtOTI0Ny00YTdkLWExYjYtYThhNDUyMmMxNzMyXkEyXkFqcGc@._V1_.jpg",Sengatan Cobra (Barry Prima) (1986)
+http://abf.filmbluray.id/fomlxdl
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/39/Banteng_Betawi_%281971%3B_obverse%3B_wikijpg.jpg",Si Pitung : Banteng Betawi (1970)
+http://abf.filmbluray.id/cj4kg0c
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/56/Sunan_Kalijaga_%281983%3B_obverse%3B_wiki%29.jpg/220px-Sunan_Kalijaga_%281983%3B_obverse%3B_wiki%29.jpg",Sunan Kalijaga (1983)
+http://abf.filmbluray.id/0reykg8
+#EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://media.themoviedb.org/t/p/w500/7FRur4khKxGohSn2L5AWI1NeflY.jpg",Tujuh Wanita dalam Tugas Rahasia (1983)
+http://abf.filmbluray.id/9lv6x7j
+
 #EXTINF:-1 tvg-id="Vision Prime HD - [Channel 1].id" tvg-logo="https://iili.io/JZInBLX.png" group-title="NATIONAL ENTERTAINMENT",Vision Prime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50056951f6d5f5fbaf286cd99c965379:4ec78e3b7d66d1db3815a127f792b604
