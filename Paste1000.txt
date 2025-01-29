@@ -7,11 +7,11 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UbT0lRFwsFk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDFMpJDMLpQabRUr8qnHosvvKte2w" group-title="V LEAGUE",CH1 SD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/arg06excekgw7soxjomwlkairnf83er4x4fy/hdntl=exp=1738081132~acl=*%2farg06excekgw7soxjomwlkairnf83er4x4fy%2f*~data=hdntl~hmac=b7653605de6292a9f384d6f414f455f1b1a420841857c305b5b778be2ad9ba52/chunklist_480.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/yh8duacqilgtnlsiby2bipite5rgs32log1y/hdntl=exp=1738166862~acl=*%2fyh8duacqilgtnlsiby2bipite5rgs32log1y%2f*~data=hdntl~hmac=2c497710249f8bf4cb18cf2a3dd74b06f5d04f51b035c37061f3746d84303135/chunklist_480.stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UbT0lRFwsFk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDFMpJDMLpQabRUr8qnHosvvKte2w" group-title="V LEAGUE",CH2 HD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/arg06excekgw7soxjomwlkairnf83er4x4fy/hdntl=exp=1738081132~acl=*%2farg06excekgw7soxjomwlkairnf83er4x4fy%2f*~data=hdntl~hmac=b7653605de6292a9f384d6f414f455f1b1a420841857c305b5b778be2ad9ba52/chunklist_720.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/yh8duacqilgtnlsiby2bipite5rgs32log1y/hdntl=exp=1738166862~acl=*%2fyh8duacqilgtnlsiby2bipite5rgs32log1y%2f*~data=hdntl~hmac=2c497710249f8bf4cb18cf2a3dd74b06f5d04f51b035c37061f3746d84303135/chunklist_720.stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UbT0lRFwsFk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDFMpJDMLpQabRUr8qnHosvvKte2w" group-title="V LEAGUE",CH3 FHD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/arg06excekgw7soxjomwlkairnf83er4x4fy/hdntl=exp=1738081132~acl=*%2farg06excekgw7soxjomwlkairnf83er4x4fy%2f*~data=hdntl~hmac=b7653605de6292a9f384d6f414f455f1b1a420841857c305b5b778be2ad9ba52/chunklist_1080.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/yh8duacqilgtnlsiby2bipite5rgs32log1y/hdntl=exp=1738166862~acl=*%2fyh8duacqilgtnlsiby2bipite5rgs32log1y%2f*~data=hdntl~hmac=2c497710249f8bf4cb18cf2a3dd74b06f5d04f51b035c37061f3746d84303135/chunklist_1080.stream.m3u8
 
 
 
