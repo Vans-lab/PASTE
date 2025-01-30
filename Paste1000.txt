@@ -6,11 +6,11 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UbT0lRFwsFk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDFMpJDMLpQabRUr8qnHosvvKte2w" group-title="V LEAGUE",CH1 SD
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/33x47:1037x722/750x500/webp/photo/p1/824/2025/01/29/FB_IMG_1738132230154-3287811870.jpg" group-title="V LEAGUE",RED SPARKS VS PINK SPIDER SD
 https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/yh8duacqilgtnlsiby2bipite5rgs32log1y/hdntl=exp=1738166862~acl=*%2fyh8duacqilgtnlsiby2bipite5rgs32log1y%2f*~data=hdntl~hmac=2c497710249f8bf4cb18cf2a3dd74b06f5d04f51b035c37061f3746d84303135/chunklist_480.stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UbT0lRFwsFk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDFMpJDMLpQabRUr8qnHosvvKte2w" group-title="V LEAGUE",CH2 HD
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/33x47:1037x722/750x500/webp/photo/p1/824/2025/01/29/FB_IMG_1738132230154-3287811870.jpg" group-title="V LEAGUE",RED SPARKS VS PINK SPIDER HD
 https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/yh8duacqilgtnlsiby2bipite5rgs32log1y/hdntl=exp=1738166862~acl=*%2fyh8duacqilgtnlsiby2bipite5rgs32log1y%2f*~data=hdntl~hmac=2c497710249f8bf4cb18cf2a3dd74b06f5d04f51b035c37061f3746d84303135/chunklist_720.stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UbT0lRFwsFk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDFMpJDMLpQabRUr8qnHosvvKte2w" group-title="V LEAGUE",CH3 FHD
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/33x47:1037x722/750x500/webp/photo/p1/824/2025/01/29/FB_IMG_1738132230154-3287811870.jpg" group-title="V LEAGUE",RED SPARKS VS PINK SPIDER FHD
 https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/yh8duacqilgtnlsiby2bipite5rgs32log1y/hdntl=exp=1738166862~acl=*%2fyh8duacqilgtnlsiby2bipite5rgs32log1y%2f*~data=hdntl~hmac=2c497710249f8bf4cb18cf2a3dd74b06f5d04f51b035c37061f3746d84303135/chunklist_1080.stream.m3u8
 
 
