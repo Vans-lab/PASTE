@@ -6,22 +6,22 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/33x47:1037x722/750x500/webp/photo/p1/824/2025/01/29/FB_IMG_1738132230154-3287811870.jpg" group-title="V LEAGUE",RED SPARKS VS PINK SPIDER SD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/lkiwfrgn1vepqaovpfxyambib4hicr1hezve/hdntl=exp=1738243820~acl=*%2flkiwfrgn1vepqaovpfxyambib4hicr1hezve%2f*~data=hdntl~hmac=17f4838298016f7404028fe4ffc640beed3d4ec0511a09f38fdf6a9d20227a8a/chunklist_480.stream.m3u8
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/33x47:1037x722/750x500/webp/photo/p1/824/2025/01/29/FB_IMG_1738132230154-3287811870.jpg" group-title="V LEAGUE",RED SPARKS VS PINK SPIDER HD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/lkiwfrgn1vepqaovpfxyambib4hicr1hezve/hdntl=exp=1738243820~acl=*%2flkiwfrgn1vepqaovpfxyambib4hicr1hezve%2f*~data=hdntl~hmac=17f4838298016f7404028fe4ffc640beed3d4ec0511a09f38fdf6a9d20227a8a/chunklist_720.stream.m3u8
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/33x47:1037x722/750x500/webp/photo/p1/824/2025/01/29/FB_IMG_1738132230154-3287811870.jpg" group-title="V LEAGUE",RED SPARKS VS PINK SPIDER FHD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/lkiwfrgn1vepqaovpfxyambib4hicr1hezve/hdntl=exp=1738243820~acl=*%2flkiwfrgn1vepqaovpfxyambib4hicr1hezve%2f*~data=hdntl~hmac=17f4838298016f7404028fe4ffc640beed3d4ec0511a09f38fdf6a9d20227a8a/chunklist_1080.stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXwaCKO6mJatUUTgwYYUxQddINR4DgFxhUku0NG2rGn9TjpjNAx4Eo-O9V4_QHrpusknk&usqp=CAU" group-title="V LEAGUE",CH SD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/dgzn9k3d0id6oi8zxtbn8m34jgcp1swwg1zj/hdntl=exp=1738349453~acl=*%2fdgzn9k3d0id6oi8zxtbn8m34jgcp1swwg1zj%2f*~data=hdntl~hmac=8bf4851eff4e696a8faf1d78306434c4e7d4902f306fc28e6f1a65d4bd9b6728/chunklist_480.stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXwaCKO6mJatUUTgwYYUxQddINR4DgFxhUku0NG2rGn9TjpjNAx4Eo-O9V4_QHrpusknk&usqp=CAU" group-title="V LEAGUE",CH HD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/dgzn9k3d0id6oi8zxtbn8m34jgcp1swwg1zj/hdntl=exp=1738349453~acl=*%2fdgzn9k3d0id6oi8zxtbn8m34jgcp1swwg1zj%2f*~data=hdntl~hmac=8bf4851eff4e696a8faf1d78306434c4e7d4902f306fc28e6f1a65d4bd9b6728/chunklist_720.stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXwaCKO6mJatUUTgwYYUxQddINR4DgFxhUku0NG2rGn9TjpjNAx4Eo-O9V4_QHrpusknk&usqp=CAU" group-title="V LEAGUE",CH FHD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/dgzn9k3d0id6oi8zxtbn8m34jgcp1swwg1zj/hdntl=exp=1738349453~acl=*%2fdgzn9k3d0id6oi8zxtbn8m34jgcp1swwg1zj%2f*~data=hdntl~hmac=8bf4851eff4e696a8faf1d78306434c4e7d4902f306fc28e6f1a65d4bd9b6728/chunklist_1080.stream.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",SD
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/aihb8dmwkgtikp3hk18bhwfqkjoxo9lykqa2/hdntl=exp=1737899361~acl=*%2faihb8dmwkgtikp3hk18bhwfqkjoxo9lykqa2%2f*~data=hdntl~hmac=3f02d2433e973ed36c61a6515c26895f7111038503dc9e1b1cea574b5240fa0e/chunklist_480.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/4pttsveqywps9watcyxa3fljb19fd9q8i2gn/hdntl=exp=1738349715~acl=*%2f4pttsveqywps9watcyxa3fljb19fd9q8i2gn%2f*~data=hdntl~hmac=da5bf8a16606c4152ffbb4a2e9baa8330f2c9febf01a7dbd3d1385d7de94e041/chunklist_480.stream.m3u8
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",HD 
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/aihb8dmwkgtikp3hk18bhwfqkjoxo9lykqa2/hdntl=exp=1737899361~acl=*%2faihb8dmwkgtikp3hk18bhwfqkjoxo9lykqa2%2f*~data=hdntl~hmac=3f02d2433e973ed36c61a6515c26895f7111038503dc9e1b1cea574b5240fa0e/chunklist_720.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/4pttsveqywps9watcyxa3fljb19fd9q8i2gn/hdntl=exp=1738349715~acl=*%2f4pttsveqywps9watcyxa3fljb19fd9q8i2gn%2f*~data=hdntl~hmac=da5bf8a16606c4152ffbb4a2e9baa8330f2c9febf01a7dbd3d1385d7de94e041/chunklist_720.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",FHD 
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/aihb8dmwkgtikp3hk18bhwfqkjoxo9lykqa2/hdntl=exp=1737899361~acl=*%2faihb8dmwkgtikp3hk18bhwfqkjoxo9lykqa2%2f*~data=hdntl~hmac=3f02d2433e973ed36c61a6515c26895f7111038503dc9e1b1cea574b5240fa0e/chunklist_1080.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/4pttsveqywps9watcyxa3fljb19fd9q8i2gn/hdntl=exp=1738349715~acl=*%2f4pttsveqywps9watcyxa3fljb19fd9q8i2gn%2f*~data=hdntl~hmac=da5bf8a16606c4152ffbb4a2e9baa8330f2c9febf01a7dbd3d1385d7de94e041/chunklist_1080.stream.m3u8
 
 
 #EXTINF:-1 group-title="LOVB LIVE" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",104. SPOTV
