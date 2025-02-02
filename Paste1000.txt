@@ -5,22 +5,13 @@
 
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="LIVE FUTSAL",Soccer Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://iili.io/JMp3kla.png" group-title="LIVE FUTSAL",MNCTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXwaCKO6mJatUUTgwYYUxQddINR4DgFxhUku0NG2rGn9TjpjNAx4Eo-O9V4_QHrpusknk&usqp=CAU" group-title="V LEAGUE",CH SD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/88spAES742A/maxresdefault.jpg" group-title="V LEAGUE",CH SD
 https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/e7ufr6rxomwpbkxtcgneh0hsq4jaksugr9sz/hdntl=exp=1738424924~acl=*%2fe7ufr6rxomwpbkxtcgneh0hsq4jaksugr9sz%2f*~data=hdntl~hmac=41e0cc5ba510561dce74bae4b15e8d260fe2d9464b3cd40d9796a0a132cfbdde/chunklist_480.stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXwaCKO6mJatUUTgwYYUxQddINR4DgFxhUku0NG2rGn9TjpjNAx4Eo-O9V4_QHrpusknk&usqp=CAU" group-title="V LEAGUE",CH HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/88spAES742A/maxresdefault.jpg" group-title="V LEAGUE",CH HD
 https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/e7ufr6rxomwpbkxtcgneh0hsq4jaksugr9sz/hdntl=exp=1738424924~acl=*%2fe7ufr6rxomwpbkxtcgneh0hsq4jaksugr9sz%2f*~data=hdntl~hmac=41e0cc5ba510561dce74bae4b15e8d260fe2d9464b3cd40d9796a0a132cfbdde/chunklist_720.stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXwaCKO6mJatUUTgwYYUxQddINR4DgFxhUku0NG2rGn9TjpjNAx4Eo-O9V4_QHrpusknk&usqp=CAU" group-title="V LEAGUE",CH FHD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/88spAES742A/maxresdefault.jpg" group-title="V LEAGUE",CH FHD
 https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/e7ufr6rxomwpbkxtcgneh0hsq4jaksugr9sz/hdntl=exp=1738424924~acl=*%2fe7ufr6rxomwpbkxtcgneh0hsq4jaksugr9sz%2f*~data=hdntl~hmac=41e0cc5ba510561dce74bae4b15e8d260fe2d9464b3cd40d9796a0a132cfbdde/chunklist_1080.stream.m3u8
 
 
