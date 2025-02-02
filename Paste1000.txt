@@ -17,12 +17,12 @@ https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/e7ufr6rxomwpbkxtcgne
 
 
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",SD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/wly06qimrz2704gsvivpbzgo0ju1jxfuj529/hdntl=exp=1738420523~acl=*%2fwly06qimrz2704gsvivpbzgo0ju1jxfuj529%2f*~data=hdntl~hmac=974e0fb4e787af1c7627216686ffdf4a80af97af56e5a2d9f1e4924e2840f33f/chunklist_480.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/ikfp7x99u8ud5esosve95hoq1juw3ngr0zw3/hdntl=exp=1738504971~acl=*%2fikfp7x99u8ud5esosve95hoq1juw3ngr0zw3%2f*~data=hdntl~hmac=c1beded46a989ca3b261a300a2c861bf916fbb5ea0b78428e328d01d37f96c32/chunklist_480.stream.m3u8
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",HD 
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/wly06qimrz2704gsvivpbzgo0ju1jxfuj529/hdntl=exp=1738420523~acl=*%2fwly06qimrz2704gsvivpbzgo0ju1jxfuj529%2f*~data=hdntl~hmac=974e0fb4e787af1c7627216686ffdf4a80af97af56e5a2d9f1e4924e2840f33f/chunklist_720.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/ikfp7x99u8ud5esosve95hoq1juw3ngr0zw3/hdntl=exp=1738504971~acl=*%2fikfp7x99u8ud5esosve95hoq1juw3ngr0zw3%2f*~data=hdntl~hmac=c1beded46a989ca3b261a300a2c861bf916fbb5ea0b78428e328d01d37f96c32/chunklist_720.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",FHD 
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/wly06qimrz2704gsvivpbzgo0ju1jxfuj529/hdntl=exp=1738420523~acl=*%2fwly06qimrz2704gsvivpbzgo0ju1jxfuj529%2f*~data=hdntl~hmac=974e0fb4e787af1c7627216686ffdf4a80af97af56e5a2d9f1e4924e2840f33f/chunklist_1080.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/ikfp7x99u8ud5esosve95hoq1juw3ngr0zw3/hdntl=exp=1738504971~acl=*%2fikfp7x99u8ud5esosve95hoq1juw3ngr0zw3%2f*~data=hdntl~hmac=c1beded46a989ca3b261a300a2c861bf916fbb5ea0b78428e328d01d37f96c32/chunklist_1080.stream.m3u8
 
 
 #EXTINF:-1 group-title="LOVB LIVE" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",104. SPOTV
