@@ -32,7 +32,23 @@ https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/ikfp7x99u8ud5esosve
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aThN9BYQG4Y0_qtqym6rOwM7bNs=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/59/bri-liga-1-2fbb85.png" group-title="LIGA 1",INDOSIAR LIVE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205
 
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png" group-title="LIGA 1",INDOSIAR 2
+https://mantul.biz.id:443/inetwork/gayanet12/5286.ts
+
+#EXTINF:-1 tvg-id="dummy" tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="LIGA 1",Indosiar 3
+https://perfecttv.net:443/Perfecttv/Perfecttv/1604
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2ZKpE7V.png" group-title="LIGA 1",INDOSIAR LIGA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
 
 ######################################################################TV CHANNELS#############################################################################################################################################
 
