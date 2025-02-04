@@ -24,6 +24,11 @@ https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/m61bm9hmtcidxp6ezbs
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",FHD 
 https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/m61bm9hmtcidxp6ezbsdp7inc71lux9nheps/hdntl=exp=1738696061~acl=*%2fm61bm9hmtcidxp6ezbsdp7inc71lux9nheps%2f*~data=hdntl~hmac=bd2643c410054e0af53f4cec54674345a0d64b9de3baf982c3c959f8fffdfaca/chunklist_1080.stream.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png" group-title="V LEAGUE",TVRI SPORT
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166686
+
 
 #EXTINF:-1 group-title="LOVB LIVE" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",104. SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
