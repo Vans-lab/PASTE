@@ -7,21 +7,22 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2024/03/03/586672806.jpg" group-title="V LEAGUE",CH SD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/l95jmjsslrphvkv7ezrc28ihr9gy7lyrcrzu/hdntl=exp=1738781216~acl=*%2fl95jmjsslrphvkv7ezrc28ihr9gy7lyrcrzu%2f*~data=hdntl~hmac=951da9e396e93b5edece91b589e24b6628fb8dee0960806e36d063cd6f989eaf/chunklist_480.stream.m3u8
-#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2024/03/03/586672806.jpg" group-title="V LEAGUE",CH HD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/l95jmjsslrphvkv7ezrc28ihr9gy7lyrcrzu/hdntl=exp=1738781216~acl=*%2fl95jmjsslrphvkv7ezrc28ihr9gy7lyrcrzu%2f*~data=hdntl~hmac=951da9e396e93b5edece91b589e24b6628fb8dee0960806e36d063cd6f989eaf/chunklist_720.stream.m3u8
-#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2024/03/03/586672806.jpg" group-title="V LEAGUE",CH FHD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/l95jmjsslrphvkv7ezrc28ihr9gy7lyrcrzu/hdntl=exp=1738781216~acl=*%2fl95jmjsslrphvkv7ezrc28ihr9gy7lyrcrzu%2f*~data=hdntl~hmac=951da9e396e93b5edece91b589e24b6628fb8dee0960806e36d063cd6f989eaf/chunklist_1080.stream.m3u8
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Expressway-Hi-Pass-vs-Pink-Spiders-Kamis-6-Februari-2033.jpg" group-title="V LEAGUE",CH SD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/aiqqcrrhm6onslfviqdlfppexihsxr6znslp/hdntl=exp=1738867776~acl=*%2faiqqcrrhm6onslfviqdlfppexihsxr6znslp%2f*~data=hdntl~hmac=d69f0dadf76c40058c8ed31878162d7c5b2dfbffe0cf3d388ac5bf2626da58f6/chunklist_480.stream.m3u8
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Expressway-Hi-Pass-vs-Pink-Spiders-Kamis-6-Februari-2033.jpg" group-title="V LEAGUE",CH HD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/aiqqcrrhm6onslfviqdlfppexihsxr6znslp/hdntl=exp=1738867776~acl=*%2faiqqcrrhm6onslfviqdlfppexihsxr6znslp%2f*~data=hdntl~hmac=d69f0dadf76c40058c8ed31878162d7c5b2dfbffe0cf3d388ac5bf2626da58f6/chunklist_720.stream.m3u8
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Expressway-Hi-Pass-vs-Pink-Spiders-Kamis-6-Februari-2033.jpg" group-title="V LEAGUE",CH FHD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/aiqqcrrhm6onslfviqdlfppexihsxr6znslp/hdntl=exp=1738867776~acl=*%2faiqqcrrhm6onslfviqdlfppexihsxr6znslp%2f*~data=hdntl~hmac=d69f0dadf76c40058c8ed31878162d7c5b2dfbffe0cf3d388ac5bf2626da58f6/chunklist_1080.stream.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",SD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/qr0hcug5jbu3q5ryupfgfxtcmvh2jromfldk/hdntl=exp=1738781375~acl=*%2fqr0hcug5jbu3q5ryupfgfxtcmvh2jromfldk%2f*~data=hdntl~hmac=95248deebd1d73f8876b79e5a7e315881b554c2301818333166ad02fae68ec40/chunklist_480.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/04jpmadv9v5ngfd2yveq9miryjygy59et4a7/hdntl=exp=1738867569~acl=*%2f04jpmadv9v5ngfd2yveq9miryjygy59et4a7%2f*~data=hdntl~hmac=da38cdf97367491de1f5e8965de0c193203f6725141c378b4ba995c8ea03e771/chunklist_480.stream.m3u8
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",HD 
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/qr0hcug5jbu3q5ryupfgfxtcmvh2jromfldk/hdntl=exp=1738781375~acl=*%2fqr0hcug5jbu3q5ryupfgfxtcmvh2jromfldk%2f*~data=hdntl~hmac=95248deebd1d73f8876b79e5a7e315881b554c2301818333166ad02fae68ec40/chunklist_720.stream.m3u8
- 
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/qr0hcug5jbu3q5ryupfgfxtcmvh2jromfldk/hdntl=exp=1738781375~acl=*%2fqr0hcug5jbu3q5ryupfgfxtcmvh2jromfldk%2f*~data=hdntl~hmac=95248deebd1d73f8876b79e5a7e315881b554c2301818333166ad02fae68ec40/chunklist_1080.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/04jpmadv9v5ngfd2yveq9miryjygy59et4a7/hdntl=exp=1738867569~acl=*%2f04jpmadv9v5ngfd2yveq9miryjygy59et4a7%2f*~data=hdntl~hmac=da38cdf97367491de1f5e8965de0c193203f6725141c378b4ba995c8ea03e771/chunklist_720.stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",FHD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/04jpmadv9v5ngfd2yveq9miryjygy59et4a7/hdntl=exp=1738867569~acl=*%2f04jpmadv9v5ngfd2yveq9miryjygy59et4a7%2f*~data=hdntl~hmac=da38cdf97367491de1f5e8965de0c193203f6725141c378b4ba995c8ea03e771/chunklist_1080.stream.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
