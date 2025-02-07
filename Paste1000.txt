@@ -7,12 +7,12 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Expressway-Hi-Pass-vs-Pink-Spiders-Kamis-6-Februari-2033.jpg" group-title="V LEAGUE",CH SD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/aiqqcrrhm6onslfviqdlfppexihsxr6znslp/hdntl=exp=1738867776~acl=*%2faiqqcrrhm6onslfviqdlfppexihsxr6znslp%2f*~data=hdntl~hmac=d69f0dadf76c40058c8ed31878162d7c5b2dfbffe0cf3d388ac5bf2626da58f6/chunklist_480.stream.m3u8
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Expressway-Hi-Pass-vs-Pink-Spiders-Kamis-6-Februari-2033.jpg" group-title="V LEAGUE",CH HD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/aiqqcrrhm6onslfviqdlfppexihsxr6znslp/hdntl=exp=1738867776~acl=*%2faiqqcrrhm6onslfviqdlfppexihsxr6znslp%2f*~data=hdntl~hmac=d69f0dadf76c40058c8ed31878162d7c5b2dfbffe0cf3d388ac5bf2626da58f6/chunklist_720.stream.m3u8
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Expressway-Hi-Pass-vs-Pink-Spiders-Kamis-6-Februari-2033.jpg" group-title="V LEAGUE",CH FHD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/aiqqcrrhm6onslfviqdlfppexihsxr6znslp/hdntl=exp=1738867776~acl=*%2faiqqcrrhm6onslfviqdlfppexihsxr6znslp%2f*~data=hdntl~hmac=d69f0dadf76c40058c8ed31878162d7c5b2dfbffe0cf3d388ac5bf2626da58f6/chunklist_1080.stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS62xIaJ_v6FpMKfbNOEeWFCFRdvKAxQD6VHQ&s" group-title="V LEAGUE",CH SD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/xpiqnxau2p5nve2pxrpj94gjzjzbhslnzcz1/hdntl=exp=1738953954~acl=*%2fxpiqnxau2p5nve2pxrpj94gjzjzbhslnzcz1%2f*~data=hdntl~hmac=c4206e72ace02420f056d6ca584d683f58df83d4a3abb58fddd068bac525be14/chunklist_480.stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS62xIaJ_v6FpMKfbNOEeWFCFRdvKAxQD6VHQ&s" group-title="V LEAGUE",CH HD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/xpiqnxau2p5nve2pxrpj94gjzjzbhslnzcz1/hdntl=exp=1738953954~acl=*%2fxpiqnxau2p5nve2pxrpj94gjzjzbhslnzcz1%2f*~data=hdntl~hmac=c4206e72ace02420f056d6ca584d683f58df83d4a3abb58fddd068bac525be14/chunklist_720.stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS62xIaJ_v6FpMKfbNOEeWFCFRdvKAxQD6VHQ&s" group-title="V LEAGUE",CH FHD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/xpiqnxau2p5nve2pxrpj94gjzjzbhslnzcz1/hdntl=exp=1738953954~acl=*%2fxpiqnxau2p5nve2pxrpj94gjzjzbhslnzcz1%2f*~data=hdntl~hmac=c4206e72ace02420f056d6ca584d683f58df83d4a3abb58fddd068bac525be14/chunklist_1080.stream.m3u8
 
 
 
