@@ -2217,7 +2217,254 @@ http://abf.filmbluray.id/0reykg8
 #EXTINF:-1 group-title="VOD LAWAS" tvg-logo="https://media.themoviedb.org/t/p/w500/7FRur4khKxGohSn2L5AWI1NeflY.jpg",Tujuh Wanita dalam Tugas Rahasia (1983)
 http://abf.filmbluray.id/9lv6x7j
 
-#EXTINF:-1 tvg-id="Vision Prime HD - [Channel 1].id" tvg-logo="https://iili.io/JZInBLX.png" group-title="NATIONAL ENTERTAINMENT",Vision Prime
+################   SAUR SEPUH  ##################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sJpY6nZ.jpeg" group-title="SAUR SEPUH",1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/SaurSepuhDarahBiru9/Saur%20Sepuh%20Darah%20Biru%201.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sJpY6nZ.jpeg" group-title="SAUR SEPUH",2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/SaurSepuhDarahBiru9/Saur%20Sepuh%20Darah%20Biru%202.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sJpY6nZ.jpeg" group-title="SAUR SEPUH",3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/SaurSepuhDarahBiru9/Saur%20Sepuh%20Darah%20Biru%203.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sJpY6nZ.jpeg" group-title="SAUR SEPUH",4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/SaurSepuhDarahBiru4/Saur%20Sepuh%20Darah%20Biru%204.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sJpY6nZ.jpeg" group-title="SAUR SEPUH",5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/SaurSepuhDarahBiru9/Saur%20Sepuh%20Darah%20Biru%205.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sJpY6nZ.jpeg" group-title="SAUR SEPUH",6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/SaurSepuhDarahBiru9/Saur%20Sepuh%20Darah%20Biru%206.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sJpY6nZ.jpeg" group-title="SAUR SEPUH",7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/SaurSepuhDarahBiru4/Saur%20Sepuh%20Darah%20Biru%207.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sJpY6nZ.jpeg" group-title="SAUR SEPUH",8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/SaurSepuhDarahBiru9/Saur%20Sepuh%20Darah%20Biru%208.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sJpY6nZ.jpeg" group-title="SAUR SEPUH",9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/SaurSepuhDarahBiru9/Saur%20Sepuh%20Darah%20Biru%209.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sJpY6nZ.jpeg" group-title="SAUR SEPUH",[10]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/SaurSepuhDarahBiru4/Saur%20Sepuh%20Darah%20Biru%2011.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sJpY6nZ.jpeg" group-title="SAUR SEPUH",[11]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/SaurSepuhDarahBiru4/Saur%20Sepuh%20Darah%20Biru%2012.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sJpY6nZ.jpeg" group-title="SAUR SEPUH",[12]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/SaurSepuhDarahBiru9/Saur%20Sepuh%20Darah%20Biru%201.mp4
+
+
+
+
+
+
+###########     MISTERI GUNUNG MERAPI    #######################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gQH3SBs.png" group-title="MISTERI GUNUNG MERAPI",1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/misteri-gunung-merapi-3-perempuan-berambut-api-1990/Misteri%20Gunung%20Merapi%201%20Penghuni%20Rumah%20Tua.ia.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gQH3SBs.png" group-title="MISTERI GUNUNG MERAPI",2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/misteri-gunung-merapi-3-perempuan-berambut-api-1990/Misteri%20Gunung%20Merapi%201%20Penghuni%20Rumah%20Tua.ia.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gQH3SBs.png" group-title="MISTERI GUNUNG MERAPI",3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/misteri-gunung-merapi-3-perempuan-berambut-api-1990/Misteri%20Gunung%20Merapi%201%20Penghuni%20Rumah%20Tua.ia.mp4
+
+
+
+############  MAHA BARATA  ##########
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dcLNfXd.png" group-title="MAHABARATA",1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/mahabharat2013dubbingindo/001.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dcLNfXd.png" group-title="MAHABARATA",2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/mahabharat2013dubbingindo/002.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dcLNfXd.png" group-title="MAHABARATA",3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/mahabharat2013dubbingindo/003.mp4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dcLNfXd.png" group-title="MAHABARATA",4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/mahabharat2013dubbingindo/004.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dcLNfXd.png" group-title="MAHABARATA",5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/mahabharat2013dubbingindo/005.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dcLNfXd.png" group-title="MAHABARATA",6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/mahabharat2013dubbingindo/006.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dcLNfXd.png" group-title="MAHABARATA",7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/mahabharat2013dubbingindo/007.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dcLNfXd.png" group-title="MAHABARATA",8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/mahabharat2013dubbingindo/008.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dcLNfXd.png" group-title="MAHABARATA",[9]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/mahabharat2013dubbingindo/009.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dcLNfXd.png" group-title="MAHABARATA",[10]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/mahabharat2013dubbingindo/010.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dcLNfXd.png" group-title="MAHABARATA",[11]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/mahabharat2013dubbingindo/011.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dcLNfXd.png" group-title="MAHABARATA",[12]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/mahabharat2013dubbingindo/012.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dcLNfXd.png" group-title="MAHABARATA",[13]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/mahabharat2013dubbingindo/013.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dcLNfXd.png" group-title="MAHABARATA",[14]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/mahabharat2013dubbingindo/014.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dcLNfXd.png" group-title="MAHABARATA",[15]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/mahabharat2013dubbingindo/015.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dcLNfXd.png" group-title="MAHABARATA",[16]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/mahabharat2013dubbingindo/016.mp4
+
+############  KISAH  #############
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="KISAH",bali
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/87694-bali-travelogue-film-mos/87694%2BBali%2BTravelogue%2BFilm_mos.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="KISAH",umar bin khottop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/omar-ibn-khattab-14/Video-Omar-Ibn-Khattab-14.ia.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="KISAH",papua
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/72052ePapuaAndKalabahai/72052e%20Papua%20and%20Kalabahai.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="KISAH",kota tua jakarta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/Kota.Tua.Jakarta.2014.DVDRip.Thainesia.us/Kota.Tua.Jakarta.2014.DVDRip.Thainesia.us.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="KISAH",bali paradise
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/75452CastleFilmsBaliParadiseIsle/75452%20Castle%20Films%20Bali%20paradise%20Isle.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="KISAH",exotic bali
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/46604-exotic-bali-vwr/46604%2BExotic%2BBali_vwr.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="KISAH",island
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/53904TheEarthAndItsPeopleTropicalMountainIsland/53904%20The%20Earth%20And%20Its%20People%20Tropical%20Mountain%20Island.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="KISAH",bali upen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/upenn-f16-0084_1955_4_Bali/upenn-f16-0084_1955_4_Bali_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title=" KISAH", cancer vilage
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/kkn.-djinn.-curse.of.the.-dancer.-village.-2022.-extended.-1080p.-web-hd.x-264.6-ch-mkvking.com/KKN.Djinn.Curse.of.the.Dancer.Village.2022.EXTENDED.1080p.WEB-HD.x264.6CH-%5BMkvking.com%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="KISAH",capcana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/capcana-1973/Capcana%201973.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="KISAH",SUPER SEMAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dn720409.ca.archive.org/0/items/film_indo_tahun_1980-1989/DJAKARTA%201966%20%28Kisah%20Lahirnya%20Supersemar%29%20%281988%29%20%28360p%29%20filmgrewal.blogspot.com.mp4
+
+
+
+
+
+##############LAGA JADUL #######
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNhC3a6.png" group-title="LAGA JADUL",NAGA BONAR
+https://dn720409.ca.archive.org/0/items/film_indo_tahun_1980-1989/Naga%20Bonar%20%281986%29%20%5BRemastered%5D%20360p%20filmgrewal.blogspot.com.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DIo2uIt.png" group-title="LAGA JADUL",RORO MENDUT
+https://ia903203.us.archive.org/34/items/film_indo_tahun_1980-1989/Legenda%20Roro%20Mendut%20%281982%29%20720p%20filmgrewal.blogspot.com.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gqt42sy.png" group-title="LAGA JADUL",MALAIKAT BAYANGAN
+https://ia903203.us.archive.org/34/items/film_indo_tahun_1980-1989/Malaikat%20Bayangan%20%281988%29%20%28360p%29%20filmgrewal.blogspot.com.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hhEfTZl.png" group-title="LAGA JADUL",HALIMUN
+https://dn720409.ca.archive.org/0/items/film_indo_tahun_1980-1989/Halimun%20%281982%29%20WEB-SD%20720p.MP4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vll6BJq.png" group-title="LAGA JADUL",LADY TERMINATOR
+https://archive.org/download/lady-terminator-indo-cut-1994/Lady%20Terminator%20Indo%20Cut%201994.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YM9nCga.jpeg" group-title="LAGA JADUL",WARRIOR
+https://archive.org/download/the-warrior_202211/THE_WARRIOR.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nkGeTMr.jpeg" group-title="LAGA JADUL",SI BUTA VS JK SEMBUNG
+https://archive.org/download/the-warrior-against-the-blind-swordsman-1983-full-movie-indonesian-martial-arts-insanity-prima/The%20Warrior%20Against%20The%20Blind%20Swordsman%20%281983%29%20Full%20Movie%20-%20Indonesian%20Martial%20Arts%20Insanity%20-%20Prima.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rHw3uv0.jpeg" group-title="LAGA JADUL",JK SEMBUNG DWI SAMUDRA
+https://archive.org/download/jaka-sembung-dan-dewi-samudra/Jaka%20Sembung%20Dan%20Dewi%20Samudra.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xwjLsUf.jpeg" group-title="LAGA JADUL",RORO JONGGRANG
+https://archive.org/download/lara-jonggrang-1983-mig/Lara%20Jonggrang%20%281983%29%20%28MIG%29.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dQdQqVj.jpeg" group-title="LAGA JADUL",PENDEKAR MATA 1
+https://archive.org/download/pendekar-mata-satu-1989/Pendekar%20Mata%20Satu%20%281989%29.ia.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f1B8c5Y.jpeg" group-title="LAGA JADUL",PRIMITIF
+https://archive.org/download/y-2-mate.is-primitive-a.-k.-a-savage-terror-1980-indonesian-dub-1-rrx-9aa-3wmo-720p-1637822852457/Y2Mate.is%20-%20Primitive%20A.K.A%20Savage%20Terror%20%281980%29%20Indonesian%20Dub-1Rrx9aa3wmo-720p-1637822852457.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RRvAmZD.jpeg" group-title="LAGA JADUL",PANTHER
+https://archive.org/download/mc-panther/%5Bmc%5D%20panther.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/USn2KV4.jpeg" group-title="LAGA JADUL",CUT NYA DIN
+https://archive.org/download/tjoet-nja-dhien-by-eros-djarot/Tjoet%20Nja%27%20Dhien%20by%20Eros%20Djarot.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dwNwCpS.jpeg" group-title="LAGA JADUL",SI PITUNG
+https://archive.org/download/ateng-kaya-mendadak-1975-hd/Si%20Pitung%20Banteng%20Betawi%20-%20Si%20Pitung%201.ia.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H1FSZDI.jpeg" group-title="LAGA JADUL",JAKA SEMBUNG II
+https://archive.org/download/ateng-kaya-mendadak-1975-hd/Jaka%20Sembung%20II%20-%20Si%20Buta%20Lawan%20Jaka%20Sembung%20%281983%29.ia.mp4
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.imgur.com/277llLq.jpeg" group-title="LAGA JADUL",SATRIA MADANGKARA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://archive.org/download/ateng-kaya-mendadak-1975-hd/Satria%20Madangkara%20%281988%29.ia.mp4
+
+X.png" group-title="NATIONAL ENTERTAINMENT",Vision Prime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50056951f6d5f5fbaf286cd99c965379:4ec78e3b7d66d1db3815a127f792b604
 #EXTVLCOPT:http-referrer=https://visionplus.id/
