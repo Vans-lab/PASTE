@@ -17,12 +17,12 @@ https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/xpiqnxau2p5nve2pxrp
 
 
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",SD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/04jpmadv9v5ngfd2yveq9miryjygy59et4a7/hdntl=exp=1738867569~acl=*%2f04jpmadv9v5ngfd2yveq9miryjygy59et4a7%2f*~data=hdntl~hmac=da38cdf97367491de1f5e8965de0c193203f6725141c378b4ba995c8ea03e771/chunklist_480.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/j7rmmdrta5bt9lshlbjd4jfvjjzbq02uem6j/hdntl=exp=1738954326~acl=*%2fj7rmmdrta5bt9lshlbjd4jfvjjzbq02uem6j%2f*~data=hdntl~hmac=9ff346dce5bd9f84bde5f82181bb54d878e5dbf4d80ff8656be0291714471de2/chunklist_480.stream.m3u8
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",HD 
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/04jpmadv9v5ngfd2yveq9miryjygy59et4a7/hdntl=exp=1738867569~acl=*%2f04jpmadv9v5ngfd2yveq9miryjygy59et4a7%2f*~data=hdntl~hmac=da38cdf97367491de1f5e8965de0c193203f6725141c378b4ba995c8ea03e771/chunklist_720.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/j7rmmdrta5bt9lshlbjd4jfvjjzbq02uem6j/hdntl=exp=1738954326~acl=*%2fj7rmmdrta5bt9lshlbjd4jfvjjzbq02uem6j%2f*~data=hdntl~hmac=9ff346dce5bd9f84bde5f82181bb54d878e5dbf4d80ff8656be0291714471de2/chunklist_720.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",FHD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/04jpmadv9v5ngfd2yveq9miryjygy59et4a7/hdntl=exp=1738867569~acl=*%2f04jpmadv9v5ngfd2yveq9miryjygy59et4a7%2f*~data=hdntl~hmac=da38cdf97367491de1f5e8965de0c193203f6725141c378b4ba995c8ea03e771/chunklist_1080.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/j7rmmdrta5bt9lshlbjd4jfvjjzbq02uem6j/hdntl=exp=1738954326~acl=*%2fj7rmmdrta5bt9lshlbjd4jfvjjzbq02uem6j%2f*~data=hdntl~hmac=9ff346dce5bd9f84bde5f82181bb54d878e5dbf4d80ff8656be0291714471de2/chunklist_1080.stream.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
