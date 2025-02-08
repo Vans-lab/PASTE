@@ -7,12 +7,12 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS62xIaJ_v6FpMKfbNOEeWFCFRdvKAxQD6VHQ&s" group-title="V LEAGUE",CH SD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/xpiqnxau2p5nve2pxrpj94gjzjzbhslnzcz1/hdntl=exp=1738953954~acl=*%2fxpiqnxau2p5nve2pxrpj94gjzjzbhslnzcz1%2f*~data=hdntl~hmac=c4206e72ace02420f056d6ca584d683f58df83d4a3abb58fddd068bac525be14/chunklist_480.stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS62xIaJ_v6FpMKfbNOEeWFCFRdvKAxQD6VHQ&s" group-title="V LEAGUE",CH HD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/xpiqnxau2p5nve2pxrpj94gjzjzbhslnzcz1/hdntl=exp=1738953954~acl=*%2fxpiqnxau2p5nve2pxrpj94gjzjzbhslnzcz1%2f*~data=hdntl~hmac=c4206e72ace02420f056d6ca584d683f58df83d4a3abb58fddd068bac525be14/chunklist_720.stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS62xIaJ_v6FpMKfbNOEeWFCFRdvKAxQD6VHQ&s" group-title="V LEAGUE",CH FHD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/xpiqnxau2p5nve2pxrpj94gjzjzbhslnzcz1/hdntl=exp=1738953954~acl=*%2fxpiqnxau2p5nve2pxrpj94gjzjzbhslnzcz1%2f*~data=hdntl~hmac=c4206e72ace02420f056d6ca584d683f58df83d4a3abb58fddd068bac525be14/chunklist_1080.stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/j9e2LTGqaas/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCaebNlaoB7ypzeZVakBAgTd2jlfA" group-title="V LEAGUE",CH SD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/ll4dvxjcdbp0k1i5hxd4n1uktamokgx5pazv/hdntl=exp=1739026707~acl=*%2fll4dvxjcdbp0k1i5hxd4n1uktamokgx5pazv%2f*~data=hdntl~hmac=5f45ddaf0ffb2d016991dfc9b6a3c7e7c406a20476e18eb224a4f71a80ed3914/chunklist_480.stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/j9e2LTGqaas/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCaebNlaoB7ypzeZVakBAgTd2jlfA" group-title="V LEAGUE",CH HD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/ll4dvxjcdbp0k1i5hxd4n1uktamokgx5pazv/hdntl=exp=1739026707~acl=*%2fll4dvxjcdbp0k1i5hxd4n1uktamokgx5pazv%2f*~data=hdntl~hmac=5f45ddaf0ffb2d016991dfc9b6a3c7e7c406a20476e18eb224a4f71a80ed3914/chunklist_720.stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/j9e2LTGqaas/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCaebNlaoB7ypzeZVakBAgTd2jlfA" group-title="V LEAGUE",CH FHD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/ll4dvxjcdbp0k1i5hxd4n1uktamokgx5pazv/hdntl=exp=1739026707~acl=*%2fll4dvxjcdbp0k1i5hxd4n1uktamokgx5pazv%2f*~data=hdntl~hmac=5f45ddaf0ffb2d016991dfc9b6a3c7e7c406a20476e18eb224a4f71a80ed3914/chunklist_1080.stream.m3u8
 
 
 
