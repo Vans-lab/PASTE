@@ -47,6 +47,8 @@ https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205
 #EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png" group-title="LIGA 1",INDOSIAR 2
 https://mantul.biz.id:443/inetwork/gayanet12/5286.ts
 
+#EXTINF:-1  tvg-logo="https://iili.io/2DHoyX4.png" group-title="LIGA 1",INDOSIAR X
+https://mantul.biz.id:443/inetwork/gayanet12/5286.ts
 #EXTINF:-1 tvg-id="dummy" tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="LIGA 1",Indosiar 3
 https://perfecttv.net:443/Perfecttv/Perfecttv/1604
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2ZKpE7V.png" group-title="LIGA 1",INDOSIAR LIGA 1
