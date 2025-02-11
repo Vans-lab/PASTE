@@ -1,1 +1,24 @@
+#EXTM3U
 
+
+
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/priangan/foto/bank/images/Hillstate-vs-Hipass.jpg" group-title="V LEAGUE",CH SD
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/yqvoc9ewlwedknhi0brzmkgtgk2q4oe2zztq/hdntl=exp=1739299672~acl=*%2fyqvoc9ewlwedknhi0brzmkgtgk2q4oe2zztq%2f*~data=hdntl~hmac=c565a26a47c284cc3d5e487db9679a5d76f2cabd57959b7f94f58f43754eda53/chunklist_480.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/yqvoc9ewlwedknhi0brzmkgtgk2q4oe2zztq/hdntl=exp=1739299672~acl=*%2fyqvoc9ewlwedknhi0brzmkgtgk2q4oe2zztq%2f*~data=hdntl~hmac=c565a26a47c284cc3d5e487db9679a5d76f2cabd57959b7f94f58f43754eda53/chunklist_720.stream.m3u8
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/priangan/foto/bank/images/Hillstate-vs-Hipass.jpg" group-title="V LEAGUE",CH FHD
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/yqvoc9ewlwedknhi0brzmkgtgk2q4oe2zztq/hdntl=exp=1739299672~acl=*%2fyqvoc9ewlwedknhi0brzmkgtgk2q4oe2zztq%2f*~data=hdntl~hmac=c565a26a47c284cc3d5e487db9679a5d76f2cabd57959b7f94f58f43754eda53/chunklist_1080.stream.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",SD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/d5fzdsvphn8n2axmeh1keeh1gtis39mmcskc/hdntl=exp=1739299567~acl=*%2fd5fzdsvphn8n2axmeh1keeh1gtis39mmcskc%2f*~data=hdntl~hmac=6107a6972e0b457eaa0bc7089c117168b5e5e70e0a27054215e1b9492efb4093/chunklist_480.stream.m3u8
+#EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",HD 
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/d5fzdsvphn8n2axmeh1keeh1gtis39mmcskc/hdntl=exp=1739299567~acl=*%2fd5fzdsvphn8n2axmeh1keeh1gtis39mmcskc%2f*~data=hdntl~hmac=6107a6972e0b457eaa0bc7089c117168b5e5e70e0a27054215e1b9492efb4093/chunklist_720.stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",FHD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/d5fzdsvphn8n2axmeh1keeh1gtis39mmcskc/hdntl=exp=1739299567~acl=*%2fd5fzdsvphn8n2axmeh1keeh1gtis39mmcskc%2f*~data=hdntl~hmac=6107a6972e0b457eaa0bc7089c117168b5e5e70e0a27054215e1b9492efb4093/chunklist_1080.stream.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png" group-title="V LEAGUE",TVRI SPORT
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166686
