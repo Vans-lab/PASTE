@@ -65,30 +65,42 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=205&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=205&type=dash
 
-#EXTINF:-1  tvg-logo="https://iili.io/2DHxlQR.png" group-title="LIGA 1",LIGA 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-Accept: */*
-#EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
-#EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/
-#EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
-#EXTVLCOPT:http-Content-Length=2894
-#EXTVLCOPT:http-Origin=https://www.vidio.com
-#EXTVLCOPT:http-Connectionkeep-alive
-#EXTVLCOPT:http-Sec-Fetch-Dest=empty
-#EXTVLCOPT:http-Sec-Fetch-Mode=cors
-#EXTVLCOPT:http-Sec-Fetch-Site=same-site
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
+
 #EXTVLCOPT:http-Connection=keep-alive
 ##KODIPROP:inputstreamaddon=inputstream.adaptive 
 ##KODIPROP:inputstream.adaptive.manifest_type=dash
 ##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 ##KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=205&type=drm
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_205_720p/hdntl=exp=1738854499~acl=%2flive%2f205%2fmaster.m3u8!%2fhls-p%2fingest_205*%2f*!%2fhls-b%2fingest_205*%2f*~id=101450388~data=hdntl~hmac=d11f0ace988420f864369538acec6debd1ac0a3b7caaea26163d51ae978589b2/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Champions_TV_1.png/revision/latest?cb=20200428062800" group-title="TV JUARA",Champions TV 1 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=17938&type=drm 
+https://video.jasoncreak8.workers.dev/play.mpd?id=17938&type=dash 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Champions_TV_2_HD.png/revision/latest/scale-to-width-down/1200?cb=20210823120818" group-title="TV JUARA",Champions TV 2 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 #KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6686&type=drm 
+https://video.jasoncreak8.workers.dev/play.mpd?id=6686&type=dash 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Champions-3-750x510.png/revision/latest?cb=20210331063123" group-title="TV JUARA",Champions TV 3 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6786&type=drm 
+https://video.jasoncreak8.workers.dev/play.mpd?id=6786&type=dash 
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1710399597-.png" group-title="TV JUARA",Champions TV 5 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9182&type=drm 
+https://video.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png/revision/latest?cb=20221112221343" group-title="TV JUARA",Champions TV 6 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9183&type=drm 
+https://video.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash 
 
 ######################################################################TV CHANNELS#############################################################################################################################################
 
