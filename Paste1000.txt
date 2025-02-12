@@ -740,6 +740,19 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="HBO GROUP",HBO 
+https://zozotv.xyz:443/live/zotv744/zxy086/96.ts 
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (ID)" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="HBO GROUP",HBO (ID) 
+https://zozotv.xyz:443/live/zotv744/zxy086/693.ts 
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="HBO GROUP",HBO Hits 
+https://zozotv.xyz:443/live/zotv744/zxy086/97.ts 
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="HBO GROUP",HBO Family 
+https://zozotv.xyz:443/live/zotv744/zxy086/98.ts 
+#EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="HBO GROUP",HBO Signature 
+https://zozotv.xyz:443/live/zotv744/zxy086/99.ts 
+#EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/MP8HWsS/sfb.png" group-title="HBO GROUP",Cinemax 
+https://zozotv.xyz:443/live/zotv744/zxy086/107.ts
+
 ====== RELIGI ======
 
 
