@@ -113,6 +113,8 @@ https://zozotv.xyz:443/live/zotv744/zxy086/49.ts
 #EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="TV DIGITAL",RCTI 
 https://zozotv.xyz:443/live/zotv744/zxy086/47.ts 
 #EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="TV DIGITAL",INDOSIAR 
+#EXTINF:-1 tvg-id="" tvg-name="O Channel" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="TV DIGITAL",MOJI 
+https://zozotv.xyz:443/live/zotv744/zxy086/475.ts
 https://zozotv.xyz:443/live/zotv744/zxy086/45.ts 
 #EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="TV DIGITAL",TRANS TV 
 https://zozotv.xyz:443/live/zotv744/zxy086/43.ts 
@@ -126,6 +128,15 @@ https://zozotv.xyz:443/live/zotv744/zxy086/51.ts
 https://zozotv.xyz:443/live/zotv744/zxy086/359.ts 
 #EXTINF:-1 tvg-id="" tvg-name="Rtv" tvg-logo="https://i.ibb.co/4jX6xMN/rtv.png" group-title="TV DIGITAL",Rtv 
 https://zozotv.xyz:443/live/zotv744/zxy086/364.ts
+#EXTINF:-1 tvg-id="TVOne.MACAN" tvg-name="TVOne" tvg-logo="https://i.ibb.co/ZmHZbbT/YETRY.png" group-title="TV DIGITAL",TVOne 
+https://zozotv.xyz:443/live/zotv744/zxy086/142.ts 
+#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="KOMPAS TV" tvg-logo="https://i.ibb.co/yfPLggK/hfd.png" group-title="TV DIGITAL",KOMPAS TV 
+https://zozotv.xyz:443/live/zotv744/zxy086/143.ts 
+#EXTINF:-1 tvg-id="MetroTV.MACAN" tvg-name="METRO TV" tvg-logo="https://i.ibb.co/Tt4V9Cw/hcggh.png" group-title="TV DIGITAL",METRO TV 
+https://zozotv.xyz:443/live/zotv744/zxy086/144.ts 
+
+#EXTINF:-1 tvg-id="" tvg-name="iNews" tvg-logo="" group-title="TV DIGITAL",iNews 
+https://zozotv.xyz:443/live/zotv744/zxy086/2203.ts
 
 ######################################################################TV CHANNELS#############################################################################################################################################
 
