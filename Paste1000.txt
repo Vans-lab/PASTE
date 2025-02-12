@@ -7,11 +7,11 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/priangan/foto/bank/images/Hillstate-vs-Hipass.jpg" group-title="V LEAGUE",CH SD
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Jadwal-lanjutan-Liga-Voli-Korea-Selatan-terbaru-Red-Sparks111.jpg" group-title="V LEAGUE",CH SD
 https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/yqvoc9ewlwedknhi0brzmkgtgk2q4oe2zztq/hdntl=exp=1739299672~acl=*%2fyqvoc9ewlwedknhi0brzmkgtgk2q4oe2zztq%2f*~data=hdntl~hmac=c565a26a47c284cc3d5e487db9679a5d76f2cabd57959b7f94f58f43754eda53/chunklist_480.stream.m3u8
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/priangan/foto/bank/images/Hillstate-vs-Hipass.jpg" group-title="V LEAGUE",CH HD
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Jadwal-lanjutan-Liga-Voli-Korea-Selatan-terbaru-Red-Sparks111.jpg" group-title="V LEAGUE",CH HD
 https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/yqvoc9ewlwedknhi0brzmkgtgk2q4oe2zztq/hdntl=exp=1739299672~acl=*%2fyqvoc9ewlwedknhi0brzmkgtgk2q4oe2zztq%2f*~data=hdntl~hmac=c565a26a47c284cc3d5e487db9679a5d76f2cabd57959b7f94f58f43754eda53/chunklist_720.stream.m3u8
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/priangan/foto/bank/images/Hillstate-vs-Hipass.jpg" group-title="V LEAGUE",CH FHD
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Jadwal-lanjutan-Liga-Voli-Korea-Selatan-terbaru-Red-Sparks111.jpg" group-title="V LEAGUE",CH FHD
 https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/yqvoc9ewlwedknhi0brzmkgtgk2q4oe2zztq/hdntl=exp=1739299672~acl=*%2fyqvoc9ewlwedknhi0brzmkgtgk2q4oe2zztq%2f*~data=hdntl~hmac=c565a26a47c284cc3d5e487db9679a5d76f2cabd57959b7f94f58f43754eda53/chunklist_1080.stream.m3u8
 
 
