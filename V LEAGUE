@@ -23,22 +23,35 @@ https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/d5fzdsvphn8n2axmeh1
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png" group-title="V LEAGUE",TVRI SPORT
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166686
 
-#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET." tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="TV NASIONAL",NET. https://zozotv.xyz:443/live/zotv744/zxy086/50.ts 
-#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png" group-title="TV NASIONAL",GTV https://zozotv.xyz:443/live/zotv744/zxy086/48.ts 
-#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="TV NASIONAL",SCTV https://zozotv.xyz:443/live/zotv744/zxy086/46.ts 
-#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="TV NASIONAL",MNCTV https://zozotv.xyz:443/live/zotv744/zxy086/49.ts 
-#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="TV NASIONAL",RCTI https://zozotv.xyz:443/live/zotv744/zxy086/47.ts 
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="TV NASIONAL",INDOSIAR https://zozotv.xyz:443/live/zotv744/zxy086/45.ts 
-#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="TV NASIONAL",TRANS TV https://zozotv.xyz:443/live/zotv744/zxy086/43.ts 
-#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="TV NASIONAL",TRANS 7 https://zozotv.xyz:443/live/zotv744/zxy086/44.ts 
-#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="Dunia Lain" tvg-logo="https://i.ibb.co/kJwMHnm/dunia.png" group-title="TV NASIONAL",Dunia Lain https://zozotv.xyz:443/live/zotv744/zxy086/346.ts 
-#EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="TV NASIONAL",ANTV https://zozotv.xyz:443/live/zotv744/zxy086/51.ts 
-#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://i.ibb.co/4Rj46G8/TVRI.png" group-title="TV NASIONAL",TVRI https://zozotv.xyz:443/live/zotv744/zxy086/359.ts 
-#EXTINF:-1 tvg-id="" tvg-name="Rtv" tvg-logo="https://i.ibb.co/4jX6xMN/rtv.png" group-title="TV NASIONAL",Rtv https://zozotv.xyz:443/live/zotv744/zxy086/364.ts
+#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET." tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="TV NASIONAL",NET. 
+https://zozotv.xyz:443/live/zotv744/zxy086/50.ts 
+#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png" group-title="TV NASIONAL",GTV 
+https://zozotv.xyz:443/live/zotv744/zxy086/48.ts 
+#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="TV NASIONAL",SCTV 
+https://zozotv.xyz:443/live/zotv744/zxy086/46.ts 
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="TV NASIONAL",MNCTV 
+https://zozotv.xyz:443/live/zotv744/zxy086/49.ts 
+#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="TV NASIONAL",RCTI 
+https://zozotv.xyz:443/live/zotv744/zxy086/47.ts 
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="TV NASIONAL",INDOSIAR 
+https://zozotv.xyz:443/live/zotv744/zxy086/45.ts 
+#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="TV NASIONAL",TRANS TV 
+https://zozotv.xyz:443/live/zotv744/zxy086/43.ts 
+#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="TV NASIONAL",TRANS 7 
+https://zozotv.xyz:443/live/zotv744/zxy086/44.ts 
+#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="Dunia Lain" tvg-logo="https://i.ibb.co/kJwMHnm/dunia.png" group-title="TV NASIONAL",Dunia Lain 
+https://zozotv.xyz:443/live/zotv744/zxy086/346.ts 
+#EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="TV NASIONAL",ANTV 
+https://zozotv.xyz:443/live/zotv744/zxy086/51.ts 
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://i.ibb.co/4Rj46G8/TVRI.png" group-title="TV NASIONAL",TVRI 
+https://zozotv.xyz:443/live/zotv744/zxy086/359.ts 
+#EXTINF:-1 tvg-id="" tvg-name="Rtv" tvg-logo="https://i.ibb.co/4jX6xMN/rtv.png" group-title="TV NASIONAL",Rtv 
+https://zozotv.xyz:443/live/zotv744/zxy086/364.ts
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Champions_TV_1.png/revision/latest?cb=20200428062800" group-title="TV JUARA",Champions TV 1 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=17938&type=drm 
 https://video.jasoncreak8.workers.dev/play.mpd?id=17938&type=dash 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Champions_TV_2_HD.png/revision/latest/scale-to-width-down/1200?cb=20210823120818" group-title="TV JUARA",Champions TV 2 
