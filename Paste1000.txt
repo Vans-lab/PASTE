@@ -49,6 +49,12 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/so
 #EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="AFC U-20",RCTI 
 https://zozotv.xyz:443/live/zotv744/zxy086/47.ts 
 
+#EXTINF:-1 tvg-id="" tvg-name="TR: Spor Smart" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b8523963880349398f435c3e82921f2e.png" group-title="AFC U-20",TR: Spor Smart 
+http://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/1750 
+#EXTINF:-1 tvg-id="" tvg-name="TR: Spor Smart 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dee3b2e8c2b3b040188fa0426c11f752.png" group-title="AFC U-20",TR: Spor Smart 2 
+http://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/50121 
+
+
 #EXTINF:-1 group-title="LOVB LIVE" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",104. SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
