@@ -54,6 +54,11 @@ http://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/1750
 #EXTINF:-1 tvg-id="" tvg-name="TR: Spor Smart 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dee3b2e8c2b3b040188fa0426c11f752.png" group-title="AFC U-20",TR: Spor Smart 2 
 http://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/50121 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF8KcwXBCHprcigANi2cDW8DP8hPqQTNcsjPsci9ehKNyxD4ojX2Qq9d4&s=10" group-title="AFC U-20",Sport Klub 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium103/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS MIX" tvg-id="" tvg-logo="https://i.imgur.com/iPy34FK.png", FanCode
 https://dai.fancode.com/linear/hls/pb/event/rxusQi3YR0OyxaSlKH_BIg/stream/6d9c81c3-646d-43d0-9e72-8936eec9d8e1:TPE/master.m3u8?hdnea=st=1739432982~exp=1739433282~acl=*~id=00e9eb80-3789-4b6e-8d63-af89907dc63a~hmac=7425e5d1db85319b3dad101333034913f3ec72954329b79821a0e71049b4b5ab&_gl=1*2xv3rj*_gcl_au*MTI0MjM5OTYwNy4xNzM5NDMyOTIy
 
