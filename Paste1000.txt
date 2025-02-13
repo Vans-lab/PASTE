@@ -65,6 +65,9 @@ http://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/50121
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://xyzdddd.mizhls.ru/lb/premium103/index.m3u8
 
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beINSports5.qa" tvg-logo="https://media.tv4.live/beINSports5.qa.png" group-title="AFC U-20",beIN 5
+http://ktv.im:8080/kk56712/kk12345/49526
+
 
 #EXTINF:-1 group-title="LOVB LIVE" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",104. SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
