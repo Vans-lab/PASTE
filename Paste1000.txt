@@ -7,22 +7,22 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Jadwal-lanjutan-Liga-Voli-Korea-Selatan-terbaru-Red-Sparks111.jpg" group-title="V LEAGUE",CH SD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/7eqklmjmxdica87yhvystsafnomwp0o24iix/hdntl=exp=1739386130~acl=*%2f7eqklmjmxdica87yhvystsafnomwp0o24iix%2f*~data=hdntl~hmac=85cde311fe1fcfcf857c134fd0d9d3a02ef70193a2e7424f381c2ec31662068a/chunklist_480.stream.m3u8
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Jadwal-lanjutan-Liga-Voli-Korea-Selatan-terbaru-Red-Sparks111.jpg" group-title="V LEAGUE",CH HD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/7eqklmjmxdica87yhvystsafnomwp0o24iix/hdntl=exp=1739386130~acl=*%2f7eqklmjmxdica87yhvystsafnomwp0o24iix%2f*~data=hdntl~hmac=85cde311fe1fcfcf857c134fd0d9d3a02ef70193a2e7424f381c2ec31662068a/chunklist_720.stream.m3u8
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Jadwal-lanjutan-Liga-Voli-Korea-Selatan-terbaru-Red-Sparks111.jpg" group-title="V LEAGUE",CH FHD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/7eqklmjmxdica87yhvystsafnomwp0o24iix/hdntl=exp=1739386130~acl=*%2f7eqklmjmxdica87yhvystsafnomwp0o24iix%2f*~data=hdntl~hmac=85cde311fe1fcfcf857c134fd0d9d3a02ef70193a2e7424f381c2ec31662068a/chunklist_1080.stream.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1737987851304-IMG_1622/dkeg8f9e5fz4rek.jpeg" group-title="V LEAGUE",WOMEN SD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/sqk7xych8wthmewglbuz7pds1pnvki3d51ld/hdntl=exp=1739472756~acl=*%2fsqk7xych8wthmewglbuz7pds1pnvki3d51ld%2f*~data=hdntl~hmac=8a7c3d5dfea203c05d40f76fba5a6be38ebbfb99389098dbb3e4fcf7e0c6c41f/chunklist_480.stream.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1737987851304-IMG_1622/dkeg8f9e5fz4rek.jpeg" group-title="V LEAGUE",WOMEN HD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/sqk7xych8wthmewglbuz7pds1pnvki3d51ld/hdntl=exp=1739472756~acl=*%2fsqk7xych8wthmewglbuz7pds1pnvki3d51ld%2f*~data=hdntl~hmac=8a7c3d5dfea203c05d40f76fba5a6be38ebbfb99389098dbb3e4fcf7e0c6c41f/chunklist_720.stream.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1737987851304-IMG_1622/dkeg8f9e5fz4rek.jpeg" group-title="V LEAGUE",WOMEN FHD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/sqk7xych8wthmewglbuz7pds1pnvki3d51ld/hdntl=exp=1739472756~acl=*%2fsqk7xych8wthmewglbuz7pds1pnvki3d51ld%2f*~data=hdntl~hmac=8a7c3d5dfea203c05d40f76fba5a6be38ebbfb99389098dbb3e4fcf7e0c6c41f/chunklist_1080.stream.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",SD
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/f63frmhhafeojltb0uhbalnbdnjmr58a496a/hdntl=exp=1739386017~acl=*%2ff63frmhhafeojltb0uhbalnbdnjmr58a496a%2f*~data=hdntl~hmac=629a52228efd65880a73553cb2e199c3b4bed013e2b589575b66c94b83ed77e3/chunklist_480.stream.m3u8
-#EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",HD 
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/f63frmhhafeojltb0uhbalnbdnjmr58a496a/hdntl=exp=1739386017~acl=*%2ff63frmhhafeojltb0uhbalnbdnjmr58a496a%2f*~data=hdntl~hmac=629a52228efd65880a73553cb2e199c3b4bed013e2b589575b66c94b83ed77e3/chunklist_720.stream.m3u8
+#EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",MEN SD
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/omppghkpir3nq75xyprjg4o4djkhg6lsob0u/hdntl=exp=1739472467~acl=*%2fomppghkpir3nq75xyprjg4o4djkhg6lsob0u%2f*~data=hdntl~hmac=104775a920efa38412d1f04ff8283d71384c2584e7c93f1b3e12a77337f664f6/chunklist_480.stream.m3u8
+#EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE", MEN HD 
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/omppghkpir3nq75xyprjg4o4djkhg6lsob0u/hdntl=exp=1739472467~acl=*%2fomppghkpir3nq75xyprjg4o4djkhg6lsob0u%2f*~data=hdntl~hmac=104775a920efa38412d1f04ff8283d71384c2584e7c93f1b3e12a77337f664f6/chunklist_720.stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",FHD
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/f63frmhhafeojltb0uhbalnbdnjmr58a496a/hdntl=exp=1739386017~acl=*%2ff63frmhhafeojltb0uhbalnbdnjmr58a496a%2f*~data=hdntl~hmac=629a52228efd65880a73553cb2e199c3b4bed013e2b589575b66c94b83ed77e3/chunklist_1080.stream.m3u8
+#EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",MEN FHD
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/omppghkpir3nq75xyprjg4o4djkhg6lsob0u/hdntl=exp=1739472467~acl=*%2fomppghkpir3nq75xyprjg4o4djkhg6lsob0u%2f*~data=hdntl~hmac=104775a920efa38412d1f04ff8283d71384c2584e7c93f1b3e12a77337f664f6/chunklist_1080.stream.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -33,6 +33,12 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166686
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+#EXTINF:-1 group-title="AFC U-20" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png",Sportstars 2 HD
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #EXTINF:-1 group-title="AFC U-20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png",Sportstars 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
