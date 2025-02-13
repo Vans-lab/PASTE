@@ -59,8 +59,6 @@ http://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/50121
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://xyzdddd.mizhls.ru/lb/premium103/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS MIX" tvg-id="" tvg-logo="https://i.imgur.com/iPy34FK.png", FanCode
-https://dai.fancode.com/linear/hls/pb/event/rxusQi3YR0OyxaSlKH_BIg/stream/6d9c81c3-646d-43d0-9e72-8936eec9d8e1:TPE/master.m3u8?hdnea=st=1739432982~exp=1739433282~acl=*~id=00e9eb80-3789-4b6e-8d63-af89907dc63a~hmac=7425e5d1db85319b3dad101333034913f3ec72954329b79821a0e71049b4b5ab&_gl=1*2xv3rj*_gcl_au*MTI0MjM5OTYwNy4xNzM5NDMyOTIy
 
 #EXTINF:-1 group-title="LOVB LIVE" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",104. SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
