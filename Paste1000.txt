@@ -8,21 +8,21 @@
 
 
 #EXTINF:-1 tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1737987851304-IMG_1622/dkeg8f9e5fz4rek.jpeg" group-title="V LEAGUE",WOMEN SD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/sqk7xych8wthmewglbuz7pds1pnvki3d51ld/hdntl=exp=1739472756~acl=*%2fsqk7xych8wthmewglbuz7pds1pnvki3d51ld%2f*~data=hdntl~hmac=8a7c3d5dfea203c05d40f76fba5a6be38ebbfb99389098dbb3e4fcf7e0c6c41f/chunklist_480.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/ngzelmcn87lsqzdfjhbdrsmy2k5a0e71bhky/hdntl=exp=1739559911~acl=*%2fngzelmcn87lsqzdfjhbdrsmy2k5a0e71bhky%2f*~data=hdntl~hmac=26ee4150182c627e5753d548bcc764d02b58ad76bcf0ad784051aab7b7e0c379/chunklist_480.stream.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1737987851304-IMG_1622/dkeg8f9e5fz4rek.jpeg" group-title="V LEAGUE",WOMEN HD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/sqk7xych8wthmewglbuz7pds1pnvki3d51ld/hdntl=exp=1739472756~acl=*%2fsqk7xych8wthmewglbuz7pds1pnvki3d51ld%2f*~data=hdntl~hmac=8a7c3d5dfea203c05d40f76fba5a6be38ebbfb99389098dbb3e4fcf7e0c6c41f/chunklist_720.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/ngzelmcn87lsqzdfjhbdrsmy2k5a0e71bhky/hdntl=exp=1739559911~acl=*%2fngzelmcn87lsqzdfjhbdrsmy2k5a0e71bhky%2f*~data=hdntl~hmac=26ee4150182c627e5753d548bcc764d02b58ad76bcf0ad784051aab7b7e0c379/chunklist_720.stream.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1737987851304-IMG_1622/dkeg8f9e5fz4rek.jpeg" group-title="V LEAGUE",WOMEN FHD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/sqk7xych8wthmewglbuz7pds1pnvki3d51ld/hdntl=exp=1739472756~acl=*%2fsqk7xych8wthmewglbuz7pds1pnvki3d51ld%2f*~data=hdntl~hmac=8a7c3d5dfea203c05d40f76fba5a6be38ebbfb99389098dbb3e4fcf7e0c6c41f/chunklist_1080.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/ngzelmcn87lsqzdfjhbdrsmy2k5a0e71bhky/hdntl=exp=1739559911~acl=*%2fngzelmcn87lsqzdfjhbdrsmy2k5a0e71bhky%2f*~data=hdntl~hmac=26ee4150182c627e5753d548bcc764d02b58ad76bcf0ad784051aab7b7e0c379/chunklist_1080.stream.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",MEN SD
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/omppghkpir3nq75xyprjg4o4djkhg6lsob0u/hdntl=exp=1739472467~acl=*%2fomppghkpir3nq75xyprjg4o4djkhg6lsob0u%2f*~data=hdntl~hmac=104775a920efa38412d1f04ff8283d71384c2584e7c93f1b3e12a77337f664f6/chunklist_480.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/2hu7bruydjmfs5cu7rau928b2k5a23gelurh/hdntl=exp=1739560018~acl=*%2f2hu7bruydjmfs5cu7rau928b2k5a23gelurh%2f*~data=hdntl~hmac=7a8b9f2bc7be54e72b11110aa7a3830b98cbdd1e5dcec6ebe96562c05b5dfab5/chunklist_480.stream.m3u8
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE", MEN HD 
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/omppghkpir3nq75xyprjg4o4djkhg6lsob0u/hdntl=exp=1739472467~acl=*%2fomppghkpir3nq75xyprjg4o4djkhg6lsob0u%2f*~data=hdntl~hmac=104775a920efa38412d1f04ff8283d71384c2584e7c93f1b3e12a77337f664f6/chunklist_720.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/2hu7bruydjmfs5cu7rau928b2k5a23gelurh/hdntl=exp=1739560018~acl=*%2f2hu7bruydjmfs5cu7rau928b2k5a23gelurh%2f*~data=hdntl~hmac=7a8b9f2bc7be54e72b11110aa7a3830b98cbdd1e5dcec6ebe96562c05b5dfab5/chunklist_720.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",MEN FHD
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/omppghkpir3nq75xyprjg4o4djkhg6lsob0u/hdntl=exp=1739472467~acl=*%2fomppghkpir3nq75xyprjg4o4djkhg6lsob0u%2f*~data=hdntl~hmac=104775a920efa38412d1f04ff8283d71384c2584e7c93f1b3e12a77337f664f6/chunklist_1080.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/2hu7bruydjmfs5cu7rau928b2k5a23gelurh/hdntl=exp=1739560018~acl=*%2f2hu7bruydjmfs5cu7rau928b2k5a23gelurh%2f*~data=hdntl~hmac=7a8b9f2bc7be54e72b11110aa7a3830b98cbdd1e5dcec6ebe96562c05b5dfab5/chunklist_1080.stream.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
