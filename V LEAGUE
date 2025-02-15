@@ -11,17 +11,18 @@ https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/ngzelmcn87lsqzdfjhb
 
 
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",MEN SD
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/2hu7bruydjmfs5cu7rau928b2k5a23gelurh/hdntl=exp=1739560018~acl=*%2f2hu7bruydjmfs5cu7rau928b2k5a23gelurh%2f*~data=hdntl~hmac=7a8b9f2bc7be54e72b11110aa7a3830b98cbdd1e5dcec6ebe96562c05b5dfab5/chunklist_480.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/iwvkk03vgkaedliz2cqdsbv8rk5y6cw5m9gr/hdntl=exp=1739631456~acl=*%2fiwvkk03vgkaedliz2cqdsbv8rk5y6cw5m9gr%2f*~data=hdntl~hmac=7221580798d6023facf8bc576525be8fa606c4a53d9f74b2b7ddf5a7c3c17a53/chunklist_480.stream.m3u8
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE", MEN HD 
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/2hu7bruydjmfs5cu7rau928b2k5a23gelurh/hdntl=exp=1739560018~acl=*%2f2hu7bruydjmfs5cu7rau928b2k5a23gelurh%2f*~data=hdntl~hmac=7a8b9f2bc7be54e72b11110aa7a3830b98cbdd1e5dcec6ebe96562c05b5dfab5/chunklist_720.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/iwvkk03vgkaedliz2cqdsbv8rk5y6cw5m9gr/hdntl=exp=1739631456~acl=*%2fiwvkk03vgkaedliz2cqdsbv8rk5y6cw5m9gr%2f*~data=hdntl~hmac=7221580798d6023facf8bc576525be8fa606c4a53d9f74b2b7ddf5a7c3c17a53/chunklist_720.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",MEN FHD
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/2hu7bruydjmfs5cu7rau928b2k5a23gelurh/hdntl=exp=1739560018~acl=*%2f2hu7bruydjmfs5cu7rau928b2k5a23gelurh%2f*~data=hdntl~hmac=7a8b9f2bc7be54e72b11110aa7a3830b98cbdd1e5dcec6ebe96562c05b5dfab5/chunklist_1080.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/iwvkk03vgkaedliz2cqdsbv8rk5y6cw5m9gr/hdntl=exp=1739631456~acl=*%2fiwvkk03vgkaedliz2cqdsbv8rk5y6cw5m9gr%2f*~data=hdntl~hmac=7221580798d6023facf8bc576525be8fa606c4a53d9f74b2b7ddf5a7c3c17a53/chunklist_1080.stream.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png" group-title="V LEAGUE",TVRI SPORT
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166686
+
 
 #EXTINF:-1 group-title="AFC U-20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png",Sportstars 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
