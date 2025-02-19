@@ -9,12 +9,12 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://iptv12k.com:35461/live/654321/123456/3214.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1737987851304-IMG_1622/dkeg8f9e5fz4rek.jpeg" group-title="V LEAGUE",WOMEN SD
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/ctjnzv1w7u4lhyz69wz1rejw2i0i5373yu8e/hdntl=exp=1739905172~acl=*%2fctjnzv1w7u4lhyz69wz1rejw2i0i5373yu8e%2f*~data=hdntl~hmac=f030085443f33631f4d81efe348501e95ff111d95c6080751912b3bd4f234e4c/chunklist_480.stream.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1737987851304-IMG_1622/dkeg8f9e5fz4rek.jpeg" group-title="V LEAGUE",WOMEN HD
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/ctjnzv1w7u4lhyz69wz1rejw2i0i5373yu8e/hdntl=exp=1739905172~acl=*%2fctjnzv1w7u4lhyz69wz1rejw2i0i5373yu8e%2f*~data=hdntl~hmac=f030085443f33631f4d81efe348501e95ff111d95c6080751912b3bd4f234e4c/chunklist_720.stream.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1737987851304-IMG_1622/dkeg8f9e5fz4rek.jpeg" group-title="V LEAGUE",WOMEN FHD
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/ctjnzv1w7u4lhyz69wz1rejw2i0i5373yu8e/hdntl=exp=1739905172~acl=*%2fctjnzv1w7u4lhyz69wz1rejw2i0i5373yu8e%2f*~data=hdntl~hmac=f030085443f33631f4d81efe348501e95ff111d95c6080751912b3bd4f234e4c/chunklist_1080.stream.m3u8
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/04/2023/12/17/Screenshot_2023-12-17-11-08-06-15-458226612.jpg" group-title="V LEAGUE",WOMEN SD
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/n3ebruw6jdm7exboqkwp5m1fqkifzkkzyzc2/hdntl=exp=1739990766~acl=*%2fn3ebruw6jdm7exboqkwp5m1fqkifzkkzyzc2%2f*~data=hdntl~hmac=e329f05d6fa158241025957446a694d9d02788cfebdf9632a285b33adcd98b9b/chunklist_480.stream.m3u8
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/04/2023/12/17/Screenshot_2023-12-17-11-08-06-15-458226612.jpg" group-title="V LEAGUE",WOMEN HD
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/n3ebruw6jdm7exboqkwp5m1fqkifzkkzyzc2/hdntl=exp=1739990766~acl=*%2fn3ebruw6jdm7exboqkwp5m1fqkifzkkzyzc2%2f*~data=hdntl~hmac=e329f05d6fa158241025957446a694d9d02788cfebdf9632a285b33adcd98b9b/chunklist_720.stream.m3u8
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/04/2023/12/17/Screenshot_2023-12-17-11-08-06-15-458226612.jpg" group-title="V LEAGUE",WOMEN FHD
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/n3ebruw6jdm7exboqkwp5m1fqkifzkkzyzc2/hdntl=exp=1739990766~acl=*%2fn3ebruw6jdm7exboqkwp5m1fqkifzkkzyzc2%2f*~data=hdntl~hmac=e329f05d6fa158241025957446a694d9d02788cfebdf9632a285b33adcd98b9b/chunklist_1080.stream.m3u8
 
 
 
