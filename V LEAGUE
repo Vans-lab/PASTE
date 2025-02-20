@@ -5,10 +5,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://iptv12k.com:35461/live/654321/123456/3214.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="V LEAGUE", SBS SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://iptv12k.com:35461/live/654321/123456/3214.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/04/2023/12/17/Screenshot_2023-12-17-11-08-06-15-458226612.jpg" group-title="V LEAGUE",WOMEN SD
 https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/xmahqzgz11njskugpklhaefaukadwjrnesoy/hdntl=exp=1740077631~acl=*%2fxmahqzgz11njskugpklhaefaukadwjrnesoy%2f*~data=hdntl~hmac=d6cc2a8ffccbaac152414dbf29fa659bcceeb65c103c768963297a3d9bcb9304/chunklist_480.stream.m3u8
 #EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/04/2023/12/17/Screenshot_2023-12-17-11-08-06-15-458226612.jpg" group-title="V LEAGUE",WOMEN HD
