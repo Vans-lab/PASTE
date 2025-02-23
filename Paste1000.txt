@@ -2896,6 +2896,63 @@ http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1028728
 #EXTINF:-1 tvg-id="" tvg-name="ES - (NO MATCH)" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",ES - 10
 http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1117245
 
+##########################"VIP | BUNDESLIGA"#################################
+#EXTINF:-1 tvg-id="" tvg-name="DE - RB Leipzig vs Heidenheim 14:30 CET 23/02" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",DE - 1
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1017982
+#EXTINF:-1 tvg-id="" tvg-name="DE - Bayern München vs Eintracht Frankfurt 16:30 CET 23/02" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",DE - 2
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1017981
+#EXTINF:-1 tvg-id="" tvg-name="DE - Hoffenheim vs Stuttgart 18:30 CET 23/02" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",DE - 3
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1017980
+#EXTINF:-1 tvg-id="" tvg-name="DE - (NO MATCH)" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",DE - 4
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1017984
+#EXTINF:-1 tvg-id="" tvg-name="DE - (NO MATCH)" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",DE - 5
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100767
+#EXTINF:-1 tvg-id="" tvg-name="DE - (NO MATCH)" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",DE - 6
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1017985
+#EXTINF:-1 tvg-id="" tvg-name="DE - (NO MATCH)" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",DE - 7
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1042307
+#EXTINF:-1 tvg-id="" tvg-name="DE - (NO MATCH)" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",DE - 8
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1017983
+#EXTINF:-1 tvg-id="" tvg-name="DE - (NO MATCH)" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",DE - 9
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100768
+
+#EXTINF:-1 tvg-id="" tvg-name="EN - RB Leipzig vs Heidenheim 14:30 CET 23/02" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",EN - 1
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1017975
+#EXTINF:-1 tvg-id="" tvg-name="EN - Bayern München vs Eintracht Frankfurt 16:30 CET 23/02" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",EN - 2
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1017974
+#EXTINF:-1 tvg-id="" tvg-name="EN - Hoffenheim vs Stuttgart 18:30 CET 23/02" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",EN - 3
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1017973
+#EXTINF:-1 tvg-id="" tvg-name="EN -  (NO MATCH)" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",EN -  4
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1017977
+#EXTINF:-1 tvg-id="" tvg-name="EN - (NO MATCH)" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",EN - 5
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100761
+#EXTINF:-1 tvg-id="" tvg-name="EN - (NO MATCH)" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",EN - 6
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1017978
+#EXTINF:-1 tvg-id="" tvg-name="EN - (NO MATCH)" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",EN - 7
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1042308
+#EXTINF:-1 tvg-id="" tvg-name="EN -  (NO MATCH)" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",EN -  8
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1017976
+#EXTINF:-1 tvg-id="" tvg-name="EN - (NO MATCH)" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",EN - 9
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100762
+
+#EXTINF:-1 tvg-id="" tvg-name="FR - RB Leipzig vs Heidenheim 14:30 CET 23/02" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",FR - 1
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1029738
+#EXTINF:-1 tvg-id="" tvg-name="FR - Bayern München vs Eintracht Frankfurt 16:30 CET 23/02" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",FR - 2
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1029737
+#EXTINF:-1 tvg-id="" tvg-name="FR - Hoffenheim vs Stuttgart 18:30 CET 23/02" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",FR - 3
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1017966
+#EXTINF:-1 tvg-id="" tvg-name="FR - (NO MATCH)" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",FR - 4
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1029740
+#EXTINF:-1 tvg-id="" tvg-name="FR - (NO MATCH)" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",FR - 5
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100763
+#EXTINF:-1 tvg-id="" tvg-name="FR -  (NO MATCH)" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",FR -  6
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1029741
+#EXTINF:-1 tvg-id="" tvg-name="FR - (NO MATCH)" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",FR - 7
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1067573
+#EXTINF:-1 tvg-id="" tvg-name="FR - (NO MATCH)" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",FR - 8
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1029739
+#EXTINF:-1 tvg-id="" tvg-name="FR - (NO MATCH)" tvg-logo="http://go4.pw/56.png" group-title="BUNDESLIGA",FR - 9
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100764
 
 ============================================================================================================================================================
 // 09. Sports TV
