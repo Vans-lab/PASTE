@@ -5,6 +5,10 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="V LEAGUE",SBS SPORTS AUTO
+#https://www.dropbox.com/scl/fi/f2msmlqo4vycvq7zehlgv/videoplayback.mp4?rlkey=pt5muaeged0v9jg1n1f44fu6n&st=mgdhs55x&dl=1
+https://janda-korea.triwied77.workers.dev/index.mpd?id=20250223021F210
+
 #EXTINF:-1 tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="V LEAGUE", SBS SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://iptv12k.com:35461/live/654321/123456/3214.m3u8
@@ -4153,7 +4157,8 @@ http://xtv.ooo:8080/live/827281020/827292929/350972.ts
 ===================================================================================================================
 ============================================ VOLLY ===============================================================
 ===================================================================================================================
-
+#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.ibb.co.com/b09FzDb/volyball.webp"  group-title="VOLLY",LIVE
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298550
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="VOLLY", MOJI PROLIGA
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505856
 #EXTINF:-1 tvg-name="VOLLY" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/VOLLY.jpeg" group-title="VOLLY", Live 1
@@ -6147,82 +6152,4 @@ https://stream.hownetwork.xyz/xxx/the-departed-2006-bluray/9/480.m3u8
 #EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2019/08/film-parasite-gisaengchung-2019-lk21.jpg.webp" group-title="UPDATE ACTION 2024",Parasite (Gisaengchung) (2019)
 https://stream.hownetwork.xyz/xxx/parasite-gisaengchung-2019-bluray/11/480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="##### FRENCH #####" tvg-logo="http://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="VIP | PREMIER LEAGUE",##### FRENCH #####
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1020753
-#EXTINF:-1 tvg-id="" tvg-name="FR - Newcastle United vs Nottingham Forest 14:00 CET 23/02" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - Newcastle United vs Nottingham Forest 14:00 CET 23/02
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015540
-#EXTINF:-1 tvg-id="" tvg-name="FR - Manchester City vs Liverpool 16:30 CET 23/02" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - Manchester City vs Liverpool 16:30 CET 23/02
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015539
-#EXTINF:-1 tvg-id="" tvg-name="FR - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100812
-#EXTINF:-1 tvg-id="" tvg-name="FR - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015545
-#EXTINF:-1 tvg-id="" tvg-name="FR - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015544
-#EXTINF:-1 tvg-id="" tvg-name="FR - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015546
-#EXTINF:-1 tvg-id="" tvg-name="FR - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015542
-#EXTINF:-1 tvg-id="" tvg-name="FR - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015543
-#EXTINF:-1 tvg-id="" tvg-name="FR - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015541
-#EXTINF:-1 tvg-id="" tvg-name="FR - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100813
-#EXTINF:-1 tvg-id="" tvg-name="##### ENGLISH #####" tvg-logo="http://go4.pw/EUROPE/UK/UK.png" group-title="VIP | PREMIER LEAGUE",##### ENGLISH #####
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1020754
-#EXTINF:-1 tvg-id="" tvg-name="EN - Newcastle United vs Nottingham Forest 14:00 CET 23/02" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - Newcastle United vs Nottingham Forest 14:00 CET 23/02
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015548
-#EXTINF:-1 tvg-id="" tvg-name="EN - Manchester City vs Liverpool 16:30 CET 23/02" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - Manchester City vs Liverpool 16:30 CET 23/02
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015547
-#EXTINF:-1 tvg-id="" tvg-name="EN - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100810
-#EXTINF:-1 tvg-id="" tvg-name="EN - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015553
-#EXTINF:-1 tvg-id="" tvg-name="EN - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015552
-#EXTINF:-1 tvg-id="" tvg-name="EN - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015554
-#EXTINF:-1 tvg-id="" tvg-name="EN -  (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN -  (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015550
-#EXTINF:-1 tvg-id="" tvg-name="EN - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015551
-#EXTINF:-1 tvg-id="" tvg-name="EN - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015549
-#EXTINF:-1 tvg-id="" tvg-name="EN - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100811
-#EXTINF:-1 tvg-id="" tvg-name="##### ARABIC #####" tvg-logo="http://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | PREMIER LEAGUE",##### ARABIC #####
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1020752
-#EXTINF:-1 tvg-id="" tvg-name="AR - Newcastle United vs Nottingham Forest 14:00 CET 23/02" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - Newcastle United vs Nottingham Forest 14:00 CET 23/02
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015556
-#EXTINF:-1 tvg-id="" tvg-name="AR - Manchester City vs Liverpool 16:30 CET 23/02" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - Manchester City vs Liverpool 16:30 CET 23/02
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015555
-#EXTINF:-1 tvg-id="" tvg-name="AR - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100814
-#EXTINF:-1 tvg-id="" tvg-name="AR - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015561
-#EXTINF:-1 tvg-id="" tvg-name="AR - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015560
-#EXTINF:-1 tvg-id="" tvg-name="AR - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015562
-#EXTINF:-1 tvg-id="" tvg-name="AR - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015558
-#EXTINF:-1 tvg-id="" tvg-name="AR - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015559
-#EXTINF:-1 tvg-id="" tvg-name="AR - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015557
-#EXTINF:-1 tvg-id="" tvg-name="AR -  (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR -  (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100815
-#EXTINF:-1 tvg-id="" tvg-name="##### ALBANIAN #####" tvg-logo="http://go4.pw/MAGFLAGS/ALBANIA.png" group-title="VIP | PREMIER LEAGUE",##### ALBANIAN #####
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1024114
-#EXTINF:-1 tvg-id="" tvg-name="ALB - Manchester City vs Liverpool 16:30 CET 23/02" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - Manchester City vs Liverpool 16:30 CET 23/02
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1039828
-#EXTINF:-1 tvg-id="" tvg-name="ALB - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1024118
-#EXTINF:-1 tvg-id="" tvg-name="ALB - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1024115
-#EXTINF:-1 tvg-id="" tvg-name="ALB -  (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB -  (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1024113
-#EXTINF:-1 tvg-id="" tvg-name="ALB - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - (NO MATCH)
-http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1039819
-#EXTINF:-1 tvg-id="" tvg-name="ALB - (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - (NO MATCH)
+
