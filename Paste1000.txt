@@ -2836,6 +2836,44 @@ http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015825
 #EXTINF:-1 tvg-id="" tvg-name="EN - (NO MATCH)" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",EN - 10
 http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1117243
 
+##########################"VIP | SERIE A"#################################
+#EXTINF:-1 tvg-id="" tvg-name="IT - Como vs Napoli 11:30 CET 23/02" tvg-logo="http://go4.pw/55.png" group-title="SERIE A",IT - 1
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1018105
+#EXTINF:-1 tvg-id="" tvg-name="IT - Hellas Verona vs Fiorentina 14:00 CET 23/02" tvg-logo="http://go4.pw/55.png" group-title="SERIE A",IT - 2
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1018104
+#EXTINF:-1 tvg-id="" tvg-name="IT - Empoli vs Atalanta 17:00 CET 23/02" tvg-logo="http://go4.pw/55.png" group-title="SERIE A",IT - 3
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1018103
+#EXTINF:-1 tvg-id="" tvg-name="IT - Cagliari vs Juventus 19:45 CET 23/02" tvg-logo="http://go4.pw/55.png" group-title="SERIE A",IT - 4
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1018102
+#EXTINF:-1 tvg-id="" tvg-name="IT - (NO MATCH)" tvg-logo="http://go4.pw/55.png" group-title="SERIE A",IT - 5
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1033757
+#EXTINF:-1 tvg-id="" tvg-name="IT - (NO MATCH)" tvg-logo="http://go4.pw/55.png" group-title="SERIE A",IT - 6
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1033756
+#EXTINF:-1 tvg-id="" tvg-name="IT - (NO MATCH)" tvg-logo="http://go4.pw/55.png" group-title="SERIE A",IT - 7
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1033754
+#EXTINF:-1 tvg-id="" tvg-name="IT - (NO MATCH)" tvg-logo="http://go4.pw/55.png" group-title="SERIE A",IT - 8
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1018106
+#EXTINF:-1 tvg-id="" tvg-name="IT - (NO MATCH)" tvg-logo="http://go4.pw/55.png" group-title="SERIE A",IT - 9
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100791
+
+#EXTINF:-1 tvg-id="" tvg-name="EN - Como vs Napoli 11:30 CET 23/02" tvg-logo="http://go4.pw/55.png" group-title="SERIE A",EN - 1
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1018097
+#EXTINF:-1 tvg-id="" tvg-name="EN - Hellas Verona vs Fiorentina 14:00 CET 23/02" tvg-logo="http://go4.pw/55.png" group-title="SERIE A",EN - 2
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1018096
+#EXTINF:-1 tvg-id="" tvg-name="EN - Empoli vs Atalanta 17:00 CET 23/02" tvg-logo="http://go4.pw/55.png" group-title="SERIE A",EN - 3
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1018095
+#EXTINF:-1 tvg-id="" tvg-name="EN - Cagliari vs Juventus 19:45 CET 23/02" tvg-logo="http://go4.pw/55.png" group-title="SERIE A",EN - 4
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1018094
+#EXTINF:-1 tvg-id="" tvg-name="EN - (NO MATCH)" tvg-logo="http://go4.pw/55.png" group-title="SERIE A",EN - 5
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1028898
+#EXTINF:-1 tvg-id="" tvg-name="EN - (NO MATCH)" tvg-logo="http://go4.pw/55.png" group-title="SERIE A",EN - 6
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1028730
+#EXTINF:-1 tvg-id="" tvg-name="EN - (NO MATCH)" tvg-logo="http://go4.pw/55.png" group-title="SERIE A",EN - 7
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1018099
+#EXTINF:-1 tvg-id="" tvg-name="EN - (NO MATCH)" tvg-logo="http://go4.pw/55.png" group-title="SERIE A",EN - 8
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1018098
+#EXTINF:-1 tvg-id="" tvg-name="EN - (NO MATCH)" tvg-logo="http://go4.pw/55.png" group-title="SERIE A",EN - 9
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100790
 
 #EXTINF:-1 tvg-id="" tvg-name="ES - Athletic Club vs Real Valladolid 13:00 CET 23/02" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",ES - 1
 http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1033362
