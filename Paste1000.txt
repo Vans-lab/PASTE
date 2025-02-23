@@ -118,10 +118,10 @@ https://gasruktv.my.id/asx/live.mpd?id=205
 #https://experiment-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/205_stream.mpd?hdntl=exp=1739575819~acl=%2f*~id=140191317~data=hdntl~hmac=64a9eb1942868acef0c7ed777e438d35106a25e6f3e909a960a4c8f8e7a6a5c5
 
 
-#EXTINF:-1 group-title="LIGA 1" tvg-logo="https://iili.io/2DHoyX4.png",INDOSIAR X
+#EXTINF:-1 group-title="LIGA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",INDOSIAR X
 http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34327
 
-#EXTINF:-1 group-title="LIGA 1" tvg-logo="https://iili.io/2DHoyX4.png",INDOSIAR XX
+#EXTINF:-1 group-title="LIGA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",INDOSIAR XX
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Champions_TV_1.png/revision/latest?cb=20200428062800" group-title="TV JUARA",Champions TV 1 
