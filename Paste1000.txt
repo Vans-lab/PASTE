@@ -2794,7 +2794,72 @@ http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015557
 #EXTINF:-1 tvg-id="" tvg-name="AR -  (NO MATCH)" tvg-logo="http://go4.pw/59.png" group-title="| PREMIER LEAGUE",AR -  10
 http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100815
 
-##########################"VIP | PREMIER LEAGUE"#################################
+##########################"VIP | LA LIGA"#################################
+
+#EXTINF:-1 tvg-id="" tvg-name="FR -  Athletic Club vs Real Valladolid 13:00 CET 23/02" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",FR -  1
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015822
+#EXTINF:-1 tvg-id="" tvg-name="FR - Real Madrid vs Girona 15:15 CET 23/02" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",FR - 2
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015821
+#EXTINF:-1 tvg-id="" tvg-name="FR - Getafe vs Real Betis 17:30 CET 23/02" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",FR - 3
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015820
+#EXTINF:-1 tvg-id="" tvg-name="FR - Real Sociedad vs Leganés 20:00 CET 23/02" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",FR - 4
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015819
+#EXTINF:-1 tvg-id="" tvg-name="FR - (NO MATCH)" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",FR - 5
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100783
+#EXTINF:-1 tvg-id="" tvg-name="FR - (NO MATCH)" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",FR - 6
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100776
+#EXTINF:-1 tvg-id="" tvg-name="FR -  (NO MATCH)" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",FR -  7
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100775
+#EXTINF:-1 tvg-id="" tvg-name="FR - (NO MATCH)" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",FR - 8
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015823
+#EXTINF:-1 tvg-id="" tvg-name="FR - (NO MATCH)" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",FR - 9
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1117244
+#EXTINF:-1 tvg-id="" tvg-name="FR - (NO MATCH) " tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",FR - 10 
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015818
+
+#EXTINF:-1 tvg-id="" tvg-name="EN - Athletic Club vs Real Valladolid 13:00 CET 23/02" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",EN - 1
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015829
+#EXTINF:-1 tvg-id="" tvg-name="EN - Real Madrid vs Girona 15:15 CET 23/02" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",EN - 2
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015828
+#EXTINF:-1 tvg-id="" tvg-name="EN - Getafe vs Real Betis 17:30 CET 23/02" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",EN - 3
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015827
+#EXTINF:-1 tvg-id="" tvg-name="EN - Real Sociedad vs Leganés 20:00 CET 23/02" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",EN - 4
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015826
+#EXTINF:-1 tvg-id="" tvg-name="EN - (NO MATCH)" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",EN - 5
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100784
+#EXTINF:-1 tvg-id="" tvg-name="EN - (NO MATCH)" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",EN - 6
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100774
+#EXTINF:-1 tvg-id="" tvg-name="EN -  (NO MATCH)" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",EN -  7
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100772
+#EXTINF:-1 tvg-id="" tvg-name="EN - (NO MATCH)" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",EN - 8
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015830
+#EXTINF:-1 tvg-id="" tvg-name="EN - (NO MATCH) " tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",EN - 9 
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015825
+#EXTINF:-1 tvg-id="" tvg-name="EN - (NO MATCH)" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",EN - 10
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1117243
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ES - Athletic Club vs Real Valladolid 13:00 CET 23/02" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",ES - 1
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1033362
+#EXTINF:-1 tvg-id="" tvg-name="ES - Real Madrid vs Girona 15:15 CET 23/02" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",ES - 2
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1033358
+#EXTINF:-1 tvg-id="" tvg-name="ES - Getafe vs Real Betis 17:30 CET 23/02" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",ES - 3
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1033357
+#EXTINF:-1 tvg-id="" tvg-name="ES - Real Sociedad vs Leganés 20:00 CET 23/02" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",ES - 4
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1033355
+#EXTINF:-1 tvg-id="" tvg-name="ES - (NO MATCH)" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",ES - 5
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100781
+#EXTINF:-1 tvg-id="" tvg-name="ES - (NO MATCH)" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",ES - 6
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100780
+#EXTINF:-1 tvg-id="" tvg-name="ES - (NO MATCH)" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",ES - 7
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100779
+#EXTINF:-1 tvg-id="" tvg-name="ES - (NO MATCH)" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",ES - 8
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1086615
+#EXTINF:-1 tvg-id="" tvg-name="ES - (NO MATCH) " tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",ES - 9 
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1028728
+#EXTINF:-1 tvg-id="" tvg-name="ES - (NO MATCH)" tvg-logo="http://go4.pw/58.png" group-title="LA LIGA",ES - 10
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1117245
+
 
 ============================================================================================================================================================
 // 09. Sports TV
