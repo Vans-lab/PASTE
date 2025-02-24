@@ -5,14 +5,8 @@
 
 #EXTM3U
 
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",arema vs psis
-#EXTVLCOPT:http-referrer=https://zac.presentdiscussx0964b.sbs/
-https://fhlsport111.fas41m2.xyz/token-cUEtnuGSKKCGvjYtkPY6ymiBlJrSgy7jPSb4xaEdQTL67uGWHUFdDoovpBJJXU9JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/47q08o7nnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_592348.m3u8
-#https://www.dropbox.com/scl/fi/pvfwsu2lq0ownj1y5wnmf/my-iptv.mp4?rlkey=giknybduqth14gfgamykaswvu&st=yjt37rm4&dl=1
 
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",AREMA VS PSIS
-https://bf.shandongjnkt.cn/live/5004447_hd01.m3u8?txSecret=91960f68a4713be2ec9df57963ffda33&txTime=67bc31b8
-
+##############################V LEAGUE############################
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="V LEAGUE",SBS SPORTS AUTO
 #https://www.dropbox.com/scl/fi/f2msmlqo4vycvq7zehlgv/videoplayback.mp4?rlkey=pt5muaeged0v9jg1n1f44fu6n&st=mgdhs55x&dl=1
@@ -39,12 +33,12 @@ https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/zes2w6l2zvfdswcmahu
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",MEN FHD
 https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/zes2w6l2zvfdswcmahucmxb5wgm88b1lea1s/hdntl=exp=1740166740~acl=*%2fzes2w6l2zvfdswcmahucmxb5wgm88b1lea1s%2f*~data=hdntl~hmac=b2234c7c9ad0192593fdb61a61bcdeb0c703a403285a96ba9082276a1aa6739d/chunklist_1080.stream.m3u8
 
-
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png" group-title="V LEAGUE",TVRI SPORT
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166686
 
+##############################AFC U20############################
 
 #EXTINF:-1 group-title="AFC U-20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png",Sportstars 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -102,7 +96,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mp
 
 ##############################LIGA 1############################
 
-#EXTINF:-1 group-title="LIGA 1" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",arema vs psis
+#EXTINF:-1 group-title="LIGA 1" tvg-id="" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png",arema vs psis
 #EXTVLCOPT:http-referrer=https://zac.presentdiscussx0964b.sbs/
 https://fhlsport111.fas41m2.xyz/token-cUEtnuGSKKCGvjYtkPY6ymiBlJrSgy7jPSb4xaEdQTL67uGWHUFdDoovpBJJXU9JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/47q08o7nnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_592348.m3u8
 #https://www.dropbox.com/scl/fi/pvfwsu2lq0ownj1y5wnmf/my-iptv.mp4?rlkey=giknybduqth14gfgamykaswvu&st=yjt37rm4&dl=1
@@ -133,26 +127,26 @@ https://gasruktv.my.id/asx/live.mpd?id=17623
 https://gasruktv.my.id/asx/live.mpd?id=205
 #https://experiment-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/205_stream.mpd?hdntl=exp=1739575819~acl=%2f*~id=140191317~data=hdntl~hmac=64a9eb1942868acef0c7ed777e438d35106a25e6f3e909a960a4c8f8e7a6a5c5
 
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title="LIGA 1",INDOSIAR X
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="LIGA 1",INDOSIAR X
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/162138
 #EXTINF:-1 group-title="LIGA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",INDOSIAR XX
 http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34327
 
-#EXTINF:-1 group-title="LIGA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",INDOSIAR XXX
-https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/aThN9BYQG4Y0_qtqym6rOwM7bNs=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/59/bri-liga-1-2fbb85.png" group-title="LIGA 1",LIVE X 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="LIGA 1",LIVE X 
 #KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
 #KODIPROP:inputstream.adaptive.license_key=https://barjasetiawan.serv00.net/event/ss3.php
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.3677777777
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/aThN9BYQG4Y0_qtqym6rOwM7bNs=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/59/bri-liga-1-2fbb85.png" group-title="LIGA 1",LIVE XX
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="LIGA 1",LIVE XX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://drmvplus.h3ll0.workers.dev/?no=114&type=drm
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+##############################CHAMPIONS TV############################
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Champions_TV_1.png/revision/latest?cb=20200428062800" group-title="TV JUARA",Champions TV 1 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
 #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -4132,43 +4126,6 @@ https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/asi
 https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/asia%20sport/NowsportPL1.m3u8
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png" group-title="SPORTS", NOW SPORT PREMIER 5
 https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/asia%20sport/NowsportPL1.m3u8
-
-===================================================================================================================
-============================================ BRI LIGA 1 =============================================================
-===================================================================================================================
-
-
-#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="BRI LIGA 1", Live 1
-http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/162138.ts
-#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="BRI LIGA 1", Live 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://xtvplayer.top:8080/live/Atiffb694/2840914/350972.ts
-#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="BRI LIGA 1", Live 3
-http://tv.cloudcdn.me/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75
-#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="BRI LIGA 1", Live 4
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://opplex.tv:8080/live/starmpk/mpk1234/350972.ts
-#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="BRI LIGA 1", Live 5
-http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
-#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="BRI LIGA 1", Live 6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://xtv.ooo:8080/live/Raza335/3355141450/350972.ts
-#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="BRI LIGA 1", Live 7
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://xtv.ooo:8080/live/jk8010801099/jk8010801099/350972.ts
-#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="BRI LIGA 1", Live 8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://xtv.ooo:8080/live/827281020/827292929/350972.ts
 
 
 ===================================================================================================================
