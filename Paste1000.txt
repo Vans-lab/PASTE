@@ -5,9 +5,6 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="V LEAGUE", SBS SPORTS
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://fhlsport111.fas41m2.xyz/token-I0J4k%2BGXf6OGu2d%2BkvY6nzqDlMPV03rjOnOswvRLGDGm4rjLHUFdDoovqxBMVU1JBCeIxTNhkA%3D%3Da/cfall/s6/v3b/q0241r46nUE0pUZ6Yl9mYJVlYzScp3ElMJ0hozI0/plyvivo/nij0jetibe4e6an02o6i/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="V LEAGUE",SBS SPORTS AUTO
 #https://www.dropbox.com/scl/fi/f2msmlqo4vycvq7zehlgv/videoplayback.mp4?rlkey=pt5muaeged0v9jg1n1f44fu6n&st=mgdhs55x&dl=1
@@ -162,18 +159,6 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
 
 ######################################################################TV CHANNELS#############################################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aThN9BYQG4Y0_qtqym6rOwM7bNs=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/59/bri-liga-1-2fbb85.png" group-title="TV NASIONAL",INDOSIAR LIVE 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png" group-title="TV NASIONAL",INDOSIAR 2
-https://mantul.biz.id:443/inetwork/gayanet12/5286.ts
-
-#EXTINF:-1 tvg-id="dummy" tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="TV NASIONAL",Indosiar 3
-https://perfecttv.net:443/Perfecttv/Perfecttv/1604
 
 #EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://iili.io/JMp36xI.png" group-title="TV NASIONAL",RCTI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
