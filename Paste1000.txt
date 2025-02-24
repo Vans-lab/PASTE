@@ -5,6 +5,10 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="V LEAGUE", SBS SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://fhlsport111.fas41m2.xyz/token-I0J4k%2BGXf6OGu2d%2BkvY6nzqDlMPV03rjOnOswvRLGDGm4rjLHUFdDoovqxBMVU1JBCeIxTNhkA%3D%3Da/cfall/s6/v3b/q0241r46nUE0pUZ6Yl9mYJVlYzScp3ElMJ0hozI0/plyvivo/nij0jetibe4e6an02o6i/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="V LEAGUE",SBS SPORTS AUTO
 #https://www.dropbox.com/scl/fi/f2msmlqo4vycvq7zehlgv/videoplayback.mp4?rlkey=pt5muaeged0v9jg1n1f44fu6n&st=mgdhs55x&dl=1
 https://janda-korea.triwied77.workers.dev/index.mpd?id=20250223021F210
