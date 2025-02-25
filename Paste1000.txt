@@ -5,6 +5,23 @@
 
 #EXTM3U
 
+##############################LIGA 2############################
+
+#EXTINF:-1 group-title="LIGA 2" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv6u4qs5vWBH7hZ7eOtxPcVxTSNmUBrOCvCA&s",1
+#EXTVLCOPT:http-referrer=https://zac.presentdiscussx0964b.sbs/
+https://fhlsport111.fas41m2.xyz/token-IEQtk7nAIaSG7zYskPY6z22FlJqB0HzjOiauxKdGFjSh5LmbHUFdDoooqxVMVUlJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/p0412n03nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_592545.m3u8
+
+#EXTINF:-1 group-title="LIGA 2" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv6u4qs5vWBH7hZ7eOtxPcVxTSNmUBrOCvCA&s",2
+#EXTVLCOPT:http-referrer=https://zac.presentdiscussx0964b.sbs/
+https://fhlsport111.fas41m2.xyz/token-J0VyzbWRLP%2BG5GcuwPY6mG%2BElMCGgX%2FjbiOtxKEfEDDz4ePIHUFdDoooqxVPWU1JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/32s65p0pnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_592402.m3u8
+
+#EXTINF:-1 group-title="LIGA 2" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv6u4qs5vWBH7hZ7eOtxPcVxTSNmUBrOCvCA&s",3
+#EXTVLCOPT:http-referrer=https://zac.presentdiscussx0964b.sbs/
+https://fhlsport111.fas41m2.xyz/token-dBJ%2Bm%2BOdffeG7DAgwvY6nG3VlMDajSHjOCb7wKNPQmWk7uOcHUFdDoooqxVAWEhJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/p9os5q10nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_592399.m3u8
+
+#EXTINF:-1 group-title="LIGA 2" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv6u4qs5vWBH7hZ7eOtxPcVxTSNmUBrOCvCA&s",4
+#EXTVLCOPT:http-referrer=https://zac.presentdiscussx0964b.sbs/
+https://fhlsport111.fas41m2.xyz/token-IkRymeaReP6GuTMrx%2FY6m2yHlMCEg3rjanejxaFPGWWg4becHUFdDoooqxVAVUlJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/678n9788nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_592400.m3u8
 
 ##############################V LEAGUE############################
 
