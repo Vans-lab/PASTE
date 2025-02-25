@@ -33,22 +33,22 @@ https://janda-korea.triwied77.workers.dev/index.mpd?id=20250223021F210
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://iptv12k.com:35461/live/654321/123456/3214.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/04/2023/12/17/Screenshot_2023-12-17-11-08-06-15-458226612.jpg" group-title="V LEAGUE",WOMEN SD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/fdymze63imju61t4ea9cnd3koi31yci7t802/hdntl=exp=1740166688~acl=*%2ffdymze63imju61t4ea9cnd3koi31yci7t802%2f*~data=hdntl~hmac=285e5f39600ea011cff364cc827b783b0052c9592fa1a92675ef0918fc6d4176/chunklist_480.stream.m3u8
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/04/2023/12/17/Screenshot_2023-12-17-11-08-06-15-458226612.jpg" group-title="V LEAGUE",WOMEN HD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/fdymze63imju61t4ea9cnd3koi31yci7t802/hdntl=exp=1740166688~acl=*%2ffdymze63imju61t4ea9cnd3koi31yci7t802%2f*~data=hdntl~hmac=285e5f39600ea011cff364cc827b783b0052c9592fa1a92675ef0918fc6d4176/chunklist_720.stream.m3u8
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/04/2023/12/17/Screenshot_2023-12-17-11-08-06-15-458226612.jpg" group-title="V LEAGUE",WOMEN FHD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/fdymze63imju61t4ea9cnd3koi31yci7t802/hdntl=exp=1740166688~acl=*%2ffdymze63imju61t4ea9cnd3koi31yci7t802%2f*~data=hdntl~hmac=285e5f39600ea011cff364cc827b783b0052c9592fa1a92675ef0918fc6d4176/chunklist_1080.stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT34Wn0rxPb2sNAMKUrXILM4zNxS3NOEl293A&s" group-title="V LEAGUE",WOMEN SD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/9auuwlnu6hkcg5wlosqrpazqhkems0rrh5bh/hdntl=exp=1740509149~acl=*%2f9auuwlnu6hkcg5wlosqrpazqhkems0rrh5bh%2f*~data=hdntl~hmac=391e36f9c01d200b46daf43d393eab292a6733dc3cc3153304f7c854896e76fb/chunklist_480.stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT34Wn0rxPb2sNAMKUrXILM4zNxS3NOEl293A&s" group-title="V LEAGUE",WOMEN HD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/9auuwlnu6hkcg5wlosqrpazqhkems0rrh5bh/hdntl=exp=1740509149~acl=*%2f9auuwlnu6hkcg5wlosqrpazqhkems0rrh5bh%2f*~data=hdntl~hmac=391e36f9c01d200b46daf43d393eab292a6733dc3cc3153304f7c854896e76fb/chunklist_720.stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT34Wn0rxPb2sNAMKUrXILM4zNxS3NOEl293A&s" group-title="V LEAGUE",WOMEN FHD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/9auuwlnu6hkcg5wlosqrpazqhkems0rrh5bh/hdntl=exp=1740509149~acl=*%2f9auuwlnu6hkcg5wlosqrpazqhkems0rrh5bh%2f*~data=hdntl~hmac=391e36f9c01d200b46daf43d393eab292a6733dc3cc3153304f7c854896e76fb/chunklist_1080.stream.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",MEN SD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/zes2w6l2zvfdswcmahucmxb5wgm88b1lea1s/hdntl=exp=1740166740~acl=*%2fzes2w6l2zvfdswcmahucmxb5wgm88b1lea1s%2f*~data=hdntl~hmac=b2234c7c9ad0192593fdb61a61bcdeb0c703a403285a96ba9082276a1aa6739d/chunklist_480.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/rjn9uthdyzjqiwgyns2ceuhggx2j3au1t5dh/hdntl=exp=1740509333~acl=*%2frjn9uthdyzjqiwgyns2ceuhggx2j3au1t5dh%2f*~data=hdntl~hmac=06122646faeab5b21e683169115dd132b8975adb3edeb4182de6a89acd2370a4/chunklist_480.stream.m3u8
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE", MEN HD 
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/zes2w6l2zvfdswcmahucmxb5wgm88b1lea1s/hdntl=exp=1740166740~acl=*%2fzes2w6l2zvfdswcmahucmxb5wgm88b1lea1s%2f*~data=hdntl~hmac=b2234c7c9ad0192593fdb61a61bcdeb0c703a403285a96ba9082276a1aa6739d/chunklist_720.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/rjn9uthdyzjqiwgyns2ceuhggx2j3au1t5dh/hdntl=exp=1740509333~acl=*%2frjn9uthdyzjqiwgyns2ceuhggx2j3au1t5dh%2f*~data=hdntl~hmac=06122646faeab5b21e683169115dd132b8975adb3edeb4182de6a89acd2370a4/chunklist_720.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",MEN FHD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/zes2w6l2zvfdswcmahucmxb5wgm88b1lea1s/hdntl=exp=1740166740~acl=*%2fzes2w6l2zvfdswcmahucmxb5wgm88b1lea1s%2f*~data=hdntl~hmac=b2234c7c9ad0192593fdb61a61bcdeb0c703a403285a96ba9082276a1aa6739d/chunklist_1080.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/rjn9uthdyzjqiwgyns2ceuhggx2j3au1t5dh/hdntl=exp=1740509333~acl=*%2frjn9uthdyzjqiwgyns2ceuhggx2j3au1t5dh%2f*~data=hdntl~hmac=06122646faeab5b21e683169115dd132b8975adb3edeb4182de6a89acd2370a4/chunklist_1080.stream.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
