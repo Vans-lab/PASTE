@@ -5,15 +5,38 @@
 
 #EXTM3U
 
-##############################LIGA 2############################
+##############################EPL############################
 
-#EXTINF:-1 group-title="LIGA 2" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv6u4qs5vWBH7hZ7eOtxPcVxTSNmUBrOCvCA&s",1
-#EXTVLCOPT:http-referrer=https://zac.presentdiscussx0964b.sbs/
-https://fhlsport111.fjs33m1.xyz/token-cRR8zeSdKaCG7zcglfY6z2uFlJrb0ynjaXauxaYbGTCjt%2BacHUFdDoopqxVLXElJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/q5n4s440nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_592626.m3u8
-
-#EXTINF:-1 group-title="LIGA 2" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv6u4qs5vWBH7hZ7eOtxPcVxTSNmUBrOCvCA&s",2
-#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport111.fjs33m1.xyz/token-dxRzkuXFfPCGuGQvwvY6zG6GlMOBjCHjOCaqx6YbQTf1s7OWHUFdDoopqxVMVElJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/q5n4s440nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_592626.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR - Brentford vs Everton 19:30 CET" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - Brentford vs Everton 19:30 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015546
+#EXTINF:-1 tvg-id="" tvg-name="FR - Manchester United vs Ipswich Town 19:30 CET" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - Manchester United vs Ipswich Town 19:30 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100813
+#EXTINF:-1 tvg-id="" tvg-name="FR - Nottingham Forest vs Arsenal 19:30 CET" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - Nottingham Forest vs Arsenal 19:30 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100812
+#EXTINF:-1 tvg-id="" tvg-name="FR - Tottenham Hotspur vs Manchester City 19:30 CET" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - Tottenham Hotspur vs Manchester City 19:30 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015545
+#EXTINF:-1 tvg-id="" tvg-name="FR - Liverpool vs Newcastle United  20:15 CET" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - Liverpool vs Newcastle United  20:15 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015544
+#EXTINF:-1 tvg-id="" tvg-name="EN - Brentford vs Everton 19:30 CET" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - Brentford vs Everton 19:30 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015554
+#EXTINF:-1 tvg-id="" tvg-name="EN - Manchester United vs Ipswich Town 19:30 CET" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - Manchester United vs Ipswich Town 19:30 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100811
+#EXTINF:-1 tvg-id="" tvg-name="EN - Nottingham Forest vs Arsenal 19:30 CET" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - Nottingham Forest vs Arsenal 19:30 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100810
+#EXTINF:-1 tvg-id="" tvg-name="EN - Tottenham Hotspur vs Manchester City 19:30 CET" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - Tottenham Hotspur vs Manchester City 19:30 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015553
+#EXTINF:-1 tvg-id="" tvg-name="EN - Liverpool vs Newcastle United  20:15 CET" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - Liverpool vs Newcastle United  20:15 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015552
+#EXTINF:-1 tvg-id="" tvg-name="AR - Brentford vs Everton 19:30 CET" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - Brentford vs Everton 19:30 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015562
+#EXTINF:-1 tvg-id="" tvg-name="AR - Manchester United vs Ipswich Town 19:30 CET" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - Manchester United vs Ipswich Town 19:30 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100815
+#EXTINF:-1 tvg-id="" tvg-name="AR - Nottingham Forest vs Arsenal 19:30 CET" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - Nottingham Forest vs Arsenal 19:30 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1100814
+#EXTINF:-1 tvg-id="" tvg-name="AR - Tottenham Hotspur vs Manchester City 19:30 CET" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - Tottenham Hotspur vs Manchester City 19:30 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015561
+#EXTINF:-1 tvg-id="" tvg-name="AR - Liverpool vs Newcastle United  20:15 CET" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - Liverpool vs Newcastle United  20:15 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015560
 
 
 
