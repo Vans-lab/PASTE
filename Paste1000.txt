@@ -1550,6 +1550,47 @@ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(b30aa51e-97fa-4354-bb38-871
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(5ab5db84-2235-4c10-9066-be9bc2ee087a)/master.mpd
 
 
+###############################################WWE EVENTS###############################################
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="WWE Royal Rumble (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfwcQwARh7Gt2f8JEPxxiscqkpo.jpg" group-title="PPV - WWE",WWE Royal Rumble (2025)
+http://vocotv.pro:80/movie/IPTV123/IPTV123/700782.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AEW WrestleDream 2024 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5P4LU9gOQGD6NeUa897If841yN.jpg" group-title="PPV - WWE",AEW WrestleDream 2024 (2024)
+http://vocotv.pro:80/movie/IPTV123/IPTV123/642105.mp4
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="WWE Bad Blood 2024 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUBAxvqGpWQQPF5l5Xcnjbl0GJa.jpg" group-title="PPV - WWE",WWE Bad Blood 2024 (2024)
+http://vocotv.pro:80/movie/IPTV123/IPTV123/640046.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="WWE Bash in Berlin 2024 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktw8TSjMp5EwFLEbV9jAQdDaF0O.jpg" group-title="PPV - WWE",WWE Bash in Berlin 2024 (2024)
+http://vocotv.pro:80/movie/IPTV123/IPTV123/631406.mp4
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="WWE Crown Jewel 2024 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJAdzCztW4oByfZvnwrmJ8Mc1gN.jpg" group-title="PPV - WWE",WWE Crown Jewel 2024 (2024)
+http://vocotv.pro:80/movie/IPTV123/IPTV123/657783.mp4
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="WWE SummerSlam 2024 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ty1IwoLFammlHZVRrkpyQcHcSzK.jpg" group-title="PPV - WWE",WWE SummerSlam 2024 (2024)
+http://vocotv.pro:80/movie/IPTV123/IPTV123/619764.mp4
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="WWE Survivor Series: WarGames (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYBrnpy9fhdZOcGGmGeklafshBB.jpg" group-title="PPV - WWE",WWE Survivor Series: WarGames (2024)
+http://vocotv.pro:80/movie/IPTV123/IPTV123/672053.mp4
+
+###############################################NL SPORTS###############################################
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="espn1.nl" tvg-name="|NL| ESPN 1" tvg-logo="https://logo.iptveditor.com/espn1.png" group-title="Netherlands | Sports",|NL| ESPN 1
+http://vocotv.pro:80/IPTV123/IPTV123/265572
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="espn2.nl" tvg-name="|NL| ESPN 2" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="Netherlands | Sports",|NL| ESPN 2
+http://vocotv.pro:80/IPTV123/IPTV123/265571
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="espn3.nl" tvg-name="|NL| ESPN 3" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="Netherlands | Sports",|NL| ESPN 3
+http://vocotv.pro:80/IPTV123/IPTV123/265570
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="espn4.nl" tvg-name="|NL| ESPN 4" tvg-logo="https://logo.iptveditor.com/espn4.png" group-title="Netherlands | Sports",|NL| ESPN 4
+http://vocotv.pro:80/IPTV123/IPTV123/265569
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ziggosport.nl" tvg-name="|NL| Ziggo Sport HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/ziggo-sport-nl.png" group-title="Netherlands | Sports",|NL| Ziggo Sport HD
+http://vocotv.pro:80/IPTV123/IPTV123/265568
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ziggosport2.nl" tvg-name="|NL| Ziggo Sport 2 HD" tvg-logo="https://www.ziggosport.nl/images/logos/logo-ziggosport2.svg" group-title="Netherlands | Sports",|NL| Ziggo Sport 2 HD
+http://vocotv.pro:80/IPTV123/IPTV123/265566
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ziggosport3.nl" tvg-name="|NL| Ziggo Sport 3 HD" tvg-logo="https://www.ziggosport.nl/images/logos/logo-ziggosport3.svg" group-title="Netherlands | Sports",|NL| Ziggo Sport 3 HD
+http://vocotv.pro:80/IPTV123/IPTV123/265565
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ziggosport4.nl" tvg-name="|NL| Ziggo Sport 4 HD" tvg-logo="https://www.ziggosport.nl/images/logos/logo-ziggosport4.svg" group-title="Netherlands | Sports",|NL| Ziggo Sport 4 HD
+http://vocotv.pro:80/IPTV123/IPTV123/265564
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ziggosport5.nl" tvg-name="|NL| Ziggo Sport 5 HD" tvg-logo="https://www.ziggosport.nl/images/logos/logo-ziggosport5.svg" group-title="Netherlands | Sports",|NL| Ziggo Sport 5 HD
+http://vocotv.pro:80/IPTV123/IPTV123/265563
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ziggosport6.nl" tvg-name="|NL| Ziggo Sport 6 HD" tvg-logo="https://www.ziggosport.nl/images/logos/logo-ziggosport6.svg" group-title="Netherlands | Sports",|NL| Ziggo Sport 6 HD
+http://vocotv.pro:80/IPTV123/IPTV123/265562
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.nl" tvg-name="|NL| Eurosport 1 HD" tvg-logo="https://logo.iptveditor.com/eurosport1.png" group-title="Netherlands | Sports",|NL| Eurosport 1 HD
+http://vocotv.pro:80/IPTV123/IPTV123/265561
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.nl" tvg-name="|NL| Eurosport 2 HD" tvg-logo="https://logo.iptveditor.com/eurosport2.png" group-title="Netherlands | Sports",|NL| Eurosport 2 HD
+http://vocotv.pro:80/IPTV123/IPTV123/265560
 
 
 #EXTINF:-1 tvg-id="Vision Prime HD - [Channel 1].id" tvg-logo="https://iili.io/JZInBLX.png" group-title="HIBURAN",Vision Prime
