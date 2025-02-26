@@ -38,6 +38,8 @@ http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015561
 #EXTINF:-1 tvg-id="" tvg-name="AR - Liverpool vs Newcastle United  20:15 CET" tvg-logo="http://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - Liverpool vs Newcastle United  20:15 CET
 http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015560
 
+#EXTINF:-1 tvg-id="" tvg-name="ES - Real Sociedad vs Real Madrid 20:30 CET" tvg-logo="http://go4.pw/58.png" group-title="VIP | COPA DEL REY",ES - Real Sociedad vs Real Madrid 20:30 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1117245
 #EXTINF:-1 tvg-id="" tvg-name="FR - Real Sociedad vs Real Madrid 20:30 CET" tvg-logo="http://go4.pw/58.png" group-title="VIP | COPA DEL REY",FR - Real Sociedad vs Real Madrid 20:30 CET
 http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1117244
 #EXTINF:-1 tvg-id="" tvg-name="EN - Real Sociedad vs Real Madrid 20:30 CET" tvg-logo="http://go4.pw/58.png" group-title="VIP | COPA DEL REY",EN - Real Sociedad vs Real Madrid 20:30 CET
