@@ -28,21 +28,21 @@ https://janda-korea.triwied77.workers.dev/index.mpd?id=20250223021F210
 http://iptv12k.com:35461/live/654321/123456/3214.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT34Wn0rxPb2sNAMKUrXILM4zNxS3NOEl293A&s" group-title="V LEAGUE",WOMEN SD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/9auuwlnu6hkcg5wlosqrpazqhkems0rrh5bh/hdntl=exp=1740509149~acl=*%2f9auuwlnu6hkcg5wlosqrpazqhkems0rrh5bh%2f*~data=hdntl~hmac=391e36f9c01d200b46daf43d393eab292a6733dc3cc3153304f7c854896e76fb/chunklist_480.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/fn8lgsfzmlr8ebtuxvumwocnm5gk807p54eo/hdntl=exp=1740597248~acl=*%2ffn8lgsfzmlr8ebtuxvumwocnm5gk807p54eo%2f*~data=hdntl~hmac=91ea0b4e7bf9dd71162ab16407f0f01ab819edd7cc0a10912e3cf54b4a2d69e6/chunklist_480.stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT34Wn0rxPb2sNAMKUrXILM4zNxS3NOEl293A&s" group-title="V LEAGUE",WOMEN HD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/9auuwlnu6hkcg5wlosqrpazqhkems0rrh5bh/hdntl=exp=1740509149~acl=*%2f9auuwlnu6hkcg5wlosqrpazqhkems0rrh5bh%2f*~data=hdntl~hmac=391e36f9c01d200b46daf43d393eab292a6733dc3cc3153304f7c854896e76fb/chunklist_720.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/fn8lgsfzmlr8ebtuxvumwocnm5gk807p54eo/hdntl=exp=1740597248~acl=*%2ffn8lgsfzmlr8ebtuxvumwocnm5gk807p54eo%2f*~data=hdntl~hmac=91ea0b4e7bf9dd71162ab16407f0f01ab819edd7cc0a10912e3cf54b4a2d69e6/chunklist_720.stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT34Wn0rxPb2sNAMKUrXILM4zNxS3NOEl293A&s" group-title="V LEAGUE",WOMEN FHD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/9auuwlnu6hkcg5wlosqrpazqhkems0rrh5bh/hdntl=exp=1740509149~acl=*%2f9auuwlnu6hkcg5wlosqrpazqhkems0rrh5bh%2f*~data=hdntl~hmac=391e36f9c01d200b46daf43d393eab292a6733dc3cc3153304f7c854896e76fb/chunklist_1080.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/fn8lgsfzmlr8ebtuxvumwocnm5gk807p54eo/hdntl=exp=1740597248~acl=*%2ffn8lgsfzmlr8ebtuxvumwocnm5gk807p54eo%2f*~data=hdntl~hmac=91ea0b4e7bf9dd71162ab16407f0f01ab819edd7cc0a10912e3cf54b4a2d69e6/chunklist_1080.stream.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",MEN SD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/rjn9uthdyzjqiwgyns2ceuhggx2j3au1t5dh/hdntl=exp=1740509333~acl=*%2frjn9uthdyzjqiwgyns2ceuhggx2j3au1t5dh%2f*~data=hdntl~hmac=06122646faeab5b21e683169115dd132b8975adb3edeb4182de6a89acd2370a4/chunklist_480.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/orgbixdgpcqiybtrlh6hvwajai7b6165j8nn/hdntl=exp=1740597331~acl=*%2forgbixdgpcqiybtrlh6hvwajai7b6165j8nn%2f*~data=hdntl~hmac=39603b4d052c9401c347e4b7ff746f79561312c1711cc6505c9c9a96b940a2e8/chunklist_480.stream.m3u8
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE", MEN HD 
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/rjn9uthdyzjqiwgyns2ceuhggx2j3au1t5dh/hdntl=exp=1740509333~acl=*%2frjn9uthdyzjqiwgyns2ceuhggx2j3au1t5dh%2f*~data=hdntl~hmac=06122646faeab5b21e683169115dd132b8975adb3edeb4182de6a89acd2370a4/chunklist_720.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/orgbixdgpcqiybtrlh6hvwajai7b6165j8nn/hdntl=exp=1740597331~acl=*%2forgbixdgpcqiybtrlh6hvwajai7b6165j8nn%2f*~data=hdntl~hmac=39603b4d052c9401c347e4b7ff746f79561312c1711cc6505c9c9a96b940a2e8/chunklist_720.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",MEN FHD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/rjn9uthdyzjqiwgyns2ceuhggx2j3au1t5dh/hdntl=exp=1740509333~acl=*%2frjn9uthdyzjqiwgyns2ceuhggx2j3au1t5dh%2f*~data=hdntl~hmac=06122646faeab5b21e683169115dd132b8975adb3edeb4182de6a89acd2370a4/chunklist_1080.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/orgbixdgpcqiybtrlh6hvwajai7b6165j8nn/hdntl=exp=1740597331~acl=*%2forgbixdgpcqiybtrlh6hvwajai7b6165j8nn%2f*~data=hdntl~hmac=39603b4d052c9401c347e4b7ff746f79561312c1711cc6505c9c9a96b940a2e8/chunklist_1080.stream.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
