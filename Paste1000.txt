@@ -53,9 +53,9 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166686
 
 ##############################AFC U20############################
 
-#EXTINF:-1 group-title="LIGA 2" tvg-id="" tvg-logo="https://cdn.antaranews.com/cache/1200x800/2024/09/25/20240925-logo-afc-u20.jpg", Live 1
+#EXTINF:-1 group-title="AFC U-20" tvg-id="" tvg-logo="https://cdn.antaranews.com/cache/1200x800/2024/09/25/20240925-logo-afc-u20.jpg", Live 1
 #EXTVLCOPT:http-referrer=https://zac.presentdiscussx0964b.sbs/
-https://fhlsport111.fjs33m1.xyz/token-JE55neORePCGuWIpx%2FY6zT%2BHlMOB033jP3Csz6hPEzCms%2BaWHUFdDoopqxRJVE5JBCeIxTNhkA%3D%3Da/cfall/s6/v3b/4snq3p95nUE0pUZ6Yl9mYJZkYzScp3ElMJ0hozI0/plyvivo/4a701op0jaseh06egola/chunklist.m3u8
+https://fhlsport111.fjs33m1.xyz/token-IhQpnLGUe%2FGG62IpwfY6kWqBlJqEhinjOHGpzqJHGTH247GeHUFdDoopqxRLVERJBCeIxTNhkA%3D%3Da/cfall/s6/v3b/4snq3p95nUE0pUZ6Yl9mYJZkYzScp3ElMJ0hozI0/plyvivo/4a701op0jaseh06egola/chunklist.m3u8
 
 #EXTINF:-1 group-title="AFC U-20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png",Sportstars 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
