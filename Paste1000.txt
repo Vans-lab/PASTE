@@ -3067,7 +3067,45 @@ https://canale.mizhls.ru/lb/31/playlist.m3u8
 #EXTINF:-1 tvg-id="GBBB1000005IO" tvg-name="REAL WILD" tvg-logo="https://iili.io/JpsBB8Q.jpg" group-title="DISCOVERY CHANNEL", REAL WILD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 
-
+##########################CANAL+ LIVE#################################
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 1" tvg-logo="http://103.176.90.118/picons/logos/logos/Canal-Plus.png" group-title="FR| CANAL+ LIVE",FR| CANAL+ LIVE 1
+http://line.linehunt.org:80/35d9e4e595/88a10a5cdb4d/1640373
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 2" tvg-logo="http://103.176.90.118/picons/logos/logos/Canal-Plus.png" group-title="FR| CANAL+ LIVE",FR| CANAL+ LIVE 2
+http://line.linehunt.org:80/35d9e4e595/88a10a5cdb4d/1640377
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 3" tvg-logo="http://103.176.90.118/picons/logos/logos/Canal-Plus.png" group-title="FR| CANAL+ LIVE",FR| CANAL+ LIVE 3
+http://line.linehunt.org:80/35d9e4e595/88a10a5cdb4d/1640374
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 4" tvg-logo="http://103.176.90.118/picons/logos/logos/Canal-Plus.png" group-title="FR| CANAL+ LIVE",FR| CANAL+ LIVE 4
+http://line.linehunt.org:80/35d9e4e595/88a10a5cdb4d/1640372
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 5" tvg-logo="http://103.176.90.118/picons/logos/logos/Canal-Plus.png" group-title="FR| CANAL+ LIVE",FR| CANAL+ LIVE 5
+http://line.linehunt.org:80/35d9e4e595/88a10a5cdb4d/1640371
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 6" tvg-logo="http://103.176.90.118/picons/logos/logos/Canal-Plus.png" group-title="FR| CANAL+ LIVE",FR| CANAL+ LIVE 6
+http://line.linehunt.org:80/35d9e4e595/88a10a5cdb4d/1640370
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 7" tvg-logo="http://103.176.90.118/picons/logos/logos/Canal-Plus.png" group-title="FR| CANAL+ LIVE",FR| CANAL+ LIVE 7
+http://line.linehunt.org:80/35d9e4e595/88a10a5cdb4d/1640357
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 8" tvg-logo="http://103.176.90.118/picons/logos/logos/Canal-Plus.png" group-title="FR| CANAL+ LIVE",FR| CANAL+ LIVE 8
+http://line.linehunt.org:80/35d9e4e595/88a10a5cdb4d/1640358
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 9" tvg-logo="http://103.176.90.118/picons/logos/logos/Canal-Plus.png" group-title="FR| CANAL+ LIVE",FR| CANAL+ LIVE 9
+http://line.linehunt.org:80/35d9e4e595/88a10a5cdb4d/1640369
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 10" tvg-logo="http://103.176.90.118/picons/logos/logos/Canal-Plus.png" group-title="FR| CANAL+ LIVE",FR| CANAL+ LIVE 10
+http://line.linehunt.org:80/35d9e4e595/88a10a5cdb4d/1640359
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 11" tvg-logo="http://103.176.90.118/picons/logos/logos/Canal-Plus.png" group-title="FR| CANAL+ LIVE",FR| CANAL+ LIVE 11
+http://line.linehunt.org:80/35d9e4e595/88a10a5cdb4d/1640360
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 12" tvg-logo="http://103.176.90.118/picons/logos/logos/Canal-Plus.png" group-title="FR| CANAL+ LIVE",FR| CANAL+ LIVE 12
+http://line.linehunt.org:80/35d9e4e595/88a10a5cdb4d/1640361
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 13" tvg-logo="http://103.176.90.118/picons/logos/logos/Canal-Plus.png" group-title="FR| CANAL+ LIVE",FR| CANAL+ LIVE 13
+http://line.linehunt.org:80/35d9e4e595/88a10a5cdb4d/1640362
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 14" tvg-logo="http://103.176.90.118/picons/logos/logos/Canal-Plus.png" group-title="FR| CANAL+ LIVE",FR| CANAL+ LIVE 14
+http://line.linehunt.org:80/35d9e4e595/88a10a5cdb4d/1640363
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 15" tvg-logo="http://103.176.90.118/picons/logos/logos/Canal-Plus.png" group-title="FR| CANAL+ LIVE",FR| CANAL+ LIVE 15
+http://line.linehunt.org:80/35d9e4e595/88a10a5cdb4d/1640364
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 16" tvg-logo="http://103.176.90.118/picons/logos/logos/Canal-Plus.png" group-title="FR| CANAL+ LIVE",FR| CANAL+ LIVE 16
+http://line.linehunt.org:80/35d9e4e595/88a10a5cdb4d/1640365
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 17" tvg-logo="http://103.176.90.118/picons/logos/logos/Canal-Plus.png" group-title="FR| CANAL+ LIVE",FR| CANAL+ LIVE 17
+http://line.linehunt.org:80/35d9e4e595/88a10a5cdb4d/1640366
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 18" tvg-logo="http://103.176.90.118/picons/logos/logos/Canal-Plus.png" group-title="FR| CANAL+ LIVE",FR| CANAL+ LIVE 18
+http://line.linehunt.org:80/35d9e4e595/88a10a5cdb4d/1640367
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 19" tvg-logo="http://103.176.90.118/picons/logos/logos/Canal-Plus.png" group-title="FR| CANAL+ LIVE",FR| CANAL+ LIVE 19
+http://line.linehunt.org:80/35d9e4e595/88a10a5cdb4d/1640368
 ##########################"VIP | PREMIER LEAGUE"#################################
 
 #EXTINF:-1 tvg-id="" tvg-name="FR - Newcastle United vs Nottingham Forest 14:00 CET 23/02" tvg-logo="http://go4.pw/59.png" group-title="PREMIER LEAGUE",FR - 1
