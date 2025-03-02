@@ -5,6 +5,10 @@
 
 #EXTM3U
 
+#EXTINF:-1 group-title="SPECIAL EVENTS" tvg-id="" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png",MU WOMEN VS LEICESTER WOMEN
+#EXTVLCOPT:http-referrer=https://zac.presentdiscussx0964b.sbs/
+https://fhlsport111.fks32m2.xyz/token-JUV%2FnLOcLfGG6mchwvY6zz7QlJqG0HvjPSP7laYdRDHz7uLMHUFdDoolrhVMVEtJBCeIxTNhkA%3D%3Da/cfall/s2/v3b/p17n47o9nUE0pUZ6Yl9fnKMyL2EhYaW1oKAjo3W0YzAioD%3D%3D/stream/9/chunks.m3u8
+
 ##############################LIVE MATCH############################
 #EXTINF:-1 tvg-id="" tvg-name="FR - Leganés vs Getafe 13:00 CET 02/03" tvg-logo="http://go4.pw/58.png" group-title="LIVE | LA LIGA",FR - Leganés vs Getafe 13:00 CET 02/03
 http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1015822
