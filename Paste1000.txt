@@ -7,12 +7,58 @@
 
 #EXTINF:-1 group-title="SPECIAL EVENTS" tvg-id="" tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1730435867012-Logo-BRI-Liga-1-2024-2025-copy-1133905640/3osav1prxs4vbvi.webp",basket
 #EXTVLCOPT:http-referrer=https://leah.lookcolorj8haxzd.cfd/
-https://fhlsport111.fas34u5.xyz/token-IEZ7nuOTL%2FaGv2wtw%2FY6mTrWlMPahHjjaXGtx%2FVGEjL1suGeHUFdDossqhRIW0RJBCeIxTNhkA%3D%3Da/cfall/s6/v3b/86oo388qnUE0pUZ6Yl9mYJZ1YzScp3ElMJ0hozI0/plyvivo/tezuro8i9atoza6u1a40/chunklist.m3u8
+#https://fhlsport111.fas34u5.xyz/token-IEZ7nuOTL%2FaGv2wtw%2FY6mTrWlMPahHjjaXGtx%2FVGEjL1suGeHUFdDossqhRIW0RJBCeIxTNhkA%3D%3Da/cfall/s6/v3b/86oo388qnUE0pUZ6Yl9mYJZ1YzScp3ElMJ0hozI0/plyvivo/tezuro8i9atoza6u1a40/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPECIAL EVENTS" tvg-id="" tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1730435867012-Logo-BRI-Liga-1-2024-2025-copy-1133905640/3osav1prxs4vbvi.webp",PSS VS BARITO 2
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport111.fas34u5.xyz/token-IEZ7nuOTL%2FaGv2wtw%2FY6mTrWlMPahHjjaXGtx%2FVGEjL1suGeHUFdDossqhRIW0RJBCeIxTNhkA%3D%3Da/cfall/s6/v3b/86oo388qnUE0pUZ6Yl9mYJZ1YzScp3ElMJ0hozI0/plyvivo/tezuro8i9atoza6u1a40/chunklist.m3u8
+#https://fhlsport111.fas34u5.xyz/token-IEZ7nuOTL%2FaGv2wtw%2FY6mTrWlMPahHjjaXGtx%2FVGEjL1suGeHUFdDossqhRIW0RJBCeIxTNhkA%3D%3Da/cfall/s6/v3b/86oo388qnUE0pUZ6Yl9mYJZ1YzScp3ElMJ0hozI0/plyvivo/tezuro8i9atoza6u1a40/chunklist.m3u8
 
+##############################LIVE UCL############################
+
+#EXTINF:-1 tvg-id="" tvg-name="FR - Club Brugge Vs Aston Villa 17:45 CET" tvg-logo="http://go4.pw/champ/champions.png" group-title="LIVE | UEFA CHAMPIONS LEAGUE",FR - Club Brugge Vs Aston Villa 17:45 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1150143
+#EXTINF:-1 tvg-id="" tvg-name="FR - PSV Vs Arsenal 20:00 CET" tvg-logo="http://go4.pw/champ/champions.png" group-title="LIVE | UEFA CHAMPIONS LEAGUE",FR - PSV Vs Arsenal 20:00 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1150142
+#EXTINF:-1 tvg-id="" tvg-name="FR - Real Madrid Vs Atlético Madrid 20:00 CET" tvg-logo="http://go4.pw/champ/champions.png" group-title="LIVE | UEFA CHAMPIONS LEAGUE",FR - Real Madrid Vs Atlético Madrid 20:00 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1150141
+#EXTINF:-1 tvg-id="" tvg-name="FR - Borussia Dortmund Vs Lille 20:00 CET" tvg-logo="http://go4.pw/champ/champions.png" group-title="LIVE | UEFA CHAMPIONS LEAGUE",FR - Borussia Dortmund Vs Lille 20:00 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1150140
+
+#EXTINF:-1 tvg-id="" tvg-name="EN - Club Brugge Vs Aston Villa 17:45 CET" tvg-logo="http://go4.pw/champ/champions.png" group-title="LIVE | UEFA CHAMPIONS LEAGUE",EN - Club Brugge Vs Aston Villa 17:45 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1150170
+#EXTINF:-1 tvg-id="" tvg-name="EN - PSV Vs Arsenal 20:00 CET" tvg-logo="http://go4.pw/champ/champions.png" group-title="LIVE | UEFA CHAMPIONS LEAGUE",EN - PSV Vs Arsenal 20:00 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1150169
+#EXTINF:-1 tvg-id="" tvg-name="EN - Real Madrid Vs Atlético Madrid 20:00 CET" tvg-logo="http://go4.pw/champ/champions.png" group-title="LIVE | UEFA CHAMPIONS LEAGUE",EN - Real Madrid Vs Atlético Madrid 20:00 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1150168
+#EXTINF:-1 tvg-id="" tvg-name="EN - Borussia Dortmund Vs Lille 20:00 CET" tvg-logo="http://go4.pw/champ/champions.png" group-title="LIVE | UEFA CHAMPIONS LEAGUE",EN - Borussia Dortmund Vs Lille 20:00 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1150167
+
+#EXTINF:-1 tvg-id="" tvg-name="AR - Club Brugge Vs Aston Villa 17:45 CET" tvg-logo="http://go4.pw/champ/champions.png" group-title="LIVE | UEFA CHAMPIONS LEAGUE",AR - Club Brugge Vs Aston Villa 17:45 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1150134
+#EXTINF:-1 tvg-id="" tvg-name="AR - PSV Vs Arsenal 20:00 CET" tvg-logo="http://go4.pw/champ/champions.png" group-title="LIVE | UEFA CHAMPIONS LEAGUE",AR - PSV Vs Arsenal 20:00 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1150133
+#EXTINF:-1 tvg-id="" tvg-name="AR - Real Madrid Vs Atlético Madrid 20:00 CET" tvg-logo="http://go4.pw/champ/champions.png" group-title="LIVE | UEFA CHAMPIONS LEAGUE",AR - Real Madrid Vs Atlético Madrid 20:00 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1150132
+#EXTINF:-1 tvg-id="" tvg-name="AR - Borussia Dortmund Vs Lille 20:00 CET" tvg-logo="http://go4.pw/champ/champions.png" group-title="LIVE | UEFA CHAMPIONS LEAGUE",AR - Borussia Dortmund Vs Lille 20:00 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1150131
+
+#EXTINF:-1 tvg-id="" tvg-name="SP - Club Brugge Vs Aston Villa 17:45 CET" tvg-logo="http://go4.pw/champ/champions.png" group-title="LIVE | UEFA CHAMPIONS LEAGUE",SP - Club Brugge Vs Aston Villa 17:45 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1150179
+#EXTINF:-1 tvg-id="" tvg-name="SP - PSV Vs Arsenal 20:00 CET" tvg-logo="http://go4.pw/champ/champions.png" group-title="LIVE | UEFA CHAMPIONS LEAGUE",SP - PSV Vs Arsenal 20:00 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1150178
+#EXTINF:-1 tvg-id="" tvg-name=" SP - Real Madrid Vs Atlético Madrid 20:00 CET" tvg-logo="http://go4.pw/champ/champions.png" group-title="LIVE | UEFA CHAMPIONS LEAGUE", SP - Real Madrid Vs Atlético Madrid 20:00 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1150177
+#EXTINF:-1 tvg-id="" tvg-name="SP - Borussia Dortmund Vs Lille 20:00 CET" tvg-logo="http://go4.pw/champ/champions.png" group-title="LIVE | UEFA CHAMPIONS LEAGUE",SP - Borussia Dortmund Vs Lille 20:00 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1150176
+
+#EXTINF:-1 tvg-id="" tvg-name="DE - Club Brugge Vs Aston Villa 17:45 CET" tvg-logo="http://go4.pw/champ/champions.png" group-title="LIVE | UEFA CHAMPIONS LEAGUE",DE - Club Brugge Vs Aston Villa 17:45 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1150152
+#EXTINF:-1 tvg-id="" tvg-name="DE - PSV Vs Arsenal 20:00 CET" tvg-logo="http://go4.pw/champ/champions.png" group-title="LIVE | UEFA CHAMPIONS LEAGUE",DE - PSV Vs Arsenal 20:00 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1150151
+#EXTINF:-1 tvg-id="" tvg-name="DE - Real Madrid Vs Atlético Madrid 20:00 CET" tvg-logo="http://go4.pw/champ/champions.png" group-title="LIVE | UEFA CHAMPIONS LEAGUE",DE - Real Madrid Vs Atlético Madrid 20:00 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1150150
+#EXTINF:-1 tvg-id="" tvg-name="DE - Borussia Dortmund Vs Lille 20:00 CET" tvg-logo="http://go4.pw/champ/champions.png" group-title="LIVE | UEFA CHAMPIONS LEAGUE",DE - Borussia Dortmund Vs Lille 20:00 CET
+http://activefrance.net:80/UP6M8ZY/VDTUAJ8/1150149
 ##############################MOTO GP############################
 
  
