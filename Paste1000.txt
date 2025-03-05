@@ -70,11 +70,11 @@ https://janda-korea.triwied77.workers.dev/index.mpd?id=20250226021F214
 http://iptv12k.com:35461/live/654321/123456/3214.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT34Wn0rxPb2sNAMKUrXILM4zNxS3NOEl293A&s" group-title="V LEAGUE",WOMEN 
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/f2aiumnjz7nhsawonam1lnzqrialvwhlimvb/playlist.m3u8?hdnts=st=1740901082~exp=1740933492~acl=*/f2aiumnjz7nhsawonam1lnzqrialvwhlimvb/*~hmac=a4501ec661675a0be0c9b3bce922a44e8c7519923f97657efae140056a3ed99d
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/fi7pjuwgipfkcnr4olpnfyrqwklfvf0gouvx/playlist.m3u8?hdnts=st=1741167928~exp=1741200338~acl=*/fi7pjuwgipfkcnr4olpnfyrqwklfvf0gouvx/*~hmac=d477b0d2e75e5809a7d4ba06177699176f33110667db04485fb052f7586075c6
 
 
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",MEN 
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/twnuhraeknhdtbgy0mdfmvqkfgtpgx1xfgmo/playlist.m3u8?hdnts=st=1740901114~exp=1740933524~acl=*/twnuhraeknhdtbgy0mdfmvqkfgtpgx1xfgmo/*~hmac=d184733a80ab5b219e2cedaf2da2418d305718aa8379842307a176d15fbe5429
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0003/o7phazurgfsrbhkptzhizsi75gwfqh1vt40r/playlist.m3u8?hdnts=st=1741168000~exp=1741200410~acl=*/o7phazurgfsrbhkptzhizsi75gwfqh1vt40r/*~hmac=b50ff2084d2d9efac1447509c4aafc2a4c4ed38561c55bf3f6d2282c23b6b9bc
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
