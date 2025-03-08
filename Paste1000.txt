@@ -11,7 +11,7 @@
 https://astvstreamingpro.my.id/testing/restream/event1/master.m3u8?token=YWQ3M2Y5NWIzYzM3ZjVlZFk5dXdkM1BaaHRYeWNsUlczcDJ4OGVIeVFCSXpMZ1hBLzNUc3pod2svU0N6c1p6amdEOFhJeFFFMmJWL2JHUll5MU9rVFFpRUxaNjU2dm1JWEJLRktJaWNmRFNGV1ovaWdaTWk5eWhwSndvPQ==
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4bji3RTpl10N4yjso1xddTRVTvF7VYzz_24b-cIsxvEAWX1fzBa1fPp4WSCcu82bFi6i8ZkP3P3RXSZAK9bLCUteWw0Ivvk5_dxBXHUmmigpbBpanSybuzj32PTNrv9b9boEf927E8w1V-4QapRUn1LzS9M6V8nvQM-6ABn1fY-5JJ59cGSAaZ7Badntv/s700/CHAMPIONS%20LEAGUE.png" group-title="TEST",BEIN 3
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ae5ab9f959d5507952410033e508349:1f6fda684fbdf78bdd274dadc98bc7d0
 https://apac-live.akamaized.net/ehyrzisobs/indo_bein_sports_03/index.mpd?hdntl=exp=1741538331~acl=%2f*~id=40621394~data=hdntl,fp%3d1~hmac=a9408331eee75db7f89419cf7915da9df38a594a0ef38ef3337bb3c3dfd5343b
