@@ -4,7 +4,8 @@
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" group-title="🇮🇩 Liga Bri" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-l.png" ch-number="114", CEK
+#EXTINF:-1 tvg-id="" group-title="🇮🇩 Liga Bri" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-l.png" ch-number="114", CEK1
+#EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00227e6a981a85a458776186ba9b5a62:c006c29d040c0bf533dfeb8e3826046f
 https://astvstreamingpro.my.id/testing/restream/event1/master.m3u8?token=YWQ3M2Y5NWIzYzM3ZjVlZFk5dXdkM1BaaHRYeWNsUlczcDJ4OGVIeVFCSXpMZ1hBLzNUc3pod2svU0N6c1p6amdEOFhJeFFFMmJWL2JHUll5MU9rVFFpRUxaNjU2dm1JWEJLRktJaWNmRFNGV1ovaWdaTWk5eWhwSndvPQ==
