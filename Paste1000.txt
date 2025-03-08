@@ -4,10 +4,10 @@
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" group-title="🇮🇩 Liga Bri" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-l.png" ch-number="114", Sportstars 3
+#EXTINF:-1 tvg-id="" group-title="🇮🇩 Liga Bri" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-l.png" ch-number="114", CEK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00227e6a981a85a458776186ba9b5a62:c006c29d040c0bf533dfeb8e3826046f
-https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5016589-718136-490040c5278)/master.mpd
+https://astvstreamingpro.my.id/testing/restream/event1/master.m3u8?token=YWQ3M2Y5NWIzYzM3ZjVlZFk5dXdkM1BaaHRYeWNsUlczcDJ4OGVIeVFCSXpMZ1hBLzNUc3pod2svU0N6c1p6amdEOFhJeFFFMmJWL2JHUll5MU9rVFFpRUxaNjU2dm1JWEJLRktJaWNmRFNGV1ovaWdaTWk5eWhwSndvPQ==
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4bji3RTpl10N4yjso1xddTRVTvF7VYzz_24b-cIsxvEAWX1fzBa1fPp4WSCcu82bFi6i8ZkP3P3RXSZAK9bLCUteWw0Ivvk5_dxBXHUmmigpbBpanSybuzj32PTNrv9b9boEf927E8w1V-4QapRUn1LzS9M6V8nvQM-6ABn1fY-5JJ59cGSAaZ7Badntv/s700/CHAMPIONS%20LEAGUE.png" group-title="TEST",BEIN 3
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
