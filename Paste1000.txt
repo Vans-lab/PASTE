@@ -130,30 +130,30 @@ https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd?n=frobinsxmeyy
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://cempedak-live-cdn.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4bji3RTpl10N4yjso1xddTRVTvF7VYzz_24b-cIsxvEAWX1fzBa1fPp4WSCcu82bFi6i8ZkP3P3RXSZAK9bLCUteWw0Ivvk5_dxBXHUmmigpbBpanSybuzj32PTNrv9b9boEf927E8w1V-4QapRUn1LzS9M6V8nvQM-6ABn1fY-5JJ59cGSAaZ7Badntv/s700/CHAMPIONS%20LEAGUE.png" group-title="UCL",LIGA CHAMPIONS 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://cempedak-live-cdn.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4bji3RTpl10N4yjso1xddTRVTvF7VYzz_24b-cIsxvEAWX1fzBa1fPp4WSCcu82bFi6i8ZkP3P3RXSZAK9bLCUteWw0Ivvk5_dxBXHUmmigpbBpanSybuzj32PTNrv9b9boEf927E8w1V-4QapRUn1LzS9M6V8nvQM-6ABn1fY-5JJ59cGSAaZ7Badntv/s700/CHAMPIONS%20LEAGUE.png" group-title="UCL",LIGA CHAMPIONS 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+#https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4bji3RTpl10N4yjso1xddTRVTvF7VYzz_24b-cIsxvEAWX1fzBa1fPp4WSCcu82bFi6i8ZkP3P3RXSZAK9bLCUteWw0Ivvk5_dxBXHUmmigpbBpanSybuzj32PTNrv9b9boEf927E8w1V-4QapRUn1LzS9M6V8nvQM-6ABn1fY-5JJ59cGSAaZ7Badntv/s700/CHAMPIONS%20LEAGUE.png" group-title="UCL",LIGA CHAMPIONS 4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+#https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4bji3RTpl10N4yjso1xddTRVTvF7VYzz_24b-cIsxvEAWX1fzBa1fPp4WSCcu82bFi6i8ZkP3P3RXSZAK9bLCUteWw0Ivvk5_dxBXHUmmigpbBpanSybuzj32PTNrv9b9boEf927E8w1V-4QapRUn1LzS9M6V8nvQM-6ABn1fY-5JJ59cGSAaZ7Badntv/s700/CHAMPIONS%20LEAGUE.png" group-title="UCL",LIGA CHAMPIONS 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 ##############################MOTO GP############################
 
@@ -180,7 +180,7 @@ https://janda-korea.triwied77.workers.dev/index.mpd?id=20250226021F214
 http://iptv12k.com:35461/live/654321/123456/3214.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT34Wn0rxPb2sNAMKUrXILM4zNxS3NOEl293A&s" group-title="V LEAGUE",WOMEN 
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0003/c3eyzuuyggcpvz8i2pxsglykbkn578q8jk8v/playlist.m3u8?hdnts=st=1741341034~exp=1741373444~acl=*/c3eyzuuyggcpvz8i2pxsglykbkn578q8jk8v/*~hmac=31b8c7f085b6b558c97a19059a866b22a8f749fe1e077578bc7376cfae427b92
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/hn6e5hvvcgs5r7sddrhg3yhh95ptd5pmihg8/playlist.m3u8?hdnts=st=1741503201~exp=1741535611~acl=*/hn6e5hvvcgs5r7sddrhg3yhh95ptd5pmihg8/*~hmac=251aabbc88a5f4862e2148895490acb03e61031cd2b21ea484e73f6b358596e1
 
 
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",MEN 
