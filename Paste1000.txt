@@ -10,7 +10,9 @@ https://bf.yunnankmln.com/live/sd-24-4649631.m3u8?txSecret=6a9e292e2859f24db2d9a
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/WgzX498/Badminton4-U.jpg" group-title="BWF CHINA MASTER",COURT 2
 https://bf.shandongjnkt.com/live/5004447_hd01.m3u8?txSecret=99b728abca41a3c37c683bab1c7ab999&txTime=67cfa82d
 
-
+#EXTINF:-1 group-title="SPECIAL EVENTS" tvg-id="" tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1730435867012-Logo-BRI-Liga-1-2024-2025-copy-1133905640/3osav1prxs4vbvi.webp",court 2
+#EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
+https://su00yous3-cf.tikballaa.com/auth%3D4f953328bc4849432f03dcf093b662b48fdbee10fb7d092b367753beb2318dbcf9cf0e97798044d11193121e85f97654763492fee9b0a16ed01318c8cfd678611bd3cf8a6f21f22f6a80043b1d280ac93915d80301e61c4f9485a6ca4750a86074d80945bb3da93346238575f63f37f5cb9104f553459ec2942d27b5cc76277384821ee979972beabb9c7fe83073c2da9f1ad7965a11d1cc5cd1c59e22e4763620e852884bd3b7dcc239ddc44324488c900096edd18069c98750b0203438ba95a04199fa2abb974aba6b468609f17b48f9e5eda3a96ba02f4ed168d30d4390df%26cid%3DV71GQQ2oxedaA4aElrYf6250311%26_v%3D2%26_r%3DOSNzmS%26_vis%3Df1180656e3e575990f1c190bee597ff7808e44bc2a94749eafc99fe54bc6f391%26_vvs%3D51aa387dd6b97d9f2063200211d28452939eccbf3364c98f066876fff023f131/app/c328870.m3u8
 
 #EXTINF:-1 group-title="SPECIAL EVENTS" tvg-id="" tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1730435867012-Logo-BRI-Liga-1-2024-2025-copy-1133905640/3osav1prxs4vbvi.webp",court 1xx
 #EXTVLCOPT:http-referrer=https://idn142.tigoals195.com/
