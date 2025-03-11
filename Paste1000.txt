@@ -41,7 +41,11 @@ https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205
 
 
 ##############################V LEAGUE############################
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT34Wn0rxPb2sNAMKUrXILM4zNxS3NOEl293A&s" group-title="V LEAGUE",WOMEN 
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/lec7ywxzcgfaovsby6xhkkgzz5rmesp4de32/playlist.m3u8?hdnts=st=1741686719~exp=1741719129~acl=*/lec7ywxzcgfaovsby6xhkkgzz5rmesp4de32/*~hmac=2942bc688f3628f42a120b2b483bf7a8c736983ff0b32ef2aa438a7513be0fd6
 
+#EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",MEN 
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/5bdwkl7th6jdjtckwjpyqmhan2wvity2q9s3/playlist.m3u8?hdnts=st=1741686742~exp=1741719152~acl=*/5bdwkl7th6jdjtckwjpyqmhan2wvity2q9s3/*~hmac=47196ea87940fdb3946b37fee5fcddf995c08f84ac3f7940d6d5612897de0266
 #EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="V LEAGUE",SBS SPORTS AUTO
 https://janda-korea.triwied77.workers.dev/index.mpd?id=20250223021F210
 
@@ -52,12 +56,7 @@ https://janda-korea.triwied77.workers.dev/index.mpd?id=20250226021F214
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://iptv12k.com:35461/live/654321/123456/3214.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT34Wn0rxPb2sNAMKUrXILM4zNxS3NOEl293A&s" group-title="V LEAGUE",WOMEN 
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/hn6e5hvvcgs5r7sddrhg3yhh95ptd5pmihg8/playlist.m3u8?hdnts=st=1741503201~exp=1741535611~acl=*/hn6e5hvvcgs5r7sddrhg3yhh95ptd5pmihg8/*~hmac=251aabbc88a5f4862e2148895490acb03e61031cd2b21ea484e73f6b358596e1
 
-
-#EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",MEN 
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/32pzytysadfq8xeorewni8nj1kn539hqbrye/playlist.m3u8?hdnts=st=1741341078~exp=1741373488~acl=*/32pzytysadfq8xeorewni8nj1kn539hqbrye/*~hmac=d22af035d6abcf370c36bb425717e0f2d504cd2524b52d3213256c3183d28981
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
