@@ -5,6 +5,10 @@
 
 #EXTM3U
 
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/WgzX498/Badminton4-U.jpg" group-title="BWF CHINA MASTER",COURT 1
+https://bf.yunnankmln.com/live/sd-24-4649631.m3u8?txSecret=6a9e292e2859f24db2d9aaae4c588d48&txTime=67cfa909
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/WgzX498/Badminton4-U.jpg" group-title="BWF CHINA MASTER",COURT 2
+https://bf.shandongjnkt.com/live/5004447_hd01.m3u8?txSecret=99b728abca41a3c37c683bab1c7ab999&txTime=67cfa82d
 
 
 
