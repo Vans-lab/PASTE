@@ -37,6 +37,9 @@ https://bf.yunnankmln.com/live/sd-24-4649177.m3u8?txSecret=0dd898ee6476e90e55a0d
 #EXTINF:-1 tvg-id="Sukan RTM" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/sukan_Trans.png"  group-title="ALL ENGLAND 2025",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
+#EXTINF:-1 tvg-id="Astro Football HD.my" tvg-url=""tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="ALL ENGLAND 2025",Astro Badminton
+http://ktv.im:8080/live/12348765/12348765/1176.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Astro_Badminton_%282024%29.png/640px-Astro_Badminton_%282024%29.png" group-title="ALL ENGLAND 2025",MY| ASTRO BADMINTON HD
 http://extraott.com:900/live/3162523972/3791698850/401600423.m3u8
 
