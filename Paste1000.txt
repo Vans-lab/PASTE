@@ -12,13 +12,13 @@ https://su00yous3-cf.tikballaa.com/auth%3D7363c14eee6e40d3f7a6eefb745906470e475d
 
 #EXTINF:-1 group-title="LIVE LIGA KONOHA" tvg-id="" tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1730435867012-Logo-BRI-Liga-1-2024-2025-copy-1133905640/3osav1prxs4vbvi.webp",MALUT VS TGR 2
 #EXTVLCOPT:http-referrer=https://live-sport.duktek.pro
-https://i.kitescdnz.net/live/v1/u-laFjQjpxCxA49RwLeya0orqs+xdl7PoqNCWvtrUTNgI1yGxVPdN4AF-PzoEa1x/index.m3u8
+#https://i.kitescdnz.net/live/v1/u-laFjQjpxCxA49RwLeya0orqs+xdl7PoqNCWvtrUTNgI1yGxVPdN4AF-PzoEa1x/index.m3u8
 
-#EXTINF:-1 group-title="LIVE LIGA KONOHA" tvg-id="" tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1730435867012-Logo-BRI-Liga-1-2024-2025-copy-1133905640/3osav1prxs4vbvi.webp",SLEMAN VS SOLO
+#EXTINF:-1 group-title="LIVE LIGA KONOHA" tvg-id="" tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1730435867012-Logo-BRI-Liga-1-2024-2025-copy-1133905640/3osav1prxs4vbvi.webp",SURABAYA VS SEMARANG
 #EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
-#https://su00yous3-cf.tikballaa.com/auth%3D950fc25089fc315440b2e286635ccd2b66b3b8bdb06fec31a254a98061eef52c4573a39d56fa255f51da816406e466ab6de857c7298a6d4341acac15d40002f6d17076f3bee68123c34cfac74b990f993778f4e0e6474a8eb7ffac3076b2636750ad58e5f0615ac823cc4c3f3d7a07146ba8ff2ff850d2c1b8904be9ed72afd6391334d57e96c86c0eb5eb0d64b2e7920da72a9bd9c018e59a6577c3bcb526facd1762a05fe79ed0ba0fe7d7452066381f91c5d567c7dd5071cf49c4b9ea9e8d%26cid%3DPxjp84dVws9lOOdPpgkoY250311%26_v%3D2%26_r%3D2m_jKf%26_vis%3D26cc2f53f4484160610721f8e5d399ecdb8b57daa8f06682edbf74f0a1417224%26_vvs%3D1fafe1f5f5130486813acc73a49a483f147422c8f4d754b518ffc06bfe25b3ec/app/c328774.m3u8
+https://su00yous3-cf.tikballaa.com/auth%3D3078758aed6612c2251b599d78156adcfbc2048ff88731b8ead6d2c109a053cfd3dcf7c9034ba404000fc127cb8b422dd58486081f722b8a3e204ddec84f3a524014d50bbedc7cc62ae2544d189acab8815943a8188a4e412f8c44577738e0d7bc36205e44fb192a1c11f2e1259334b0f0a131dfdfaf8e747f4f2c90e7d1b9643bab02b0b3e63b44376584b2c2b677a26e99af4759e802bafcfd8ebed76ad99a%26cid%3DPYD8SH-HHA51vS33o5FYU250112%26_v%3D2%26_r%3D2XHAZK%26_vis%3Df7649913ac1a9713c0c0c1bfcf59dcf9debfde7528e8a7c7e43940b3813f3090%26_vvs%3D5655131765f05e426f98c079904221d33916f02710d71e43d09ceec9f842e622/transcode/c329029_480p.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="LIVE LIGA KONOHA" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-l.png" ch-number="114", Sportstars 3
+#EXTINF:-1 tvg-id="" group-title="LIVE LIGA KONOHA" tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1730435867012-Logo-BRI-Liga-1-2024-2025-copy-1133905640/3osav1prxs4vbvi.webp" ch-number="114", SURABAYA VS SEMARANG
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mycentral.my.id/ctv1/sc/CTV_ss3/punya_CENTRALTV_kalau_ada_yang_make_berarti_itu_IPTV_abal-abal.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
