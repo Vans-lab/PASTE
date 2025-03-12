@@ -139,10 +139,10 @@ http://extraott.com:900/live/3162523972/3791698850/401389135.m3u8
 
 ##############################V LEAGUE############################
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT34Wn0rxPb2sNAMKUrXILM4zNxS3NOEl293A&s" group-title="V LEAGUE",WOMEN 
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/lec7ywxzcgfaovsby6xhkkgzz5rmesp4de32/playlist.m3u8?hdnts=st=1741686719~exp=1741719129~acl=*/lec7ywxzcgfaovsby6xhkkgzz5rmesp4de32/*~hmac=2942bc688f3628f42a120b2b483bf7a8c736983ff0b32ef2aa438a7513be0fd6
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0003/qgecdhnsbglyshl91kncnkycp1a5e7fbg4ga/playlist.m3u8?hdnts=st=1741773906~exp=1741806316~acl=*/qgecdhnsbglyshl91kncnkycp1a5e7fbg4ga/*~hmac=5582ab39a4e5e4d9b28e96e038fd476c3e129a6d96f3aa018185730d90d441fc
 
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",MEN 
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/5bdwkl7th6jdjtckwjpyqmhan2wvity2q9s3/playlist.m3u8?hdnts=st=1741686742~exp=1741719152~acl=*/5bdwkl7th6jdjtckwjpyqmhan2wvity2q9s3/*~hmac=47196ea87940fdb3946b37fee5fcddf995c08f84ac3f7940d6d5612897de0266
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/g3g2i4oy3oxlgpf1fmfi2jpbykrea0n3vn9o/playlist.m3u8?hdnts=st=1741773942~exp=1741806352~acl=*/g3g2i4oy3oxlgpf1fmfi2jpbykrea0n3vn9o/*~hmac=c18107f4b6fc9a18e7cb4a217312dafe031a8121227db7fcc14da07626e85d76
 #EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="V LEAGUE",SBS SPORTS AUTO
 https://janda-korea.triwied77.workers.dev/index.mpd?id=20250223021F210
 
