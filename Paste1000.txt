@@ -28,11 +28,11 @@
 ##############################ALL ENGLAND############################
 
 #EXTINF:-1 group-title="ALL ENGLAND 2025" tvg-id="" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/04/2024/02/23/Badminton-3046768710.png",COURT 1
-https://bf.yunnankmln.com/live/sd-24-4648845.m3u8?txSecret=6775b5619abedf566ecab5538067787f&txTime=67d15d6f
+https://bf.yunnankmln.com/live/sd-24-4650446.m3u8?txSecret=7ff349b9d49d608e78a17b8432b368f6&txTime=67d2ae25
 
 
 #EXTINF:-1 group-title="ALL ENGLAND 2025" tvg-id="" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/04/2024/02/23/Badminton-3046768710.png",COURT 2
-https://bf.yunnankmln.com/live/sd-24-4649177.m3u8?txSecret=0dd898ee6476e90e55a0d795b596bc43&txTime=67d15b9e
+https://bf.yunnankmln.com/live/sd-24-4650276.m3u8?txSecret=cd03d0e8f697c73064d470c058bf3bdd&txTime=67d2ae43
 
 #EXTINF:-1 tvg-id="Sukan RTM" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/sukan_Trans.png"  group-title="ALL ENGLAND 2025",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
