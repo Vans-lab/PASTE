@@ -18,12 +18,12 @@
 #EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
 #https://su00yous3-cf.tikballaa.com/auth%3D3078758aed6612c2251b599d78156adcfbc2048ff88731b8ead6d2c109a053cfd3dcf7c9034ba404000fc127cb8b422dd58486081f722b8a3e204ddec84f3a524014d50bbedc7cc62ae2544d189acab8815943a8188a4e412f8c44577738e0d7bc36205e44fb192a1c11f2e1259334b0f0a131dfdfaf8e747f4f2c90e7d1b9643bab02b0b3e63b44376584b2c2b677a26e99af4759e802bafcfd8ebed76ad99a%26cid%3DPYD8SH-HHA51vS33o5FYU250112%26_v%3D2%26_r%3D2XHAZK%26_vis%3Df7649913ac1a9713c0c0c1bfcf59dcf9debfde7528e8a7c7e43940b3813f3090%26_vvs%3D5655131765f05e426f98c079904221d33916f02710d71e43d09ceec9f842e622/transcode/c329029_480p.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="LIVE LIGA KONOHA" tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1730435867012-Logo-BRI-Liga-1-2024-2025-copy-1133905640/3osav1prxs4vbvi.webp" ch-number="114", SURABAYA VS SEMARANG
+#EXTINF:-1 tvg-id="" group-title="LIVE LIGA KONOHA" tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1730435867012-Logo-BRI-Liga-1-2024-2025-copy-1133905640/3osav1prxs4vbvi.webp" ch-number="114", MALANG VS BANJAR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mycentral.my.id/ctv1/sc/CTV_ss3/punya_CENTRALTV_kalau_ada_yang_make_berarti_itu_IPTV_abal-abal.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd 
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd 
 
 ##############################ALL ENGLAND############################
 
