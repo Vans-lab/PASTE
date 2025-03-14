@@ -5,6 +5,17 @@
 
 #EXTM3U
 
+##############################MOTO GP############################
+
+ 
+#EXTINF:-1 group-title="THAI GP"ttvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NUKLIR
+#EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
+https://hz.s1stream.cfd/aHR0cHM6Ly9zZy5zMnN0cmVhbS5jZmQvc3RyZWFtc2cvaGxzLzAvc3RyZWFtLm0zdTg=.m3u8
+
+#EXTINF:-1 group-title="THAI GP"ttvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NONTONGP
+#EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
+https://hv.s1stream.cfd/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4Ny9obHMvc3RyZWFtLm0zdTg=.m3u8
+
 ##############################KONOHA############################
 #EXTINF:-1 group-title="LIVE LIGA KONOHA" tvg-id="" tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1730435867012-Logo-BRI-Liga-1-2024-2025-copy-1133905640/3osav1prxs4vbvi.webp",MALANG VS BANJAR 3
 #EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
@@ -95,16 +106,7 @@ http://extraott.com:900/live/3162523972/3791698850/401600425.m3u8
 
 
  
-##############################MOTO GP############################
 
- 
-#EXTINF:-1 group-title="THAI GP"ttvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NUKLIR
-#EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-#https://hz.s1stream.cfd/aHR0cHM6Ly9zZy5zMnN0cmVhbS5jZmQvc3RyZWFtc2cvaGxzLzAvc3RyZWFtLm0zdTg=.m3u8
-
-#EXTINF:-1 group-title="THAI GP"ttvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NONTONGP
-#EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-#https://hv.s1stream.cfd/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4Ny9obHMvc3RyZWFtLm0zdTg=.m3u8
 
 
 ##############################V LEAGUE############################
