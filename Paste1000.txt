@@ -5,6 +5,22 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW6Tg9bik8bbgLK2i8l_WH-dRAg_jf_n2Utw&usqp=CAU" group-title="PIALA KEBO", Carabao Cup (Piala EFL) 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+http://kstv.us:8080/live/tH300gvHff/8606073792/48497.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW6Tg9bik8bbgLK2i8l_WH-dRAg_jf_n2Utw&usqp=CAU" group-title="PIALA KEBO", Carabao Cup (Piala EFL) 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://zekonew.iosplayer.ru/zeko/premium38/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW6Tg9bik8bbgLK2i8l_WH-dRAg_jf_n2Utw&usqp=CAU" group-title="PIALA KEBO", Carabao Cup (Piala EFL) 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://zekonew.iosplayer.ru/zeko/premium35/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW6Tg9bik8bbgLK2i8l_WH-dRAg_jf_n2Utw&usqp=CAU" group-title="PIALA KEBO", Carabao Cup (Piala EFL) 18
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MAIN_EVENT/tracks-v1a1/mono.m3u8
 ##############################MOTO GP############################
 
 #EXTINF:-1 tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png" group-title="ARGENTINA GP",SPOTV
