@@ -69,9 +69,9 @@ https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MAIN_EVENT/t
 #EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
 #https://su00yous2-cf.tikballaa.com/auth%3D2e6ac868e3a09950e77857084dae0e73d7a71cbe09a5d488791d52bc98636fc74aee5bb748e26b9b5b3631da7ce4396b45eb8c7b6cc4b0e919f7859a47d7772ca3b7214ddfaec709fd9aaa626be516bc4a8e64f5d68db1f8656f8f08b14f5c60b8341f3fbeda25e0380c05867bb6af8d91674a6a58de6b1bf2a9a62541e707fcc6c579ef6db84781857110ded51a26945e9b254b3b8460623425fb571aa691944c6af3627dd8e3234f28d5d3ec5fd0e2341b129c65bdc2a547b80c8d395f6338c83437fef6b7566a33aa73c4b15ce46a304a1793af9c168ac3ae7918e5d2e26c2982512e68ed928693cf67d4c67fb338b04c842c048ea41eb32e67dfabb8efe9dd93e82097f9dfc249b7ea461f189883267e6c9502c77c1095e788d7664253542ba4ded285ce915447c105fe3546e15a2d034043f2cbdd97f08521cd3371e1da%26cid%3DPYD8SH-HHA51vS33o5FYU250112%26_v%3D2%26_r%3DzuEJxP%26_vis%3D5f0d401bb7f431cea9ca065fb81859a876a7e3b19b76a5a8cee559593eb84398%26_vvs%3De2e495554d5d5bb18bb81e5ff9e1281ebd93c86c1d7769d44aa26aa32ffc41c1/transcode/c329234_480p.m3u8
 
-#EXTINF:-1 group-title="LIVE LIGA KONOHA" tvg-id="" tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1730435867012-Logo-BRI-Liga-1-2024-2025-copy-1133905640/3osav1prxs4vbvi.webp",MALUT VS TGR 2
-#EXTVLCOPT:http-referrer=https://rtpm.site/fahim/chd/m3u8.php?id=bbtsp2
-https://rtpm.site/fahim/chd/m3u8.php?id=bbtsp2
+#EXTINF:-1 group-title="LIVE LIGA KONOHA" tvg-id="" tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1730435867012-Logo-BRI-Liga-1-2024-2025-copy-1133905640/3osav1prxs4vbvi.webp",test SKY
+#EXTVLCOPT:http-referrer=https://kilatlive.live/
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAGUE/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="LIVE LIGA KONOHA" tvg-id="" tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1730435867012-Logo-BRI-Liga-1-2024-2025-copy-1133905640/3osav1prxs4vbvi.webp",MALANG VS BANJAR 2
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
