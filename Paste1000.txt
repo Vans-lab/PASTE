@@ -5,22 +5,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW6Tg9bik8bbgLK2i8l_WH-dRAg_jf_n2Utw&usqp=CAU" group-title="PIALA KEBO", Carabao Cup (Piala EFL) 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-http://kstv.us:8080/live/tH300gvHff/8606073792/48497.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW6Tg9bik8bbgLK2i8l_WH-dRAg_jf_n2Utw&usqp=CAU" group-title="PIALA KEBO", Carabao Cup (Piala EFL) 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://zekonew.iosplayer.ru/zeko/premium38/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW6Tg9bik8bbgLK2i8l_WH-dRAg_jf_n2Utw&usqp=CAU" group-title="PIALA KEBO", Carabao Cup (Piala EFL) 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://zekonew.iosplayer.ru/zeko/premium35/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW6Tg9bik8bbgLK2i8l_WH-dRAg_jf_n2Utw&usqp=CAU" group-title="PIALA KEBO", Carabao Cup (Piala EFL) 18
-https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MAIN_EVENT/tracks-v1a1/mono.m3u8
 ##############################MOTO GP############################
 
 #EXTINF:-1 tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png" group-title="ARGENTINA GP",SPOTV
@@ -87,47 +72,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 ##############################ALL ENGLAND############################
 
 
-#EXTINF:-1 tvg-logo="https://static.vebotv.app/leagues/badminton.png" group-title="ALL ENGLAND 2025",BWF COURT 1
-#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-#https://fhlsport121.fsl35k6.xyz/token-dBB9kuXHLfSG6mQtkfY6nGnXlJqD03vjPyavl%2FVHRDHz4LGbHUFdDogsrxZOXU1JBCeIxTNhkA%3D%3Da/cfall/s2/v3b/pqs572nonUE0pUZ6Yl9fnKMyL2EhYaW1oKAjo3W0YzAioD%3D%3D/stream/32/chunks.m3u8
-
-
-#EXTINF:-1 group-title="ALL ENGLAND 2025" tvg-id="" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/04/2024/02/23/Badminton-3046768710.png",COURT 2
-https://bf.jllivese.com/live/322697_hd01.m3u8?txSecret=e8ef87155df47a7e79a2aeec4ea98b5f&txTime=67d6c43d
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTz4Gg41p0tr_hvbqhqSVgmI-lQ-HDX6nuJQ&usqp=CAU" group-title="ALL ENGLAND 2025",BADMINTON C1
-https://eastmanntv.github.io/c1.m3u8
-
-#EXTINF:-1 tvg-id="Sukan RTM" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/sukan_Trans.png"  group-title="ALL ENGLAND 2025",Sukan RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-
-#EXTINF:-1 tvg-id="Astro Football HD.my" tvg-url=""tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="ALL ENGLAND 2025",Astro Badminton
-http://ktv.im:8080/live/12348765/12348765/1176.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Astro_Badminton_%282024%29.png/640px-Astro_Badminton_%282024%29.png" group-title="ALL ENGLAND 2025",MY| ASTRO BADMINTON HD
-http://extraott.com:900/live/3162523972/3791698850/401600423.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Astro_Badminton_%282024%29.png/640px-Astro_Badminton_%282024%29.png" group-title="ALL ENGLAND 2025",MY| ASTRO BADMINTON 2 HD
-http://extraott.com:900/live/3162523972/3791698850/401600425.m3u8
-
-#EXTINF:-1 group-title="ALL ENGLAND 2025" tvg-id="" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbadmintonworldtour.com%2Fevent%2F2025-all-england-open%2F&psig=AOvVaw17yCY15nRGqv1z8aTzKSgA&ust=1741781141181000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjMm8f-gYwDFQAAAAAdAAAAABAE",COURT 1
-#EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
-#https://su00yous2-cf.tikballaa.com/auth%3D7353e65ea2dc87b2db26e2894b9e5a6f2328f721bd36405f5ff8b750bc7ab193ee9b2411bce3397e8faa07fff8fc8dc2e2cb57e9cae07f5b928b7d7c33cb43de73bb66a7d89b1dd8edda1e77a8660dc499780aa83444748a60873aa1c8c76dd5b8bdf45c4f96e7b12b8b723b7e3e210d802887bfc925f3714af573ea73f4d47f6d64ef6f4e5bba6ae19312e895a89800f991316ebdf6a8b617603e39f4ca4e9468f91ccb73d3c45da7a71f799bc5f28b136012c1e0f33ba30c66c25bc3dacfa9165879f26d0b346582e2876f328b7b80bf7d3a7aea6b83a2e83da2a2243264da%26cid%3DPxjp84dVws9lOOdPpgkoY250311%26_v%3D2%26_r%3DU0LIl1%26_vis%3D274153f3c282aee6e449a15e1aaba0b83fbc0a522d84f60f2880424694f78b4f%26_vvs%3D7c679b19ad68d71ae18e21cd0327c73ac2fb428381f796161f22ac81c0211c40/app/c328769.m3u8
-
-#EXTINF:-1 group-title="ALL ENGLAND 2025" tvg-id="" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbadmintonworldtour.com%2Fevent%2F2025-all-england-open%2F&psig=AOvVaw17yCY15nRGqv1z8aTzKSgA&ust=1741781141181000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjMm8f-gYwDFQAAAAAdAAAAABAE",COURT 2
-#EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
-#https://su00youing-cf.tikballaa.com/auth%3D0a72d8fc9bebe191d6d2d37d4e64c94c0ebf36f742debb5a365ce90874568b289d0703332449a02fd6765b963ca31d3ffb42f4203bab2bbb192d6c3b418b732547348d50ff78e476f3ce7199564bc0956895f91285688073a8c94fd0619fc6ae25d32d00bad65c3b187f3ae85f9ecccf64b12a180e8c94a88a45ad9fb9f1657ff54d5c4ef4a44b89d4c2cd74bb09a50bdbab95702b49802a9149ecd03d5cca55b27fb19e2857fc000ba7b6dd5de04eea680a2334d722ae056deddf451bf574a01e7e1ecba543856d364d5a2331b15bba0e9e1f681ad746966d04d903f2c994c495b09880ce73e513c9e93baf02a01f74abde7dd28165cffb350b53657d200fc1b2b96b83883edde8ef64bf403432c48ae5583deca564e312d3dba35476e1911e%26cid%3DPxjp84dVws9lOOdPpgkoY250311%26_v%3D2%26_r%3DcctMpg%26_vis%3De3cd05ee292c0c72c7e5a7cbe04b59ebcb257e4d24dddc071464d5d8490ee6fe%26_vvs%3D6cbba01a5e9cc2ac68e7954fb708322e8739bf30ce0b3e33c4253ec52ab93d6d/app/c328872.m3u8
-
-#EXTINF:-1 group-title="ALL ENGLAND 2025" tvg-id="" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbadmintonworldtour.com%2Fevent%2F2025-all-england-open%2F&psig=AOvVaw17yCY15nRGqv1z8aTzKSgA&ust=1741781141181000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjMm8f-gYwDFQAAAAAdAAAAABAE",COURT 3
-#EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
-#https://su00yous2-cf.tikballaa.com/auth%3Dab2b0848ad08c25beeb1d2bfde08faff8544fd93e937805764e27f12adaef5048c198beb7e62152342627381f647bec8e995a56bd522ed696ffe611a7801b1ce4bdbec54206b19a1bee99103ab573d5307788d1016368a021bf6473eb083c3459d19e7e71c53c3fa37a4e4d282eeb012b6470946d30948ded616f1341722ebbb069d393d0bd799a325e0a396b161052699d073d712828f3fed336a5b7357308b2682444f6250a5281aaded95122b87e4b914652c4b29e642b446efc97f73e9f0a9c0206930ca098771db493b5c6e75c34371cc0ccfc4bbedb731aa8a0ec114bf6402f6a8c6300b2e01d8491b99d63fa0%26cid%3DPxjp84dVws9lOOdPpgkoY250311%26_v%3D2%26_r%3DvOnKmC%26_vis%3D2f760646bc3d5fdad2f7ee7704b4c6a166a1d0e30c7c36cccbea2aeebde5f2bf%26_vvs%3D062b9f8f57e31cf646c17eaa400bee969739695446529f75719fe30b336d5a1a/app/c328871.m3u8
-
-#EXTINF:-1 group-title="ALL ENGLAND 2025" tvg-id="" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbadmintonworldtour.com%2Fevent%2F2025-all-england-open%2F&psig=AOvVaw17yCY15nRGqv1z8aTzKSgA&ust=1741781141181000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjMm8f-gYwDFQAAAAAdAAAAABAE",COURT 4
-#EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
-#https://su00yous3-cf.tikballaa.com/auth%3D4f953328bc4849432f03dcf093b662b48fdbee10fb7d092b367753beb2318dbcf9cf0e97798044d11193121e85f97654763492fee9b0a16ed01318c8cfd678611bd3cf8a6f21f22f6a80043b1d280ac93915d80301e61c4f9485a6ca4750a86074d80945bb3da93346238575f63f37f5cb9104f553459ec2942d27b5cc76277384821ee979972beabb9c7fe83073c2da9f1ad7965a11d1cc5cd1c59e22e4763620e852884bd3b7dcc239ddc44324488c900096edd18069c98750b0203438ba95a04199fa2abb974aba6b468609f17b48f9e5eda3a96ba02f4ed168d30d4390df%26cid%3DV71GQQ2oxedaA4aElrYf6250311%26_v%3D2%26_r%3DOSNzmS%26_vis%3Df1180656e3e575990f1c190bee597ff7808e44bc2a94749eafc99fe54bc6f391%26_vvs%3D51aa387dd6b97d9f2063200211d28452939eccbf3364c98f066876fff023f131/app/c328870.m3u8
-
-
-
 #EXTINF:-1 group-title="SPECIAL EVENTS" tvg-id="" tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1730435867012-Logo-BRI-Liga-1-2024-2025-copy-1133905640/3osav1prxs4vbvi.webp",court 2
 #EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
 #https://su00yous3-cf.tikballaa.com/auth%3D4f953328bc4849432f03dcf093b662b48fdbee10fb7d092b367753beb2318dbcf9cf0e97798044d11193121e85f97654763492fee9b0a16ed01318c8cfd678611bd3cf8a6f21f22f6a80043b1d280ac93915d80301e61c4f9485a6ca4750a86074d80945bb3da93346238575f63f37f5cb9104f553459ec2942d27b5cc76277384821ee979972beabb9c7fe83073c2da9f1ad7965a11d1cc5cd1c59e22e4763620e852884bd3b7dcc239ddc44324488c900096edd18069c98750b0203438ba95a04199fa2abb974aba6b468609f17b48f9e5eda3a96ba02f4ed168d30d4390df%26cid%3DV71GQQ2oxedaA4aElrYf6250311%26_v%3D2%26_r%3DOSNzmS%26_vis%3Df1180656e3e575990f1c190bee597ff7808e44bc2a94749eafc99fe54bc6f391%26_vvs%3D51aa387dd6b97d9f2063200211d28452939eccbf3364c98f066876fff023f131/app/c328870.m3u8
@@ -159,9 +103,9 @@ http://extraott.com:900/live/3162523972/3791698850/401600425.m3u8
 
 ##############################V LEAGUE############################
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT34Wn0rxPb2sNAMKUrXILM4zNxS3NOEl293A&s" group-title="V LEAGUE",WOMEN 
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/v5iwruog5qd6ozrotcnqdngwjeamco4qjm9r/playlist.m3u8?hdnts=st=1741945791~exp=1741978201~acl=*/v5iwruog5qd6ozrotcnqdngwjeamco4qjm9r/*~hmac=781a24e7763898e1d8f2be640e431788f066ed480d9885798fa7dd27f261cfbf
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/tn1hs1cs4olehlspcguljtelbkwhzxnrytyu/playlist.m3u8?hdnts=st=1742291248~exp=1742323658~acl=*/tn1hs1cs4olehlspcguljtelbkwhzxnrytyu/*~hmac=e3ebdbd22217e39c2a1fda8ecb2359adb0bc1234e9e225366db12114ca55e9bd
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",MEN 
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/qtoxrhq7jfsevxwizucj260e1sy140fxlwld/playlist.m3u8?hdnts=st=1741945575~exp=1741977985~acl=*/qtoxrhq7jfsevxwizucj260e1sy140fxlwld/*~hmac=9ab32e1a20526dac3ac4299a9f3d33a2552d3ebb8fdb4eb8d7f2a0962c2ccab9
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0003/qpr4mhzuiseovxcr5kqm70zaz4bxxy47z7j6/playlist.m3u8?hdnts=st=1742291266~exp=1742323676~acl=*/qpr4mhzuiseovxcr5kqm70zaz4bxxy47z7j6/*~hmac=bf3cfcd44c2de9083159506ba2497297d77adc057773c26e0649c49de52b5708
 #EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="V LEAGUE",SBS SPORTS AUTO
 https://janda-korea.triwied77.workers.dev/index.mpd?id=20250223021F210
 
