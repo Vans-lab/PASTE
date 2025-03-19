@@ -17,6 +17,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="TIMNAS",TIMNAS ASTRO ARENA 2
+http://extraott.com:900/live/3162523972/3791698850/185822.m3u8
+
 #EXTINF:-1 group-title="TIMNAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsZt8aGYMOAhLR7r_Ya9_4xr988O90s7cJ4w&usqp=CAU",TIMNAS C
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
@@ -27,6 +30,9 @@ http://extraott.com:900/live/3162523972/3791698850/401463438.m3u8
 
 #EXTINF:-1 group-title=TIMNAS", tvg-name="Live Event" tvg-country="" tvg-logo="https://i.ibb.co.com/tXQdQgV/football-timnas.gif",SPORTKLUB
 http://extraott.com:900/live/3162523972/3791698850/116021.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="TIMNAS",TIMNAS MOJA TV
+http://extraott.com:900/live/3162523972/3791698850/174495.m3u8
 
 #EXTINF:-1 group-title="TIMNAS", tvg-name="Live Event" tvg-country="" tvg-logo="https://i.ibb.co.com/tXQdQgV/football-timnas.gif",AUSTRALIA VS INDONESIA 2
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/157591
