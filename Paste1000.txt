@@ -28,7 +28,7 @@ https://dokko1new.iosplayer.ru/dokko1/premium571/mono.m3u8
 #EXTINF:-1 group-title="TIMNAS", tvg-name="Live Event" tvg-country="" tvg-logo="https://i.ibb.co.com/tXQdQgV/football-timnas.gif",BEIN SPORT 3
 http://extraott.com:900/live/3162523972/3791698850/401463438.m3u8
 
-#EXTINF:-1 group-title=TIMNAS", tvg-name="Live Event" tvg-country="" tvg-logo="https://i.ibb.co.com/tXQdQgV/football-timnas.gif",SPORTKLUB
+#EXTINF:-1 group-title="TIMNAS", tvg-name="Live Event" tvg-country="" tvg-logo="https://i.ibb.co.com/tXQdQgV/football-timnas.gif",SPORTKLUB
 http://extraott.com:900/live/3162523972/3791698850/116021.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="TIMNAS",TIMNAS MOJA TV
