@@ -24,6 +24,72 @@ https://dokko1new.iosplayer.ru/dokko1/premium571/mono.m3u8
 
 ##############################NATIONS LEAGUE############################
 
+#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
+https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
+
+#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena2.mpd?n=frobinsxmeyy
+
+#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://ddy6new.iosplayer.ru/ddy6/premium540/mono.m3u8
+
+#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://dokko1new.iosplayer.ru/dokko1/premium590/mono.m3u8
+
+#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd?n=frobinsxmeyy
+
+#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://dokko1new.iosplayer.ru/dokko1/premium91/mono.m3u8
+
+#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 12
+https://kodonolonz.serv00.net/tol/mbut/Sonyten2.m3u8
+#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://ddy6new.iosplayer.ru/ddy6/premium756/mono.m3u8
+
+#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://dokko1new.iosplayer.ru/dokko1/premium96/mono.m3u8
+#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 16
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#http://csc-nod-edge01.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd
+
+#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://ddy6new.iosplayer.ru/ddy6/premium291/mono.m3u8
+#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://dokko1new.iosplayer.ru/dokko1/premium596/mono.m3u8
 
 
 ##############################MOTO GP############################
