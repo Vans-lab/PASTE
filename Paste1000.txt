@@ -6,6 +6,10 @@
 #EXTM3U
 
 #############################TIMNAS############################
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/rctioke..jpg.png" group-title="TIMNAS",RCTI OKE
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/580.ts
+
 #EXTINF:-1 group-title="TIMNAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsZt8aGYMOAhLR7r_Ya9_4xr988O90s7cJ4w&usqp=CAU",TIMNAS A
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -16,6 +20,18 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="TIMNAS",BEIN SPORTS 3
+https://dl.dropboxusercontent.com/scl/fi/irhxu9a0mu8k12m9728ll/beinar3.m3u8?rlkey=9slhp0inx1jet4st4nkn19oq9&st=aukdgbnp
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/rs-sportklub2.png" group-title="TIMNAS",SPORTKLUB2
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://ddy6.iosplayer.ru/ddy6/premium102/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport Digital HD" tvg-logo="" group-title="TIMNAS",Sport Digital HD
+http://hades1.xyz:8080/R5JU4Ib1YjBOXnITIfVvU44bJr7TJ2/Rr9xlloATZ4cZZTufFPBuOGUXylq3W/124623
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="TIMNAS",TIMNAS ASTRO ARENA 2
 http://extraott.com:900/live/3162523972/3791698850/185822.m3u8
