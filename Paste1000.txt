@@ -29,6 +29,14 @@ https://dl.dropboxusercontent.com/scl/fi/irhxu9a0mu8k12m9728ll/beinar3.m3u8?rlke
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://ddy6.iosplayer.ru/ddy6/premium102/mono.m3u8
 
+#EXTINF:-1 group-title="TIMNAS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsZt8aGYMOAhLR7r_Ya9_4xr988O90s7cJ4w&usqp=CAU",ESPN A
+#EXTVLCOPT:http-referrer=https://kilatlive.live/
+https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nl_espn_1_fhd/index.m3u8
+
+#EXTINF:-1 group-title="TIMNAS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsZt8aGYMOAhLR7r_Ya9_4xr988O90s7cJ4w&usqp=CAU",ESPN B
+#EXTVLCOPT:http-referrer=https://kilatlive.live/
+https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_nl_espn_1_fhd/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sport Digital HD" tvg-logo="" group-title="TIMNAS",Sport Digital HD
 http://hades1.xyz:8080/R5JU4Ib1YjBOXnITIfVvU44bJr7TJ2/Rr9xlloATZ4cZZTufFPBuOGUXylq3W/124623
 
