@@ -6,8 +6,8 @@
 #EXTM3U
 
 #############################TIMNAS############################
-#EXTINF:-1 group-title="TIMNAS", tvg-name="Live Event" tvg-country="" tvg-logo="https://i.ibb.co.com/tXQdQgV/football-timnas.gif", INDONESIA VS BAHRAIN
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/157591
+#EXTINF:-1 group-title="TIMNAS", tvg-name="Live Event" tvg-country="" tvg-logo="https://i.ibb.co.com/tXQdQgV/football-timnas.gif", INDONESIA VS BAHRAIN LIVE REACTION
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742929759/ei/_6riZ7sZzrHaug_-w4Zg/ip/180.241.76.212/id/jk0znis6WhU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/maudio/1/siu/1/bui/AccgBcOl1i0Yx7okZZn3STOOz27-akYW6LFU_eeeG0GDoqnEcoPVkVK409tMwMfUm2Q9gP9Z5A/spc/_S3wKikswwWGyNM6ur-rXYzmgZooadfGXXjWcQZj1VB6YCn8hc_mV4uvpYpC3JihXw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgU8Vz4fWEZCBdJ3FlKySKIR7Yo05YWUKgqKIQwbqOouwCIQCoU0Q5Xx4ejzH00FKEaZrWuwPQBUBw_jMwAhFqrjzXNw%3D%3D/file/index.m3
 
 #EXTINF:-1 group-title="TIMNAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsZt8aGYMOAhLR7r_Ya9_4xr988O90s7cJ4w&usqp=CAU",TIMNAS A
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
