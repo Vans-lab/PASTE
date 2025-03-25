@@ -230,15 +230,9 @@ https://dokko1new.iosplayer.ru/dokko1/premium596/mono.m3u8
 
 
 ##############################V LEAGUE############################
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT34Wn0rxPb2sNAMKUrXILM4zNxS3NOEl293A&s" group-title="V LEAGUE",WOMEN 
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/273/2023/11/09/InShot_20231109_104034411-2156922005.jpg" group-title="V LEAGUE",PLAYOFF 1
 https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/ykdnq0a1ift1nui1may7qazumkxcmjpkya8i/playlist.m3u8?hdnts=st=1742377625~exp=1742410035~acl=*/ykdnq0a1ift1nui1may7qazumkxcmjpkya8i/*~hmac=c34d7de00833ab1309c5eb666f504fe20d7a847efd2fbc57c041bb5fdea1487c
-#EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="V LEAGUE",MEN 
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/bvhwzmos9g1uztnvdydlx8tvw12aa6ko02na/playlist.m3u8?hdnts=st=1742377702~exp=1742410112~acl=*/bvhwzmos9g1uztnvdydlx8tvw12aa6ko02na/*~hmac=3ebf62e122ca1e05b4b5343adf614050beb5659608b2760d9808956a1c92ae68
-#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="V LEAGUE",SBS SPORTS AUTO
-https://janda-korea.triwied77.workers.dev/index.mpd?id=20250223021F210
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/KBS_N_Sports.svg/799px-KBS_N_Sports.svg.png" group-title="V LEAGUE",KBSN SPORTS
-https://janda-korea.triwied77.workers.dev/index.mpd?id=20250226021F214
 
 #EXTINF:-1 tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="V LEAGUE", SBS SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
