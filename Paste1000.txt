@@ -6,6 +6,8 @@
 #EXTM3U
 
 #############################TIMNAS############################
+#EXTINF:-1 group-title="TIMNAS", tvg-name="Live Event" tvg-country="" tvg-logo="https://i.ibb.co.com/tXQdQgV/football-timnas.gif", INDONESIA VS BAHRAIN
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/157591
 
 #EXTINF:-1 group-title="TIMNAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsZt8aGYMOAhLR7r_Ya9_4xr988O90s7cJ4w&usqp=CAU",TIMNAS A
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -18,8 +20,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="TIMNAS",BEIN SPORTS 3
-https://dl.dropboxusercontent.com/scl/fi/irhxu9a0mu8k12m9728ll/beinar3.m3u8?rlkey=9slhp0inx1jet4st4nkn19oq9&st=aukdgbnp
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR| BEIN SPORTS 02 HD" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="TIMNAS",AR| BEIN SPORTS 02 HD
+http://extraott.com:900/live/3162523972/3791698850/76.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/rs-sportklub2.png" group-title="TIMNAS",SPORTKLUB2
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
