@@ -5,136 +5,6 @@
 
 #EXTM3U
 
-#############################TIMNAS############################
-#EXTINF:-1 group-title="TIMNAS", tvg-name="Live Event" tvg-country="" tvg-logo="https://i.ibb.co.com/tXQdQgV/football-timnas.gif", INDONESIA VS BAHRAIN LIVE REACTION
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742929759/ei/_6riZ7sZzrHaug_-w4Zg/ip/180.241.76.212/id/jk0znis6WhU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/maudio/1/siu/1/bui/AccgBcOl1i0Yx7okZZn3STOOz27-akYW6LFU_eeeG0GDoqnEcoPVkVK409tMwMfUm2Q9gP9Z5A/spc/_S3wKikswwWGyNM6ur-rXYzmgZooadfGXXjWcQZj1VB6YCn8hc_mV4uvpYpC3JihXw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgU8Vz4fWEZCBdJ3FlKySKIR7Yo05YWUKgqKIQwbqOouwCIQCoU0Q5Xx4ejzH00FKEaZrWuwPQBUBw_jMwAhFqrjzXNw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="TIMNAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsZt8aGYMOAhLR7r_Ya9_4xr988O90s7cJ4w&usqp=CAU",TIMNAS A
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
-
-#EXTINF:-1 group-title="TIMNAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsZt8aGYMOAhLR7r_Ya9_4xr988O90s7cJ4w&usqp=CAU",TIMNAS B
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR| BEIN SPORTS 02 HD" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="TIMNAS",AR| BEIN SPORTS 02 HD
-http://extraott.com:900/live/3162523972/3791698850/76.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/rs-sportklub2.png" group-title="TIMNAS",SPORTKLUB2
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6.iosplayer.ru/ddy6/premium102/mono.m3u8
-
-#EXTINF:-1 group-title="TIMNAS" tvg-id="" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2025/03/20/timnas-indonesia-bersiap-menghadapi-australia-di-babak-ketiga-kualifikasi-piala-dunia-2026-zona-asia-1742442536596_169.jpeg?w=600&q=90",ESPN A
-#EXTVLCOPT:http-referrer=https://kilatlive.live/
-https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nl_espn_1_fhd/index.m3u8
-
-#EXTINF:-1 group-title="TIMNAS" tvg-id="" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2025/03/20/timnas-indonesia-bersiap-menghadapi-australia-di-babak-ketiga-kualifikasi-piala-dunia-2026-zona-asia-1742442536596_169.jpeg?w=600&q=90",ESPN B
-#EXTVLCOPT:http-referrer=https://kilatlive.live/
-https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_nl_espn_1_fhd/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sport Digital HD" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2025/03/20/timnas-indonesia-bersiap-menghadapi-australia-di-babak-ketiga-kualifikasi-piala-dunia-2026-zona-asia-1742442536596_169.jpeg?w=600&q=90" group-title="TIMNAS",Sport Digital HD
-http://hades1.xyz:8080/R5JU4Ib1YjBOXnITIfVvU44bJr7TJ2/Rr9xlloATZ4cZZTufFPBuOGUXylq3W/124623
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="TIMNAS",TIMNAS ASTRO ARENA 2
-http://extraott.com:900/live/3162523972/3791698850/185822.m3u8
-
-#EXTINF:-1 group-title="TIMNAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsZt8aGYMOAhLR7r_Ya9_4xr988O90s7cJ4w&usqp=CAU",TIMNAS C
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://dokko1new.iosplayer.ru/dokko1/premium571/mono.m3u8
-
-#EXTINF:-1 group-title="TIMNAS", tvg-name="Live Event" tvg-country="" tvg-logo="https://i.ibb.co.com/tXQdQgV/football-timnas.gif",BEIN SPORT 3
-http://extraott.com:900/live/3162523972/3791698850/401463438.m3u8
-
-#EXTINF:-1 group-title="TIMNAS", tvg-name="Live Event" tvg-country="" tvg-logo="https://i.ibb.co.com/tXQdQgV/football-timnas.gif",SPORTKLUB
-http://extraott.com:900/live/3162523972/3791698850/116021.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="TIMNAS",TIMNAS MOJA TV
-http://extraott.com:900/live/3162523972/3791698850/174495.m3u8
-
-#EXTINF:-1 group-title="TIMNAS", tvg-name="Live Event" tvg-country="" tvg-logo="https://i.ibb.co.com/tXQdQgV/football-timnas.gif",AUSTRALIA VS INDONESIA 2
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/157591
-
-#EXTINF:-1 group-title="TIMNAS", tvg-name="Live Event" tvg-country="" tvg-logo="https://i.ibb.co.com/tXQdQgV/football-timnas.gif",AUSTRALIA VS INDONESIA 3
-https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
-
-#EXTINF:-1 group-title="TIMNAS", tvg-name="Live Event" tvg-country="" tvg-logo="https://i.ibb.co.com/tXQdQgV/football-timnas.gif",AUSTRALIA VS INDONESIA 4
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-
-##############################NATIONS LEAGUE############################
-
-#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
-https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
-
-#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena2.mpd?n=frobinsxmeyy
-
-#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://ddy6new.iosplayer.ru/ddy6/premium540/mono.m3u8
-
-#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
-#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://dokko1new.iosplayer.ru/dokko1/premium590/mono.m3u8
-
-#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd?n=frobinsxmeyy
-
-#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://dokko1new.iosplayer.ru/dokko1/premium91/mono.m3u8
-
-#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 12
-https://kodonolonz.serv00.net/tol/mbut/Sonyten2.m3u8
-#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://ddy6new.iosplayer.ru/ddy6/premium756/mono.m3u8
-
-#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://dokko1new.iosplayer.ru/dokko1/premium96/mono.m3u8
-#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 16
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#http://csc-nod-edge01.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd
-
-#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://ddy6new.iosplayer.ru/ddy6/premium291/mono.m3u8
-#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthNjCWAsDg7gOALLUXwIK0nh67KFsZtWRSN5KEfg4Xxs8cu1cvpFt6uT4&s=10",Nations League 26
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://dokko1new.iosplayer.ru/dokko1/premium596/mono.m3u8
-
 
 ##############################MOTO GP############################
 
@@ -232,7 +102,7 @@ https://dokko1new.iosplayer.ru/dokko1/premium596/mono.m3u8
 
 
 ##############################V LEAGUE############################
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/273/2023/11/09/InShot_20231109_104034411-2156922005.jpg" group-title="V LEAGUE",PLAYOFF 1
+#EXTINF:-1 tvg-logo="hhttps://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p3/132/2024/10/06/Red-Sparks-vs-Hyundai-Hillstate-kovo-cup-2024-3795853916.jpg" group-title="V LEAGUE",PLAYOFF 2
 https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/28ifh7sndte1i8lz9wt7iy48a5z91sdl0egn/playlist.m3u8?hdnts=st=1742895975~exp=1742928385~acl=*/28ifh7sndte1i8lz9wt7iy48a5z91sdl0egn/*~hmac=7fa8a6827233ae3e63c619fe608173f538d4ecd3f0df11eb9a2f25cff49b659c
 
 
