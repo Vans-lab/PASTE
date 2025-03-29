@@ -81,6 +81,8 @@ https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/k9ohz8nxyeh1kfx6pjq
 #EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/Siaran-langsung-Hyundai-Hillstate-vs-Red-Sparks-hari-ini-ditayangkan-TVRI-Sports.jpg" group-title="V LEAGUE",PLAYOFF 3
 https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/7iv4n9ctcutdnuaf6xceixmsald2k8zfq0rc/playlist.m3u8?hdnts=st=1743068891~exp=1743101301~acl=*/7iv4n9ctcutdnuaf6xceixmsald2k8zfq0rc/*~hmac=c5bab60edc640101c184444c6a1a4c8b1a96278afdf2bb0940b905970a8d04b0
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QX2hJDI5TTofGBEHaplpiteuSqDXC0IpNASjlKZBg9JCowvZ0QtwvjGLgOLc-XBSdQ" group-title="V LEAGUE",Gwangju Women's University vs. Honam University [2025 KUSF University Volleyball U-League]
+https://livecloud.akamaized.net/chzzk/lip2_kr/cflexnmss2u0037/v4o1bcnyeodwjctnuclmaqwajl5n96uluczy/t1cdrcc3z98sugvsc45ftaal5n96ulu99f_hls_playlist.m3u8?hdnts=st=1743222518~exp=1743283728~acl=*/v4o1bcnyeodwjctnuclmaqwajl5n96uluczy/*~hmac=8c81e04d109bde6c50d38f70e56b32100c36d41945e24a5b5fa16bb9a847eff9
 
 #EXTINF:-1 tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="V LEAGUE", SBS SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
