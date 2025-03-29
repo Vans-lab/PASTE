@@ -75,25 +75,21 @@ https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.ne
 
 
 ##############################V LEAGUE############################
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QX2hJDI5TTofGBEHaplpiteuSqDXC0IpNASjlKZBg9JCowvZ0QtwvjGLgOLc-XBSdQ" group-title="V LEAGUE",Special V
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/k9ohz8nxyeh1kfx6pjq32k85pl5noyojxdp4/playlist.m3u8?hdnts=st=1743222095~exp=1743254505~acl=*/k9ohz8nxyeh1kfx6pjq32k85pl5noyojxdp4/*~hmac=7e1024d80f6ae9cefe101053b6a5456bee67c04e436ba6dc285cc0d6ad54acf1
+
 
 #EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/Siaran-langsung-Hyundai-Hillstate-vs-Red-Sparks-hari-ini-ditayangkan-TVRI-Sports.jpg" group-title="V LEAGUE",PLAYOFF 3
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/k1uz1ssh3qm2yors2aauwdfwnl5ogn1jjt5k/playlist.m3u8?hdnts=st=1743223655~exp=1743256065~acl=*/k1uz1ssh3qm2yors2aauwdfwnl5ogn1jjt5k/*~hmac=54efe470b8ca8ae55644a3abf41c4a479358300189df0dd0c786484a530d34d6
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QX2hJDI5TTofGBEHaplpiteuSqDXC0IpNASjlKZBg9JCowvZ0QtwvjGLgOLc-XBSdQ" group-title="V LEAGUE",Gwangju Women's University vs. Honam University [2025 KUSF University Volleyball U-League]
-https://livecloud.akamaized.net/chzzk/lip2_kr/cflexnmss2u0037/v4o1bcnyeodwjctnuclmaqwajl5n96uluczy/t1cdrcc3z98sugvsc45ftaal5n96ulu99f_hls_playlist.m3u8?hdnts=st=1743222518~exp=1743283728~acl=*/v4o1bcnyeodwjctnuclmaqwajl5n96uluczy/*~hmac=8c81e04d109bde6c50d38f70e56b32100c36d41945e24a5b5fa16bb9a847eff9
+#https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/k1uz1ssh3qm2yors2aauwdfwnl5ogn1jjt5k/playlist.m3u8?hdnts=st=1743223655~exp=1743256065~acl=*/k1uz1ssh3qm2yors2aauwdfwnl5ogn1jjt5k/*~hmac=54efe470b8ca8ae55644a3abf41c4a479358300189df0dd0c786484a530d34d6
 
 #EXTINF:-1 tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="V LEAGUE", SBS SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://iptv12k.com:35461/live/654321/123456/3214.m3u8
+#http://iptv12k.com:35461/live/654321/123456/3214.m3u8
 
 
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png" group-title="V LEAGUE",TVRI SPORT
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166686
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166686
 
 ##############################U C L############################
 
