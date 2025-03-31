@@ -81,7 +81,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zDh-A3u_iUs/maxresdefault.jpg" group-title="V LEAGUE",FINAL 1
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/k1uz1ssh3qm2yors2aauwdfwnl5ogn1jjt5k/playlist.m3u8?hdnts=st=1743223655~exp=1743256065~acl=*/k1uz1ssh3qm2yors2aauwdfwnl5ogn1jjt5k/*~hmac=54efe470b8ca8ae55644a3abf41c4a479358300189df0dd0c786484a530d34d6
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/zzd4jdr7tv5iwtaqkwa5zgcnqow2tedkzjey/playlist.m3u8?hdnts=st=1743414695~exp=1743447105~acl=*/zzd4jdr7tv5iwtaqkwa5zgcnqow2tedkzjey/*~hmac=dbce824858b679de29079d74da902cffd4734b623482520d74661340a72dae33
 
 #EXTINF:-1 tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="V LEAGUE", SBS SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
