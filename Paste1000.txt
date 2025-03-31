@@ -9,7 +9,7 @@
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99909032389c6ee41c3d2f3ec829f804:41fbc575c8ef1cdac1dca990c9a0df9d
-https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-21-HD/default.mpd
+#https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-21-HD/default.mpd
 
 ##############################MOTO GP############################
 #EXTINF:-1 group-title="GP AMERICA" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png", 60 FPS
@@ -81,7 +81,7 @@ https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-21-HD/default.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zDh-A3u_iUs/maxresdefault.jpg" group-title="V LEAGUE",FINAL 1
-#https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/k1uz1ssh3qm2yors2aauwdfwnl5ogn1jjt5k/playlist.m3u8?hdnts=st=1743223655~exp=1743256065~acl=*/k1uz1ssh3qm2yors2aauwdfwnl5ogn1jjt5k/*~hmac=54efe470b8ca8ae55644a3abf41c4a479358300189df0dd0c786484a530d34d6
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/k1uz1ssh3qm2yors2aauwdfwnl5ogn1jjt5k/playlist.m3u8?hdnts=st=1743223655~exp=1743256065~acl=*/k1uz1ssh3qm2yors2aauwdfwnl5ogn1jjt5k/*~hmac=54efe470b8ca8ae55644a3abf41c4a479358300189df0dd0c786484a530d34d6
 
 #EXTINF:-1 tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="V LEAGUE", SBS SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
