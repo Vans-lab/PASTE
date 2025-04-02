@@ -502,6 +502,42 @@ https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dF
 #EXTINF:-1 xui-id="11135" tvg-id="" tvg-name="MUSIC INDO" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="BOX OFFICE 24 JAM",MUSIC INDO
 https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFvlKfiA1Xgmgwkn6t2DhAm
 
+#######################################KNOWLEDGE#################################################
+#EXTINF:-1 xui-id="67" tvg-id="DSCCKDG" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3v18b6OonX7tPilINqSMMe0ThNwfzq4e6dJACEchteGuVD70vT-3gUd-yBZzI9RB2w.png" group-title="KNOWLEDGE",DISCOVERY CHANNEL
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dGXLTh8lTiRQ5yzsUVjoXmg
+#EXTINF:-1 xui-id="68" tvg-id="NGCENTE" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3v18b6OonX7tPilINqSMMe0KF8K7NGr1_2Obc7HWBC-0HS7MCVdebhzhqDW8HphPtw.png" group-title="KNOWLEDGE",NATIONAL GEOGRAPHIC
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEoL8-TqQZ3U8JNn0vLIaFD
+#EXTINF:-1 xui-id="69" tvg-id="NGWNL" tvg-name="NAT GEO WILD" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3v18b6OonX7tPilINqSMMe0BOm2Us97ctiADp845LOjVO229hk6enJK6rj0BNo_5GA.png" group-title="KNOWLEDGE",NAT GEO WILD
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dGpYtQ6dGu5GeBzKtFGQxQE
+#EXTINF:-1 xui-id="70" tvg-id="APLANZ" tvg-name="ANIMAL PLANET" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3v18b6OonX7tPilINqSMMe2L-WuD7gYGHlb3v_KRqfI70Xf3EFZm1wjyccTJ3HbwtQ.png" group-title="KNOWLEDGE",ANIMAL PLANET
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFxRSv7V8At8av888xYm51n
+#EXTINF:-1 xui-id="71" tvg-id="BBCEC" tvg-name="BBC EARTH" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3v18b6OonX7tPilINqSMMe1McusmQp6E8lbIGexU-fQugolazPc74-xxCqYUAW0Q8g.png" group-title="KNOWLEDGE",BBC EARTH
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEG-4ur5sijvY-5UjbIAlI6
+#EXTINF:-1 xui-id="72" tvg-id="LONATUK" tvg-name="LOVE NATURE" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3v18b6OonX7tPilINqSMMe0IQNY2prIYwQsNX65RKXehAAgteasubwQRzzSM4k2R5A.png" group-title="KNOWLEDGE",LOVE NATURE
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dGMqik2fwebpQigJO6-9QSs
+#EXTINF:-1 xui-id="73" tvg-id="411943" tvg-name="DISCOVERY ASIA" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3v18b6OonX7tPilINqSMMe0ThNwfzq4e6dJACEchteGutD1jqebklWcU9BK3elZRZw.png" group-title="KNOWLEDGE",DISCOVERY ASIA
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dGxh9Kh44_ovTBR_CTMTkGr
+#EXTINF:-1 xui-id="74" tvg-id="EXTRMUK" tvg-name="EXTREME +" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3v18b6OonX7tPilINqSMMe38CklSg1K1KY8UlqNgT2M-Sp0wyQAeIvgxoA9CAnrrSg.png" group-title="KNOWLEDGE",EXTREME +
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFRbnk6BMW_Ptsrc5ly6psB
+#EXTINF:-1 xui-id="75" tvg-id="" tvg-name="4k TRAVEL" tvg-logo="https://logo.streamplay.cyou/knowledge/4k_travel.png" group-title="KNOWLEDGE",4k TRAVEL
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFrY7xHxF7byIInX1xlNcUb
+#EXTINF:-1 xui-id="76" tvg-id="CGTNDEU" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3v18b6OonX7tPilINqSMMe1VLB6s_gDwg0BxBLc5UCN5aCfF_eNxEffi-3W7R4-PdA.png" group-title="KNOWLEDGE",CGTN DOCUMENTARY
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dG5Z_ZVwxSdw8nFDBL-pR0u
+#EXTINF:-1 xui-id="77" tvg-id="" tvg-name="WILD PLANET" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3v18b6OonX7tPilINqSMMe1YD6aPIe_tUst83Twi09FifKv8jtgItU-z3C_okgqimA.png" group-title="KNOWLEDGE",WILD PLANET
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFFyQLPuStjUbqAx8XMju1f
+#EXTINF:-1 xui-id="78" tvg-id="" tvg-name="ADVENTURE EARTH" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3v18b6OonX7tPilINqSMMe1rcjoiYPPbJf3gzruakWW1Q8Rkcb5hqEOniCqxRJqp8A.png" group-title="KNOWLEDGE",ADVENTURE EARTH
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dGmuV7ni0YNzoEj-89PMPc_
+#EXTINF:-1 xui-id="79" tvg-id="" tvg-name="INWILD" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3v18b6OonX7tPilINqSMMe3QU5tHBeE6kvh6KLGZqQIKN4BJioO4Ao641H_I2ddq8g.png" group-title="KNOWLEDGE",INWILD
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dF39OFxNOA1ABuzr7zKMltb
+#EXTINF:-1 xui-id="80" tvg-id="" tvg-name="WILD EARTH" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3v18b6OonX7tPilINqSMMe3ifKB7oZxfZ-w4kxWeZ46Iqs6mGulQEOljXLQLaxSVLQ.png" group-title="KNOWLEDGE",WILD EARTH
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEw67g7333cAtIpo-JwtREy
+#EXTINF:-1 xui-id="81" tvg-id="" tvg-name="CLARITY" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3v18b6OonX7tPilINqSMMe0F8khe7nqNDNEAI3OoToLXLYdgC_pleIHwpyCtULV7fQ.png" group-title="KNOWLEDGE",CLARITY
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEGsgKa1flFnOcgsjoalYfy
+#EXTINF:-1 xui-id="8736" tvg-id="HCLCHD" tvg-name="HISTORY" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3v18b6OonX7tPilINqSMMe0BRSFQx5OPmaKvemXNypKcNSP090lTLNpg5ALJMbSwGA.png" group-title="KNOWLEDGE",HISTORY
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dH4qqDSj-fD7BJEsz23tqVe
+#EXTINF:-1 xui-id="8737" tvg-id="171922" tvg-name="CRIME INVESTIGATION" tvg-logo="https://logo.streamplay.cyou/knowledge/crime_invest.png" group-title="KNOWLEDGE",CRIME INVESTIGATION
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dG8eRDz1L9m2RjIAbNSxwRo
+
 ====== HBO ======
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkI-QnpmtNsoMwaZ2zjOtNsiG7mXj9QOmeTGiUmffF0m_TTfXH_DTtm0ZwMmpqxK_beVkerFi6LtTo6_pGSOqe84M2kDol7YDGrVN-hmYygFHWCCA6ojHUvnkv0GyaLnDnZvizDJoWBj05T9J4Wc7d6CIgXdufYm6pjlP7l66hcIQqz4HCosx4-I0lzvOy/s700/HBO%20HD.png" group-title="HBO GROUP",HBO HD IP
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
