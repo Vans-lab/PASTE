@@ -85,8 +85,8 @@
 ##############################V LEAGUE############################
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zDh-A3u_iUs/maxresdefault.jpg" group-title="V LEAGUE",FINAL 1
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/zzd4jdr7tv5iwtaqkwa5zgcnqow2tedkzjey/playlist.m3u8?hdnts=st=1743414695~exp=1743447105~acl=*/zzd4jdr7tv5iwtaqkwa5zgcnqow2tedkzjey/*~hmac=dbce824858b679de29079d74da902cffd4734b623482520d74661340a72dae33
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/Bukilic-dan-Megawati-vs-IBK-Altos.jpg" group-title="V LEAGUE",FINAL 2
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/xby8orqh9fuuqp75c3m4rgap46620izekpc1/playlist.m3u8?hdnts=st=1743587138~exp=1743619548~acl=*/xby8orqh9fuuqp75c3m4rgap46620izekpc1/*~hmac=69246b7d6f9bf3ef9499ebb380792fd8f074197e07957948ac3a3ee78f13862e
 
 #EXTINF:-1 tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="V LEAGUE", SBS SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -97,7 +97,7 @@ https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/zzd4jdr7tv5iwtaqkwa
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png" group-title="V LEAGUE",TVRI SPORT
-#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166686
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166686
 
 ##############################U C L############################
 
