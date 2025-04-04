@@ -5,6 +5,25 @@
 
 #EXTM3U
 
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:-10.0 tvg-id="beinsportsxtra1.qa" tvg-name="AR| BEIN SPORTS 01 XTRA HD" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="AFC U-17",⭐AR| BEIN SPORTS 01 XTRA HD
+http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/400193265
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:-10.0 tvg-id="" tvg-name="AR| BEIN SPORTS 01 XTRA HD [BK]" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="AFC U-17",⭐AR| BEIN SPORTS 01 XTRA HD [BK]
+http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/32898
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:-10.0 tvg-id="" tvg-name="AR| BEIN SPORTS 01 XTRA HD [BK1]" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="AFC U-17",⭐AR| BEIN SPORTS 01 XTRA HD [BK1]
+http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/32970
+
 #EXTINF:-1 tvg-logo="kosong" group-title="AFC U-17",SPORT STAR 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kitasaudara.my.id/play/ktvplus/drm.php?id=113
