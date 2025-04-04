@@ -4,26 +4,26 @@
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 
 #EXTM3U
-#EXTINF:-1 group-title="AFC U-17" tvg-logo="https://www.foottheball.com/wp-content/uploads/2022/07/GGMU.jpg", LIVE
+#EXTINF:-1 group-title="AFC U-17" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200", LIVE
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
 https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_sport_klub_1/index.m3u8
 
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-10.0 tvg-id="beinsportsxtra1.qa" tvg-name="AR| BEIN SPORTS 01 XTRA HD" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="AFC U-17",⭐AR| BEIN SPORTS 01 XTRA HD
+#EXTINF:-10.0 tvg-id="beinsportsxtra1.qa" tvg-name="AR| BEIN SPORTS 01 XTRA HD" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="AFC U-17",⭐AR| BEIN SPORTS 01 XTRA HD
 http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/400193265
 
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-10.0 tvg-id="" tvg-name="AR| BEIN SPORTS 01 XTRA HD [BK]" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="AFC U-17",⭐AR| BEIN SPORTS 01 XTRA HD [BK]
+#EXTINF:-10.0 tvg-id="" tvg-name="AR| BEIN SPORTS 01 XTRA HD [BK]" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="AFC U-17",⭐AR| BEIN SPORTS 01 XTRA HD [BK]
 http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/32898
 
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-10.0 tvg-id="" tvg-name="AR| BEIN SPORTS 01 XTRA HD [BK1]" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="AFC U-17",⭐AR| BEIN SPORTS 01 XTRA HD [BK1]
+#EXTINF:-10.0 tvg-id="" tvg-name="AR| BEIN SPORTS 01 XTRA HD [BK1]" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="AFC U-17",⭐AR| BEIN SPORTS 01 XTRA HD [BK1]
 http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/32970
 
 #EXTINF:-1 tvg-logo="kosong" group-title="AFC U-17",SPORT STAR 2
