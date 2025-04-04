@@ -2372,6 +2372,81 @@ http://hades1.xyz:8080/R5JU4Ib1YjBOXnITIfVvU44bJr7TJ2/Rr9xlloATZ4cZZTufFPBuOGUXy
 #EXTINF:-1 tvg-id="digisport4.ro" tvg-name="DIGI SPORT 4  ⚽" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f7/Digi_Sport_4_%282015-.n.v.%29.png" group-title="ALL SPORTS",⭐DIGI SPORT 4  ⚽
 http://hades1.xyz:8080/R5JU4Ib1YjBOXnITIfVvU44bJr7TJ2/Rr9xlloATZ4cZZTufFPBuOGUXylq3W/22402
 
+###############################################fr sporta###############################################
+#EXTINF:-1 tvg-id="bein.sports.1.fr" tvg-name="FR036:BEIN SPORTS 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR036CineFrisson.png" group-title="FR Sports",FR036:BEIN SPORTS 1 FHD
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/2830
+#EXTINF:-1 tvg-id="bein.sports.2.fr" tvg-name="FR037:BEIN SPORTS 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR037" group-title="FR Sports",FR037:BEIN SPORTS 2 FHD
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/2829
+#EXTINF:-1 tvg-id="bein.sports.3.fr" tvg-name="FR038:BEIN SPORTS 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR038CinePolar.png" group-title="FR Sports",FR038:BEIN SPORTS 3 FHD
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/2828
+#EXTINF:-1 tvg-id="bein.sports.max.10.fr" tvg-name="FR039:BEIN SPORTS MAX 10 FHD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR039CinePermier.png" group-title="FR Sports",FR039:BEIN SPORTS MAX 10 FHD (EVENT ONLY)
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/2827
+#EXTINF:-1 tvg-id="bein.sports.max.4.fr" tvg-name="FR040:BEIN SPORTS MAX 4 FHD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR040ComediePlus.png" group-title="FR Sports",FR040:BEIN SPORTS MAX 4 FHD (EVENT ONLY)
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/2826
+#EXTINF:-1 tvg-id="bein.sports.max.5.fr" tvg-name="FR041:BEIN SPORTS MAX 5 HD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR041CStar.png" group-title="FR Sports",FR041:BEIN SPORTS MAX 5 HD (EVENT ONLY)
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/2825
+#EXTINF:-1 tvg-id="bein.sports.max.6.fr" tvg-name="FR042:BEIN SPORTS MAX 6 HD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR042Discovery.png" group-title="FR Sports",FR042:BEIN SPORTS MAX 6 HD (EVENT ONLY)
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/2824
+#EXTINF:-1 tvg-id="bein.sports.max.7.fr" tvg-name="FR043:BEIN SPORTS MAX 7 HD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR043DiscoveryScience.png" group-title="FR Sports",FR043:BEIN SPORTS MAX 7 HD (EVENT ONLY)
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/2823
+#EXTINF:-1 tvg-id="bein.sports.max.8.fr" tvg-name="FR044:BEIN SPORTS MAX 8 HD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR044DisneyFR.png" group-title="FR Sports",FR044:BEIN SPORTS MAX 8 HD (EVENT ONLY)
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/2822
+#EXTINF:-1 tvg-id="bein.sports.max.9.fr" tvg-name="FR045:BEIN SPORTS MAX 9 HD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR045DisneyCinema.png" group-title="FR Sports",FR045:BEIN SPORTS MAX 9 HD (EVENT ONLY)
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/2821
+#EXTINF:-1 tvg-id="canal.plus.motogp.fr" tvg-name="FR073:CANAL+ MOTOGP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR073PairsPermiere.png" group-title="FR Sports",FR073:CANAL+ MOTOGP
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/2793
+#EXTINF:-1 tvg-id="canal.plus.sport360.fr" tvg-name="FR077:CANAL+ SPORT 360" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR077PlaneteCI.png" group-title="FR Sports",FR077:CANAL+ SPORT 360
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/2789
+#EXTINF:-1 tvg-id="canal.plus.sport.fr" tvg-name="FR076:CANAL+ SPORT FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR076PlaneteA&E.png" group-title="FR Sports",FR076:CANAL+ SPORT FHD
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/2790
+#EXTINF:-1 tvg-id="canal.plus.sport.fr" tvg-name="FR091:CANAL+ SPORT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR091TV5Monde.png" group-title="FR Sports",FR091:CANAL+ SPORT 1
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/2775
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name="FR157:CANAL+ SPORT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR163CNewsHD.png" group-title="FR Sports",FR157:CANAL+ SPORT 2
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/28146
+#EXTINF:-1 tvg-id="tvm.fr" tvg-name="FR207:CANAL+ SPORT 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/" group-title="FR Sports",FR207:CANAL+ SPORT 3
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/28090
+#EXTINF:-1 tvg-id="cine.plus.classic.fr" tvg-name="FR221:CANAL+ SPORT 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/" group-title="FR Sports",FR221:CANAL+ SPORT 4
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/28076
+#EXTINF:-1 tvg-id="cine+.classic.fr" tvg-name="FR222:CANAL+ SPORT 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/" group-title="FR Sports",FR222:CANAL+ SPORT 5
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/28075
+#EXTINF:-1 tvg-id="eurosport.1.fr" tvg-name="FR112:EUROSPORT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR117OCSCHOCHD.png" group-title="FR Sports",FR112:EUROSPORT 1
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/28192
+#EXTINF:-1 tvg-id="eurosport.2.fr" tvg-name="FR113:EUROSPORT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR118OCSCITY.png" group-title="FR Sports",FR113:EUROSPORT 2
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/28191
+#EXTINF:-1 tvg-id="eurosport.360.2.fr" tvg-name="FR114:EUROSPORT 360 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR119OCSGEANT.png" group-title="FR Sports",FR114:EUROSPORT 360 2
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/28190
+#EXTINF:-1 tvg-id="extreme.sports.fr" tvg-name="FR115:EXTREME SPORTS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR120OCSMAX.png" group-title="FR Sports",FR115:EXTREME SPORTS
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/28189
+#EXTINF:-1 tvg-id="golf.plus.fr" tvg-name="FR125:GOLF+ CHANNEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR130RMCSport8.png" group-title="FR Sports",FR125:GOLF+ CHANNEL
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/28179
+#EXTINF:-1 tvg-id="golf.fr" tvg-name="FR126:GOLF CHANNEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR131Ligue1Prime.png" group-title="FR Sports",FR126:GOLF CHANNEL
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/28178
+#EXTINF:-1 tvg-id="sundance.fr" tvg-name="FR189:CANAL+ F1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR198VICELANDHD.png" group-title="FR Sports",FR189:CANAL+ F1
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/28111
+#EXTINF:-1 tvg-id="infosport.plus.fr" tvg-name="FR131:INFOSPORT+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR137" group-title="FR Sports",FR131:INFOSPORT+
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/28172
+#EXTINF:-1 tvg-id="rmc.sport.1.fr" tvg-name="FR169:RMC SPORT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR175EQUIDIALIFE.png" group-title="FR Sports",FR169:RMC SPORT 1
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/28134
+#EXTINF:-1 tvg-id="rmc.sport.2.fr" tvg-name="FR170:RMC SPORT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR176GOLF.png" group-title="FR Sports",FR170:RMC SPORT 2
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/28133
+#EXTINF:-1 tvg-id="rmc.sport.3.fr" tvg-name="FR171:RMC SPORT 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR177BFMSPORT.png" group-title="FR Sports",FR171:RMC SPORT 3
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/28132
+#EXTINF:-1 tvg-id="rmc.sport.4.fr" tvg-name="FR172:RMC SPORT 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR178Eurosport3604.png" group-title="FR Sports",FR172:RMC SPORT 4
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/28131
+#EXTINF:-1 tvg-id="rmc.sport.live.5.fr" tvg-name="FR173:RMC SPORT 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/" group-title="FR Sports",FR173:RMC SPORT 5
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/28130
+#EXTINF:-1 tvg-id="rmc.sport.live.6.fr" tvg-name="FR174:RMC SPORT 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR180" group-title="FR Sports",FR174:RMC SPORT 6
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/28129
+#EXTINF:-1 tvg-id="rmc.sport.live.7.fr" tvg-name="FR175:RMC SPORT 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR181FRANCE24.png" group-title="FR Sports",FR175:RMC SPORT 7
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/28128
+#EXTINF:-1 tvg-id="rmc.sport.live.8.fr" tvg-name="FR176:RMC SPORT 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR182ALACARTE1.png" group-title="FR Sports",FR176:RMC SPORT 8
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/28127
+#EXTINF:-1 tvg-id="rmc.sport.live.9.fr" tvg-name="FR177:RMC SPORT 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR183ALACARTE2.png" group-title="FR Sports",FR177:RMC SPORT 9
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/28126
+#EXTINF:-1 tvg-id="rmc.sport.live.10.fr" tvg-name="FR178:RMC SPORT 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR184ALACARTE3.png" group-title="FR Sports",FR178:RMC SPORT 10
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/28125
+#EXTINF:-1 tvg-id="foot.plus.24.24.fr" tvg-name="FR213:FOOT+ 24/24 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR225CanalPlay1.png" group-title="FR Sports",FR213:FOOT+ 24/24 HD
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/28084
 
 ###############################################UCL###############################################
 #EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="LIGA DE CAMPEONES 1 HD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="UCL",LIGA DE CAMPEONES 1 HD
