@@ -21,6 +21,12 @@ https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_sport_klu
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:-10.0 tvg-id="sportklub1.rs" tvg-name="EXYU| SPORT KLUB 1 FHD SR [ LIVE EVENTS ]" tvg-logo="https://lo1.in/exyu/spkl1.png" group-title="AFC U-17",⭐EXYU| SPORT KLUB 1 FHD SR [ LIVE EVENTS ]
+http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/116020
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:-10.0 tvg-id="beinsportsxtra1.qa" tvg-name="AR| BEIN SPORTS 01 XTRA HD" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="AFC U-17",⭐AR| BEIN SPORTS 01 XTRA HD
 http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/400193265
 
