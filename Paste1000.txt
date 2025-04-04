@@ -5,6 +5,20 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="kosong" group-title="AFC U-17",SPORT STAR 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kitasaudara.my.id/play/ktvplus/drm.php?id=113
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://kitasaudara.my.id/play/ktvplus/index.mpd?id=113
+
+
+#EXTINF:-1 tvg-logo="kosong" group-title="AFC U-17",SPORT STAR 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kitasaudara.my.id/play/ktvplus/drm.php?id=112
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://kitasaudara.my.id/play/ktvplus/index.mpd?id=112
 
 #EXTINF:-1 tvg-name="" group-title="AFC U-17" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2gYcj58UvJ7jKc7lvxJZp_8QUR5WAACYbVBdMvBwW7K3nOza0apMf0wd&s=10", SPORTSTAR FHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
