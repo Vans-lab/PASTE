@@ -86,7 +86,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/Bukilic-dan-Megawati-vs-IBK-Altos.jpg" group-title="V LEAGUE",FINAL 3 jam 18.00 WITA
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/xby8orqh9fuuqp75c3m4rgap46620izekpc1/playlist.m3u8?hdnts=st=1743587138~exp=1743619548~acl=*/xby8orqh9fuuqp75c3m4rgap46620izekpc1/*~hmac=69246b7d6f9bf3ef9499ebb380792fd8f074197e07957948ac3a3ee78f13862e
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/xcxvb8tcewzk7mpcanlgq9pb2laynib1j7md/playlist.m3u8?hdnts=st=1743759981~exp=1743792391~acl=*/xcxvb8tcewzk7mpcanlgq9pb2laynib1j7md/*~hmac=9ebbd65c8ad033c1fe81d09b0e414531b38c6d6a95841752d9f3aee9045c3288
 
 #EXTINF:-1 tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="V LEAGUE", SBS SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -2216,6 +2216,19 @@ https://dl.dropboxusercontent.com/scl/fi/v62daschtmn6nf0ohhxjj/astro-premier-lea
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="ALL SPORTS",⭐ ASTRO FOOTBALL
 https://dl.dropboxusercontent.com/scl/fi/bg3c4k5sb7o05mu3zd7fw/astro-football-B.m3u8?rlkey=8cuafzdxmlj55e5tvk5s91yp9&st=11l16dyb
+
+###############################################HUB SPORTS###############################################
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 1" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="HUB SPORTS",HUB SPORTS 1
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 2" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="HUB SPORTS",HUB SPORTS 2
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 3" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="HUB SPORTS",HUB SPORTS 3
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 4" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="HUB SPORTS",HUB SPORTS 4
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 5" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="HUB SPORTS",HUB SPORTS 5
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36301.m3u8
+
 
 ####################################SONY SPORTS#####################################################
 #KODIPROP:inputstream=inputstream.ffmpegdirect
