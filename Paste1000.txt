@@ -11,7 +11,8 @@ https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/EPL_03/index.m3u8?googlekey=cde4d18
 
 #EXTINF:-1 group-title="TEST LIVE" tvg-logo="https://cdn6.aptoide.com/imgs/5/a/4/5a4f81b37a6b1da98142d01795e27045_feature_graphic.png",MADRID VS VALENCIA
 #EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/EPL_03/index.m3u8?googlekey=cde4d18a2116ecde583ae83109478aaacbc58709fcab993d9757145ebda92869&keyhash=cde4d18a2116ecde583ae83109478aaacbc58709fcab993d9757145ebda928699
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/La_Liga_TV_Live_TV/index.m3u8?googlekey=d0b95b2e4b835fef83590fa1fd4da3ca2221e33c04d5963a0bbe61c81dbcf867&keyhash=d0b95b2e4b835fef83590fa1fd4da3ca2221e33c04d5963a0bbe61c81dbcf867
 
 #EXTM3U
 #EXT-X-VERSION:3
