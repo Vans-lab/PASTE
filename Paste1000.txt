@@ -4,14 +4,10 @@
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 
 #EXTM3U
-
-#EXTINF:-1 group-title="TEST LIVE" tvg-logo="https://soccerwizdom.com/wp-content/uploads/2024/11/ggfjgfjgfj-1.png",QUAI TEST2
-#EXTVLCOPT:http-referrer=https://quaytaytv.lamduchien.net/
-https://qtcdn.livestreameuro.live/live/momsd1/playlist.m3u8
-
-#EXTINF:-1 group-title="TEST LIVE" tvg-logo="https://soccerwizdom.com/wp-content/uploads/2024/11/ggfjgfjgfj-1.png",QUAI TEST3
-#EXTVLCOPT:http-referrer=https://quaytaytv.lamduchien.net/
-https://179939170.vipcdnlive.xyz/live/momsd2/playlist.m3u8
+#EXTINF:-1 group-title="TEST LIVE" tvg-logo="https://cdn6.aptoide.com/imgs/5/a/4/5a4f81b37a6b1da98142d01795e27045_feature_graphic.png",INTER LIVE
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Seria_A_03/tracks-v1a1/mono.ts.m3u8?active=d1011c8b244583e11df08432d8ba4090c3c367113cad00dd494d2878f3fcc1ad&googlekey=ac8f408502983142dd5976789f9216da9c1b4e1fe80260422174ebe60b6d1db4&keyhash=d1011c8b244583e11df08432d8ba4090c3c367113cad00dd494d2878f3fcc1ad
 
 #EXTINF:-1 group-title="TEST LIVE" tvg-logo="https://soccerwizdom.com/wp-content/uploads/2024/11/ggfjgfjgfj-1.png",EPL TEST
 #EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
