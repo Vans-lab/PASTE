@@ -5,6 +5,10 @@
 
 #EXTM3U
 
+#EXTINF:-1 group-title="TEST LIVE" tvg-logo="https://soccerwizdom.com/wp-content/uploads/2024/11/ggfjgfjgfj-1.png",EPL TEST
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/EPL_03/index.m3u8?googlekey=cde4d18a2116ecde583ae83109478aaacbc58709fcab993d9757145ebda92869&keyhash=cde4d18a2116ecde583ae83109478aaacbc58709fcab993d9757145ebda92869
+
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
