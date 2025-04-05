@@ -8,16 +8,16 @@
 
 #EXTINF:-1 group-title="TEST LIVE" tvg-logo="https://cdn6.aptoide.com/imgs/5/a/4/5a4f81b37a6b1da98142d01795e27045_feature_graphic.png",INTER LIVE
 #EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Seria_A_03/tracks-v1a1/mono.ts.m3u8?active=d1011c8b244583e11df08432d8ba4090c3c367113cad00dd494d2878f3fcc1ad&googlekey=ac8f408502983142dd5976789f9216da9c1b4e1fe80260422174ebe60b6d1db4&keyhash=d1011c8b244583e11df08432d8ba4090c3c367113cad00dd494d2878f3fcc1ad
+#https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Seria_A_03/tracks-v1a1/mono.ts.m3u8?active=d1011c8b244583e11df08432d8ba4090c3c367113cad00dd494d2878f3fcc1ad&googlekey=ac8f408502983142dd5976789f9216da9c1b4e1fe80260422174ebe60b6d1db4&keyhash=d1011c8b244583e11df08432d8ba4090c3c367113cad00dd494d2878f3fcc1ad
 
 #EXTINF:-1 group-title="TEST LIVE" tvg-logo="https://soccerwizdom.com/wp-content/uploads/2024/11/ggfjgfjgfj-1.png",EPL TEST 2
 #EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Sky_Sports_Premier_League/tracks-v1a1/mono.ts.m3u8?active=d1011c8b244583e11df08432d8ba4090c3c367113cad00dd494d2878f3fcc1ad&googlekey=59662469d20d77a1880df686500e08408ec56b072dd134490709d943930707fb&keyhash=d1011c8b244583e11df08432d8ba4090c3c367113cad00dd494d2878f3fcc1ad
+#https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Sky_Sports_Premier_League/tracks-v1a1/mono.ts.m3u8?active=d1011c8b244583e11df08432d8ba4090c3c367113cad00dd494d2878f3fcc1ad&googlekey=59662469d20d77a1880df686500e08408ec56b072dd134490709d943930707fb&keyhash=d1011c8b244583e11df08432d8ba4090c3c367113cad00dd494d2878f3fcc1ad
 
 #EXTINF:-1 group-title="TEST LIVE" tvg-logo="https://cdn6.aptoide.com/imgs/5/a/4/5a4f81b37a6b1da98142d01795e27045_feature_graphic.png",TWENTWE VS FORTUNA
 #EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Sky_Sports_Premier_League/tracks-v1a1/mono.ts.m3u8?active=d1011c8b244583e11df08432d8ba4090c3c367113cad00dd494d2878f3fcc1ad&googlekey=59662469d20d77a1880df686500e08408ec56b072dd134490709d943930707fb&keyhash=d1011c8b244583e11df08432d8ba4090c3c367113cad00dd494d2878f3fcc1ad
+#https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Sky_Sports_Premier_League/tracks-v1a1/mono.ts.m3u8?active=d1011c8b244583e11df08432d8ba4090c3c367113cad00dd494d2878f3fcc1ad&googlekey=59662469d20d77a1880df686500e08408ec56b072dd134490709d943930707fb&keyhash=d1011c8b244583e11df08432d8ba4090c3c367113cad00dd494d2878f3fcc1ad
 
 #EXTM3U
 #EXT-X-VERSION:3
