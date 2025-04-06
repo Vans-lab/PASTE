@@ -2310,6 +2310,8 @@ http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on2_540&sid=dXSaxl
 
 #EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYPC20bYqGC8oZTVIXI8wb5p_S7GX6Uap6w&usqp=CAU",SPOTV KR3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_prime_540&sid=vs3q0KnoaggBafKcq0PCBjhXC7mRqtyFtkn54RON&secret=66d397ec1f0030b4ee7f4a63d109f4c6&time=1737314920|Referer=https://kakotv.com/
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="ALL SPORTS",⭐ OPTUS SPORT 1
 https://dl.dropboxusercontent.com/scl/fi/mgvsode8m4rrnx6nlluuw/optus-sport-1.m3u8?rlkey=6a3415zb47ya7e2wohdf0fvu4&st=t8n7uo1b
