@@ -16,6 +16,15 @@ https://dl.dropboxusercontent.com/scl/fi/r059gu8uo2ql1t2j9d54b/canal-plus-premie
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://qtcdn.livestreameuro.live/live/momsd1/playlist.m3u8
 
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:-10.0 group-title="MANCHESTER DERBY" tvg-logo="https://i.imgur.com/CTkulsv.png",LIVE 4
+https://dl.dropboxusercontent.com/scl/fi/684m55tgc57qg6opwzo6a/DAZN-1-ES.m3u8?rlkey=uymo3b4skmvrlhg5eh5oync5c
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="MANCHESTER DERBY",LIVE 5
+https://dl.dropboxusercontent.com/scl/fi/9wsrnnm33ojr2a2etgzlp/skysportsmainevent.m3u8?rlkey=6gut3adzjpkdakpu2hkwkip5e&st=g57vigou
+
 #EXTINF:-1 group-title="TEST LIVE" tvg-logo="https://cdn6.aptoide.com/imgs/5/a/4/5a4f81b37a6b1da98142d01795e27045_feature_graphic.png",EPL LIVE2
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 #https://qtcdn.livestreameuro.live/live/phanghd1/playlist.m3u8
