@@ -7,11 +7,11 @@
 
 #EXTINF:-1 group-title="TEST LIVE" tvg-logo="https://cdn6.aptoide.com/imgs/5/a/4/5a4f81b37a6b1da98142d01795e27045_feature_graphic.png",INTER LIVE3
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/duongtienhd1/playlist.m3u8
+#https://qtcdn.livestreameuro.live/live/duongtienhd1/playlist.m3u8
 
 #EXTINF:-1 group-title="TEST LIVE" tvg-logo="https://cdn6.aptoide.com/imgs/5/a/4/5a4f81b37a6b1da98142d01795e27045_feature_graphic.png",EPL LIVE2
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/phanghd1/playlist.m3u8
+#https://qtcdn.livestreameuro.live/live/phanghd1/playlist.m3u8
 
 #EXTINF:-1 group-title="TEST LIVE" tvg-logo="https://cdn6.aptoide.com/imgs/5/a/4/5a4f81b37a6b1da98142d01795e27045_feature_graphic.png",TWENTWE VS FORTUNA
 #EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
@@ -171,8 +171,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 ##############################V LEAGUE############################
 
 
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/Bukilic-dan-Megawati-vs-IBK-Altos.jpg" group-title="V LEAGUE",FINAL 3 jam 18.00 WITA
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/xcxvb8tcewzk7mpcanlgq9pb2laynib1j7md/playlist.m3u8?hdnts=st=1743759981~exp=1743792391~acl=*/xcxvb8tcewzk7mpcanlgq9pb2laynib1j7md/*~hmac=9ebbd65c8ad033c1fe81d09b0e414531b38c6d6a95841752d9f3aee9045c3288
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/Bukilic-dan-Megawati-vs-IBK-Altos.jpg" group-title="V LEAGUE",FINAL 4 jam 13.00 WITA
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/prwvs6cxc0vdk4gyc55nyr6falchh6rscxlj/playlist.m3u8?hdnts=st=1743914772~exp=1743947182~acl=*/prwvs6cxc0vdk4gyc55nyr6falchh6rscxlj/*~hmac=9c10f879d5291e563085a5305eb97010c082b681fef8418992e783f152beb7e2
 
 #EXTINF:-1 tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="V LEAGUE", SBS SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
