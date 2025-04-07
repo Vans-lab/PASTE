@@ -9,7 +9,7 @@
 
 #EXTINF:-1 group-title="TEST LIVE" tvg-logo="https://cdn6.aptoide.com/imgs/5/a/4/5a4f81b37a6b1da98142d01795e27045_feature_graphic.png",U-17 LIVE2
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/duongtiensd1/playlist.m3u8
+#https://qtcdn.livestreameuro.live/live/duongtiensd1/playlist.m3u8
 
 #EXTINF:-1 group-title="TEST LIVE" tvg-logo="https://cdn6.aptoide.com/imgs/5/a/4/5a4f81b37a6b1da98142d01795e27045_feature_graphic.png",TWENTWE VS FORTUNA
 #EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
@@ -228,7 +228,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 ##############################V LEAGUE############################
 
 
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/Bukilic-dan-Megawati-vs-IBK-Altos.jpg" group-title="V LEAGUE",FINAL 4 jam 13.00 WITA
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/Bukilic-dan-Megawati-vs-IBK-Altos.jpg" group-title="V LEAGUE",FINAL 5 (MEGA-KYK LAST DANCE) SELASA jam 18.00 WITA
 https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/prwvs6cxc0vdk4gyc55nyr6falchh6rscxlj/playlist.m3u8?hdnts=st=1743914772~exp=1743947182~acl=*/prwvs6cxc0vdk4gyc55nyr6falchh6rscxlj/*~hmac=9c10f879d5291e563085a5305eb97010c082b681fef8418992e783f152beb7e2
 
 #EXTINF:-1 tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="V LEAGUE", SBS SPORTS
