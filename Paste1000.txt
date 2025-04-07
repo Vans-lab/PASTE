@@ -116,8 +116,9 @@ https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_sport_klu
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-10.0 tvg-id="sportklub1.rs" tvg-name="EXYU| SPORT KLUB 1 FHD SR [ LIVE EVENTS ]" tvg-logo="https://lo1.in/exyu/spkl1.png" group-title="AFC U-17",⭐EXYU| SPORT KLUB 1 FHD SR [ LIVE EVENTS ]
-http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/116020
+#EXTINF:-10.0 tvg-id="sportklub1.rs" tvg-name="EXYU| SPORT KLUB 1 FHD SR [ LIVE EVENTS ]" tvg-logo="https://lo1.in/exyu/spkl1.png" group-title="AFC U-17",⭐EXYU| SPORT KLUB 1 FHD SR [ LIVE EVENTS ]XXXX
+https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
+#http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/116020
 
 #EXTM3U
 #EXT-X-VERSION:3
