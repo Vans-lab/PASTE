@@ -6,10 +6,17 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://cdn.rri.co.id/berita/Banda_Aceh/o/1714472431419-1000071268/2504k1jdppsxxmc.jpeg", BAYER VS INTER
+#EXTVLCOPT:http-referrer=https://kilatlive.live/
+https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_1/index.m3u8
 
-#EXTINF:-1 group-title="TEST LIVE" tvg-logo="https://cdn6.aptoide.com/imgs/5/a/4/5a4f81b37a6b1da98142d01795e27045_feature_graphic.png",U-17 LIVE2
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://cdn.rri.co.id/berita/Banda_Aceh/o/1714472431419-1000071268/2504k1jdppsxxmc.jpeg", ARESENAL VS MADRID
+#EXTVLCOPT:http-referrer=https://kilatlive.live/
+https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uefa_06/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="LIVE PILIHAN" tvg-logo="https://cdn6.aptoide.com/imgs/5/a/4/5a4f81b37a6b1da98142d01795e27045_feature_graphic.png",U-17 LIVE2
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-#https://qtcdn.livestreameuro.live/live/duongtiensd1/playlist.m3u8
+#https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_ITV_1/index.m3u8
 
 #EXTINF:-1 group-title="TEST LIVE" tvg-logo="https://cdn6.aptoide.com/imgs/5/a/4/5a4f81b37a6b1da98142d01795e27045_feature_graphic.png",TWENTWE VS FORTUNA
 #EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
