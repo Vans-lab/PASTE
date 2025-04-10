@@ -18,6 +18,10 @@ https://ckcdn.livestreameuro.live/live/caysd1/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
 https://fhlsport121.fhs36f7.xyz/token-JUB4krbFePSG72AgxPY6m2uAlJvShivjaSWvxqVJQzPz7uTIHUFdDo4upBNJWEhJBCeIxTNhkA%3D%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5LnJ3YWJ3by5jb20=/rrty/sd-1-4184633.m3u8?txSecret=59ce6b6e0d2aca387c9175f920f1a44b&txTime=67F7B084
 
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", BALI VS DEWA VDO
+#EXTVLCOPT:http-referrer=https://dante.struckinch51ylot.sbs/
+https://fhlsport121.fhs36f7.xyz/token-JBJ8ybedIf6G7mQuw%2FY6zDqFlMCAg3%2FjayKukqVMFmT1tLaeHUFdDo4upBNLX0xJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/42n6n140nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_597577.m3u8
+
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", SVAY RIENG VS MADURA
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckhot-179939170.cdnfree.pro/live/bipsd2/chunklist.m3u8
