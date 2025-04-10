@@ -18,14 +18,6 @@ https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
 https://fhlsport121.fhs36f7.xyz/token-JUB4krbFePSG72AgxPY6m2uAlJvShivjaSWvxqVJQzPz7uTIHUFdDo4upBNJWEhJBCeIxTNhkA%3D%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5LnJ3YWJ3by5jb20=/rrty/sd-1-4184633.m3u8?txSecret=59ce6b6e0d2aca387c9175f920f1a44b&txTime=67F7B084
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", BALI VS DEWA VDO 2
-#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://fhlsport121.fhs36f7.xyz/token-JBJ8ybedIf6G7mQuw%2FY6zDqFlMCAg3%2FjayKukqVMFmT1tLaeHUFdDo4upBNLX0xJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/42n6n140nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_597577.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-id="" tvg-logo="https://i.ibb.co.com/2dNWNWt/live.gif",bali vs dewa
-#EXTVLCOPT:http-referrer=https://dante.struckinch51ylot.sbs/
-https://fhlsport121.fhs36f7.xyz/token-JEAqnradfKSG6DB%2BkvY6ymuDlJqHhSDjbySqw%2FRJFWT65%2BOZHUFdDo4upB1AXk5JBCeIxTNhkA%3D%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5LnJ3YWJ3by5jb20=/rrty/sd-1-4184633.m3u8?txSecret=59ce6b6e0d2aca387c9175f920f1a44b&txTime=67F7B084
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", SVAY RIENG VS MADURA
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -184,19 +176,14 @@ http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/32970
 #https://dl.dropboxusercontent.com/scl/fi/ltr62gpguwcc8b3e9zzku/tnt-sports-2.m3u8?rlkey=jz8b7eilmbws8kygrfell6sef
 
 ##############################KONOHA############################
-#EXTINF:-1 tvg-id="Sportstars 3 HD - [Channel 423].id" group-title="LIVE LIGA KONOHA" tvg-logo="https://iili.io/3H605iv.png",Sportstars 3
-#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=114&type=drm
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="Indosiar" tvg-url="" tvg-logo="https://iili.io/JMp3wV1.png/1280px-INDOSIAR_Logo.png" group-title="LIVE LIGA KONOHA",Indosiar [vip]
-http://opplex.tv:8080/live/12345678910/12345678910/350972.ts
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTM3U8
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:-10.0 tvg-id="1" tvg-logo="https://iconape.com/wp-content/files/ok/285361/png/indosiar-logo.png" group-title="LIVE LIGA KONOHA", INDOSIAR TV
+#EXTVLCOPT:http-user-agent=8vpgu5Pn76+ub1oG9cLK7LjsZd4J38SWZkyS3+yMDGc=
+https://my.bianet.es/Folysiliti/Indosiar-HD.m3u8
 
 #EXTINF:-1 group-title="LIVE LIGA KONOHA" tvg-id="" tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1730435867012-Logo-BRI-Liga-1-2024-2025-copy-1133905640/3osav1prxs4vbvi.webp",test SKY
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
