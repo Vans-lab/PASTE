@@ -63,11 +63,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/socc
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar-avc1_1000000=4.m3u8
 
-#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" group-title="AFC U-17" tvg-logo="https://iili.io/JjzV89s.png",Sportstars 2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=113&type=drm
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" group-title="AFC U-17" tvg-logo="https://iili.io/JjzV89s.png",Sportstars 2 XXX
+https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Sportstars 4 HD - [Channel 423].id" group-title="AFC U-17" tvg-logo="https://iili.io/3xZ3vob.png",Sportstars 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
