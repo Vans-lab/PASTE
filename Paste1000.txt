@@ -150,6 +150,9 @@ http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/32970
 #EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
 https://convps.hdtvs1.top/aHR0cHM6Ly9vZTIuczRzdHJlYW0uY2ZkL3N0cmVhbW9yL2hscy8xL3N0cmVhbS5tM3U4.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MotoGP - Commentary Feed" tvg-logo="https://lo1.in/it/mtgp.png" group-title="GP QATAR",MotoGP - Commentary Feed
+http://extraott.com:900/live/3162523972/3791698850/47315.m3u8
+
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
