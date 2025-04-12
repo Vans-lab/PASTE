@@ -146,6 +146,10 @@ http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/32970
 #https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-21-HD/default.mpd
 
 ##############################MOTO GP############################
+#EXTINF:-1 group-title="GP QATAR" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",60 FPS
+#EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
+https://convps.hdtvs1.top/aHR0cHM6Ly9vZTIuczRzdHJlYW0uY2ZkL3N0cmVhbW9yL2hscy8xL3N0cmVhbS5tM3U4.m3u8
+
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
