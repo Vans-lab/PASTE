@@ -5,9 +5,9 @@
 
 #EXTM3U
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/03/Europa_League.svg/800px-Europa_League.svg.png", LYON VS UNITED
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", NEWCASTLE VS UNITED
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
-#https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_1/index.m3u8
+https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MAIN_EVENT/index.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/03/Europa_League.svg/800px-Europa_League.svg.png", SPURS VS EINTRACH
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
@@ -15,11 +15,11 @@
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", TANGERANG VS BARITO
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/m206qt/playlist.m3u8
+#https://qtcdn.livestreameuro.live/live/m206qt/playlist.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", TANGERANG VS BARITO 2
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/m204qt/playlist.m3u8
+#https://qtcdn.livestreameuro.live/live/m204qt/playlist.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", BIAK VS SLEMAN
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
