@@ -67,6 +67,10 @@ https://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=113
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd|referrer=https://visionplus.id/
 
+#EXTINF:-1 group-title="AFC U-17" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", U-17
+#EXTVLCOPT:http-referrer=https://jack.jnxzpossible10el12seat.shop/
+https://fhlsport121.fhs36f7.xyz/token-I0Eom%2BWTIaKGuDMhxPY6kT%2BHlJuA0HvjaiOqx6gbFGb0sLGfHUFdDo4qrx1OWkVJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/n9797521nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_598445.m3u8
+
 #EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="AFC U-17",SS 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
