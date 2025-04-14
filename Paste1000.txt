@@ -53,10 +53,13 @@
 
 
 ############AFC U17######################
-#EXTINF:-1 group-title="AFC U-17" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200", INDONESIA VS KORUT
+#EXTINF:-1 group-title="AFC U-17" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200", INDONESIA VS KORUT SD
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-#https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
 https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
+
+#EXTINF:-1 group-title="AFC U-17" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200", INDONESIA VS KORUT HD
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="AFC U-17",INDONESIA VS KORUT Sportstars 2 HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
