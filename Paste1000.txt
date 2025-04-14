@@ -63,7 +63,8 @@ https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=113&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR| BEIN SPORTS 08 SD" tvg-logo="https://lo1.in/bss/bss8.png" group-title="AFC U-17",BEIN SPORTS 08
+http://extraott.com:900/live/3162523972/3791698850/89.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JjzVSAG.png" group-title="AFC U-17", Soccer Channel
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -77,8 +78,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/socc
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar-avc1_1000000=4.m3u8
 
-#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" group-title="AFC U-17" tvg-logo="https://iili.io/JjzV89s.png",Sportstars 2 XXX
-https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Sportstars 4 HD - [Channel 423].id" group-title="AFC U-17" tvg-logo="https://iili.io/3xZ3vob.png",Sportstars 4
@@ -117,35 +116,6 @@ http://www.geocities.ws/wahyuiptv/AstroArenaBola2.m3u8
 #EXTINF:-1 group-title="AFC U-17" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200", LIVE
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
 https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_sport_klub_1/index.m3u8
-
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-10.0 tvg-id="sportklub1.rs" tvg-name="EXYU| SPORT KLUB 1 FHD SR [ LIVE EVENTS ]" tvg-logo="https://lo1.in/exyu/spkl1.png" group-title="AFC U-17",⭐EXYU| SPORT KLUB 1 FHD SR [ LIVE EVENTS ]XXXX
-https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
-#http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/116020
-
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-10.0 tvg-id="beinsportsxtra1.qa" tvg-name="AR| BEIN SPORTS 01 XTRA HD" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="AFC U-17",⭐AR| BEIN SPORTS 01 XTRA HD
-http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/400193265
-
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-10.0 tvg-id="" tvg-name="AR| BEIN SPORTS 01 XTRA HD [BK]" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="AFC U-17",⭐AR| BEIN SPORTS 01 XTRA HD [BK]
-http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/32898
-
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-10.0 tvg-id="" tvg-name="AR| BEIN SPORTS 01 XTRA HD [BK1]" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="AFC U-17",⭐AR| BEIN SPORTS 01 XTRA HD [BK1]
-http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/32970
-
-
-
-
 
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://www.foottheball.com/wp-content/uploads/2022/07/GGMU.jpg", UNITED LIVE
