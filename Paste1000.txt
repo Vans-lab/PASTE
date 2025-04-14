@@ -7,7 +7,7 @@
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", NEWCASTLE VS UNITED
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
-https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MAIN_EVENT/index.m3u8
+#https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MAIN_EVENT/index.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/03/Europa_League.svg/800px-Europa_League.svg.png", SPURS VS EINTRACH
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
@@ -154,7 +154,7 @@ http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/32970
 ##############################MOTO GP############################
 #EXTINF:-1 group-title="GP QATAR" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",60 FPS
 #EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-https://convps.hdtvs1.top/aHR0cHM6Ly9vZTIuczRzdHJlYW0uY2ZkL3N0cmVhbW9yL2hscy8xL3N0cmVhbS5tM3U4.m3u8
+#https://convps.hdtvs1.top/aHR0cHM6Ly9vZTIuczRzdHJlYW0uY2ZkL3N0cmVhbW9yL2hscy8xL3N0cmVhbS5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PPV| MotoGP - Commentary Feed" tvg-logo="https://lo1.in/it/mtgp.png" group-title="GP QATAR",MotoGP - Commentary Feed
 http://extraott.com:900/live/3162523972/3791698850/47315.m3u8
@@ -166,53 +166,26 @@ http://extraott.com:900/live/3162523972/3791698850/47315.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
  
 #EXTINF:-1 group-title="GP QATAR" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NUKLIR
 #EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-https://hz.s1stream.cfd/aHR0cHM6Ly9zZy5zMnN0cmVhbS5jZmQvc3RyZWFtc2cvaGxzLzAvc3RyZWFtLm0zdTg=.m3u8
+#https://hz.s1stream.cfd/aHR0cHM6Ly9zZy5zMnN0cmVhbS5jZmQvc3RyZWFtc2cvaGxzLzAvc3RyZWFtLm0zdTg=.m3u8
 
 #EXTINF:-1 group-title="GP QATAR" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NONTONGP
 #EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
 #https://hv.s1stream.cfd/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4Ny9obHMvc3RyZWFtLm0zdTg=.m3u8
-https://master.idxplayer.com/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4OS9obHMvc3RyZWFtLm0zdTg=.m3u8
+#https://master.idxplayer.com/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4OS9obHMvc3RyZWFtLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png" group-title="GP QATAR",DAZN 1 ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
 #EXTINF:-1 group-title="GP QATAR" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png", TNT SPORTS 2
-https://dl.dropboxusercontent.com/scl/fi/ltr62gpguwcc8b3e9zzku/tnt-sports-2.m3u8?rlkey=jz8b7eilmbws8kygrfell6sef
-
-##############################KONOHA############################
-#EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTM3U8
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-10.0 tvg-id="1" tvg-logo="https://iconape.com/wp-content/files/ok/285361/png/indosiar-logo.png" group-title="LIVE LIGA KONOHA", INDOSIAR TV
-#EXTVLCOPT:http-user-agent=8vpgu5Pn76+ub1oG9cLK7LjsZd4J38SWZkyS3+yMDGc=
-https://my.bianet.es/Folysiliti/Indosiar-HD.m3u8
-
-#EXTINF:-1 group-title="LIVE LIGA KONOHA" tvg-id="" tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1730435867012-Logo-BRI-Liga-1-2024-2025-copy-1133905640/3osav1prxs4vbvi.webp",test SKY
-#EXTVLCOPT:http-referrer=https://kilatlive.live/
-#https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAGUE/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="LIVE LIGA KONOHA" tvg-id="" tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1730435867012-Logo-BRI-Liga-1-2024-2025-copy-1133905640/3osav1prxs4vbvi.webp",MALANG VS BANJAR 2
-#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-#https://fhlsport121.fsl35k6.xyz/token-dEB7nOSQePOGu2F%2BkPY6zGKKlMPUjCzjbSSjlKlPFGTxtLCcHUFdDoskqxZMXk5JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/30r1q287nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_594459.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="LIVE LIGA KONOHA" tvg-logo="https://cdn.rri.co.id/berita/Batam/o/1730435867012-Logo-BRI-Liga-1-2024-2025-copy-1133905640/3osav1prxs4vbvi.webp" ch-number="114", SEMARANG V MADURA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mycentral.my.id/ctv1/sc/CTV_ss3/punya_CENTRALTV_kalau_ada_yang_make_berarti_itu_IPTV_abal-abal.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd 
-
-##############################ALL ENGLAND############################
+#https://dl.dropboxusercontent.com/scl/fi/ltr62gpguwcc8b3e9zzku/tnt-sports-2.m3u8?rlkey=jz8b7eilmbws8kygrfell6sef
 
 
 ##############################U C L############################
@@ -239,6 +212,12 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://iili.io/JMp36xI.png", RCTI+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
  
 #EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://iili.io/JMp3kla.png" group-title="TV NASIONAL",MNCTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3613,30 +3592,32 @@ http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on2_540&sid=dXSaxl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_prime_540&sid=vs3q0KnoaggBafKcq0PCBjhXC7mRqtyFtkn54RON&secret=66d397ec1f0030b4ee7f4a63d109f4c6&time=1737314920|Referer=https://kakotv.com/
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="ALL SPORTS",⭐ OPTUS SPORT 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/optus-sport-au.svg" group-title="ALL SPORTS", Optus Sport 1
 https://dl.dropboxusercontent.com/scl/fi/mgvsode8m4rrnx6nlluuw/optus-sport-1.m3u8?rlkey=6a3415zb47ya7e2wohdf0fvu4&st=t8n7uo1b
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="ALL SPORTS",⭐ OPTUS SPORT 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/optus-sport-au.svg" group-title="ALL SPORTS", Optus Sport 2
 https://dl.dropboxusercontent.com/scl/fi/lrrx2jtli55ugqf3909kk/optus-sport-2.m3u8?rlkey=ckr131etzf0lej2zk6s3cyemp&st=whcwztx3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="ALL SPORTS",⭐ OPTUS SPORT 3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/optus-sport-au.svg" group-title="ALL SPORTS", Optus Sport 3
 https://dl.dropboxusercontent.com/scl/fi/can6ym0metgp4uxtpfm4k/optus-sport-3.m3u8?rlkey=hdmsdek6an2i7yynl1wyh5tx3&st=vuzds216
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="ALL SPORTS",⭐ OPTUS SPORT 4
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/optus-sport-au.svg" group-title="ALL SPORTS", Optus Sport 4
 https://dl.dropboxusercontent.com/scl/fi/2cegckls6t1w04jmw19pd/optus-sport-4.m3u8?rlkey=a8dvjrbr3b4jwhmmh06pm6xvc&st=4uo4bi4t
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="ALL SPORTS",⭐ OPTUS SPORT 5
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/optus-sport-au.svg" group-title="ALL SPORTS", Optus Sport 5
 https://dl.dropboxusercontent.com/scl/fi/5bp5oqd6judwuxjuli836/optus-sport-5.m3u8?rlkey=f58530jrj3g1cig1ktp5ieton&st=5qaipy5t
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="ALL SPORTS",⭐ OPTUS SPORT 6
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/optus-sport-au.svg" group-title="ALL SPORTS", Optus Sport 6
 https://dl.dropboxusercontent.com/scl/fi/hbxhg527tp4jmxlnsyhqx/optus-sport-6.m3u8?rlkey=f0jcu7gvylmfmfmzr1kwme2po&st=ftvtuvbw
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="ALL SPORTS",⭐ OPTUS SPORT 7
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/optus-sport-au.svg" group-title="ALL SPORTS", Optus Sport 7
 https://dl.dropboxusercontent.com/scl/fi/dqmiz6ckuj05y2p0144op/optus-sport-7.m3u8?rlkey=6ee3100r5lirikkaffhzdqvne&st=111nhqn7
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="ALL SPORTS",⭐ OPTUS SPORT 8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/optus-sport-au.svg" group-title="ALL SPORTS", Optus Sport 8
 https://dl.dropboxusercontent.com/scl/fi/fdakmjqqn7h4jvxbv2jvk/optus-sport-8.m3u8?rlkey=kw1kaeqvx5zblm2esj4acxxji&st=7epuzc02
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/optus-sport-au.svg" group-title="ALL SPORTS", Optus Sport 9
+https://dl.dropboxusercontent.com/scl/fi/no1l111eomk53m9dscx7r/beinen1.m3u8?rlkey=515fu1im8yqziqmb4mbci0b94&st=g06sqoia
 
 
 ####################################BeIn#####################################################
@@ -3723,6 +3704,42 @@ https://dl.dropboxusercontent.com/scl/fi/v62daschtmn6nf0ohhxjj/astro-premier-lea
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="ALL SPORTS",⭐ ASTRO FOOTBALL
 https://dl.dropboxusercontent.com/scl/fi/bg3c4k5sb7o05mu3zd7fw/astro-football-B.m3u8?rlkey=8cuafzdxmlj55e5tvk5s91yp9&st=11l16dyb
+
+
+              =====BEIN=====    
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR| BEIN SPORTS 01 SD" tvg-logo="https://lo1.in/bss/bsS1.png" group-title="BEIN SPORTS",BEIN SPORTS 01
+http://extraott.com:900/live/3162523972/3791698850/99.m3u8
+
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR| BEIN SPORTS 02 SD" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="BEIN SPORTS",BEIN SPORTS 02
+http://extraott.com:900/live/3162523972/3791698850/100.m3u8
+
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR| BEIN SPORTS 03 SD" tvg-logo="https://lo1.in/bss/bs3.png" group-title="BEIN SPORTS",BEIN SPORTS 03
+http://extraott.com:900/live/3162523972/3791698850/101.m3u8
+
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR| BEIN SPORTS 04 SD" tvg-logo="https://lo1.in/bss/bs4.png" group-title="BEIN SPORTS",BEIN SPORTS 04
+http://extraott.com:900/live/3162523972/3791698850/85.m3u8
+
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR| BEIN SPORTS 05 SD" tvg-logo="https://lo1.in/bein/beinn5.png" group-title="BEIN SPORTS",BEIN SPORTS 05
+http://extraott.com:900/live/3162523972/3791698850/86.m3u8
+
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR| BEIN SPORTS 06 SD" tvg-logo="https://lo1.in/bein/beinn6.png" group-title="BEIN SPORTS",BEIN SPORTS 06
+http://extraott.com:900/live/3162523972/3791698850/87.m3u8
+
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR| BEIN SPORTS 07 SD" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" group-title="BEIN SPORTS",BEIN SPORTS 07
+http://extraott.com:900/live/3162523972/3791698850/88.m3u8
+
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR| BEIN SPORTS 08 SD" tvg-logo="https://lo1.in/bss/bss8.png" group-title="BEIN SPORTS",BEIN SPORTS 08
+http://extraott.com:900/live/3162523972/3791698850/89.m3u8
+
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR| BEIN SPORTS 09 SD" tvg-logo="https://lo1.in/bss/BEIN09.png" group-title="BEIN SPORTS",BEIN SPORTS 09
+http://extraott.com:900/live/3162523972/3791698850/90.m3u8
+
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="AR| BEIN SPORTS 01 ENGLISH SD" tvg-logo="https://lo1.in/bss/bs1eng.png" group-title="BEIN SPORTS",BEIN SPORTS 1 ENGLISH
+http://extraott.com:900/live/3162523972/3791698850/105.m3u8
+
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="AR| BEIN SPORTS 02 ENGLISH SD" tvg-logo="https://lo1.in/bss/bs2eng.png" group-title="BEIN SPORTS",BEIN SPORTS 2 ENGLISH
+http://extraott.com:900/live/3162523972/3791698850/106.m3u8
+
 
 ###############################################HUB SPORTS###############################################
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 1" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="HUB SPORTS",HUB SPORTS 1
