@@ -57,6 +57,14 @@
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="AFC U-17",⭐Sportstars 2 HD⭐
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=113&type=drm
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JjzVSAG.png" group-title="AFC U-17", Soccer Channel
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -157,7 +165,7 @@ http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/32970
 #https://convps.hdtvs1.top/aHR0cHM6Ly9vZTIuczRzdHJlYW0uY2ZkL3N0cmVhbW9yL2hscy8xL3N0cmVhbS5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PPV| MotoGP - Commentary Feed" tvg-logo="https://lo1.in/it/mtgp.png" group-title="GP QATAR",MotoGP - Commentary Feed
-http://extraott.com:900/live/3162523972/3791698850/47315.m3u8
+#http://extraott.com:900/live/3162523972/3791698850/47315.m3u8
 
 #EXTM3U
 #EXT-X-VERSION:3
