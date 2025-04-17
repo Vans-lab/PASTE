@@ -169,6 +169,9 @@ https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_sport_klu
 ##############################LIGA 1############################
 
 ######################################################################TV CHANNELS#############################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRkjgrmW/indo22.png" group-title="TV NASIONAL",INDOSIAR LIGA 1
+#EXTVLCOPT:http-user-agent=8vpgu5Pn76+ub1oG9cLK7LjsZd4J38SWZkyS3+yMDGc=
+https://my.bianet.es/Folysiliti/Indosiar-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2jNlSz13icwAFNNaZwposKG-OVZoPaWkwkLAqMN85_98ELSxuZ7fBTRlRBrF70dQQ1B2T0_OwfDc-VLETMvrSCnyzJlMFeeskSMIRksM6qrPmmSJAPBjF2heXDgrniUCjaLZqkgXaO0X5PKZneByLyTbvojPzl2GECWVU-Ix5DA3eMvkTC_XnGVcKQzLr/s700/TV%20TABALONG.png" group-title="TV NASIONAL",TV TABALONG
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w430128046.m3u8
