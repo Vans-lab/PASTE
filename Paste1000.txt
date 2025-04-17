@@ -21,9 +21,9 @@
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 #https://qtcdn.livestreameuro.live/live/m204qt/playlist.m3u8
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", BIAK VS SLEMAN
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", SLEMAN VS DEWA
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-#https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
+https://qtcdn.livestreameuro.live/live/honghainhisd1/playlist.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", PROLIGA 
 #EXTVLCOPT:http-referrer=https://jack.jnxzpossible10el12seat.shop/
