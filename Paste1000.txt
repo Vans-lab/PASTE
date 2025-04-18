@@ -8,13 +8,7 @@
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 #https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.ibb.co.com/b09FzDb/volyball.webp" group-title="SPECIAL LIVE",PROLIGA
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts 
+
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/03/Europa_League.svg/800px-Europa_League.svg.png", SPURS VS EINTRACH
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
@@ -80,79 +74,21 @@ https://fhlsport121.fhs36f7.xyz/token-JxV%2BmOLAffeGvmcsxPY6n22BlJrUgSjjaiOrwaJL
 #https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Sky_Sports_Premier_League/tracks-v1a1/mono.ts.m3u8?active=d1011c8b244583e11df08432d8ba4090c3c367113cad00dd494d2878f3fcc1ad&googlekey=59662469d20d77a1880df686500e08408ec56b072dd134490709d943930707fb&keyhash=d1011c8b244583e11df08432d8ba4090c3c367113cad00dd494d2878f3fcc1ad
 
 
-############AFC U17######################
-#EXTINF:-1 group-title="AFC U-17" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200", INDONESIA VS KORUT SD
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
+############PROLIGA######################
 
-#EXTINF:-1 group-title="AFC U-17" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200", INDONESIA VS KORUT HD
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/wr5jRyZ/Moji.png" group-title="PROLIGA", MOJI TV
+http://xtv.ooo:8080/live/danyear12/am809100/350997.ts
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="AFC U-17",INDONESIA VS KORUT Sportstars 2 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=113
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd|referrer=https://visionplus.id/
+#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.ibb.co.com/b09FzDb/volyball.webp" group-title="PROLIGA",PROLIGA
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts 
 
-#EXTINF:-1 group-title="AFC U-17" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", U-17
-#EXTVLCOPT:http-referrer=https://jack.jnxzpossible10el12seat.shop/
-https://fhlsport121.fhs36f7.xyz/token-I0Eom%2BWTIaKGuDMhxPY6kT%2BHlJuA0HvjaiOqx6gbFGb0sLGfHUFdDo4qrx1OWkVJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/n9797521nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_598445.m3u8
-
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="AFC U-17",SS 2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=113&type=drm
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR| BEIN SPORTS 08 SD" tvg-logo="https://lo1.in/bss/bss8.png" group-title="AFC U-17",BEIN SPORTS 08
-http://extraott.com:900/live/3162523972/3791698850/89.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JjzVSAG.png" group-title="AFC U-17", Soccer Channel
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-#https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-
-#EXTINF:-1 tvg-id="Sportstars HD - [Channel 421].id" tvg-logo="https://iili.io/JjzV4ol.png" group-title="AFC U-17",Sportstars 1
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar-avc1_1000000=4.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Sportstars 4 HD - [Channel 423].id" group-title="AFC U-17" tvg-logo="https://iili.io/3xZ3vob.png",Sportstars 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="AFC U-17",RCTI HD
-https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dF0aQ-7wAbnWwsHhTcys5TF
-
-#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="AFC U-17",Astro Arena 1
-http://www.geocities.ws/wahyuiptv/AstroArena.m3u8
-
-#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="AFC U-17",Astro Arena 2
-http://www.geocities.ws/wahyuiptv/AstroArena2.m3u8
-
-#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="AFC U-17", Astro Arena Bola 1
-http://www.geocities.ws/wahyuiptv/AstroArenaBola1.m3u8
-
-#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="AFC U-17", Astro Arena Bola 2
-http://www.geocities.ws/wahyuiptv/AstroArenaBola2.m3u8
-
-#EXTINF:-1 group-title="AFC U-17" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200", LIVE
-#EXTVLCOPT:http-referrer=https://kilatlive.live/
-https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_sport_klub_1/index.m3u8
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://www.foottheball.com/wp-content/uploads/2022/07/GGMU.jpg", UNITED LIVE
-#EXTVLCOPT:http-referrer=https://kilatlive.live/
-#https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_1/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/wr5jRyZ/Moji.png" group-title="PROLIGA", CHECK
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
 ##############################MOTO GP############################
 #EXTINF:-1 group-title="GP QATAR" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",60 FPS
