@@ -6,7 +6,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", BORNEO VS MAKASSAR
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
+#https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.ibb.co.com/b09FzDb/volyball.webp" group-title="SPECIAL LIVE",PROLIGA
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
@@ -20,13 +20,13 @@ http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
 #https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uefa_01/index.m3u8
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", TANGERANG VS BARITO
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", BANDUNG VS BALI
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-#https://qtcdn.livestreameuro.live/live/m206qt/playlist.m3u8
+https://ckcdn.livestreameuro.live/live/hplussd1/playlist.m3u8
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", TANGERANG VS BARITO 2
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", MALUT VS BIAK
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-#https://qtcdn.livestreameuro.live/live/m204qt/playlist.m3u8
+https://qtcdn.livestreameuro.live/live/honghainhisd1/playlist.m3u8
 
 
 
