@@ -16,21 +16,21 @@
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", BANDUNG VS BALI
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/hplussd1/playlist.m3u8
+#https://ckcdn.livestreameuro.live/live/hplussd1/playlist.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", MALUT VS BIAK
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/honghainhisd1/playlist.m3u8
+#https://qtcdn.livestreameuro.live/live/honghainhisd1/playlist.m3u8
 
 
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", BANDUNG VS BALI VIDO
 #EXTVLCOPT:http-referrer=https://jack.jnxzpossible10el12seat.shop/
-https://fhlsport121.fhs36f7.xyz/token-LEd9yuSTffCGvmQokfY6mWmHlJrahy3jbCOoxaZKRGSn5OaYHUFdDo4lqxJNXk9JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/340615qsnUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_598591.m3u8
+#https://fhlsport121.fhs36f7.xyz/token-LEd9yuSTffCGvmQokfY6mWmHlJrahy3jbCOoxaZKRGSn5OaYHUFdDo4lqxJNXk9JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/340615qsnUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_598591.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", PROLIGA 1
 #EXTVLCOPT:http-referrer=https://jack.jnxzpossible10el12seat.shop/
-https://fhlsport121.fhs36f7.xyz/token-JxV%2BmOLAffeGvmcsxPY6n22BlJrUgSjjaiOrwaJLFzHx5uWZHUFdDo4lqxJOXklJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/9qr25ss4nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_598719.m3u8
+#https://fhlsport121.fhs36f7.xyz/token-JxV%2BmOLAffeGvmcsxPY6n22BlJrUgSjjaiOrwaJLFzHx5uWZHUFdDo4lqxJOXklJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/9qr25ss4nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_598719.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", PROLIGA 2
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
@@ -77,7 +77,7 @@ https://fhlsport121.fhs36f7.xyz/token-JxV%2BmOLAffeGvmcsxPY6n22BlJrUgSjjaiOrwaJL
 ############PROLIGA######################
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/wr5jRyZ/Moji.png" group-title="PROLIGA", MOJI TV
-http://xtv.ooo:8080/live/danyear12/am809100/350997.ts
+#http://xtv.ooo:8080/live/danyear12/am809100/350997.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.ibb.co.com/b09FzDb/volyball.webp" group-title="PROLIGA",PROLIGA
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
@@ -85,10 +85,10 @@ http://xtv.ooo:8080/live/danyear12/am809100/350997.ts
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts 
+#http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts 
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/wr5jRyZ/Moji.png" group-title="PROLIGA", CHECK
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
+#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
 ##############################MOTO GP############################
 #EXTINF:-1 group-title="GP QATAR" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",60 FPS
