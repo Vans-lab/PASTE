@@ -55,7 +55,7 @@ http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png",UNITED VS LYON
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
-https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_1/index.m3u8
+#https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_1/index.m3u8
   
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30yJTXf.md.png", 02:00 Eintracht Frankfurt vs Tottenham Hotspur
 #KODIPROP:inputstream.adaptive.license_type=clearkey
