@@ -19,17 +19,21 @@ http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts
 
 
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/03/Europa_League.svg/800px-Europa_League.svg.png", SPURS VS EINTRACH
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/03/Europa_League.svg/800px-Europa_League.svg.png", UNITED VS WOLVES
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
-#https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uefa_01/index.m3u8
+https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nz_sky_sport_7/index.m3u8
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", UNITED VS WOLVES 2
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/momsd1/playlist.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", SURABAYA VS MADURA
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/m205nd/playlist.m3u8
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", KEDIRI VS JAKARTA
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png",EMPOLI VS VENEZIA
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-#https://ckcdn.livestreameuro.live/live/m204nd/playlist.m3u8
+https://qtcdn.livestreameuro.live/live/bachlongmasd1/playlist.m3u8
 
 
 
