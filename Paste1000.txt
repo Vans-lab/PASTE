@@ -19,7 +19,7 @@ http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts
 
 
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/03/Europa_League.svg/800px-Europa_League.svg.png", UNITED VS WOLVES
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", UNITED VS WOLVES
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
 https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nz_sky_sport_7/index.m3u8
 
@@ -70,7 +70,7 @@ https://qtcdn.livestreameuro.live/live/bachlongmasd1/playlist.m3u8
 #https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png",WEST HAM VS UNITED (WOMEN)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745081708/ei/DIEDaM29Kt3SqfkPkey9-Qo/ip/180.254.140.115/id/Oaxfmmw8b4w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/gcr/id/ss/1/siu/1/bui/AccgBcMlEFFXqPw-rQWkPrjmjHuhF1FygnQgHZW1hNouZ0Ze5tgg-WlCQdYev7QwEMU0uyi8ug/spc/_S3wKlM8ELDVji6OQJE-QmkNNRG6hvzKU_RVtVU090qpGaPgnsMCWRZWwWZyiXUqYQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMI6_MFdHQDUw61VOtb9UdPQ9g1N18GTeQ4mzw-vin4MCIQC9-GzrItbKRGxcvOeH05wHujUc-fiUHH-RyvCpCu7_EA%3D%3D/file/index.m3u8
+#https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745081708/ei/DIEDaM29Kt3SqfkPkey9-Qo/ip/180.254.140.115/id/Oaxfmmw8b4w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/gcr/id/ss/1/siu/1/bui/AccgBcMlEFFXqPw-rQWkPrjmjHuhF1FygnQgHZW1hNouZ0Ze5tgg-WlCQdYev7QwEMU0uyi8ug/spc/_S3wKlM8ELDVji6OQJE-QmkNNRG6hvzKU_RVtVU090qpGaPgnsMCWRZWwWZyiXUqYQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMI6_MFdHQDUw61VOtb9UdPQ9g1N18GTeQ4mzw-vin4MCIQC9-GzrItbKRGxcvOeH05wHujUc-fiUHH-RyvCpCu7_EA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://cdn.rri.co.id/berita/Banda_Aceh/o/1714472431419-1000071268/2504k1jdppsxxmc.jpeg", BARCA VS DORTMUND
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
