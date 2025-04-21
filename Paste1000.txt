@@ -209,13 +209,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 #EXTINF:-1 tvg-logo="https://iili.io/JMp3pb2.png" group-title="TV NASIONAL",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
- 
-#EXTINF:-1 tvg-id="NET TV.id" tvg-logo="https://iili.io/2Sg7qyF.png" group-title="TV NASIONAL",MDTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6b7bbcf1d511a56e6b3ceda392e4fa33:d1766244d7c1c44efd4c67aafae3ee7b
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
-
 
 #EXTINF:-1 tvg-id="NET" tvg-logo="https://iili.io/2Sg7qyF.png" group-title="TV NASIONAL" , MDTV
 #EXTVLCOPT:http-origin=https://www.dens.tv
