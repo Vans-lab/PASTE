@@ -130,7 +130,65 @@
 ##############################U C L############################
 
 
-##############################LIGA 1############################
+##############################EVENT COPAS############################
+
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://iili.io/3cefMWF.png", 17:10 WIB Hisamitsu Springs W vs Himeji Victorina W
+https://drive.google.com/uc?export=download&id=1CcdPjqqztBDDBmTCW-5Hk3xu6I91T8MK&usp
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://iili.io/3EUm5S1.png", 18:10 WIB Zhetysu Almaty Women vs Creamline W 
+https://drive.google.com/uc?export=download&id=1CcdPjqqztBDDBmTCW-5Hk3xu6I91T8MK&usp
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://iili.io/3ckRSoJ.md.png", 17:30 WIB Torino vs Udinese
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
+
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://iili.io/3ckRSoJ.md.png", 20:00 WIB Cagliari vs Fiorentina
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
+
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://iili.io/3ckRSoJ.md.png", 23:00 WIB Genoa vs Lazio
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
+
+
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://iili.io/31WFbnV.md.png", 22:55 WIB Al-Hilal vs Al-Shabab
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+
+
+<=================== EVENT 2 =============================>
+
+#EXTINF:-1 group-title="EVENT 22/APRIL/2025" tvg-logo="https://iili.io/3ckRSoJ.md.png", 01:45 WIB Parma vs Juventus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
+
+
+#EXTINF:-1 group-title="EVENT 22/APRIL/2025" tvg-logo="https://iili.io/3cehVQ2.md.png", 02:00 WIB Girona vs Real Betis
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+
+#EXTINF:-1 group-title="EVENT 22/APRIL/2025" tvg-logo="https://iili.io/3ckn0Ss.png", 02:00 WIB Girona vs Real Betis
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 ######################################################################TV CHANNELS#############################################################################################################################################
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRkjgrmW/indo22.png" group-title="TV NASIONAL",INDOSIAR LIGA 1
