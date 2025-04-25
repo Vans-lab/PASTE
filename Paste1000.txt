@@ -37,11 +37,13 @@ https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
 #https://fhlsport121.fhs36f7.xyz/token-JRd5ybGXKvaGvjYqxfY6nWiDlJqGhi3jbCeszvdMFjf05OXIHUFdDo8opRNAVUlJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/pno2opnqnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_599358.m3u8
 
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/usunan-pemain-WD-Nagoya-di-Liga-Voli-Jepang-SV-111.jpg" group-title="ALL SPORTS",SV LEAGUE VDO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6686&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash 
 
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/usunan-pemain-WD-Nagoya-di-Liga-Voli-Jepang-SV-111.jpg", SV LEAGUE VIDIO
-#EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
-https://fhlsport121.fhs36f7.xyz/token-IxV%2FnLXGePKGvDYoy%2FY6ym%2FSlJuHgH%2Fjb3erwalOF2Hws%2BaYHUFdDo8pqxZOXUxJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/s1p7884pnUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_599553.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cefMWF.png", 16:10 WIB Suntory Sunbirds vs Nagoya
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
