@@ -44,6 +44,13 @@ https://fhlsport121.fhs36f7.xyz/token-JRd5ybGXKvaGvjYqxfY6nWiDlJqGhi3jbCeszvdMFj
 https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_ITV_1/index.m3u8
 #https://fhlsport121.fhs36f7.xyz/token-cRQvybbGfPaG6WQslvY6yzmClMPU1izjbiz8z6QfFjSk5bedHUFdDo8oqx1KXUVJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/6q05p15pnUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_599411.m3u8
 
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cefMWF.png", 16:10 WIB Suntory Sunbirds vs Nagoya
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/js8RnnJ8WtIqbWZjCWYBHQ/Fv2lucGIbhPi2caWYvF5Lg/1745592758794/live/momSD/chunklist.m3u8
+https://live-xlvb.nsnd.live/BmLWiAVEOLLlHgYXlcUKkQ/59682603c0192799f9ad86b719cb364d/1745592758/live/_definst_/stream_1_1bda7@momHD/chunklist.m3u8
+
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30y3ep9.png", 02:00 Chelsea vs Legia Warsawa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
