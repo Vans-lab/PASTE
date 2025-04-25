@@ -12,7 +12,7 @@
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts 
+#http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts 
 
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30pj83g.png", LAVANI VS BHAYANGKARA PRESISI
@@ -21,7 +21,7 @@ http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://suararepubliknews.com/wp-content/uploads/2024/08/BRI.jpeg", MAKASSAR VS BALI
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
+https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://suararepubliknews.com/wp-content/uploads/2024/08/BRI.jpeg", SEMARANG VS BORNEO
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
