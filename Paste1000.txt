@@ -23,6 +23,13 @@
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
 
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cefMWF.png", 16:10 WIB Suntory Sunbirds vs Nagoya
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/js8RnnJ8WtIqbWZjCWYBHQ/Fv2lucGIbhPi2caWYvF5Lg/1745592758794/live/momSD/chunklist.m3u8
+https://live-xlvb.nsnd.live/BmLWiAVEOLLlHgYXlcUKkQ/59682603c0192799f9ad86b719cb364d/1745592758/live/_definst_/stream_1_1bda7@momHD/chunklist.m3u8
+
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://suararepubliknews.com/wp-content/uploads/2024/08/BRI.jpeg", SEMARANG VS BORNEO
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 #https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
@@ -52,6 +59,75 @@ https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
 #https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Sky_Sports_Premier_League/tracks-v1a1/mono.ts.m3u8?active=d1011c8b244583e11df08432d8ba4090c3c367113cad00dd494d2878f3fcc1ad&googlekey=59662469d20d77a1880df686500e08408ec56b072dd134490709d943930707fb&keyhash=d1011c8b244583e11df08432d8ba4090c3c367113cad00dd494d2878f3fcc1ad
 
 ################################COPAS LIVE#############################
+
+
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3EUm5S1.png", 15:00 WIB Zhetysu VC vs Nakhonratchasima Qmnic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6686&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash 
+
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3EUm5S1.png", 18:00 WIB VTV Binh Dien Long An vs Beijing BAIC Motor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6686&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash 
+
+
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://static.flashscore.com/res/image/data/6ol67PRp-G075SKNB.png", 23:15 WIB Crystal Palace vs Aston Villa
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckn0Ss.png", 18:30 WIB Chelsea vs Everton
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckn0Ss.png", 21:00 WIB Newcastle United vs Ipswich Town
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckn0Ss.png", 21:00 WIB Brighton & Hove Albion vs West Ham United
+http://ktvs.xyz:8080/Amber36/35897447/49523
+
+
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cek5B4.png", 20:30 WIB Bayer Leverkusen vs Augsburg
+http://ktvs.xyz:8080/Amber36/35897447/49524
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cek5B4.png", 20:30 Bayern München vs Mainz 05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
+https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cek5B4.png", 20:30 Hoffenheim vs Borussia Dortmund
+http://ktvs.xyz:8080/Amber36/35897447/49527
+
+<=================== EVENT 2 =============================>
+
+#EXTINF:0 group-title="SPECIAL LIVE" tvg-logo="https://static.flashscore.com/res/image/data/v1eiTomd-z1Qa7XFE.png", 03:00 Barcelona vs Real Madrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
 
 ############PROLIGA######################
 
