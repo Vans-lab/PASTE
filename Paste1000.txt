@@ -30,6 +30,9 @@ https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
 https://hotlivezz179602324.akainu.xyz/js8RnnJ8WtIqbWZjCWYBHQ/Fv2lucGIbhPi2caWYvF5Lg/1745592758794/live/momSD/chunklist.m3u8
 https://live-xlvb.nsnd.live/BmLWiAVEOLLlHgYXlcUKkQ/59682603c0192799f9ad86b719cb364d/1745592758/live/_definst_/stream_1_1bda7@momHD/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="RedBullTV.us" tvg-name="US| RED BULL TV HD" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/223/2024/04/27/veda-ega-pratama-1155911146.jpg" group-title="SPECIAL LIVE", 22.00 WITA RED BULL ROOKIES CUP
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/150356.m3u8
+
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://suararepubliknews.com/wp-content/uploads/2024/08/BRI.jpeg", SEMARANG VS BORNEO
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 #https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
@@ -49,14 +52,6 @@ https://live-xlvb.nsnd.live/BmLWiAVEOLLlHgYXlcUKkQ/59682603c0192799f9ad86b719cb3
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
 #https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_2/index.m3u8
 
-#EXTINF:-1 group-title="LIVE PILIHAN" tvg-logo="https://cdn6.aptoide.com/imgs/5/a/4/5a4f81b37a6b1da98142d01795e27045_feature_graphic.png",U-17 LIVE2
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-#https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_ITV_1/index.m3u8
-
-#EXTINF:-1 group-title="TEST LIVE" tvg-logo="https://cdn6.aptoide.com/imgs/5/a/4/5a4f81b37a6b1da98142d01795e27045_feature_graphic.png",TWENTWE VS FORTUNA
-#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Sky_Sports_Premier_League/tracks-v1a1/mono.ts.m3u8?active=d1011c8b244583e11df08432d8ba4090c3c367113cad00dd494d2878f3fcc1ad&googlekey=59662469d20d77a1880df686500e08408ec56b072dd134490709d943930707fb&keyhash=d1011c8b244583e11df08432d8ba4090c3c367113cad00dd494d2878f3fcc1ad
 
 ################################COPAS LIVE#############################
 
