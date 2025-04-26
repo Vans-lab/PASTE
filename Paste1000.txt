@@ -4453,6 +4453,58 @@ http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/296835.ts
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/296836.ts
+
+###############################################TNT SPORTS###############################################
+#EXTINF:-1 tvg-id="TNT Sports 1 HD.uk" tvg-name="UK| TNT SPORTS 1 HD" tvg-logo="http://103.176.90.92/picons/79486.png" group-title="UK| SPORTS",UK| TNT SPORTS 1 HD
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/79486.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="UK| TNT SPORTS 1 HD ◉" tvg-logo="http://103.176.90.92/picons/1261564.png" group-title="UK| SPORTS",UK| TNT SPORTS 1 HD ◉
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1261564.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="UK| TNT SPORTS 2 HD" tvg-logo="http://103.176.90.92/picons/79485.png" group-title="UK| SPORTS",UK| TNT SPORTS 2 HD
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/79485.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="UK| TNT SPORTS 3 HD" tvg-logo="http://103.176.90.92/picons/79484.png" group-title="UK| SPORTS",UK| TNT SPORTS 3 HD
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/79484.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="UK| TNT SPORTS 4 HD" tvg-logo="http://103.176.90.92/picons/1002857.png" group-title="UK| SPORTS",UK| TNT SPORTS 4 HD
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1002857.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-name="UK| TNT SPORTS 5 HD" tvg-logo="http://103.176.90.92/picons/1004549.png" group-title="UK| SPORTS",UK| TNT SPORTS 5 HD
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1004549.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports1.cl" tvg-name="TNT SPORTS | Event 1" tvg-logo="http://103.176.90.92/picons/1596285.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 1
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1596285.m3u8
+#EXTINF:-1 tvg-id="TNTSports2.cl" tvg-name="TNT SPORTS | Event 2" tvg-logo="http://103.176.90.92/picons/1596284.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 2
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1596284.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 3 HD.uk" tvg-name="TNT SPORTS | Event 3" tvg-logo="http://103.176.90.92/picons/1596283.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 3
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1596283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 4" tvg-logo="http://103.176.90.92/picons/1596282.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 4
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1596282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 5" tvg-logo="http://103.176.90.92/picons/1596281.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 5
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1596281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 6" tvg-logo="http://103.176.90.92/picons/1596280.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 6
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1596280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 7" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 7
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1596279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 8" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 8
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1596278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 9" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 9
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1596277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 10" tvg-logo="http://103.176.90.92/picons/1596276.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 10
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1596276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 11" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 11
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1596275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 12" tvg-logo="http://103.176.90.92/picons/1596274.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 12
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1596274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 13" tvg-logo="http://103.176.90.92/picons/1596273.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 13
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1596273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 14" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 14
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1596272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 15" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 15
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1596271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 16" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 16
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1596270.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 17" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 17
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1596269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 18" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 18
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1596268.m3u8
+
 ###############################################SETANTA###############################################
 
 #EXTINF:-1 tvg-id="1.SE" tvg-name="PPV| SETANTA EVENT 01 [EVENT ONLY]" tvg-logo="https://lo1.in/uk/setan.png" group-title="SETANTA SPORTS EVENT",⭐PPV| SETANTA EVENT 01 [EVENT ONLY]⭐
