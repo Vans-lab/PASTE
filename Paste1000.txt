@@ -21,7 +21,7 @@
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://suararepubliknews.com/wp-content/uploads/2024/08/BRI.jpeg",BIAK VS BARITO
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
+https://ckcdn.livestreameuro.live/live/hplussd1/playlist.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cefMWF.png", 16:10 WIB Suntory Sunbirds vs Nagoya
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
