@@ -35,6 +35,9 @@ $https://hotlivezz179602324.akainu.xyz/js8RnnJ8WtIqbWZjCWYBHQ/Fv2lucGIbhPi2caWYv
 #EXTINF:-1 tvg-id="RedBullTV.us" tvg-name="US| RED BULL TV HD" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/223/2024/04/27/veda-ega-pratama-1155911146.jpg" group-title="SPECIAL LIVE", 22.00 WITA RED BULL ROOKIES CUP
 http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/150356.m3u8
 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="SPECIAL LIVE" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/223/2024/04/27/veda-ega-pratama-1155911146.jpg",22.00 WITA RED BULL ROOKIES CUP
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://suararepubliknews.com/wp-content/uploads/2024/08/BRI.jpeg", SEMARANG VS BORNEO
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 #https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
