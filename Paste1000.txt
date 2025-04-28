@@ -7,30 +7,16 @@
 
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30pj83g.png",PROLIGA
-http://opplex.tv:8080/live/mother/mother/350997.ts
+#http://opplex.tv:8080/live/mother/mother/350997.ts
 
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30pj83g.png", JAKARTA PERTAMINA VS JAKARTA ELEKTRIK
 #EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
-https://fhlsport121.fhs36f7.xyz/token-LEBzz%2BGSLKKG6jErkfY6y2qFlJrR0H3jb3D4xfcaRmL67rSXHUFdDo8rqRBKVUtJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/rr9n5noonUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_599977.m3u8
+#https://fhlsport121.fhs36f7.xyz/token-LEBzz%2BGSLKKG6jErkfY6y2qFlJrR0H3jb3D4xfcaRmL67rSXHUFdDo8rqRBKVUtJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/rr9n5noonUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_599977.m3u8
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://suararepubliknews.com/wp-content/uploads/2024/08/BRI.jpeg",JAKARTA VS PADANG
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://suararepubliknews.com/wp-content/uploads/2024/08/BRI.jpeg",MADURA VS KEDIRI
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/m401nd/playlist.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cefMWF.png", 17:10 WITA Suntory Sunbirds vs Nagoya
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6686&type=drm
-#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cefMWF.png", 16:10 WIB Suntory Sunbirds vs Nagoya
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#https://hotlivezz179602324.akainu.xyz/js8RnnJ8WtIqbWZjCWYBHQ/Fv2lucGIbhPi2caWYvF5Lg/1745592758794/live/momSD/chunklist.m3u8
-#https://live-xlvb.nsnd.live/BmLWiAVEOLLlHgYXlcUKkQ/59682603c0192799f9ad86b719cb364d/1745592758/live/_definst_/stream_1_1bda7@momHD/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="SPECIAL LIVE" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/223/2024/04/27/veda-ega-pratama-1155911146.jpg",14.45 WITA RED BULL ROOKIES CUP
 #http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -52,84 +38,44 @@ https://ckcdn.livestreameuro.live/live/m401nd/playlist.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://cdn.rri.co.id/berita/Banda_Aceh/o/1714472431419-1000071268/2504k1jdppsxxmc.jpeg", BOR VS MU
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
-https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAGUE/tracks-v1a1/mono.ts.m3u8
+h#ttps://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAGUE/tracks-v1a1/mono.ts.m3u8
 
 
 ################################COPAS LIVE#############################
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3Vy3Qn9.md.png", 22:30 Nottingham Forest vs Manchester City
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3Wa3UMu.md.png", 16:00 WIB Sudirman Cup
+#EXTVLCOPT:http-origin=https://watch.plex.tv
+#EXTVLCOPT:http-referrer=https://watch.plex.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169/variant.m3u8?x-plex-token=xZ6_7xUoR2saMdjUrVDv&x-plex-advertising-identifier=&x-plex-client-identifier=32b15d50-d089-4c26-b0da-cdffe213921f&x-plex-playback-id=p_1321caaa-de36-4fff-a3e0-f055ae69ee69&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=135.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1745830338&url=80d1cb256b344aa93d48658fd1e3c6a2-b9ad51a6cc036828928d3c88ee97a8170dab865e95d494237eb83a2f8aebc50aba0e5663d08b518e1a17722414fbda1e36d51c4a70617c7f92133ec1ec30ca207a21fda0008091185ddb257f92ac7424d0a3e0affb10063317d05923ff49438292c68a1ea22913f3f8143c127d79798e4e64a6b57128d65a12b31b6a428ddf88e93938dc255c4341cd4fcf909959970c316ceb4d8139a572e751898f91b82ccbb46df9f10eaa035aaa1bb821525486d910168941f4fab6263051d8abd04a87a75734263452c0e07992407b65f13a8e04f047f84edef73eb50f10fd4ba1216b18
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3Wa3UMu.md.png", 16:00 WIB China VS Hongkong
+#EXTVLCOPT:http-origin=https://vku.youku.com
+#EXTVLCOPT:http-referrer=https://vku.youku.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court1HB_sjb480.m3u8?title=8192013&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=5OiVIOG9wjUCAWdXlTq1oI5Z&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-Court1HB&ccode=live05010101&expire=21600&psid=04D7F4BF5832286DBF3C7086EAB30FD7&ups_client_netip=103.87.149.58&ups_ts=1745830922&ups_userid=0&utid=5OiVIOG9wjUCAWdXlTq1oI5Z&vid=8192013_8117818&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court1HB_sjb480&vkey=B88b30629dd5a35175ecf91fbcc60054e&cug=10&t=754821488e8e088&rid=200000000D493571D6BC83F299CE76BB9EFE35AE00000000
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3Wa3UMu.md.png", 16:00 WIB Thailand VS Aljazair
+#EXTVLCOPT:http-origin=https://vku.youku.com
+#EXTVLCOPT:http-referrer=https://vku.youku.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court3HB_sjb480.m3u8?title=8192017&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=5OiVIOG9wjUCAWdXlTq1oI5Z&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-Court3HB&ccode=live05010101&expire=21600&psid=FED127490E46226565911F396561941E&ups_client_netip=103.87.149.58&ups_ts=1745831147&ups_userid=0&utid=5OiVIOG9wjUCAWdXlTq1oI5Z&vid=8192017_8117822&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court3HB_sjb480&vkey=Baee8faae955e904e4743091daae138bf&cug=10&t=7c158542e531684&rid=200000008BADCE3D4E90C224065004713191F0EC00000000
 
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cehVQ2.md.png", 21:15 WIB Villarreal vs Espanyol
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3Wa3UMu.md.png", 16:00 WIB China Taipe VS Ceko
+#EXTVLCOPT:http-origin=https://vku.youku.com
+#EXTVLCOPT:http-referrer=https://vku.youku.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court2HB_sjb480.m3u8?title=8192016&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=5OiVIOG9wjUCAWdXlTq1oI5Z&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-Court2HB&ccode=live05010101&expire=21600&psid=09623414F1487FD5BB4D2AA9C1AE1C6C&ups_client_netip=103.87.149.58&ups_ts=1745831330&ups_userid=0&utid=5OiVIOG9wjUCAWdXlTq1oI5Z&vid=8192016_8117821&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court2HB_sjb480&vkey=B6a8153c9b0ffe6df12bcc08cdc3d93a0&cug=10&t=74e85b1fdce9679&rid=20000000A8455A84E0880D9694CB233EB33C9C4200000000
 
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckn0Ss.png", 20:00 WIB AFC Bournemouth vs Manchester United
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckn0Ss.png", 22:30 WIB Liverpool vs Tottenham Hotspur
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
-https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
-
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckRSoJ.md.png", 17:30 WIB Venezia vs Milan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
-https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckRSoJ.md.png", 20:00 WIB Internazionale vs Roma
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
-https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckRSoJ.md.png", 23:00 WIB Juventus vs Monza
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
-https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
-
-
-
-#EXTINF:0 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cek5B4.png", 20:30 WIB Bochum vs Union Berlin
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
-
-#EXTINF:0 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cek5B4.png", 22:30 WIB Werder Bremen vs St. Pauli
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
 
 
 ##############################MOTO GP############################
 #EXTINF:-1 tvg-id="" tvg-name="UK| MOTOGP COMMENTARY" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png" group-title="GP JEREZ",LIVE FEED
-http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1388601.m3u8
+#http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1388601.m3u8
 
 #EXTINF:-1 group-title="GP JEREZ" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",60 FPS
 #EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-https://convps.hdtvs1.top/aHR0cHM6Ly9vZTIuczRzdHJlYW0uY2ZkL3N0cmVhbW9yL2hscy8xL3N0cmVhbS5tM3U4.m3u8
+#https://convps.hdtvs1.top/aHR0cHM6Ly9vZTIuczRzdHJlYW0uY2ZkL3N0cmVhbW9yL2hscy8xL3N0cmVhbS5tM3U4.m3u8
 
 #EXTM3U
 #EXT-X-VERSION:3
@@ -147,26 +93,26 @@ https://convps.hdtvs1.top/aHR0cHM6Ly9vZTIuczRzdHJlYW0uY2ZkL3N0cmVhbW9yL2hscy8xL3
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
  
 #EXTINF:-1 group-title="GP JEREZ" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NUKLIR
 #EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-https://hz.s1stream.cfd/aHR0cHM6Ly9zZy5zMnN0cmVhbS5jZmQvc3RyZWFtc2cvaGxzLzAvc3RyZWFtLm0zdTg=.m3u8
+#https://hz.s1stream.cfd/aHR0cHM6Ly9zZy5zMnN0cmVhbS5jZmQvc3RyZWFtc2cvaGxzLzAvc3RyZWFtLm0zdTg=.m3u8
 
 #EXTINF:-1 group-title="GP JEREZ" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NONTONGP
 #EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
 #https://hv.s1stream.cfd/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4Ny9obHMvc3RyZWFtLm0zdTg=.m3u8
-https://master.idxplayer.com/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4OS9obHMvc3RyZWFtLm0zdTg=.m3u8
+#https://master.idxplayer.com/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4OS9obHMvc3RyZWFtLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png" group-title="GP JEREZ",DAZN 1 ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
 #EXTINF:-1 tvg-id="TNTSports2.cl" tvg-name="TNT SPORTS | Event 2" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png" group-title="GP JEREZ",TNT SPORTS | Event 2
-http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1596284.m3u8
+#http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1596284.m3u8
 
 
 ##############################U C L############################
