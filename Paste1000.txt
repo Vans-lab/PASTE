@@ -59,12 +59,20 @@ https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/0300070
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court3HB_sjb480.m3u8?title=8192017&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=5OiVIOG9wjUCAWdXlTq1oI5Z&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-Court3HB&ccode=live05010101&expire=21600&psid=FED127490E46226565911F396561941E&ups_client_netip=103.87.149.58&ups_ts=1745831147&ups_userid=0&utid=5OiVIOG9wjUCAWdXlTq1oI5Z&vid=8192017_8117822&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court3HB_sjb480&vkey=Baee8faae955e904e4743091daae138bf&cug=10&t=7c158542e531684&rid=200000008BADCE3D4E90C224065004713191F0EC00000000
 
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3Wa3UMu.md.png", 16:00 WIB China Taipe VS Ceko
-#EXTVLCOPT:http-origin=https://vku.youku.com
-#EXTVLCOPT:http-referrer=https://vku.youku.com/
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3Wa3UMu.md.png", 16:00 WIB Sudirman Cup Server Vietnam
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court2HB_sjb480.m3u8?title=8192016&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=5OiVIOG9wjUCAWdXlTq1oI5Z&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-Court2HB&ccode=live05010101&expire=21600&psid=09623414F1487FD5BB4D2AA9C1AE1C6C&ups_client_netip=103.87.149.58&ups_ts=1745831330&ups_userid=0&utid=5OiVIOG9wjUCAWdXlTq1oI5Z&vid=8192016_8117821&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court2HB_sjb480&vkey=B6a8153c9b0ffe6df12bcc08cdc3d93a0&cug=10&t=74e85b1fdce9679&rid=20000000A8455A84E0880D9694CB233EB33C9C4200000000
+https://hotlivezz179026907.akainu.xyz/HI9Ow2eVXeZZgdDLnsJtjw/Fv2lucGIbhPi2caWYvF5Lg/1745940012858/live/may24/chunklist.m3u8
+https://hotlivezz179026907.akainu.xyz/18lS4Niz6bAp3uiJnSNtiA/Fv2lucGIbhPi2caWYvF5Lg/1745940012858/live/may25/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3lpX1ea.png", 02:00 WIB Arsenal vs PSG
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 
 
