@@ -56,6 +56,21 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-652875586425
 https://hotlivezz179026907.akainu.xyz/HI9Ow2eVXeZZgdDLnsJtjw/Fv2lucGIbhPi2caWYvF5Lg/1745940012858/live/may24/chunklist.m3u8
 https://hotlivezz179026907.akainu.xyz/18lS4Niz6bAp3uiJnSNtiA/Fv2lucGIbhPi2caWYvF5Lg/1745940012858/live/may25/chunklist.m3u8
 
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3XYsyeS.md.png", 19:30 WIB Cong An Hanoi vs PSM
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3Miq0Nt.png", 23:30 WIB Al Nassr vs Kawasaki Frontale
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3lpX1ea.png", 03:00 WITA BARCA VS INTER
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
