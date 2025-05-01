@@ -6,23 +6,22 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30pj83g.png",PROLIGA
-#http://opplex.tv:8080/live/mother/mother/350997.ts
+
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30pj83g.png", 16:00 WIB Jakarta Popsivo W vs Jakarta Elektrik W
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-connection-timeout=5000
 #EXTVLCOPT:http-reconnect=true
-https://hotlivezz179026907.akainu.xyz/7IdMgZi8SVq-Lt5VtWR1kg/Fv2lucGIbhPi2caWYvF5Lg/1746111456953/live/may21/chunklist.m3u8
+#https://hotlivezz179026907.akainu.xyz/7IdMgZi8SVq-Lt5VtWR1kg/Fv2lucGIbhPi2caWYvF5Lg/1746111456953/live/may21/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30pj83g.png",POPSIVO POLWAN VS JAKARTA ELEKTRIK
 #EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
-https://fhlsport121.fhs36f7.xyz/token-JkR5m%2BGXKfCGvjEpwvY6nmuFlMPT0ynjbXGvw6hMGWLwsrmYHUFdDowspRZKX0RJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/pr172s45nUE0pQbiY3EmAmphZ3umqT0ho25y/super/ts77.3xstm.one_3x_600310-1746093207348.ts
+#https://fhlsport121.fhs36f7.xyz/token-JkR5m%2BGXKfCGvjEpwvY6nmuFlMPT0ynjbXGvw6hMGWLwsrmYHUFdDowspRZKX0RJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/pr172s45nUE0pQbiY3EmAmphZ3umqT0ho25y/super/ts77.3xstm.one_3x_600310-1746093207348.ts
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://suararepubliknews.com/wp-content/uploads/2024/08/BRI.jpeg",BALI VS SEMARANG
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/caysd1/playlist.m3u8
+#https://ckcdn.livestreameuro.live/live/caysd1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="SPECIAL LIVE" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/223/2024/04/27/veda-ega-pratama-1155911146.jpg",14.45 WITA RED BULL ROOKIES CUP
 #http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -42,9 +41,9 @@ https://ckcdn.livestreameuro.live/live/caysd1/playlist.m3u8
 #https://fhlsport121.fhs36f7.xyz/token-JRd5ybGXKvaGvjYqxfY6nWiDlJqGhi3jbCeszvdMFjf05OXIHUFdDo8opRNAVUlJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/pno2opnqnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_599358.m3u8
 
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://cdn.rri.co.id/berita/Banda_Aceh/o/1714472431419-1000071268/2504k1jdppsxxmc.jpeg", BOR VS MU
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://cdn.rri.co.id/berita/Banda_Aceh/o/1714472431419-1000071268/2504k1jdppsxxmc.jpeg", ATHLETIC VS UNITED
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
-h#ttps://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAGUE/tracks-v1a1/mono.ts.m3u8
+https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_1/index.m3u8
 
 
 ################################COPAS LIVE#############################
@@ -52,7 +51,7 @@ h#ttps://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER
 #EXTVLCOPT:http-origin=https://watch.plex.tv
 #EXTVLCOPT:http-referrer=https://watch.plex.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169/variant.m3u8?x-plex-token=xZ6_7xUoR2saMdjUrVDv&x-plex-advertising-identifier=&x-plex-client-identifier=32b15d50-d089-4c26-b0da-cdffe213921f&x-plex-playback-id=p_1321caaa-de36-4fff-a3e0-f055ae69ee69&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=135.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1745830338&url=80d1cb256b344aa93d48658fd1e3c6a2-b9ad51a6cc036828928d3c88ee97a8170dab865e95d494237eb83a2f8aebc50aba0e5663d08b518e1a17722414fbda1e36d51c4a70617c7f92133ec1ec30ca207a21fda0008091185ddb257f92ac7424d0a3e0affb10063317d05923ff49438292c68a1ea22913f3f8143c127d79798e4e64a6b57128d65a12b31b6a428ddf88e93938dc255c4341cd4fcf909959970c316ceb4d8139a572e751898f91b82ccbb46df9f10eaa035aaa1bb821525486d910168941f4fab6263051d8abd04a87a75734263452c0e07992407b65f13a8e04f047f84edef73eb50f10fd4ba1216b18
+#https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169/variant.m3u8?x-plex-token=xZ6_7xUoR2saMdjUrVDv&x-plex-advertising-identifier=&x-plex-client-identifier=32b15d50-d089-4c26-b0da-cdffe213921f&x-plex-playback-id=p_1321caaa-de36-4fff-a3e0-f055ae69ee69&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=135.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1745830338&url=80d1cb256b344aa93d48658fd1e3c6a2-b9ad51a6cc036828928d3c88ee97a8170dab865e95d494237eb83a2f8aebc50aba0e5663d08b518e1a17722414fbda1e36d51c4a70617c7f92133ec1ec30ca207a21fda0008091185ddb257f92ac7424d0a3e0affb10063317d05923ff49438292c68a1ea22913f3f8143c127d79798e4e64a6b57128d65a12b31b6a428ddf88e93938dc255c4341cd4fcf909959970c316ceb4d8139a572e751898f91b82ccbb46df9f10eaa035aaa1bb821525486d910168941f4fab6263051d8abd04a87a75734263452c0e07992407b65f13a8e04f047f84edef73eb50f10fd4ba1216b18
 
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3Wa3UMu.md.png",Sudirman Cup Server Vietnam
