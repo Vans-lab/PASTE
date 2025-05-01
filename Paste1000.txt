@@ -7,12 +7,18 @@
 
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30pj83g.png",PROLIGA
-http://opplex.tv:8080/live/mother/mother/350997.ts
-
+#http://opplex.tv:8080/live/mother/mother/350997.ts
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30pj83g.png", 16:00 WIB Jakarta Popsivo W vs Jakarta Elektrik W
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-connection-timeout=5000
+#EXTVLCOPT:http-reconnect=true
+https://hotlivezz179026907.akainu.xyz/7IdMgZi8SVq-Lt5VtWR1kg/Fv2lucGIbhPi2caWYvF5Lg/1746111456953/live/may21/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30pj83g.png",POPSIVO POLWAN VS JAKARTA ELEKTRIK
 #EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
-https://fhlsport121.fhs36f7.xyz/token-cRB8yuSVKvOGuGN5lvY6kT7QlMOEg3zjPSf%2Fk6hPFDjw57PPHUFdDowspRdPX0tJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/pr172s45nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_600310.m3u8
+https://fhlsport121.fhs36f7.xyz/token-JkR5m%2BGXKfCGvjEpwvY6nmuFlMPT0ynjbXGvw6hMGWLwsrmYHUFdDowspRZKX0RJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/pr172s45nUE0pQbiY3EmAmphZ3umqT0ho25y/super/ts77.3xstm.one_3x_600310-1746093207348.ts
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://suararepubliknews.com/wp-content/uploads/2024/08/BRI.jpeg",MADURA VS KEDIRI
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -57,21 +63,7 @@ https://hotlivezz179026907.akainu.xyz/HI9Ow2eVXeZZgdDLnsJtjw/Fv2lucGIbhPi2caWYvF
 https://hotlivezz179026907.akainu.xyz/18lS4Niz6bAp3uiJnSNtiA/Fv2lucGIbhPi2caWYvF5Lg/1745940012858/live/may25/chunklist.m3u8
 
 
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3XYsyeS.md.png", 19:30 WIB Cong An Hanoi vs PSM
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-
-
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3Miq0Nt.png", 23:30 WIB Al Nassr vs Kawasaki Frontale
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3lpX1ea.png", 03:00 WITA BARCA VS INTER
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30yJTXf.md.png", 02:00 WIB Athletic Bilbao vs Manchester United
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -80,6 +72,34 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30yJTXf.md.png", 02:00 WIB Tottenham Hotspur vs Bodo/Glimt
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckn0Ss.png", 01:30 WIB Nottingham Forest vs Brentford
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+
+#EXTINF:0 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30y3ep9.png", 02:00 WIB Djurgården vs Chelsea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:0 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30y3ep9.png", 02:00 WIB Fiorentina vs Real Betis
+http://opplex.tv:8080/live/mother/mother/353729.ts
 
 ##############################MOTO GP############################
 #EXTINF:-1 tvg-id="" tvg-name="UK| MOTOGP COMMENTARY" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png" group-title="GP JEREZ",LIVE FEED
