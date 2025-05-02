@@ -43,7 +43,7 @@ https://ckcdn.livestreameuro.live/live/caysd1/playlist.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://cdn.rri.co.id/berita/Banda_Aceh/o/1714472431419-1000071268/2504k1jdppsxxmc.jpeg", ATHLETIC VS UNITED
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
-https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_1/index.m3u8
+#https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_1/index.m3u8
 
 
 ################################COPAS LIVE#############################
