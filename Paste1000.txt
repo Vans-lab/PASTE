@@ -13,7 +13,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-connection-timeout=5000
 #EXTVLCOPT:http-reconnect=true
-https://hotlivezz179026907.akainu.xyz/7IdMgZi8SVq-Lt5VtWR1kg/Fv2lucGIbhPi2caWYvF5Lg/1746111456953/live/may21/chunklist.m3u8
+#https://hotlivezz179026907.akainu.xyz/7IdMgZi8SVq-Lt5VtWR1kg/Fv2lucGIbhPi2caWYvF5Lg/1746111456953/live/may21/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30pj83g.png",PETRO GRESIK VS JPE
 #EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
@@ -59,45 +59,95 @@ https://hotlivezz179026907.akainu.xyz/RWwvXOWzt_0lxb8YI2VRkw/Fv2lucGIbhPi2caWYvF
 
 
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3Wa3UMu.md.png",Sudirman Cup Server Vietnam
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/18lS4Niz6bAp3uiJnSNtiA/Fv2lucGIbhPi2caWYvF5Lg/1745940012858/live/may25/chunklist.m3u8
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cehVQ2.md.png", 19:00 WIB Deportivo Alaves vs Atletico Madrid
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30pj83g.png", 16:10 WIB Gresik Petrokimia Women VS Jakarta Pertamina Women
-#EXTVLCOPT:http-origin=https://jlbfpc.jlbfyh.com
-#EXTVLCOPT:http-referrer=https://jlbfpc.jlbfyh.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-connection-timeout=5000
-#EXTVLCOPT:http-reconnect=true
-https://bf.jabflive.cc/live/5004366_hd01.m3u8?txSecret=44fcfbe3f7cd0c9c027015057e7c7b78&txTime=68148b1f
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cehVQ2.md.png", 21:15 WIB Villarreal vs Osasuna
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30pj83g.png", 9:00 WIB Palembang BS VS Jakarta Bhayangkara
-https://drive.google.com/uc?export=download&id=1CcdPjqqztBDDBmTCW-5Hk3xu6I91T8MK&usp
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cehVQ2.md.png", 23:30 WIB Las Palmas vs Valencia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png", 15:40 WIB Barito Putera vs Dewa United
-#EXTVLCOPT:http-origin=https://play.926003.tv
-#EXTVLCOPT:http-referrer=https://play.926003.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#https://pl10.chinefore.com/live/42daa3fd1f81e877.m3u8?txSecret=1b460819dd9fcf5923947dcbf73d34b1&txTime=68148031&_=1746174588823
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png", 15:40 WIB Barito Putera vs Dewa United
-#EXTVLCOPT:http-origin=https://ppdd02.xiimadedishalthough.shop
-#EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-connection-timeout=5000
-#EXTVLCOPT:http-reconnect=true
-#https://tnt3-cf.boblcfwudz421.com/auth%3Df1f1ec673be047ae4c49c03f2eab9a1c21d6eba16aa5d920258487d8ea6d4c7e97a8011877f401326035616bf2b1022a8172fd2be3085ac96b3eaba671c32ad3e451b91644f850c6bbbb4c72a11b7e8842f3934f3d5c5f978d529a37fcaa70225e5c9862c93d79f046e7d3871d622629269e34669f85304dc2ff32daa53485d220aa785c76ecb0242971d4071ff048332b14b696b599e292dc9feb7039cba00d82b69d3bce9d533bee3a1a3c778716c8%26cid%3Dys6pjqr7O8Uq8yB6gcbQu250427%26_v%3D2%26_r%3DTYJqWU%26_vis%3Dcc3f590aa82e1d4cf2a5f15d7db3824e046b58791a01ef6c0a15cd94eb05c453%26_vvs%3Dc3fe48d4890fb10a37e0878cfe4174e08de7b6b52fd09dc58638debdcd2e373e/app/c345959.m3u8
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckRSoJ.md.png", 20:00 WIB Cagliari vs Udinese
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
+https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png", 15:40 WIB Barito Putera vs Dewa United
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-connection-timeout=5000
-#EXTVLCOPT:http-reconnect=true
-#https://hotlivezz179602324.akainu.xyz/rZdrMxE-Zs8c1V9iBWvHXw/Fv2lucGIbhPi2caWYvF5Lg/1746196420151/live/dungSD/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckRSoJ.md.png", 23:00 WIB Lecce vs Napoli
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
+
+
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cek5B4.png", 20:30 RB Leipzig vs Bayern
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
+https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cek5B4.png", 23:30 Borussia Dortmund vs Wolfsburg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
+https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd
+
+
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckn0Ss.png", 18:30 WIB Aston Villa vs Fulham
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckn0Ss.png", 21:00 WIB Everton vs Ipswich Town
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckn0Ss.png", 23:30 WIB Arsenal vs Bournemouth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+<=================== EVENT 2 =============================>
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cehVQ2.md.png", 02:00 WIB Real Valladolid vs Barcelona
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckRSoJ.md.png", 01:45 WIB Inter vs Verona
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
 
 
 
