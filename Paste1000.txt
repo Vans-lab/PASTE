@@ -49,14 +49,6 @@ https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
 ################################COPAS LIVE#############################
 
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3Wa3UMu.md.png", 13:10 WIB Sudirman Cup
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-connection-timeout=5000
-#EXTVLCOPT:http-reconnect=true
-https://hotlivezz179026907.akainu.xyz/CNd4jmVBWpv7Doqn4hn0ng/Fv2lucGIbhPi2caWYvF5Lg/1746360373701/live/may24/chunklist.m3u8
-https://live-xlvb.nsnd.live/eROecAlMm-MJZtnG808tTw/ad962176acd070100f306c790419005d/1746360373/live/_definst_/stream_1_1bda7@myHD/chunklist.m3u8
 
 
 #
