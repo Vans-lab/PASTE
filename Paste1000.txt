@@ -49,7 +49,8 @@
 ################################COPAS LIVE#############################
 
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcl-v5_bD2KfvAaaUaBXuKovvISIKR0yb0vQ&s", 22:00 WIB Zambia vs Tanzania
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcl-v5_bD2KfvAaaUaBXuKovvISIKR0yb0vQ&s", 22:00 WIB Nigeria vs Kenya
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -59,7 +60,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 
 
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcl-v5_bD2KfvAaaUaBXuKovvISIKR0yb0vQ&s", 22:00 WIB Sierra Leone vs Afrika Selatan
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcl-v5_bD2KfvAaaUaBXuKovvISIKR0yb0vQ&s", 22:00 WIB Tunisia vs Maroko
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -68,29 +69,29 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/31WFbnV.md.png", 23:15 WIB Al-Raed vs Al-Hilal
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+
+
 <=================== EVENT 2 =============================>
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3lpX1ea.png", 02:00 WIB Inter Milan vs Barcelona
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/31WFbnV.md.png", 01:00 WIB Al-Nassr vs Al-Ittihad
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3lpX1ea.png", 02:00 WIB PSG vs Arsenal
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1200px-Copa_Libertadores_logo.svg.png", 05:00 WIB Alianza Lima vs São Paulo
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1200px-Copa_Libertadores_logo.svg.png", 07:30 WIB Fortaleza vs Colo-Colo
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
-
-
 
 
 
