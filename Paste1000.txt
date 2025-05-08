@@ -49,8 +49,20 @@
 ################################COPAS LIVE#############################
 
 
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3eY9Ecg.md.png", 11:00 WIB YONEX Taipei Open 2025
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-connection-timeout=5000
+#EXTVLCOPT:http-reconnect=true
+https://hotlivezz179026907.akainu.xyz/03lmmUexJHSVirqlZMdNYw/Fv2lucGIbhPi2caWYvF5Lg/1746699338820/live/may24/chunklist.m3u8
+https://hotlivezz179026907.akainu.xyz/bD-QEQ5sRwzT3fAtTo4rhw/Fv2lucGIbhPi2caWYvF5Lg/1746699338820/live/may26/chunklist.m3u8
+https://hotlivezz179026907.akainu.xyz/ruEu1TlYhEFOR-NZT-Is2g/Fv2lucGIbhPi2caWYvF5Lg/1746699338821/live/may25/chunklist.m3u8
+https://hotlivezz179026907.akainu.xyz/4AO1Yn8D4JwNcdU-191-5w/Fv2lucGIbhPi2caWYvF5Lg/1746699338821/live/may27/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcl-v5_bD2KfvAaaUaBXuKovvISIKR0yb0vQ&s", 22:00 WIB Nigeria vs Kenya
+
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV2f3wdbYQ0R-xRuGxft1nMQMRIk_DKSJwoQ&s", 22:00 WIB Senegal vs RD Kongo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -59,8 +71,7 @@
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcl-v5_bD2KfvAaaUaBXuKovvISIKR0yb0vQ&s", 22:00 WIB Tunisia vs Maroko
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV2f3wdbYQ0R-xRuGxft1nMQMRIk_DKSJwoQ&s", 22:00 WIB Republik Afrika Tengah vs Ghana
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -69,23 +80,10 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/31WFbnV.md.png", 23:15 WIB Al-Raed vs Al-Hilal
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
-
 <=================== EVENT 2 =============================>
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/31WFbnV.md.png", 01:00 WIB Al-Nassr vs Al-Ittihad
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3lpX1ea.png", 02:00 WIB PSG vs Arsenal
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30yJTXf.md.png", 02:00 WIB Manchester United vs Athletic Bilbao
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -94,7 +92,27 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30yJTXf.md.png", 02:00 WIB Bodo/Glimt vs Tottenham Hotspur
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30y3ep9.png", 02:00 WIB Chelsea vs Djurgården
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30y3ep9.png", 02:00 WIB Fiorentina vs Real Betis
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 ##############################MOTO GP############################
 #EXTINF:-1 tvg-id="" tvg-name="UK| MOTOGP COMMENTARY" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png" group-title="GP JEREZ",LIVE FEED
 #http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1388601.m3u8
