@@ -21,12 +21,12 @@
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png",PERSIB VS BARITO
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/duongtiensd1/playlist.m3u8
+#https://qtcdn.livestreameuro.live/live/duongtiensd1/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://iili.io/3ceEq0b.md.png" group-title="SPECIAL LIVE",PERSIB VS BARITO 1
+#EXTINF:-1  tvg-logo="https://iili.io/3ceEq0b.md.png" group-title="SPECIAL LIVE",LIGA 1
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
-#EXTINF:-1  tvg-logo="https://iili.io/3ceEq0b.md.png" group-title="SPECIAL LIVE",PERSIB VS BARITO 2
+#EXTINF:-1  tvg-logo="https://iili.io/3ceEq0b.md.png" group-title="SPECIAL LIVE",LIGA 1 2
 https://link.zozotv.xyz:443/live/vip_3klp0es8/wg3piwEs/2706.ts
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="SPECIAL LIVE" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/223/2024/04/27/veda-ega-pratama-1155911146.jpg",14.45 WITA RED BULL ROOKIES CUP
@@ -55,92 +55,64 @@ https://link.zozotv.xyz:443/live/vip_3klp0es8/wg3piwEs/2706.ts
 ################################COPAS LIVE#############################
 
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3eY9Ecg.md.png", 15:00 WIB YONEX Taipei Open 2025
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3eY9Ecg.md.png", 11:00 WIB YONEX Taipei Open 2025
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-connection-timeout=5000
 #EXTVLCOPT:http-reconnect=true
-https://hotlivezz179026907.akainu.xyz/xCqZMqxmc83YhkqXPKTsuA/Fv2lucGIbhPi2caWYvF5Lg/1746806153281/live/may6/chunklist.m3u8
-https://hotlivezz179026907.akainu.xyz/txxzCLph7XoH5eeJfJYEUQ/Fv2lucGIbhPi2caWYvF5Lg/1746806153282/live/may241/chunklist.m3u8
-https://hotlivezz179026907.akainu.xyz/RqNOecwQTIDrmZOHrlttDw/Fv2lucGIbhPi2caWYvF5Lg/1746806153282/live/may25/chunklist.m3u8
-https://hotlivezz179026907.akainu.xyz/rPoYElIDWVOCJ0XrJvwdww/Fv2lucGIbhPi2caWYvF5Lg/1746806153282/live/may26/chunklist.m3u8
+https://hotlivezz179026907.akainu.xyz/D7gA2HX0Exqs4wCs8P4OMw/Fv2lucGIbhPi2caWYvF5Lg/1746874251035/live/may24/chunklist.m3u8
+https://hotlivezz179026907.akainu.xyz/NR0sPAxUU_wCAe-2TwSuNw/Fv2lucGIbhPi2caWYvF5Lg/1746874251035/live/may25/chunklist.m3u8
+https://live-xlvb.nsnd.live/VScs-Kdp81dftdgn7r9BPQ/ad962176acd070100f306c790419005d/1746874251/live/_definst_/stream_1_1bda7@myHD/chunklist.m3u8
+
 
 <=================== EVENT 2 =============================>
 
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cehVQ2.md.png", 02:00 WIB Las Palmas vs Rayo Vallecano
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckRSoJ.md.png", 01:45 WIB AC Milan vs Bologna
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
-https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cek5B4.png", 01:30 WIB Wolfsburg vs Hoffenheim
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cek5B4.png", 01:30 WIB Wolfsburg vs Hoffenheim
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
 ##############################MOTO GP############################
-#EXTINF:-1 tvg-id="" tvg-name="UK| MOTOGP COMMENTARY" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png" group-title="GP JEREZ",LIVE FEED
-#http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1388601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| MOTOGP COMMENTARY" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png" group-title="FRANCE GP",LIVE FEED
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1388601.m3u8
 
-#EXTINF:-1 group-title="GP JEREZ" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",60 FPS
+#EXTINF:-1 group-title="FRANCE GP" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",60 FPS
 #EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-#https://convps.hdtvs1.top/aHR0cHM6Ly9vZTIuczRzdHJlYW0uY2ZkL3N0cmVhbW9yL2hscy8xL3N0cmVhbS5tM3U4.m3u8
+https://convps.hdtvs1.top/aHR0cHM6Ly9vZTIuczRzdHJlYW0uY2ZkL3N0cmVhbW9yL2hscy8xL3N0cmVhbS5tM3U4.m3u8
 
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-10.0 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png" group-title="GP JEREZ",SPOTV
+#EXTINF:-10.0 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png" group-title="FRANCE GP",SPOTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-10.0 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png" group-title="GP JEREZ",SPOTV 2
+#EXTINF:-10.0 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png" group-title="FRANCE GP",SPOTV 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-#https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
  
-#EXTINF:-1 group-title="GP JEREZ" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NUKLIR
+#EXTINF:-1 group-title="FRANCE GP" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NUKLIR
 #EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
 #https://hz.s1stream.cfd/aHR0cHM6Ly9zZy5zMnN0cmVhbS5jZmQvc3RyZWFtc2cvaGxzLzAvc3RyZWFtLm0zdTg=.m3u8
 
-#EXTINF:-1 group-title="GP JEREZ" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NONTONGP
+#EXTINF:-1 group-title="FRANCE GP" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NONTONGP
 #EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-#https://hv.s1stream.cfd/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4Ny9obHMvc3RyZWFtLm0zdTg=.m3u8
+https://hv.s1stream.cfd/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4Ny9obHMvc3RyZWFtLm0zdTg=.m3u8
 #https://master.idxplayer.com/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4OS9obHMvc3RyZWFtLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png" group-title="GP JEREZ",DAZN 1 ES
+#EXTINF:-1 tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png" group-title="FRANCE GP",DAZN 1 ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-#https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
-#EXTINF:-1 tvg-id="TNTSports2.cl" tvg-name="TNT SPORTS | Event 2" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png" group-title="GP JEREZ",TNT SPORTS | Event 2
-#http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1596284.m3u8
+#EXTINF:-1 tvg-id="TNTSports2.cl" tvg-name="TNT SPORTS | Event 2" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png" group-title="FRANCE GP",TNT SPORTS | Event 2
+http://propowersolution.org:80/live/269a7379cf/82f1ad4bfa/1596284.m3u8
 
 
 ##############################U C L############################
