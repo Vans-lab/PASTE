@@ -20,7 +20,7 @@
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png",JAKARTA VS BALI
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
+#https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://iili.io/3ceEq0b.md.png" group-title="SPECIAL LIVE",LIGA 1
 #http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
@@ -54,10 +54,10 @@ https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
 ################################COPAS LIVE#############################
 
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30pj83g.png", 16:00 WIB Palembang BS VS Surabaya Samator FHD
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30pj83g.png",FINAL; LAVANI VS BHAYANGKARA
 http://opplex.tv:8080/live/mother/mother/350997.ts
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30pj83g.png", 16:00 WIB Palembang BS VS Surabaya Samator HD
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/30pj83g.png",FINAL; LAVANI VS BHAYANGKARA 2
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/Moji-HD.m3u8
 
@@ -66,7 +66,7 @@ https://wahyu1ptv.pages.dev/Moji-HD.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png", 15:30 & 19:00 WIB Liga 1 Indonesia
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
+#https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png", 15:30 WIB Arema FC vs Persik Kediri
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
@@ -74,7 +74,7 @@ https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-connection-timeout=5000
 #EXTVLCOPT:http-reconnect=true
-https://apisportzz179528093.nsnd.live/2j5rN900GbYCDD53Hvp5CA/Fv2lucGIbhPi2caWYvF5Lg/1746973944002/live/sd-6MsDBFWcxNv1D4Tr1h/chunklist.m3u8
+#https://apisportzz179528093.nsnd.live/2j5rN900GbYCDD53Hvp5CA/Fv2lucGIbhPi2caWYvF5Lg/1746973944002/live/sd-6MsDBFWcxNv1D4Tr1h/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png", 15:30 WIB Arema FC vs Persik Kediri
 #EXTVLCOPT:http-origin=https://ppdd02.xiimadedishalthough.shop
@@ -82,7 +82,7 @@ https://apisportzz179528093.nsnd.live/2j5rN900GbYCDD53Hvp5CA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-connection-timeout=5000
 #EXTVLCOPT:http-reconnect=true
-https://tnt3-cf.boblcfwudz421.com/auth%3Da0c750b950ce79ea1523827b308f366a203bc6645c0c3efe77dfedd1abed02a235b3d5b6c876de64620188b87f067eedcd1ff54729dfcfd8641794cf8ccca291294c3b733006664c766c9ae37a1db5057656e1354dd5e14b0fb5c34643bbb5b6d555e7700428f59d6e98cb98b73cb50e2a444dc04b8cee17aaf6a6c956e6098635d19cb363248fec7f73b131035caa576142d4c0915bd7b29c2d4c6acd7c3ba4%26cid%3DX39X6yxjL3qeIiqwGK0Zv250511%26_v%3D2%26_r%3DKZizmI%26_vis%3D1b18ebf61c7f5a19392724e2430713b24a28d4651ef7458677d452de45c45b94%26_vvs%3De959f9734a611b33a6c7d190a11b0ebc6daaf73680b65bdac107b552d1b470bf/transcode/c349589_480p.m3u8
+#https://tnt3-cf.boblcfwudz421.com/auth%3Da0c750b950ce79ea1523827b308f366a203bc6645c0c3efe77dfedd1abed02a235b3d5b6c876de64620188b87f067eedcd1ff54729dfcfd8641794cf8ccca291294c3b733006664c766c9ae37a1db5057656e1354dd5e14b0fb5c34643bbb5b6d555e7700428f59d6e98cb98b73cb50e2a444dc04b8cee17aaf6a6c956e6098635d19cb363248fec7f73b131035caa576142d4c0915bd7b29c2d4c6acd7c3ba4%26cid%3DX39X6yxjL3qeIiqwGK0Zv250511%26_v%3D2%26_r%3DKZizmI%26_vis%3D1b18ebf61c7f5a19392724e2430713b24a28d4651ef7458677d452de45c45b94%26_vvs%3De959f9734a611b33a6c7d190a11b0ebc6daaf73680b65bdac107b552d1b470bf/transcode/c349589_480p.m3u8
 
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png", 19:00 WIB Persebaya Surabaya vs Semen Padang FC
