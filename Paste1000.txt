@@ -20,7 +20,7 @@
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e4/Women_FA_Cup_Logo.png",CHELSEA WOMEN VS MU WOMEN
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/m204nd/playlist.m3u8
+#https://ckcdn.livestreameuro.live/live/m204nd/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://iili.io/3ceEq0b.md.png" group-title="SPECIAL LIVE",LIGA 1
 #http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
@@ -53,84 +53,33 @@ https://ckcdn.livestreameuro.live/live/m204nd/playlist.m3u8
 
 ################################COPAS LIVE#############################
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaNmv__U_qjSfq669cdeEkRXDBwLAmQamTfQ&s", 12:00 WIB badminton thailand open 2025 
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-connection-timeout=5000
-#EXTVLCOPT:http-reconnect=true
-https://hotlivezz179026907.akainu.xyz/clqbftj0JyVBiWoFJdFAbA/Fv2lucGIbhPi2caWYvF5Lg/1747572922615/live/may24/chunklist.m3u8
-https://live-xlvb.nsnd.live/-4eV3zoEcnQQe_bJ-HOmDg/49d90c0cc251e535686691fa07aace2d/1747565402/live/_definst_/stream_1_1bda7@longHD/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaNmv__U_qjSfq669cdeEkRXDBwLAmQamTfQ&s", 12:00 WIB badminton thailand open 2025 
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3EUm5S1.png", 14:05 WIB Al-Rayyan vs Panasonic Panthers
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-connection-timeout=5000
-#EXTVLCOPT:http-reconnect=true
-https://live-xlvb.nsnd.live/Y6_6ZW70QM0MbnPGb_2Jwg/59682603c0192799f9ad86b719cb364d/1747574711/live/_definst_/stream_1_1bda7@momHD/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3EUm5S1.png", 14:05 WIB Al-Rayyan vs Panasonic Panthers
-http://opplex.tv:8080/live/mother/mother/350997.ts
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png", 13:30 WIB PSBS Biak vs Arema FC
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-connection-timeout=5000
-#EXTVLCOPT:http-reconnect=true
-https://apisportzz179528093.nsnd.live/FzV0dmXDBhqL9muXbFmLzw/Fv2lucGIbhPi2caWYvF5Lg/1747573637342/live/sd-6MsDBFWc7o9yS1LyNK/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png", 15:30 WIB Semen Padang FC vs Persik Kediri
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png", 19:00 WIB Borneo FC Samarinda vs Persebaya Surabaya
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckn0Ss.png", 18:00 WIB Everton vs Southampton
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckn0Ss.png", 20:15 WIB West Ham United vs Nottingham Forest
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckn0Ss.png", 21:00 WIB Brentford vs Fulham
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKq02Ck-vtauNMxI9sIdt7wa-PmleEfkHIBQ&s", 15:00 WIB World Table Tennis Championships Finals 2025 Day 3 Session 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
-https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKq02Ck-vtauNMxI9sIdt7wa-PmleEfkHIBQ&s", 20:00 WIB World Table Tennis Championships Finals 2025 Day 3 Session 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckn0Ss.png", 21:00 WIB Leicester City vs Ipswich Town
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+<=================== EVENT 2 =============================>
 
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckn0Ss.png", 22:30 Arsenal vs Newcastle United
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckn0Ss.png", 02:00 Brighton & Hove Albion vs Liverpool
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckn0Ss.png", 02:00 Brighton & Hove Albion vs Liverpool
+#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
 ##############################MOTO GP############################
 
