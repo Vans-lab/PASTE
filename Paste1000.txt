@@ -53,59 +53,31 @@
 
 ################################COPAS LIVE#############################
 
-#EXTINF:-1 group-title="SPECIAL LIVE"" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoDLqV4LhTVoJZCU_wrQ5uncZSD55vS-09w&s", 09:00 WIB PERODUA Malaysia Masters 2025
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoDLqV4LhTVoJZCU_wrQ5uncZSD55vS-09w&s", 13:55 WIB PERODUA Malaysia Masters 2025
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-connection-timeout=5000
 #EXTVLCOPT:http-reconnect=true
-https://hotlivezz179026907.akainu.xyz/fzp2AWuxJkGUQFrf72Ru6Q/Fv2lucGIbhPi2caWYvF5Lg/1747905607715/live/may24/chunklist.m3u8
-https://hotlivezz179026907.akainu.xyz/GvlyTbBu-FcoWwxZFFyfJw/Fv2lucGIbhPi2caWYvF5Lg/1747905607715/live/may25/chunklist.m3u8
-https://hotlivezz179026907.akainu.xyz/eWKmMIwlFxuemt90RfcLqw/Fv2lucGIbhPi2caWYvF5Lg/1747905607715/live/may26/chunklist.m3u8
-https://hotlivezz179026907.akainu.xyz/xwkuEKWZOEUN-_a0PFSARA/Fv2lucGIbhPi2caWYvF5Lg/1747905607715/live/may27/chunklist.m3u8
-https://live-xlvb.nsnd.live/8MkqUQ0mUBbYt3jfl62pzg/ad962176acd070100f306c790419005d/1747910704/live/_definst_/stream_1_1bda7@myHD/chunklist.m3u8
+https://hotlivezz179026907.akainu.xyz/GPNn2E3idIJD6Tj3_ICfVg/Fv2lucGIbhPi2caWYvF5Lg/1747996819175/live/may24/chunklist.m3u8
+https://hotlivezz179026907.akainu.xyz/sR7g_-NFaw7lOimrBaX09Q/Fv2lucGIbhPi2caWYvF5Lg/1747996819175/live/may25/chunklist.m3u8
+https://hotlivezz179026907.akainu.xyz/PgAjnWyx3Hvw72p687Wk8A/Fv2lucGIbhPi2caWYvF5Lg/1747996819175/live/may26/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPECIAL LIVE"" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoDLqV4LhTVoJZCU_wrQ5uncZSD55vS-09w&s", 09:00 WIB PERODUA Malaysia Masters 2025
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoDLqV4LhTVoJZCU_wrQ5uncZSD55vS-09w&s", 13:55 WIB PERODUA Malaysia Masters 2025
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
 
-#EXTINF:-1 group-title="SPECIAL LIVE"" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKq02Ck-vtauNMxI9sIdt7wa-PmleEfkHIBQ&s", 15:00 WIB World Table Tennis Championships Finals 2025 Day 6 Session 1
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKq02Ck-vtauNMxI9sIdt7wa-PmleEfkHIBQ&s", 15:00 WIB World Table Tennis Championships Finals 2025 Day 7 Session 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-#EXTINF:-1 group-title="SPECIAL LIVE"" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKq02Ck-vtauNMxI9sIdt7wa-PmleEfkHIBQ&s", 21:00 WIB World Table Tennis Championships Finals 2025 Day 6 Session 2
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKq02Ck-vtauNMxI9sIdt7wa-PmleEfkHIBQ&s", 21:00 WIB World Table Tennis Championships Finals 2025 Day 7 Session 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE"" tvg-logo="https://iili.io/31WFbnV.md.png", 23:05 WIB Al Akhdoud vs Al Raed
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
-
-#EXTINF:-1 group-title="SPECIAL LIVE"" tvg-logo="https://iili.io/31WFbnV.md.png", 23:15 WIB Damac vs Al Fateh
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
-
-
-<=================== EVENT 2 =============================>
-
-#EXTINF:-1 group-title="SPECIAL LIVE"" tvg-logo="https://iili.io/31WFbnV.md.png", 01:00 WIB Al-Ahli vs Al Ittifaq
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
-
-
-
 ##############################MOTO GP############################
 
 
