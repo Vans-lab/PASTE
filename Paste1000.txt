@@ -45,15 +45,15 @@ https://qtcdn.livestreameuro.live/live/phangsd1/playlist.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png",17.00 WITA MALANG VS PADANG
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-#https://179939170.vipcdnlive.xyz/live/phangsd2/playlist.m3u8
+https://ckcdn.livestreameuro.live/live/caysd1/playlist.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png",17.00 WITA MADURA VS SLEMAN
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-#https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
+https://chcdn.livestreameuro.live/live/lansd1/playlist.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png", 17.00 WITA SEMARANG VS BARITO
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-#https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
+https://chcdn.livestreameuro.live/live/bipsd1/playlist.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoDLqV4LhTVoJZCU_wrQ5uncZSD55vS-09w&s", 11:00 WIB PERODUA Malaysia Masters 2025
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
