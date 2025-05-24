@@ -41,48 +41,65 @@
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png",20.00 WITA DEWA VS BIAK
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/phusd1/playlist.m3u8
+#https://qtcdn.livestreameuro.live/live/phusd1/playlist.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png",20.00 WITA SURABAYA VS BALI
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939170.vipcdnlive.xyz/live/phangsd2/playlist.m3u8
+#https://179939170.vipcdnlive.xyz/live/phangsd2/playlist.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png",20.00 WITA JAKARTA VS MALUT
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
+#https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png", 20.00 WITA MAKASSAR VS TANGERANG
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
+#https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoDLqV4LhTVoJZCU_wrQ5uncZSD55vS-09w&s", 13:55 WIB PERODUA Malaysia Masters 2025
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoDLqV4LhTVoJZCU_wrQ5uncZSD55vS-09w&s", 11:00 WIB PERODUA Malaysia Masters 2025
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-connection-timeout=5000
-#EXTVLCOPT:http-reconnect=true
-https://hotlivezz179026907.akainu.xyz/GPNn2E3idIJD6Tj3_ICfVg/Fv2lucGIbhPi2caWYvF5Lg/1747996819175/live/may24/chunklist.m3u8
-https://hotlivezz179026907.akainu.xyz/sR7g_-NFaw7lOimrBaX09Q/Fv2lucGIbhPi2caWYvF5Lg/1747996819175/live/may25/chunklist.m3u8
-https://hotlivezz179026907.akainu.xyz/PgAjnWyx3Hvw72p687Wk8A/Fv2lucGIbhPi2caWYvF5Lg/1747996819175/live/may26/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/VBx9TtDiX_CXRKXJkXv24w/Fv2lucGIbhPi2caWYvF5Lg/1748080343234/live/may24/chunklist.m3u8
+https://hotlivezz179026907.akainu.xyz/CQV86LCqjqAyfzaERgM5ug/Fv2lucGIbhPi2caWYvF5Lg/1748080343234/live/may25/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoDLqV4LhTVoJZCU_wrQ5uncZSD55vS-09w&s", 13:55 WIB PERODUA Malaysia Masters 2025
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoDLqV4LhTVoJZCU_wrQ5uncZSD55vS-09w&s", 11:00 WIB PERODUA Malaysia Masters 2025
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKq02Ck-vtauNMxI9sIdt7wa-PmleEfkHIBQ&s", 15:00 WIB World Table Tennis Championships Finals 2025 Day 7 Session 1
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3t4mEaS.md.png", 13:00 WIB Pangsuma FC vs Rafhely Futsal
+#EXTVLCOPT:http-origin=https://www.rctiplus.com
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://midcache.rctiplus.id/live/futsal.m3u8
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3trWbrF.png", 14:00 WIB MPL ID S15 | Regular Season Hari 2 Minggu 9
+
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png", 16:00 WIB Arema FC vs Semen Padang
+https://drive.google.com/uc?export=download&id=1CcdPjqqztBDDBmTCW-5Hk3xu6I91T8MK&usp
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png", 16:00 WIB PSIS Semarang vs Barito Putera
+https://drive.google.com/uc?export=download&id=1CcdPjqqztBDDBmTCW-5Hk3xu6I91T8MK&usp
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png", 16:00 WIB Madura United vs PSS Sleman
+https://drive.google.com/uc?export=download&id=1CcdPjqqztBDDBmTCW-5Hk3xu6I91T8MK&usp
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png", 16:00 WIB Persib Bandung vs Persis Solo
+https://drive.google.com/uc?export=download&id=1CcdPjqqztBDDBmTCW-5Hk3xu6I91T8MK&usp
+
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKq02Ck-vtauNMxI9sIdt7wa-PmleEfkHIBQ&s", 16:00 WIB World Table Tennis Championships Finals 2025 Day 8 Session 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKq02Ck-vtauNMxI9sIdt7wa-PmleEfkHIBQ&s", 21:00 WIB World Table Tennis Championships Finals 2025 Day 7 Session 2
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKq02Ck-vtauNMxI9sIdt7wa-PmleEfkHIBQ&s", 20:00 WIB World Table Tennis Championships Finals 2025 Day 8 Session 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cehVQ2.md.png", 02:00 WIB Real Betis vs Valencia
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cehVQ2.md.png", 23:30 WIB Espanyol vs Las Palmas
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -90,61 +107,104 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cehVQ2.md.png", 21:15 WIB Real Madrid vs Real Sociedad
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckRSoJ.md.png", 01:45 WIB Napoli vs Cagliari
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cehVQ2.md.png", 23:30 WIB Leganes vs Real Valladolid
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckRSoJ.md.png", 23:00 WIB Bologna vs Genoa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
 https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
- 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckRSoJ.md.png", 01:45 WIB Como vs Inter Milan
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
-https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 
+
+<=================== EVENT 2 =============================>
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cehVQ2.md.png", 02:00 WIB Getafe vs Celta Vigo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cehVQ2.md.png", 02:00 WIB Deportivo Alaves vs Osasuna
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckRSoJ.md.png", 01:45 WIB AC Milan vs Monza
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
+
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cSp4Lu.md.png", 19:25 MotoGP 2025 Round 7 - Tissot British Grand Prix Race - MotoGP
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 ##############################MOTO GP############################
 
 
-#EXTINF:-1 group-title="FRANCE GP" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",60 FPS
+#EXTINF:-1 group-title="BRITISH GP" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",60 FPS
 #EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-#https://convps.hdtvs1.top/aHR0cHM6Ly9vZTIuczRzdHJlYW0uY2ZkL3N0cmVhbW9yL2hscy8xL3N0cmVhbS5tM3U4.m3u8
+https://convps.hdtvs1.top/aHR0cHM6Ly9vZTIuczRzdHJlYW0uY2ZkL3N0cmVhbW9yL2hscy8xL3N0cmVhbS5tM3U4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmrtkTK/tntsports2.jpg" group-title="FRANCE GP",TNT Sports 2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmrtkTK/tntsports2.jpg" group-title="BRITISH GP",TNT Sports 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-#https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?encoding=segmentBase
+https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?encoding=segmentBase
 
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-10.0 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png" group-title="FRANCE GP",SPOTV 2
+#EXTINF:-10.0 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png" group-title="BRITISH GP",SPOTV 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-#https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="FRANCE GP",live 1
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="BRITISH GP",live 1
 #EXTVLCOPT:http-referrer=http://azers.online/
 #EXTVLCOPT:http-user-agent:Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=1155540&extension=ts&play_token=RgTd5r3rbc
+http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=1155540&extension=ts&play_token=RgTd5r3rbc
  
-#EXTINF:-1 group-title="FRANCE GP" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NUKLIR
+#EXTINF:-1 group-title="BRITISH GP" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NUKLIR
 #EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-#https://hz.s1stream.cfd/aHR0cHM6Ly9zZy5zMnN0cmVhbS5jZmQvc3RyZWFtc2cvaGxzLzAvc3RyZWFtLm0zdTg=.m3u8
+https://hz.s1stream.cfd/aHR0cHM6Ly9zZy5zMnN0cmVhbS5jZmQvc3RyZWFtc2cvaGxzLzAvc3RyZWFtLm0zdTg=.m3u8
 
-#EXTINF:-1 group-title="FRANCE GP" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NONTONGP
+#EXTINF:-1 group-title="BRITISH GP" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NONTONGP
 #EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
 #https://hv.s1stream.cfd/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4Ny9obHMvc3RyZWFtLm0zdTg=.m3u8
-#https://master.idxplayer.com/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4OS9obHMvc3RyZWFtLm0zdTg=.m3u8
+https://master.idxplayer.com/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4OS9obHMvc3RyZWFtLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png" group-title="FRANCE GP",DAZN 1 ES
+#EXTINF:-1 tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png" group-title="BRITISH GP",DAZN 1 ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-#https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
 
 
