@@ -39,121 +39,45 @@
 
 ################################COPAS LIVE#############################
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png",17.00 WITA BANDUNG VS SOLO
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/phangsd1/playlist.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png",17.00 WITA MALANG VS PADANG
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/caysd1/playlist.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png",17.00 WITA MADURA VS SLEMAN
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://chcdn.livestreameuro.live/live/lansd1/playlist.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png", 17.00 WITA SEMARANG VS BARITO
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://chcdn.livestreameuro.live/live/bipsd1/playlist.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoDLqV4LhTVoJZCU_wrQ5uncZSD55vS-09w&s", 11:00 WIB PERODUA Malaysia Masters 2025
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoDLqV4LhTVoJZCU_wrQ5uncZSD55vS-09w&s", 11:00 WIB PERODUA Malaysia Masters 2025 Server Vietnam
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/VBx9TtDiX_CXRKXJkXv24w/Fv2lucGIbhPi2caWYvF5Lg/1748080343234/live/may24/chunklist.m3u8
-https://hotlivezz179026907.akainu.xyz/CQV86LCqjqAyfzaERgM5ug/Fv2lucGIbhPi2caWYvF5Lg/1748080343234/live/may25/chunklist.m3u8
+https://hotlivezz179026907.akainu.xyz/vmHBznYdTC0jCZCml3yx4Q/Fv2lucGIbhPi2caWYvF5Lg/1748167268208/live/may24/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoDLqV4LhTVoJZCU_wrQ5uncZSD55vS-09w&s", 11:00 WIB PERODUA Malaysia Masters 2025
+#EXTVLCOPT:http-origin=https://rakettvcom.blogspot.com
+#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoDLqV4LhTVoJZCU_wrQ5uncZSD55vS-09w&s", 11:00 WIB PERODUA Malaysia Masters 2025
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3t4mEaS.md.png", 13:00 WIB Pangsuma FC vs Rafhely Futsal
+
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3t4mEaS.md.png", 11:00 - 17:00 WIB Pro Futsal League 2024/25
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://midcache.rctiplus.id/live/futsal.m3u8
 
+
+
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3trWbrF.png", 14:00 WIB MPL ID S15 | Regular Season Hari 2 Minggu 9
 
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png", 16:00 WIB Arema FC vs Semen Padang
-https://drive.google.com/uc?export=download&id=1CcdPjqqztBDDBmTCW-5Hk3xu6I91T8MK&usp
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png", 16:00 WIB PSIS Semarang vs Barito Putera
-https://drive.google.com/uc?export=download&id=1CcdPjqqztBDDBmTCW-5Hk3xu6I91T8MK&usp
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png", 16:00 WIB Madura United vs PSS Sleman
-https://drive.google.com/uc?export=download&id=1CcdPjqqztBDDBmTCW-5Hk3xu6I91T8MK&usp
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ceEq0b.md.png", 16:00 WIB Persib Bandung vs Persis Solo
-https://drive.google.com/uc?export=download&id=1CcdPjqqztBDDBmTCW-5Hk3xu6I91T8MK&usp
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKq02Ck-vtauNMxI9sIdt7wa-PmleEfkHIBQ&s", 16:00 WIB World Table Tennis Championships Finals 2025 Day 8 Session 1
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKq02Ck-vtauNMxI9sIdt7wa-PmleEfkHIBQ&s", 16:00 WIB World Table Tennis Championships Finals 2025 Day 9 Session 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKq02Ck-vtauNMxI9sIdt7wa-PmleEfkHIBQ&s", 20:00 WIB World Table Tennis Championships Finals 2025 Day 8 Session 2
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKq02Ck-vtauNMxI9sIdt7wa-PmleEfkHIBQ&s", 20:00 WIB World Table Tennis Championships Finals 2025 Day 9 Session 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cehVQ2.md.png", 23:30 WIB Espanyol vs Las Palmas
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cehVQ2.md.png", 21:15 WIB Real Madrid vs Real Sociedad
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cehVQ2.md.png", 23:30 WIB Leganes vs Real Valladolid
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckRSoJ.md.png", 23:00 WIB Bologna vs Genoa
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
-https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
-
-
-<=================== EVENT 2 =============================>
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cehVQ2.md.png", 02:00 WIB Getafe vs Celta Vigo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cehVQ2.md.png", 02:00 WIB Deportivo Alaves vs Osasuna
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckRSoJ.md.png", 01:45 WIB AC Milan vs Monza
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
-https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
 
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cSp4Lu.md.png", 19:25 MotoGP 2025 Round 7 - Tissot British Grand Prix Race - MotoGP
@@ -161,7 +85,6 @@ https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-
 ##############################MOTO GP############################
 
 #EXTINF:-1 group-title="BRITISH GP" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",60 FPS
