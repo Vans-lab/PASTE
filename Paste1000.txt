@@ -39,106 +39,21 @@ https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_1/inde
 
 ################################COPAS LIVE#############################
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoDLqV4LhTVoJZCU_wrQ5uncZSD55vS-09w&s", 11:00 WIB PERODUA Malaysia Masters 2025 Server Vietnam
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/vmHBznYdTC0jCZCml3yx4Q/Fv2lucGIbhPi2caWYvF5Lg/1748167268208/live/may24/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoDLqV4LhTVoJZCU_wrQ5uncZSD55vS-09w&s", 11:00 WIB PERODUA Malaysia Masters 2025
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7OLPjST0_pQqnBfSpnZ6V1KeBoDLDxz3vw&s", 09:00 WIB KFF Singapore Badminton Open 2025
 #EXTVLCOPT:http-origin=https://rakettvcom.blogspot.com
 #EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://b188f789c84dcab4371c6e06ad24ca1e.v.smtcdns.net/play.cbalive.weibisai.com/live/3910949843577061_AiHD.m3u8?txSecret=75ad3651b64b3e8d8180173183c572ea&txTime=68365200
+https://aae3e8111b7e62fa97499a11d53fc80a.v.smtcdns.net/play.cbalive.weibisai.com/live/3910950044897061_AiHD.m3u8?txSecret=722c008a24dd8236f68b230ac89f41e8&txTime=68365200
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoDLqV4LhTVoJZCU_wrQ5uncZSD55vS-09w&s", 11:00 WIB PERODUA Malaysia Masters 2025
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
-
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3t4mEaS.md.png", 11:00 - 17:00 WIB Pro Futsal League 2024/25
-#EXTVLCOPT:http-origin=https://www.rctiplus.com
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7OLPjST0_pQqnBfSpnZ6V1KeBoDLDxz3vw&s", 09:00 WIB KFF Singapore Badminton Open 2025
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://midcache.rctiplus.id/live/futsal.m3u8
+https://hotlivezz179026907.akainu.xyz/1pdrj6pQ5GCb4DbwopttUw/Fv2lucGIbhPi2caWYvF5Lg/1748344808511/live/may26/chunklist.m3u8
 
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3trWbrF.png", 14:00 WIB MPL ID S15 | Regular Season Hari 2 Minggu 9
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKq02Ck-vtauNMxI9sIdt7wa-PmleEfkHIBQ&s", 16:00 WIB World Table Tennis Championships Finals 2025 Day 9 Session 1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKq02Ck-vtauNMxI9sIdt7wa-PmleEfkHIBQ&s", 20:00 WIB World Table Tennis Championships Finals 2025 Day 9 Session 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cSp4Lu.md.png", 19:25 MotoGP 2025 Round 7 - Tissot British Grand Prix Race - MotoGP
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cehVQ2.md.png", 19:00 WIB Girona vs Atletico Madrid
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cehVQ2.md.png", 21:15 WIB Villarreal vs Sevilla
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckn0Ss.png", 22:00 WIB Fulham vs Manchester City
-#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckn0Ss.png", 22:00 WIB Liverpool vs Crystal Palace
-http://opplex.tv:8080/mohsin655/4969292/381330
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckn0Ss.png", 22:00 WIB Manchester United vs Aston Villa
-#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckn0Ss.png", 22:00 WIB Newcastle United vs Everton
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckn0Ss.png", 22:00 WIB Nottingham Forest vs Chelsea
-#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckn0Ss.png", 22:00 WIB Southampton vs Arsenal
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckn0Ss.png", 22:00 WIB Tottenham Hotspur vs Brighton & Hove Albion
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
-
-<=================== EVENT 2 =============================>
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cehVQ2.md.png", 02:00 WIB Athletic Bilbao vs Barcelona
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1200px-Logo_Roland-Garros.svg.png", 15:55 WIB Roland Garros Days 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -146,43 +61,55 @@ http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckRSoJ.md.png", 01:45 WIB Atalanta vs Parma
-#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckRSoJ.md.png", 01:45 WIB Empoli vs Hellas Verona
-http://opplex.tv:8080/mohsin655/4969292/353732
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckRSoJ.md.png", 01:45 WIB Lazio vs Lecce
-#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckRSoJ.md.png", 01:45 WIB Torino vs Roma
-http://opplex.tv:8080/mohsin655/4969292/353725
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckRSoJ.md.png", 01:45 WIB Udinese vs Fiorentina
-http://opplex.tv:8080/mohsin655/4969292/353733
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckRSoJ.md.png", 01:45 WIB Venezia vs Juventus
-http://opplex.tv:8080/mohsin655/4969292/353726
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckRSoJ.md.png", 01:45 WIB SERI A 1
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1200px-Logo_Roland-Garros.svg.png", 16:00 WIB Roland Garros Days 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
-https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
- 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckRSoJ.md.png", 01:45 WIB SERI A 2
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1200px-Logo_Roland-Garros.svg.png", 16:55 WIB Roland Garros Days 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
-https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+
+
+<=================== EVENT 2 =============================>
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1200px-Logo_Roland-Garros.svg.png", 00:00 WIB Roland Garros Days 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1200px-Logo_Roland-Garros.svg.png", 00:00 WIB Roland Garros Days 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1200px-Logo_Roland-Garros.svg.png", 00:00 WIB Roland Garros Days 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
 ##############################MOTO GP############################
 
 #EXTINF:-1 group-title="BRITISH GP" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",60 FPS
 #EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-https://convps.hdtvs1.top/aHR0cHM6Ly9vZTIuczRzdHJlYW0uY2ZkL3N0cmVhbW9yL2hscy8xL3N0cmVhbS5tM3U4.m3u8
+#https://convps.hdtvs1.top/aHR0cHM6Ly9vZTIuczRzdHJlYW0uY2ZkL3N0cmVhbW9yL2hscy8xL3N0cmVhbS5tM3U4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmrtkTK/tntsports2.jpg" group-title="BRITISH GP",TNT Sports 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -190,7 +117,7 @@ https://convps.hdtvs1.top/aHR0cHM6Ly9vZTIuczRzdHJlYW0uY2ZkL3N0cmVhbW9yL2hscy8xL3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?encoding=segmentBase
+#https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?encoding=segmentBase
 
 #EXTM3U
 #EXT-X-VERSION:3
@@ -199,21 +126,21 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qv
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="BRITISH GP",live 2
 #EXTVLCOPT:http-referrer=http://azers.online/
 #EXTVLCOPT:http-user-agent:Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=1155559&extension=ts&play_token=2Qb1nvRrnH
+#http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=1155559&extension=ts&play_token=2Qb1nvRrnH
  
 #EXTINF:-1 group-title="BRITISH GP" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NUKLIR
 #EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-https://master.idxplayer.com/aHR0cHM6Ly9zZy5zMnN0cmVhbS5jZmQvc3RyZWFtc2cvaGxzLzAvc3RyZWFtLm0zdTg=.m3u8
+#https://master.idxplayer.com/aHR0cHM6Ly9zZy5zMnN0cmVhbS5jZmQvc3RyZWFtc2cvaGxzLzAvc3RyZWFtLm0zdTg=.m3u8
 
 #EXTINF:-1 group-title="BRITISH GP" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NONTONGP
 #EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
 #https://hv.s1stream.cfd/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4Ny9obHMvc3RyZWFtLm0zdTg=.m3u8
-https://master.idxplayer.com/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4OS9obHMvc3RyZWFtLm0zdTg=.m3u8
+#https://master.idxplayer.com/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4OS9obHMvc3RyZWFtLm0zdTg=.m3u8
 
 
 
