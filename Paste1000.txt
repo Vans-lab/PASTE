@@ -513,7 +513,39 @@ http://63b2dc7196c38.streamlock.net:1935/ch25/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JbtneTB.png" group-title="TV NASIONAL",Tegar TV Lampung
 http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 
-
+======INDO VIP ======
+#EXTINF:-1 tvg-id="" tvg-name="IDS: TVRI VIP" tvg-logo="" group-title="INDONESIA VIP",IDS: TVRI VIP
+http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/34320
+#EXTINF:-1 tvg-id="" tvg-name="IDS: NET. TV VIP" tvg-logo="" group-title="INDONESIA VIP",IDS: NET. TV VIP
+http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/34321
+#EXTINF:-1 tvg-id="" tvg-name="IDS: RCTI VIP" tvg-logo="" group-title="INDONESIA VIP",IDS: RCTI VIP
+http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/34322
+#EXTINF:-1 tvg-id="" tvg-name="IDS: SCTV VIP" tvg-logo="" group-title="INDONESIA VIP",IDS: SCTV VIP
+http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/34323
+#EXTINF:-1 tvg-id="" tvg-name="IDS: TRANS TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/transtv.png" group-title="INDONESIA VIP",IDS: TRANS TV VIP
+http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/34324
+#EXTINF:-1 tvg-id="" tvg-name="IDS: TRANS 7 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/trans7id.png" group-title="INDONESIA VIP",IDS: TRANS 7 VIP
+http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/34325
+#EXTINF:-1 tvg-id="" tvg-name="IDS: MNC TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/mnctv.png" group-title="INDONESIA VIP",IDS: MNC TV VIP
+http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/34326
+#EXTINF:-1 tvg-id="" tvg-name="IDS: INDOSIAR VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png" group-title="INDONESIA VIP",IDS: INDOSIAR VIP
+http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/34327
+#EXTINF:-1 tvg-id="" tvg-name="IDS: ANTV VIP" tvg-logo="" group-title="INDONESIA VIP",IDS: ANTV VIP
+http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/34328
+#EXTINF:-1 tvg-id="" tvg-name="IDS: TV ONE VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/tvone.png" group-title="INDONESIA VIP",IDS: TV ONE VIP
+http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/34329
+#EXTINF:-1 tvg-id="" tvg-name="IDS: METRO TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/metrotv.png" group-title="INDONESIA VIP",IDS: METRO TV VIP
+http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/34330
+#EXTINF:-1 tvg-id="" tvg-name="IDS: GTV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/gtv.png" group-title="INDONESIA VIP",IDS: GTV VIP
+http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/34331
+#EXTINF:-1 tvg-id="" tvg-name="IDS: KOMPAS TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/kompastv.png" group-title="INDONESIA VIP",IDS: KOMPAS TV VIP
+http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/34332
+#EXTINF:-1 tvg-id="" tvg-name="IDS: TVRI NASIONAL VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/tvri.png" group-title="INDONESIA VIP",IDS: TVRI NASIONAL VIP
+http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/34333
+#EXTINF:-1 tvg-id="" tvg-name="IDS: BERITASATU VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/beritasatu.png" group-title="INDONESIA VIP",IDS: BERITASATU VIP
+http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/34334
+#EXTINF:-1 tvg-id="" tvg-name="IDS: INEWS VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/inews.png" group-title="INDONESIA VIP",IDS: INEWS VIP
+http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/34335
 ====== HBO ======
 #EXTINF:-1 group-title="HBO GROUP" tvg-id="hboasia.sg" tvg-logo="https://dl.dropbox.com/scl/fi/11cogq3f6ewil4xavwnh3/hbo.png?rlkey=2qd8p4fzhaxy4mnk9vkn5v41c&dl=0",HBO 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
