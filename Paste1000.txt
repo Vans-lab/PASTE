@@ -42,18 +42,16 @@
 #EXTVLCOPT:http-origin=https://rakettvcom.blogspot.com
 #EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/3915974619275061_AiHD.m3u8?txSecret=952ee7681e792558cbfa737c88620ff7&txTime=683F8C80
-https://3be4be19ef6d73cd744383f2da36c93f.v.smtcdns.net/play.cbalive.weibisai.com/live/3915974968673061_AiHD.m3u8?txSecret=11158a03b4d769bc37992c0d1e8b72ae&txTime=683F8C80
-https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/3915975136811061_AiHD.m3u8?txSecret=ca7a1a1ccc4d81ad6e98eb9abcc76c0c&txTime=683F8C80
+
 
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://everythingindo.com/wp-content/uploads/2025/05/2025-Indonesia-Badminton-Open-Istora-Senayan-Jakarta.jpg", 09:00 WIB KAPAL API Indonesia Open 2025 S Vietnam
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/8BpOKTtRfJ1WS-xthh06QA/Fv2lucGIbhPi2caWYvF5Lg/1748940000177/live/may24/chunklist.m3u8
-https://hotlivezz179026907.akainu.xyz/nicTsHrX2UQm_8LMbLsZSA/Fv2lucGIbhPi2caWYvF5Lg/1748940000177/live/may25/chunklist.m3u8
-https://hotlivezz179026907.akainu.xyz/e_zYiKf7nTxhQxmt-kPrNg/Fv2lucGIbhPi2caWYvF5Lg/1748940000178/live/may26/chunklist.m3u8
+https://hotlivezz179026907.akainu.xyz/bWFY15vKyFS0imUCk_ls1Q/Fv2lucGIbhPi2caWYvF5Lg/1749028201664/live/may24/chunklist.m3u8
+https://hotlivezz179026907.akainu.xyz/iFXrh3TA7PKJEH_de2Y0Rw/Fv2lucGIbhPi2caWYvF5Lg/1749028201664/live/may241/chunklist.m3u8
+https://hotlivezz179026907.akainu.xyz/wYkjuRNCrJitPTdVS7Nxaw/Fv2lucGIbhPi2caWYvF5Lg/1749028201664/live/may26/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1200px-Logo_Roland-Garros.svg.png", 15:55 WIB Roland Garros Days 10
@@ -62,7 +60,7 @@ https://hotlivezz179026907.akainu.xyz/e_zYiKf7nTxhQxmt-kPrNg/Fv2lucGIbhPi2caWYvF
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1200px-Logo_Roland-Garros.svg.png", 15:45 WIB Roland Garros Days 10
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -70,7 +68,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+#https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1200px-Logo_Roland-Garros.svg.png", 15:55 WIB Roland Garros Days 9
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -79,18 +77,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-
-
-<=================== EVENT 2 =============================>
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1200px-Logo_Roland-Garros.svg.png", 00:00 WIB Roland Garros Days 10
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
 ##############################MOTO GP############################
 
@@ -2065,7 +2051,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 ####################################OPTUS#####################################################
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="DE: SPORTDIGITAL1+" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/sportdigitalPlus1.png" group-title="ALL SPORTS",DE: SPORTDIGITAL1+
+http://sonymax.org:8080/live/wNSvGOtvtx/H7FLHWMLY3/30357.m3u8
 
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE: SPORTDIGITAL FUSSBALL" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sportdigital_fb.png" group-title="ALL SPORTS",DE: SPORTDIGITAL FUSSBALL
+http://sonymax.org:8080/live/wNSvGOtvtx/H7FLHWMLY3/235605.m3u8
 
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="ALL SPORTS",Champions TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
