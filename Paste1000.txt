@@ -38,11 +38,23 @@ https://hotlivezz179026907.akainu.xyz/yENOtWGutRoKgUz1WldbFw/Fv2lucGIbhPi2caWYvF
 
 
 ################################COPAS LIVE#############################
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://everythingindo.com/wp-content/uploads/2025/05/2025-Indonesia-Badminton-Open-Istora-Senayan-Jakarta.jpg", 09:00 WIB KAPAL API Indonesia Open 2025
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://everythingindo.com/wp-content/uploads/2025/05/2025-Indonesia-Badminton-Open-Istora-Senayan-Jakarta.jpg", COURT 1
+#EXTVLCOPT:http-origin=https://raketvibeco.blogspot.com
+#EXTVLCOPT:http-referrer=https://raketvibeco.blogspot.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/3915975529972061_AiHD.m3u8?txSecret=6b3e188e3c61378e948977731c3e2e9c&txTime=6840DE00
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://everythingindo.com/wp-content/uploads/2025/05/2025-Indonesia-Badminton-Open-Istora-Senayan-Jakarta.jpg", COURT 2
 #EXTVLCOPT:http-origin=https://rakettvcom.blogspot.com
 #EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://3be4be19ef6d73cd744383f2da36c93f.v.smtcdns.net/play.cbalive.weibisai.com/live/3915975706139061_AiHD.m3u8?txSecret=a0491bca408bd65e3fc02c9d429bda3a&txTime=6840DE00
 
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://everythingindo.com/wp-content/uploads/2025/05/2025-Indonesia-Badminton-Open-Istora-Senayan-Jakarta.jpg", COURT 3
+#EXTVLCOPT:http-origin=https://rakettvcom.blogspot.com
+#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/mobilelive-partner.ysp.cctv.cn/2027453301.m3u8
 
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://everythingindo.com/wp-content/uploads/2025/05/2025-Indonesia-Badminton-Open-Istora-Senayan-Jakarta.jpg", 09:00 WIB KAPAL API Indonesia Open 2025 S Vietnam
