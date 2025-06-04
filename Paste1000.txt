@@ -208,8 +208,38 @@ http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/34146
 http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/37641
 
 
-##############################EVENT COPAS############################
+##############################TIMNAS############################
+#EXTINF:-1 tvg-id="sportdigital" tvg-name="DE: SPORT DIGITAL" tvg-logo="https://imgur.com/uAmzVPR" group-title="TIMNAS", SPORTSTARS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="IDS: RCTI VIP" tvg-logo="" group-title="TIMNAS", RCTI VIP
+http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/34322
+
+#EXTINF:-1 tvg-id="sportdigital" tvg-name="DE: SPORT DIGITAL" tvg-logo="https://i.ibb.co/dJBZhGYN/cindo.jpg" group-title="TIMNAS", RCTI
+https://zozotv.xyz:443/live/mrewan8888/abc12345/47.ts
+#EXTINF:-1 tvg-id="sportdigital" tvg-name="DE: SPORT DIGITAL" tvg-logo="https://i.ibb.co/dJBZhGYN/cindo.jpg" group-title="TIMNAS", SS 2
+https://zozotv.xyz:443/live/mrewan8888/abc12345/165.ts
+
+
+#EXTINF:-1 tvg-id="sportdigital" tvg-name="DE: SPORT DIGITAL" tvg-logo="https://i.ibb.co/dJBZhGYN/cindo.jpg" group-title="TIMNAS", SPORTDIGITAL FUSSBALL
+http://vipgerretger.top:8080/VIP01133172051655888/b5505a6b83bb/99249
+
+#EXTINF:-1 tvg-id="sportdigital" tvg-name="DE: SPORT DIGITAL" tvg-logo="https://i.ibb.co/dJBZhGYN/cindo.jpg" group-title="TIMNAS", FIFA+
+https://jmp2.uk/sam-GBBD1100008YW.m3u8
+
+#EXTINF:-1 tvg-id="sportdigital" tvg-name="DE: SPORT DIGITAL" tvg-logo="https://i.ibb.co/dJBZhGYN/cindo.jpg" group-title="TIMNAS", FIFA+
+https://jmp2.uk/sam-USBD12000255B.m3u8
+#EXTINF:-1 tvg-id="sportdigital" tvg-name="DE: SPORT DIGITAL" tvg-logo="https://i.ibb.co/dJBZhGYN/cindo.jpg" group-title="TIMNAS",bein sport
+http://zeintv.xyz:8080/93452883/583749204/275351
+
+#EXTINF:-1 tvg-id="sportdigital" tvg-name="DE: SPORT DIGITAL" tvg-logo="https://i.ibb.co/dJBZhGYN/cindo.jpg" group-title="TIMNAS", BEIN 3
+http://zeintv.xyz:8080/93452883/583749204/129170
+#EXTINF:-1 tvg-id="sportdigital" tvg-name="DE: SPORT DIGITAL" tvg-logo="https://i.ibb.co/dJBZhGYN/cindo.jpg" group-title="TIMNAS",SK 3
+http://caffe.link:25461/Mukyotac/BCTG6t6jhPB3/1524
 
 ######################################################################AVC####################################################################################################
 
