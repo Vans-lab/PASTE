@@ -183,7 +183,29 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 
 
 
-##############################U C L############################
+##############################VNL 2025############################
+#EXTINF:-1 group-title="VNL 2025" tvg-logo="https://iili.io/FJbkjte.png", VNL 2025
+#EXTVLCOPT:http-referrer=https://q.zoomplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/yENOtWGutRoKgUz1WldbFw/Fv2lucGIbhPi2caWYvF5Lg/1749030766164/live/may20/chunklist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://iili.io/FJbkjte.png" group-title="VNL 2025" , VNL LIVE
+#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+https://3gr3uomttgr31hcjtgezdrpjtfisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel9/playlist.m3u8?wsSecret=1a3b4b940535c65afdebaf1d2a2445fe&wsABSTime=1749054890&wsSession=6339fa55ae0cedb8e17c9b14-174901169371934&wsIPSercert=a06d83423e5ce13fa3c7f7df3406480d&wsiphost=local&wsBindIP=1
+#EXTINF:-1 tvg-id="Polsat Sport" tvg-name="PL: POLSAT SPORT" tvg-logo="https://docdog.top/logo/countries/poland/polsatsport.png" group-title="VNL 2025",PL: POLSAT SPORT
+http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/34309
+#EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-name="PL: POLSAT SPORT EXTRA" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportextra.png" group-title="VNL 2025",PL: POLSAT SPORT EXTRA
+http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/886
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR" tvg-logo="https://docdog.top/logo/countries/turkey/trt-spor-tr.png" group-title="VNL 2025",TR: TRT SPOR
+http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/129947
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ" tvg-logo="" group-title="VNL 2025",TR: TRT SPOR YILDIZ
+http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/129948
+#EXTINF:-1 tvg-id="" tvg-name="CRO: VIP MAX SPORT 1" tvg-logo="https://docdog.top/logo/countries/croatia/maxsport1.png" group-title="VNL 2025",CRO: VIP MAX SPORT 1
+http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/34146
+#EXTINF:-1 tvg-id="" tvg-name="CRO: VIP MAX SPORT 2" tvg-logo="https://docdog.top/logo/countries/croatia/maxsport2.png" group-title="VNL 2025",CRO: VIP MAX SPORT 2
+http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/37641
 
 
 ##############################EVENT COPAS############################
