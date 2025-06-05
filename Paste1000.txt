@@ -17,9 +17,13 @@
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="SPECIAL LIVE" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/223/2024/04/27/veda-ega-pratama-1155911146.jpg",22.00 WITA RED BULL ROOKIES CUP
 #http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png", VNL 2025
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJpuxMG.png", INDO VS TIONGKOK
 #EXTVLCOPT:http-referrer=https://q.zoomplayer.xyz/
-#https://hotlivezz179026907.akainu.xyz/yENOtWGutRoKgUz1WldbFw/Fv2lucGIbhPi2caWYvF5Lg/1749030766164/live/may20/chunklist.m3u8
+https://live-xlvb.nsnd.live/ACbDMbqkDC2xuTf-ldhE2Q/43bf1bdbba25fb941e370ed383221c53/1749151075/live/_definst_/stream_1_1bda7@nuiHD/playlist.m3u8
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJpuxMG.png", INDO VS TIONGKOK 2
+#EXTVLCOPT:http-referrer=https://q.zoomplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/cLsqD-0fDBtwkMQF6875IA/Fv2lucGIbhPi2caWYvF5Lg/1749151075897/live/nuiSD/chunklist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://iili.io/FJbkjte.png" group-title="SPECIAL LIVE" , VNL LIVE
