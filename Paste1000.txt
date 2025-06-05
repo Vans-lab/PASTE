@@ -19,14 +19,14 @@
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png", VNL 2025
 #EXTVLCOPT:http-referrer=https://q.zoomplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/yENOtWGutRoKgUz1WldbFw/Fv2lucGIbhPi2caWYvF5Lg/1749030766164/live/may20/chunklist.m3u8
+#https://hotlivezz179026907.akainu.xyz/yENOtWGutRoKgUz1WldbFw/Fv2lucGIbhPi2caWYvF5Lg/1749030766164/live/may20/chunklist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://iili.io/FJbkjte.png" group-title="SPECIAL LIVE" , VNL LIVE
 #EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-https://3gr3uomttgr31hcjtgezdrpjtfisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel9/playlist.m3u8?wsSecret=1a3b4b940535c65afdebaf1d2a2445fe&wsABSTime=1749054890&wsSession=6339fa55ae0cedb8e17c9b14-174901169371934&wsIPSercert=a06d83423e5ce13fa3c7f7df3406480d&wsiphost=local&wsBindIP=1
+#https://3gr3uomttgr31hcjtgezdrpjtfisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel9/playlist.m3u8?wsSecret=1a3b4b940535c65afdebaf1d2a2445fe&wsABSTime=1749054890&wsSession=6339fa55ae0cedb8e17c9b14-174901169371934&wsIPSercert=a06d83423e5ce13fa3c7f7df3406480d&wsiphost=local&wsBindIP=1
 
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/FA_Women%27s_Super_League.png/155px-FA_Women%27s_Super_League.png",ARSENAL WOMEN VS MAN. UNITED WOMEN
@@ -46,24 +46,6 @@ https://3gr3uomttgr31hcjtgezdrpjtfisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1
 
 
 ################################COPAS LIVE#############################
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://everythingindo.com/wp-content/uploads/2025/05/2025-Indonesia-Badminton-Open-Istora-Senayan-Jakarta.jpg", COURT 1
-#EXTVLCOPT:http-origin=https://raketvibeco.blogspot.com
-#EXTVLCOPT:http-referrer=https://raketvibeco.blogspot.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/3915975529972061_AiHD.m3u8?txSecret=6b3e188e3c61378e948977731c3e2e9c&txTime=6840DE00
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://everythingindo.com/wp-content/uploads/2025/05/2025-Indonesia-Badminton-Open-Istora-Senayan-Jakarta.jpg", COURT 2
-#EXTVLCOPT:http-origin=https://rakettvcom.blogspot.com
-#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://3be4be19ef6d73cd744383f2da36c93f.v.smtcdns.net/play.cbalive.weibisai.com/live/3915975706139061_AiHD.m3u8?txSecret=a0491bca408bd65e3fc02c9d429bda3a&txTime=6840DE00
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://everythingindo.com/wp-content/uploads/2025/05/2025-Indonesia-Badminton-Open-Istora-Senayan-Jakarta.jpg", COURT 3
-#EXTVLCOPT:http-origin=https://rakettvcom.blogspot.com
-#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/mobilelive-partner.ysp.cctv.cn/2027453301.m3u8
-
 
 #EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkhN9.png", 09:00 WIB KAPAL API Indonesia Open 2025
@@ -270,9 +252,6 @@ http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/37641
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: RCTI VIP" tvg-logo="" group-title="TIMNAS", RCTI VIP
-http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/34322
 
 #EXTINF:-1 tvg-id="sportdigital" tvg-name="DE: SPORT DIGITAL" tvg-logo="https://i.ibb.co/dJBZhGYN/cindo.jpg" group-title="TIMNAS", SPORTDIGITAL FUSSBALL
 http://vipgerretger.top:8080/VIP01133172051655888/b5505a6b83bb/99249
