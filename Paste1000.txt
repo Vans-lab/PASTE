@@ -246,6 +246,10 @@ http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/37641
 
 
 ##############################TIMNAS############################
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3ckn0Ss.png",INDONESIA VS CHINA
+#EXTVLCOPT:http-referrer=https://kilatlive.live/
+https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nl_espn_1_fhd/index.m3u8
+
 #EXTINF:-1 tvg-id="sportdigital" tvg-name="DE: SPORT DIGITAL" tvg-logo="https://imgur.com/uAmzVPR" group-title="TIMNAS", SPORTSTARS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
