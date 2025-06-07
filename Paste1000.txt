@@ -94,8 +94,11 @@ https://hotlivezz179026907.akainu.xyz/l8NI8Y1eIE-qrViSuLMeYQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hotlivezz179026907.akainu.xyz/Pq9GRE2OMdnHRsTZwUfPtg/Fv2lucGIbhPi2caWYvF5Lg/1749287171935/live/may211/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1awTeMbt__RGtb25J_mHI1r4CVuxpQYutJg&s", 17:30 WIB Iran Women vs Indonesia Women
-http://xtv.ooo:80/Kashif1980/03042368432/350997
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1awTeMbt__RGtb25J_mHI1r4CVuxpQYutJg&s", 17:30 WIB Iran Women vs Indonesia Women S Vietnam
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://live-xlvb.nsnd.live/w61eNVENQXWWzqj_R88Gcg/5428272ba123236cba4a561082063385/1749313223/live/_definst_/stream_1_1bda7@chimHD/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Extra HD" tvg-logo="https://iili.io/FJbkjte.png" group-title="SPECIAL LIVE",vnl 1
 http://nonamevos.com:80/4500/4500/78284
