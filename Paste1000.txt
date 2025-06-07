@@ -87,6 +87,11 @@ https://drive.google.com/uc?export=download&id=1CcdPjqqztBDDBmTCW-5Hk3xu6I91T8MK
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1awTeMbt__RGtb25J_mHI1r4CVuxpQYutJg&s", 17:30 WIB Iran Women vs Indonesia Women
 http://xtv.ooo:80/Kashif1980/03042368432/350997
 
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Extra HD" tvg-logo="https://iili.io/FJbkjte.png" group-title="SPECIAL LIVE",vnl 1
+http://nonamevos.com:80/4500/4500/78284
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Extra HD" tvg-logo="https://iili.io/FJbkjte.png" group-title="SPECIAL LIVE",vnl 2
+http://nonamevos.com:80/4500/4500/21044
+
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png", 14:00 WIB Turkey Women vs Poland Women
 https://drive.google.com/uc?export=download&id=1CcdPjqqztBDDBmTCW-5Hk3xu6I91T8MK&usp
