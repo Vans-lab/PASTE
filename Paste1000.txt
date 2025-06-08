@@ -25,20 +25,20 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 
 
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1awTeMbt__RGtb25J_mHI1r4CVuxpQYutJg&s", 12:30 WIB Philippines Women vs Indonesia Women
+#EXTVLCOPT:http-origin=https://jlbfpc.jlbfyh.com
+#EXTVLCOPT:http-referrer=https://jlbfpc.jlbfyh.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://bf.jabflive.cc/live/5004432_hd01.m3u8?txSecret=e3651f6e5c27f94244cd2c47d1a17eb8&txTime=684521c1
 
-
-
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1awTeMbt__RGtb25J_mHI1r4CVuxpQYutJg&s", 12:30 WIB Iran Women vs Indonesia Women
-https://drive.google.com/uc?export=download&id=1CcdPjqqztBDDBmTCW-5Hk3xu6I91T8MK&usp
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1awTeMbt__RGtb25J_mHI1r4CVuxpQYutJg&s", 15:00 WIB Iran Women vs New Zealand W
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1awTeMbt__RGtb25J_mHI1r4CVuxpQYutJg&s", 12:30 WIB Philippines Women vs Indonesia Women
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/OLzg2pu_dRGwbD_rJo0GLg/Fv2lucGIbhPi2caWYvF5Lg/1749381629725/live/may211/chunklist.m3u8
 
-
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1awTeMbt__RGtb25J_mHI1r4CVuxpQYutJg&s", 12:30 WIB Philippines Women vs Indonesia Women
+http://xtv.ooo:80/Kashif1980/03042368432/350997
 
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png", 14:00 WIB France Women vs Thailand Women
