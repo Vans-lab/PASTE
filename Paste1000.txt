@@ -3,90 +3,56 @@
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 
-#EXTM3U
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkhN9.png", 12:00 WIB KAPAL API Indonesia Open 2025
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJpuxMG.png", 21:00 WIB Kazakhstan vs North Macedonia
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJpuxMG.png", 21:00 WIB Kazakhstan vs North Macedonia
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+
+<=================== EVENT 2 =============================>
+
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJpuxMG.png", 01:45 WIB Estonia vs Norwegia
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJpuxMG.png", 01:45 WIB Belgia vs Wales
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJpuxMG.png", 01:45 WIB Belgia vs Wales
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJpuxMG.png", 01:45 WIB Italia vs Moldova
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJpuxMG.png", 01:45 WIB Italia vs Moldova
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJpuxMG.png", 01:45 WIB Kroasia vs Republik Ceko
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkhN9.png", 12:00 WIB KAPAL API Indonesia Open 2025 S Vietnam
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-
-
-
-#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkhN9.png", 12:00 WIB KAPAL API Indonesia Open 2025 Server Malaysia
-#EXTVLCOPT:http-origin=https://rakettvcom.blogspot.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1awTeMbt__RGtb25J_mHI1r4CVuxpQYutJg&s", 12:30 WIB Philippines Women vs Indonesia Women
-#EXTVLCOPT:http-origin=https://jlbfpc.jlbfyh.com
-#EXTVLCOPT:http-referrer=https://jlbfpc.jlbfyh.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://bf.jabflive.cc/live/5004432_hd01.m3u8?txSecret=e3651f6e5c27f94244cd2c47d1a17eb8&txTime=684521c1
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1awTeMbt__RGtb25J_mHI1r4CVuxpQYutJg&s", 12:30 WIB Philippines Women vs Indonesia Women
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/OLzg2pu_dRGwbD_rJo0GLg/Fv2lucGIbhPi2caWYvF5Lg/1749381629725/live/may211/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1awTeMbt__RGtb25J_mHI1r4CVuxpQYutJg&s", 12:30 WIB Philippines Women vs Indonesia Women
-http://xtv.ooo:80/Kashif1980/03042368432/350997
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png", 14:00 WIB France Women vs Thailand Women
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png", 18:30 WIB China Women vs Turkey Women
-https://drive.google.com/uc?export=download&id=1CcdPjqqztBDDBmTCW-5Hk3xu6I91T8MK&usp
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJpuons.png", 20:00 WIB Jerman vs Perancis
-https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJpuons.png", 20:00 WIB Jerman vs Perancis
-#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJpuxMG.png", 23:00 WIB Georgia vs Kepulauan Cape Verde
-https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/3cSp4Lu.md.png", 18:25 WIB MotoGP 2025 Round 8- GoPro Grand Prix of Aragon Race - MotoGP
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-
-<=================== EVENT 2 =============================>
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJpuons.png", 02:00 WIB Portugal vs Spanyol
-#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJpuxMG.png", 01:45 WIB Kroasia vs Republik Ceko
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 
 
 ##############################MOTO GP############################
 
 #EXTINF:-1 group-title="GP ARAGON" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",60 FPS
 #EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-https://convps.hdtvs1.top/aHR0cHM6Ly9vZTIuczRzdHJlYW0uY2ZkL3N0cmVhbW9yL2hscy8xL3N0cmVhbS5tM3U4.m3u8
+#https://convps.hdtvs1.top/aHR0cHM6Ly9vZTIuczRzdHJlYW0uY2ZkL3N0cmVhbW9yL2hscy8xL3N0cmVhbS5tM3U4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmrtkTK/tntsports2.jpg" group-title="GP ARAGON",TNT Sports 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -94,7 +60,7 @@ https://convps.hdtvs1.top/aHR0cHM6Ly9vZTIuczRzdHJlYW0uY2ZkL3N0cmVhbW9yL2hscy8xL3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?encoding=segmentBase
+#https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?encoding=segmentBase
 
 #EXTM3U
 #EXT-X-VERSION:3
@@ -103,21 +69,21 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qv
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="GP ARAGON",live 1
 #EXTVLCOPT:http-referrer=http://azers.online/
 #EXTVLCOPT:http-user-agent:Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=1155540&extension=ts&play_token=RgTd5r3rbc
+#http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=1155540&extension=ts&play_token=RgTd5r3rbc
  
 #EXTINF:-1 group-title="GP ARAGON" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NUKLIR
 #EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-https://master.idxplayer.com/aHR0cHM6Ly9zZy5zMnN0cmVhbS5jZmQvc3RyZWFtc2cvaGxzLzAvc3RyZWFtLm0zdTg=.m3u8
+#https://master.idxplayer.com/aHR0cHM6Ly9zZy5zMnN0cmVhbS5jZmQvc3RyZWFtc2cvaGxzLzAvc3RyZWFtLm0zdTg=.m3u8
 
 #EXTINF:-1 group-title="GP ARAGON" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NONTONGP
 #EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
 #https://hv.s1stream.cfd/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4Ny9obHMvc3RyZWFtLm0zdTg=.m3u8
-https://master.idxplayer.com/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4OS9obHMvc3RyZWFtLm0zdTg=.m3u8
+#https://master.idxplayer.com/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4OS9obHMvc3RyZWFtLm0zdTg=.m3u8
 
 
 
