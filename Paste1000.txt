@@ -2,36 +2,9 @@
 
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/UEFA_European_Under-21_Championship_logo.svg/1200px-UEFA_European_Under-21_Championship_logo.svg.png", 23:00 WIB Spanyol U-21 vs Rumania U-21
-https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
-
-
-<=================== EVENT 2 =============================>
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/UEFA_European_Under-21_Championship_logo.svg/1200px-UEFA_European_Under-21_Championship_logo.svg.png", 02:00 WIB Portugal U-21 vs Polandia U-21
-https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/UEFA_European_Under-21_Championship_logo.svg/1200px-UEFA_European_Under-21_Championship_logo.svg.png", 02:00 WIB Perancis U-21 vs Georgia U-21
-https://wahyu1ptv.pages.dev/Sport.TV2-HD.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/UEFA_European_Under-21_Championship_logo.svg/1200px-UEFA_European_Under-21_Championship_logo.svg.png", 02:00 WIB Slovakia U-21 vs Italia U-21
-https://wahyu1ptv.pages.dev/Sport.TV3-HD.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/UEFA_European_Under-21_Championship_logo.svg/1200px-UEFA_European_Under-21_Championship_logo.svg.png", 23:00 WIB Finlandia U-21 vs Ukraina U-21
-https://wahyu1ptv.pages.dev/Sport.TV4-HD.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/UEFA_European_Under-21_Championship_logo.svg/1200px-UEFA_European_Under-21_Championship_logo.svg.png", 23:00 WIB Inggris U-21 vs Slovenia U-21
-https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
-
-
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", 07:00 WIB Al Ahly vs Inter Miami
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium633/mono.m3u8
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571",08.00 WITA AL AHLY VS INTER MIAMI
+#EXTVLCOPT:http-referrer=https://kilatlive.live/
+https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_it_italia_1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", 23:00 WIB Bayern München vs Auckland City
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
