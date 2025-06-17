@@ -6,36 +6,6 @@
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
 #https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_it_italia_1/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbbh7w-7tHU5h6YEA-ghLcZcyc5cdQdkHGug&s", 18:30 WIB Vietnam (w) U19 vs Indonesia (W) U19 
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://artwork.espncdn.com/programs/a16de718-8286-41c1-b322-6f83432c8653/16x9/large_20210610125415.jpg", 16:30 WIB Halle Day 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://artwork.espncdn.com/programs/a16de718-8286-41c1-b322-6f83432c8653/16x9/large_20210610125415.jpg", 18:00 WIB Queen's Day 1 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-<=================== EVENT 2 =============================>
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", 02:00 WIB Chelsea vs Los Angeles FC
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", 05:00 Boca Juniors vs Benfica
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", 08:00 WIB Flamengo vs ES Tunis
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", 23:00 WIB Fluminense vs Borussia Dortmund
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
@@ -46,6 +16,51 @@ https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/UEFA_European_Under-21_Championship_logo.svg/1200px-UEFA_European_Under-21_Championship_logo.svg.png", 23:00 WIB Perancis U-21 vs Polandia U-21
 https://wahyu1ptv.pages.dev/Sport.TV2-HD.m3u8
+
+
+<=================== EVENT 2 =============================>
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", 02:00 WIB River Plate vs Urawa Reds
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", 05:00 WIB Ulsan vs Mamelodi Sundowns
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", 08:00 WIB Monterrey vs Internazionale
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", 23:00 WIB Manchester City vs Wydad Casablanca
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/UEFA_European_Under-21_Championship_logo.svg/1200px-UEFA_European_Under-21_Championship_logo.svg.png", 02:00 WIB Rumania U-21 vs Slovakia U-21
+https://wahyu1ptv.pages.dev/Sport.TV2-HD.m3u8
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/UEFA_European_Under-21_Championship_logo.svg/1200px-UEFA_European_Under-21_Championship_logo.svg.png", 02:00 WIB Spanyol U-21 vs Italia U-21
+https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/UEFA_European_Under-21_Championship_logo.svg/1200px-UEFA_European_Under-21_Championship_logo.svg.png", 23:00 WIB Belanda U-21 vs Ukraina U-21
+https://wahyu1ptv.pages.dev/Sport.TV2-HD.m3u8
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/UEFA_European_Under-21_Championship_logo.svg/1200px-UEFA_European_Under-21_Championship_logo.svg.png", 23:00 WIB Denmark U-21 vs Finlandia U-21
+https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
+
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://artwork.espncdn.com/programs/a16de718-8286-41c1-b322-6f83432c8653/16x9/large_20210610125415.jpg", 00:00 WIB Halle Day 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://artwork.espncdn.com/programs/a16de718-8286-41c1-b322-6f83432c8653/16x9/large_20210610125415.jpg", 00:00 WIB Queen's Day 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
 ##############################MOTO GP############################
