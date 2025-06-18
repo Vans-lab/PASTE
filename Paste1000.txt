@@ -97,11 +97,15 @@ https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
 
 #############################SPECIAL MOVIE 2025############################
 #EXTINF:-1 group-title="SPECIAL MOVIE 2025" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/82/2025/04/29/1-3282210498.jpg",Mission: Impossible - The Final Reckoning
+#EXTVLCOPT:http-origin=https://kilat21.net/
 #EXTVLCOPT:http-referrer=https://kilat21.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://rr5---sn-nx57ynsk.googlecdncloud.com/bighlsstorage/2023/orginstream/u22/origin22storage/2025/May/22/7c58d8bea6507dcad493ba298ebb2263/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDI1IDk6MjI6MjkgQU0maGFzaF92YWx1ZT1pYStGVHhYNlVUOVJRSmZvY1lYUUNRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD1kNDFkOGNkOThmMDBiMjA0ZTk4MDA5OThlY2Y4NDI3ZQ==
 
 #EXTINF:-1 group-title="SPECIAL MOVIE 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/You_Are_the_Apple_of_My_Eye_2024_film_poster.jpg/250px-You_Are_the_Apple_of_My_Eye_2024_film_poster.jpg",You Are the Apple of My Eye (2025)
+#EXTVLCOPT:http-origin=https://kilat21.net/
 #EXTVLCOPT:http-referrer=https://kilat21.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://rr5---sn-nx57ynsk.googlecdncloud.com/bighlsstorage/2023/orginstream/u22/origin22storage/2025/May/15/62adc49d241762884daad9ef6dedc19d/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDI1IDk6NDY6NDUgQU0maGFzaF92YWx1ZT1zMmZOTk5ranh2UVJTbXhrczU1VzR3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD1kNDFkOGNkOThmMDBiMjA0ZTk4MDA5OThlY2Y4NDI3ZQ==
 
 
