@@ -95,7 +95,9 @@ https://wahyu1ptv.pages.dev/Sport.TV2-HD.m3u8
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/UEFA_European_Under-21_Championship_logo.svg/1200px-UEFA_European_Under-21_Championship_logo.svg.png", 02:00 WIB Inggris U-21 vs Jerman U-21
 https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
 
-
+#EXTINF:-1 group-title="SPECIAL MOVIE 2025" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/82/2025/04/29/1-3282210498.jpg",Mission: Impossible - The Final Reckoning
+#EXTVLCOPT:http-referrer=https://kilat21.net/
+https://rr5---sn-nx57ynsk.googlecdncloud.com/bighlsstorage/2023/orginstream/u22/origin22storage/2025/May/22/7c58d8bea6507dcad493ba298ebb2263/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDI1IDk6MjI6MjkgQU0maGFzaF92YWx1ZT1pYStGVHhYNlVUOVJRSmZvY1lYUUNRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD1kNDFkOGNkOThmMDBiMjA0ZTk4MDA5OThlY2Y4NDI3ZQ==
 ##############################MOTO GP############################
 
 #EXTINF:-1 group-title="GP ARAGON" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",60 FPS
