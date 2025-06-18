@@ -124,6 +124,10 @@ https://fin-3dg-b1.i8yz83pn.com/hls2/01/08994/aj79sw1y97c8_h/master.m3u8?t=m0yr_
 #EXTVLCOPT:http-referrer=https://movearnpre.com/
 https://be4235.rcr32.ams02.i8yz83pn.com/hls2/03/08890/hwfsihoeg0py_h/master.m3u8?t=1pU_d4ZgeATHRtT2qqA26scU4NN0XLPUPoDnkkpRxxk&s=1750258210&e=10800&f=44450437&srv=31&asn=7713&sp=4000&p=
 
+#EXTINF:-1 group-title="SPECIAL MOVIE 2025" tvg-logo="https://lewatlensa.com/wp-content/uploads/2025/01/img_9845-1.jpg?w=819",1 Kakak 7 Ponakan (2025)
+#EXTVLCOPT:http-referrer=https://movearnpre.com/
+https://be7713.rcr82.waw05.i8yz83pn.com/hls2/01/08965/f4xop9ee3ez4_h/master.m3u8?t=wvgsicpqF2DlL1Q5w2hkQWHWV68GN5lsc6GajYxLQus&s=1750258443&e=10800&f=44835679&srv=22&asn=7713&sp=4000&p=
+
 ##############################MOTO GP############################
 
 #EXTINF:-1 group-title="GP ARAGON" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",60 FPS
