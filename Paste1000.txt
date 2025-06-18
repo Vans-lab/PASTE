@@ -112,6 +112,10 @@ https://rr5---sn-nx57ynsk.googlecdncloud.com/bighlsstorage/2023/orginstream/u22/
 #EXTVLCOPT:http-referrer=https://movearnpre.com/
 https://p3fabiwmf23za.acek-cdn.com/hls2/01/05260/famhmxkcowhx_n/seg-9-v1-a1.ts?t=gKxuC4zl8uzvvdSgaYSzjTSWOd0UfjKWmWnWwPrQUdo&s=1750257027&e=129600&f=26300873&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=7713
 
+#EXTINF:-1 group-title="SPECIAL MOVIE 2025" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2025/04/04/jadwal-tayang-dan-sinopsis-film-karate-kid-legends-jackie-chan-kembali-1743753132424.jpeg?w=1200",Karate Kid: Legends (2025)
+#EXTVLCOPT:http-referrer=https://movearnpre.com/
+https://be7713.rcr82.waw05.i8yz83pn.com/hls2/02/08982/7rgqjfdpt0x4_h/master.m3u8?t=nUerZz2ymT8BguecgMxYvaYquCmfQmTgLhPoqZ617VA&s=1750257594&e=10800&f=44914074&srv=31&asn=7713&sp=4000&p=
+
 ##############################MOTO GP############################
 
 #EXTINF:-1 group-title="GP ARAGON" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",60 FPS
