@@ -128,6 +128,14 @@ https://be4235.rcr32.ams02.i8yz83pn.com/hls2/03/08890/hwfsihoeg0py_h/master.m3u8
 #EXTVLCOPT:http-referrer=https://movearnpre.com/
 https://be7713.rcr82.waw05.i8yz83pn.com/hls2/01/08965/f4xop9ee3ez4_h/master.m3u8?t=wvgsicpqF2DlL1Q5w2hkQWHWV68GN5lsc6GajYxLQus&s=1750258443&e=10800&f=44835679&srv=22&asn=7713&sp=4000&p=
 
+#EXTINF:-1 group-title="SPECIAL MOVIE 2025" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UxNzhmMmQtNzgxMS00Y2M2LWJhYzQtYzkxMTNhODhjODczXkEyXkFqcGc@._V1_.jpg",Hitman 2 (2025)
+#EXTVLCOPT:http-referrer=https://movearnpre.com/
+https://m5qqjwpatpzb.acek-cdn.com/hls2/01/04048/ap37se2hp184_n/master.m3u8?t=a9zkm2ov5i1rEOXlTENQPDP74eqZIoCxQIsYwmYP7fg&s=1750258690&e=129600&f=20241293&srv=F6vE2P5Wjncn&i=0.4&sp=500&p1=F6vE2P5Wjncn&p2=F6vE2P5Wjncn&asn=7713
+
+#EXTINF:-1 group-title="SPECIAL MOVIE 2025" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg3ZjBjZmQtMmVlZC00MTJiLThjNDItZjJhMGFlYmYzZmM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Henry Danger: The Movie (2025)
+#EXTVLCOPT:http-referrer=https://movearnpre.com/
+https://be4235.rcr32.ams02.i8yz83pn.com/hls2/03/08055/5jdda2u1wxmx_h/master.m3u8?t=_1wTbihdo9BWcmGoQJ9_kEdnaSYGhRBDBCc0rqGcer0&s=1750258860&e=10800&f=40275888&srv=1065&asn=7713&sp=4000&p=
+
 ##############################MOTO GP############################
 
 #EXTINF:-1 group-title="GP ARAGON" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",60 FPS
