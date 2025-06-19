@@ -16,78 +16,34 @@
 http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts
 
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg", [1] 18:00 WIB Chinese Taipei vs Philippines
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg", [1] 18:00 WIB Pakistan vs Chinese Taipei
+https://drive.google.com/uc?export=download&id=1CcdPjqqztBDDBmTCW-5Hk3xu6I91T8MK&usp
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/r5P2XMsEtGpcfSPwt2jjeg/Fv2lucGIbhPi2caWYvF5Lg/1750178121388/live/may17/chunklist.m3u8
+https://hotlivezz179602324.akainu.xyz/uQYOcx--6ruzsR89RFBGaw/Fv2lucGIbhPi2caWYvF5Lg/1750287297133/live/chimSD/chunklist.m3u8
 
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg", [1] 20:30 WIB South Korea vs Vietnam
+https://drive.google.com/uc?export=download&id=1CcdPjqqztBDDBmTCW-5Hk3xu6I91T8MK&usp
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg", [1] 20:30 WIB Vietnam vs New Zealand
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/r5P2XMsEtGpcfSPwt2jjeg/Fv2lucGIbhPi2caWYvF5Lg/1750178121388/live/may17/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg", [1] 23:00 WIB Indonesia vs Thailand
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/r5P2XMsEtGpcfSPwt2jjeg/Fv2lucGIbhPi2caWYvF5Lg/1750178121388/live/may17/chunklist.m3u8
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg", [1] 23:00 WIB Bahrain vs Indonesia
+https://drive.google.com/uc?export=download&id=1CcdPjqqztBDDBmTCW-5Hk3xu6I91T8MK&usp
 
 
 
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png", 16:00 WIB Thailand W vs Italy W
+https://drive.google.com/uc?export=download&id=1CcdPjqqztBDDBmTCW-5Hk3xu6I91T8MK&usp
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png", 16:00 WIB Thailand W vs Japan W
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/qRanPwDL7Ao8gV3_UVmugw/Fv2lucGIbhPi2caWYvF5Lg/1750254818910/live/may17/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png", 16:30 WIB South Korea W vs Canada W
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/fjzFi8dNU0roJE9gcFTigg/Fv2lucGIbhPi2caWYvF5Lg/1750259140568/live/may171/chunklist.m3u8
 
 
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbbh7w-7tHU5h6YEA-ghLcZcyc5cdQdkHGug&s", 15:00 WIB Myanmar (w) U19 vs Indonesia (w) U19
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://live-xlvb.nsnd.live/C2sdrJDk9TLpGBL0zkGXyA/0aafe7a6d19bfafd5e27cf7084b37d51/1750254848/live/_definst_/stream_1_1bda7@xienHD/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", 23:00 WIB Manchester City vs Wydad Casablanca
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 
 
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/UEFA_European_Under-21_Championship_logo.svg/1200px-UEFA_European_Under-21_Championship_logo.svg.png", 23:00 WIB Belanda U-21 vs Ukraina U-21
-https://wahyu1ptv.pages.dev/Sport.TV2-HD.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/UEFA_European_Under-21_Championship_logo.svg/1200px-UEFA_European_Under-21_Championship_logo.svg.png", 23:00 WIB Denmark U-21 vs Finlandia U-21
-https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
-
-
-<=================== EVENT 2 =============================>
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", 02:00 WIB Real Madrid vs Al Hilal
-http://kstv.us:8080/live/tH300gvHff/8606073792/46506.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", 05:00 WIB Pachuca vs Salzburg
-http://kstv.us:8080/live/tH300gvHff/8606073792/46506.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", 08:00 WIB Al Ain vs Juventus
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", 23:00 WIB Palmeiras vs Al Ahly
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-
-
+http://kstv.us:8080/live/tH300gvHff/8606073792/46506.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/UEFA_European_Under-21_Championship_logo.svg/1200px-UEFA_European_Under-21_Championship_logo.svg.png", 02:00 WIB Slovenia U-21 vs Czechia U-21
 https://wahyu1ptv.pages.dev/Sport.TV2-HD.m3u8
@@ -95,46 +51,115 @@ https://wahyu1ptv.pages.dev/Sport.TV2-HD.m3u8
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/UEFA_European_Under-21_Championship_logo.svg/1200px-UEFA_European_Under-21_Championship_logo.svg.png", 02:00 WIB Inggris U-21 vs Jerman U-21
 https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
 
-#############################SPECIAL MOVIE 2025############################
-#EXTINF:-1 group-title="SPECIAL MOVIE 2025" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/82/2025/04/29/1-3282210498.jpg",Mission: Impossible - The Final Reckoning
-#EXTVLCOPT:http-origin=https://kilat21.net/
-#EXTVLCOPT:http-referrer=https://kilat21.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#https://rr5---sn-nx57ynsk.googlecdncloud.com/bighlsstorage/2023/orginstream/u22/origin22storage/2025/May/22/7c58d8bea6507dcad493ba298ebb2263/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDI1IDk6MjI6MjkgQU0maGFzaF92YWx1ZT1pYStGVHhYNlVUOVJRSmZvY1lYUUNRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD1kNDFkOGNkOThmMDBiMjA0ZTk4MDA5OThlY2Y4NDI3ZQ==
 
-#EXTINF:-1 group-title="SPECIAL MOVIE 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/You_Are_the_Apple_of_My_Eye_2024_film_poster.jpg/250px-You_Are_the_Apple_of_My_Eye_2024_film_poster.jpg",You Are the Apple of My Eye (2025)
-#EXTVLCOPT:http-origin=https://kilat21.net/
-#EXTVLCOPT:http-referrer=https://kilat21.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#https://rr5---sn-nx57ynsk.googlecdncloud.com/bighlsstorage/2023/orginstream/u22/origin22storage/2025/May/15/62adc49d241762884daad9ef6dedc19d/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDI1IDk6NDY6NDUgQU0maGFzaF92YWx1ZT1zMmZOTk5ranh2UVJTbXhrczU1VzR3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD1kNDFkOGNkOThmMDBiMjA0ZTk4MDA5OThlY2Y4NDI3ZQ==
+<=================== EVENT 2 =============================>
 
-#EXTINF:-1 group-title="SPECIAL MOVIE 2025" tvg-logo="https://m.media-amazon.com/images/M/MV5BODU0NDBhYzAtZWVmYy00OTNlLThmNzQtYjNlYjNhN2Q5NDBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Juliet & Romeo (2025)
-#EXTVLCOPT:http-referrer=https://movearnpre.com/
-https://p3fabiwmf23za.acek-cdn.com/hls2/01/05260/famhmxkcowhx_n/seg-9-v1-a1.ts?t=gKxuC4zl8uzvvdSgaYSzjTSWOd0UfjKWmWnWwPrQUdo&s=1750257027&e=129600&f=26300873&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=7713
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", 02:00 WIB Inter Miami vs Porto
+http://kstv.us:8080/live/tH300gvHff/8606073792/46506.m3u8
 
-#EXTINF:-1 group-title="SPECIAL MOVIE 2025" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2025/04/04/jadwal-tayang-dan-sinopsis-film-karate-kid-legends-jackie-chan-kembali-1743753132424.jpeg?w=1200",Karate Kid: Legends (2025)
-#EXTVLCOPT:http-referrer=https://tpz6t.com/
-https://be7713.rcr82.waw05.i8yz83pn.com/hls2/02/08982/7rgqjfdpt0x4_h/master.m3u8?t=nUerZz2ymT8BguecgMxYvaYquCmfQmTgLhPoqZ617VA&s=1750257594&e=10800&f=44914074&srv=31&asn=7713&sp=4000&p=
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", 05:00 WIB Seattle Sounders FC vs Atlético Madrid
+http://kstv.us:8080/live/tH300gvHff/8606073792/46506.m3u8
 
-#EXTINF:-1 group-title="SPECIAL MOVIE 2025" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/82/2025/04/29/1-3282210498.jpg",Mission: Impossible - The Final Reckoning
-#EXTVLCOPT:http-referrer=https://movearnpre.com/
-https://fin-3dg-b1.i8yz83pn.com/hls2/01/08994/aj79sw1y97c8_h/master.m3u8?t=m0yr__Cz_M-uK6YUbm8G2B7uOhNulenMMEOP-zaeaVc&s=1750258004&e=10800&f=44972205&srv=25&asn=7713&sp=4000&p=
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", 08:00 WIB PSG vs Botafogo
+http://kstv.us:8080/live/tH300gvHff/8606073792/46506.m3u8
 
-#EXTINF:-1 group-title="SPECIAL MOVIE 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6f/Poster_2nd_Miracle_in_Cell_No.7.jpg",2nd Miracle in Cell No. 7
-#EXTVLCOPT:http-referrer=https://tpz6t.com/
-https://be4235.rcr32.ams02.i8yz83pn.com/hls2/03/08890/hwfsihoeg0py_h/master.m3u8?t=1pU_d4ZgeATHRtT2qqA26scU4NN0XLPUPoDnkkpRxxk&s=1750258210&e=10800&f=44450437&srv=31&asn=7713&sp=4000&p=
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", 23:00 WIB Benfica vs Auckland City
+http://kstv.us:8080/live/tH300gvHff/8606073792/46506.m3u8
 
-#EXTINF:-1 group-title="SPECIAL MOVIE 2025" tvg-logo="https://lewatlensa.com/wp-content/uploads/2025/01/img_9845-1.jpg?w=819",1 Kakak 7 Ponakan (2025)
-#EXTVLCOPT:http-referrer=https://movearnpre.com/
-https://be7713.rcr82.waw05.i8yz83pn.com/hls2/01/08965/f4xop9ee3ez4_h/master.m3u8?t=wvgsicpqF2DlL1Q5w2hkQWHWV68GN5lsc6GajYxLQus&s=1750258443&e=10800&f=44835679&srv=22&asn=7713&sp=4000&p=
+<=================== Cadangan =============================>
 
-#EXTINF:-1 group-title="SPECIAL MOVIE 2025" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UxNzhmMmQtNzgxMS00Y2M2LWJhYzQtYzkxMTNhODhjODczXkEyXkFqcGc@._V1_.jpg",Hitman 2 (2025)
-#EXTVLCOPT:http-referrer=https://movearnpre.com/
-https://m5qqjwpatpzb.acek-cdn.com/hls2/01/04048/ap37se2hp184_n/master.m3u8?t=a9zkm2ov5i1rEOXlTENQPDP74eqZIoCxQIsYwmYP7fg&s=1750258690&e=129600&f=20241293&srv=F6vE2P5Wjncn&i=0.4&sp=500&p1=F6vE2P5Wjncn&p2=F6vE2P5Wjncn&asn=7713
+#EXTINF:-1 group-title="SPORTS EVENTS" tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg", AVC NATIONS CUP 2025 1
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts
 
-#EXTINF:-1 group-title="SPECIAL MOVIE 2025" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg3ZjBjZmQtMmVlZC00MTJiLThjNDItZjJhMGFlYmYzZmM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Henry Danger: The Movie (2025)
-#EXTVLCOPT:http-referrer=https://tpz6t.com/
-https://be4235.rcr32.ams02.i8yz83pn.com/hls2/03/08055/5jdda2u1wxmx_h/master.m3u8?t=_1wTbihdo9BWcmGoQJ9_kEdnaSYGhRBDBCc0rqGcer0&s=1750258860&e=10800&f=40275888&srv=1065&asn=7713&sp=4000&p=
+
+#EXTINF:-1 group-title="SPORTS EVENTS" tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg", AVC NATIONS CUP 2025 2
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/KrZNRprXLrTDoHd54kRSVg/Fv2lucGIbhPi2caWYvF5Lg/1750245650456/live/may17/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS EVENTS" tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg", AVC NATIONS CUP 2025 3
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/uQYOcx--6ruzsR89RFBGaw/Fv2lucGIbhPi2caWYvF5Lg/1750287297133/live/chimSD/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS EVENTS" tvg-logo="https://iili.io/FJbkjte.png", VOLLEYBALL NATIONS LEAGUE 1
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/KrZNRprXLrTDoHd54kRSVg/Fv2lucGIbhPi2caWYvF5Lg/1750245650456/live/may17/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS EVENTS" tvg-logo="https://iili.io/FJbkjte.png", VOLLEYBALL NATIONS LEAGUE 2
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/SPORTV2.m3u8
+
+#EXTINF:-1 group-title="SPORTS EVENTS" tvg-logo="https://iili.io/FJbkjte.png", VOLLEYBALL NATIONS LEAGUE 3
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/fjzFi8dNU0roJE9gcFTigg/Fv2lucGIbhPi2caWYvF5Lg/1750259140568/live/may171/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS EVENTS" tvg-logo="https://artwork.espncdn.com/programs/a16de718-8286-41c1-b322-6f83432c8653/16x9/large_20210610125415.jpg", ATP 500 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+#EXTINF:-1 group-title="SPORTS EVENTS" tvg-logo="https://artwork.espncdn.com/programs/a16de718-8286-41c1-b322-6f83432c8653/16x9/large_20210610125415.jpg", ATP 500 2 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="SPORTS EVENTS" , WORLD CUP CLUB 1
+http://kstv.us:8080/live/tH300gvHff/8606073792/46506.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="SPORTS EVENTS" , WORLD CUP CLUB 2
+http://goldv3.me:2082/live/drmtv43_476893/YFCPfQ3M/250343.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="SPORTS EVENTS" , WORLD CUP CLUB 3
+http://iptvde.de:8080/live/OsmanTokmak/fgxgthus/89081.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="SPORTS EVENTS" , WORLD CUP CLUB 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/novasport3.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="SPORTS EVENTS" , WORLD CUP CLUB 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii1.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="SPORTS EVENTS" , WORLD CUP CLUB 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii2.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="SPORTS EVENTS" , WORLD CUP CLUB 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii3.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="SPORTS EVENTS" , WORLD CUP CLUB 8
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS EVENTS"  tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", WORLD CUP CLUB 9
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://apisportzz179528093.nsnd.live/MsSIOgAOJ-4mMP-5Wdn5ig/Fv2lucGIbhPi2caWYvF5Lg/1750198368991/live/hd-en-6MtMdzrtPngdTNuG5R/chunklist.m3u8
+
+
 
 ##############################MOTO GP############################
 
