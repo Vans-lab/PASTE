@@ -15,30 +15,23 @@
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts
 
-
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg", [1] 18:00 WIB Pakistan vs Chinese Taipei
-https://drive.google.com/uc?export=download&id=1CcdPjqqztBDDBmTCW-5Hk3xu6I91T8MK&usp
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/uQYOcx--6ruzsR89RFBGaw/Fv2lucGIbhPi2caWYvF5Lg/1750287297133/live/chimSD/chunklist.m3u8
+https://hotlivezz179026907.akainu.xyz/GE_fzA0tYA8c1GfrSxP0uQ/Fv2lucGIbhPi2caWYvF5Lg/1750350687226/live/may20/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg", [1] 20:30 WIB South Korea vs Vietnam
-https://drive.google.com/uc?export=download&id=1CcdPjqqztBDDBmTCW-5Hk3xu6I91T8MK&usp
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/GE_fzA0tYA8c1GfrSxP0uQ/Fv2lucGIbhPi2caWYvF5Lg/1750350687226/live/may20/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg", [1] 23:00 WIB Bahrain vs Indonesia
-https://drive.google.com/uc?export=download&id=1CcdPjqqztBDDBmTCW-5Hk3xu6I91T8MK&usp
-
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png", 16:00 WIB Thailand W vs Italy W
-https://drive.google.com/uc?export=download&id=1CcdPjqqztBDDBmTCW-5Hk3xu6I91T8MK&usp
-
-
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbbh7w-7tHU5h6YEA-ghLcZcyc5cdQdkHGug&s", 15:00 WIB Myanmar (w) U19 vs Indonesia (w) U19
-
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/GE_fzA0tYA8c1GfrSxP0uQ/Fv2lucGIbhPi2caWYvF5Lg/1750350687226/live/may20/chunklist.m3u8
 
 
 
