@@ -637,6 +637,114 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
+##########################VOD 2025#####################
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="CINEMA 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/uxYMN7egzwU9dQWmlm9tVTVpBbe.jpg",Bullet Train Explosion (2025)
+https://cloud.hownetwork.xyz/xxx/IA0lIiANWjUwMB4iblUuKC4XOicqF1pzcmNCYTRVNDwuJxERJhhDdXUyE30/32/480.m3u8
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="CINEMA 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/wmSCSKUI15Q2pApB5f3oEl0EQuE.jpg",Hell of a Summer (2025)
+https://cloud.hownetwork.xyz/xxx/Kh0lImgWEWwjfAQ5Ll0zKm9KeXxwVAAkIDUbExtvNz0hSygscEs/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="CINEMA 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/w04Xg5Bnqj7ECdCxTsHgqK6AtJW.jpg",Last Breath (2025)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/10/Last.Breath.2025.mp4/tracks-v1a1/mono.m3u8
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="CINEMA 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/hhkiqXpfpufwxVrdSftzeKIANl3.jpg",Locked (2025)
+https://cloud.hownetwork.xyz/xxx/LhcqJSAdWnNyY0JhNFU0PC4nERF8G0Z5JjcRLQ/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="CINEMA 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/vmTg5jt6sXsv6GNcAnwqclarFgQ.jpg",Ash (2025)
+https://cloud.hownetwork.xyz/xxx/IwshY3dJRXRvJhIuJ1wJAB1PKHomTxMncw/32/480.m3u8
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="CINEMA 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/7Ky1cTLJzOk8or25YGEvw8S6oxI.jpg",Pangolin: Kulu Journey (2025)
+https://cloud.hownetwork.xyz/xxx/MhknKSoVHi9vOgIgNkN7Mi0NOyAgAFpzcmNCYTRVNDwuJxERdRxGeCBgQXw/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="CINEMA 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/dyRzD90yGBRfRuWyRoGdPbqVJk2.jpg",September Says (2025)
+https://cloud.hownetwork.xyz/xxx/MR05OiAUFSQwfAQtOkN7anJKfGMyHBUlLg4vEyJSZWh0Hi12/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="CINEMA 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/PcB8WoJmw4JcgJFSkeM6Wsq3hm.jpg",Secret: Untold Melody (2025)
+https://cdn4.turboviplay.com/data1/68071f2736f17/68071f2736f17720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="CINEMA 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/n9eNX3F6qEoNpPId0Nj29QLbYmE.jpg",Darkest Miriam (2025)
+https://cloud.hownetwork.xyz/xxx/Jhk7JSAKA2wvOAUlIl17anJKfGMyHBUlLg4vE3RVYDtwGit5/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="CINEMA 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/1n7CuKBshPOBtWFg5xomRr19Ydt.jpg",Oklahoma City Bombing: American Terror (2025)
+https://cdn1.turboviplay.com/data1/680487efc077c/680487efc077c720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="CINEMA 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/zNcVsbNvJRDnMrloUCvb6Tii52r.jpg",It Feeds (2025)
+https://cloud.hownetwork.xyz/xxx/KwxkKCAcEzJvY0d-dh0hPSAcJREdJkF0cTQSKnIF/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="CINEMA 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/h87bgIhs4keL005Ch5aeKhnaAIL.jpg",iHostage (2025)
+https://cloud.hownetwork.xyz/xxx/KxAmPTEYECRvY0d-dh0hPSAcJREdJhQgemBDf3cH/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="CINEMA 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/8R8cOSJ6Z4zH4TIbZY5va9OGgr7.jpg",Strange Memories (2025)
+https://cloud.hownetwork.xyz/xxx/MQw7LyseEmwvNBojMVkzK29KeXxwVAAkIDUbExtvN2h6GXB3J0E/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="CINEMA 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/oYTGM9VGCVkF44QViitVpIOw3wG.jpg",Sampung Utos Kay Josh (2025)
+https://cloud.hownetwork.xyz/xxx/MRkkPjAXEGw3JRg_bls3IW8SJj0tVEVxcGRaOyZSMjQdIBZ9dkxGcXFoFQ/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="CINEMA 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/ubRsrzb6NRW8YhVTJ6jG1kpNvCi.jpg",Chhaava (2025)
+https://cloud.hownetwork.xyz/xxx/IRAhLyQPFmxwYUV5bkczOiYUFhYaQBN4JjRCKic/32/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.themoviedb.org/t/p/w500/p2TnX8MwCM6GUjcX0R6s3wDb9En.jpg" group-title="CINEMA 2025",A Chinese Odyssey: Part One - Pandora's Box
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/A_Chinese_Odyssey_Part_One__Pandora's_Box_1995_Subs_Malay.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.themoviedb.org/t/p/w500/4NVQ6rDjPdJ1fayNggtL87nkAuE.jpg" group-title="CINEMA 2025",A Chinese Odyssey: Part Two - Cinderella
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/A_Chinese_Odyssey_Part_Two__Cinderella_1995_Subs_Malay.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/42df3z4busVoaGDdiV0Eax1NFxs.jpg" group-title="CINEMA 2025",A Chinese Odyssey Part Three
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/A%20Chinese%20Odyssey_%20Part%20Three%20(2016)%20Subs%20Malay.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDk5MzAyZjgtYjExMi00OTlkLTkzMmQtNzAxOGIwMjhmMjU4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg" group-title="CINEMA 2025",Believer
+https://storage.dewanonton.online/hls/d976545a-b7da-4a83-8298-b1ea20993fbc.mp4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original/g9aDZSqH5KmsHbMurhni5d2wq6q.jpg" group-title="CINEMA 2025",Believer 2
+https://storage.dewanonton.online/hls/8e19d490-27bd-456b-890a-0090592fbd56.mp4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjdiYWZiOTQtZmQ4My00YWNiLTllMDEtYWQxODFjNjgzNTNiXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_SX300.jpg" group-title="CINEMA 2025",Bleach
+https://storage.dewanonton.online/hls/30ebae6d-38fc-48af-8e9c-50243154565f.mp4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.themoviedb.org/t/p/w500/4uwxfZBJzk7d1xsbRFgG92R7JtW.jpg" group-title="CINEMA 2025",Dreadout
+https://worker-kasyah.buntai.workers.dev/0:/movie/Asean/DreadOut.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gukSJNCDL2Xx8XB9PE5bL5qBOBQ.jpg" group-title="CINEMA 2025",Hidayah
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Hidayah.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/60eYZkkksgKeeAV8fAAKQslZZnH.jpg" group-title="CINEMA 2025",Kingdom III The Flame of Destiny
+https://worker-kasyah.buntai.workers.dev/0:/movie/Asean/Kingdom_III_Flame_of_Destiny_2023_JAPANESE_1080p_WEB_DL_MalaySub.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUwODUyNDM3NV5BMl5BanBnXkFtZTgwNzk0MzA2NTE@._V1_.jpg" group-title="CINEMA 2025",Police Story: Lockdown
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Police%20Story%202013.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.themoviedb.org/t/p/w500/14nxzkz2ZE0BXoywF6UnP5rjfcL.jpg" group-title="CINEMA 2025",Baaghi 3
+https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Baaghi%203.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f5f3TEVst1nHHyqgn7Z3tlwnBIH.jpg" group-title="CINEMA 2025",type="movie" group-title="CINEMA 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f5f3TEVst1nHHyqgn7Z3tlwnBIH.jpg"
+https://worker-kasyah.buntai.workers.dev/0:/movie/English/Thanksgiving.2023.WD1080P.MLaY.@ceritasarikatamelayu.mp4
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="1003-Gunslingers (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/O7REXWPANWXvX2jhQydHjAq2DV.jpg" group-title="CINEMA 2025",Gunslingers (2025)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1002-A Working Man (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUkUZ8eOnrOnnJAfusZUqKYZiDu.jpg" group-title="CINEMA 2025",A Working Man (2025)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1007- Cleaner (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwzDApMZAGeYCEVjhegKvCzDX0W.jpg" group-title="CINEMA 2025", Cleaner (2025)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1006-Last Breath (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w04Xg5Bnqj7ECdCxTsHgqK6AtJW.jpg" group-title="CINEMA 2025",1006-Last Breath (2025)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1005-Silent Zone (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YZ0JRRD7mt8Ov9eIEGWMbDybx2.jpg" group-title="CINEMA 2025",1005-Silent Zone (2025)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1006-Popeye the Slayer Man (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVwu3mN7hr1yF467pGct3yQFM41.jpg" group-title="CINEMA 2025",1006-Popeye the Slayer Man (2025)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1006-Popeye the Slayer Man (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVwu3mN7hr1yF467pGct3yQFM41.jpg" group-title="CINEMA 2025",Captain America: Brave New World (2025)
+https://zozotv.xyz:443/movie/Hadi9399/abc12345/4559.mp4
+
 ##########################PREMIUM MOVIE#####################
 #EXTINF:-1 group-title="PREMIUM MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png",IMC 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
