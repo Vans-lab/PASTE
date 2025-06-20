@@ -61,6 +61,178 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/46506.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 http://kstv.us:8080/live/tH300gvHff/8606073792/46506.m3u8
 
+```````EVENT  ``````
+
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🇧🇷
+#EXTGRP: FCWC 2025 🛜
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
+https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🇧🇷
+#EXTGRP: FCWC 2025 🛜
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🇧🇷
+#EXTGRP: FCWC 2025 🛜
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🇧🇷
+#EXTGRP: FCWC 2025 🛜
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🇧🇷
+#EXTGRP: FCWC 2025 🛜
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🇧🇷
+#EXTGRP: FCWC 2025 🛜
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1cc74a5123cb29f0ec0bc40d6c2f270:a5ed8184ee98c3f0a3c261129c8d6e8b
+https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jg2rwtxaop/out/v1/74eba8f71bf14154ac3a9491371a6628/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🇧🇷
+#EXTGRP: FCWC 2025 🛜
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
+https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🇧🇷 PR
+#EXTGRP: FCWC 2025 🛜
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=48a72bdd5f914e5daebff56753aa497e:3aa0d8797bacf416a8dd894f7974a097
+https://cwtvbk.cdnwatchlabs.io/dash/channels/globocuritiba/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🇧🇷 MS
+#EXTGRP: FCWC 2025 🛜
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=934d9ecf65ab4b218651342adc1f41ea:19fce5552a9362e24b7303de0e400c94
+https://cwtvbk.cdnwatchlabs.io/dash/channels/globocorumba/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🇧🇷 PA
+#EXTGRP: FCWC 2025 🛜
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c24921eadf141e7aabd2ed5be9656ee:1baeb69f545e1a025c06d2f44a74927f
+https://cwtvbk.cdnwatchlabs.io/dash/channels/globocastanhal/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🇮🇹
+#EXTGRP: FCWC 2025 🛜
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🇮🇹
+#EXTGRP: FCWC 2025 🛜
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🇮🇹
+#EXTGRP: FCWC 2025 🛜
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://live3dvbi.msf.cdn.mediaset.net/live/dash-playready-mpx-C5-ll.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🇩🇪
+#EXTGRP: FCWC 2025 🛜
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
+https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🇩🇪
+#EXTGRP: FCWC 2025 🛜
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
+https://ac-009.live.p7s1video.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🇩🇪
+#EXTGRP: FCWC 2025 🛜
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47d68f825cdea389eb3b75a39275fc61:97e8875d20f9b95a2b59ed79b4a358a1
+https://ac-001.live.p7s1video.net/a30b657a/t_001/sat1-at/cenc-default.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🇫🇷
+#EXTGRP: FCWC 2025 🛜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺
+#EXTGRP: FCWC 2025 🛜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 
+#EXTGRP: FCWC 2025 🛜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🌍
+#EXTGRP: FCWC 2025 🛜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5567531458e9c2e93d22935c45fdef52:f2f613fb2132acd019d2a96bf1be15c1
+https://uselector.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🌍
+#EXTGRP: FCWC 2025 🛜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61500ce9a45342b897ba868f4fc59910:93a1c516e6b4fc91fa88c59922f6d3d7
+https://shls-mbcaction-prod-dub-enc.edgenextcdn.net/out/v1/8732f5132b274000bd59aee64255241c/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🌍
+#EXTGRP: FCWC 2025 🛜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🌍
+#EXTGRP: FCWC 2025 🛜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🌍
+#EXTGRP: FCWC 2025 🛜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🌍
+#EXTGRP: FCWC 2025 🛜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🌍
+#EXTGRP: FCWC 2025 🛜
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4da4fec209622c5da04762e8d2d2f1d7:4495168cf1a99038546b9d042dbe7c97
+https://uselector.cdn.intigral-ott.net/MBMS2/MBMS2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🌍 🇮🇷
+#EXTGRP: FCWC 2025 🛜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://spstr.abntv.live/hls/psstream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺 🇹🇭
+#EXTGRP: FCWC 2025 🛜
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
+https://cnt1-streamer17.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",⚽️🗺
+#EXTGRP: FCWC 2025 🛜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+
 <=================== Cadangan =============================>
 
 #EXTINF:-1 group-title="SPORTS EVENTS" tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg", AVC NATIONS CUP 2025 1
