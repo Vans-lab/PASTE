@@ -6,59 +6,11 @@
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
 #https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_it_italia_1/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://cdn.rri.co.id/berita/Denpasar/f/1750442828814-pp/r7cz11ws0oh156n.jpeg", 19:30 WIB Persib vs Dewa United
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://103.159.195.61:9981/stream/channelid/828235930?profile=pass
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://cdn.rri.co.id/berita/Denpasar/f/1750442828814-pp/r7cz11ws0oh156n.jpeg", 19:30 WIB Persib vs Dewa United
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png", 14:00 WIB Indonesia VS Thailand
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/aKsf_Ijs8McJ6yYftpZ6Gg/Fv2lucGIbhPi2caWYvF5Lg/1751998829213/live/dungSD/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://cdn.rri.co.id/berita/Denpasar/f/1750442828814-pp/r7cz11ws0oh156n.jpeg", 19:30 WIB Persib vs Dewa United
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://apisportzz179528093.nsnd.live/nRtlQFmXJViqMv8IaGOKGA/Fv2lucGIbhPi2caWYvF5Lg/1751998829213/live/sd-6MuTcduzCE1By81t1q/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://cdn.rri.co.id/berita/Denpasar/f/1750442828814-pp/r7cz11ws0oh156n.jpeg", 19:30 WIB Persib vs Dewa United
-#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://twnx1-cf.boblcfwudz421.com/auth%3De3625f44ce40caa5f1efc9e2e0714c999e6ed6b189214edc9e7a780184421f8a1c78b46521fe2a158e2937a89260311037eef508985981f0fb5b20a8cb8adb4e213326115c515346d9213fceb3d55068dba0719d36a995d033172c939594fe3a453af143db89c1ab0324c5ad70ba338277b7b34f761720841351656baa1e06a9323ede5d87176ef40f7dd907e2de9fb569bf2af6cd52f1f041f1e4215d80adf4%26cid%3Day7sF03D6A9tR9ssTMZFH250708%26_v%3D2%26_r%3DfHqWQq%26_vis%3D88408524d8b09590aa60ef91c506a118a101c948fd12b400b8034dd6bb67a3aa%26_vvs%3D24563f20c3779c917bd6a7f1d563592159136aaf132db90e5b9a13cf8d41ccb5/transcode/c358924_480p.m3u8
-
-
-
-
-
-
-
-<=================== EVENT 2 =============================>
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://editorial.uefa.com/resources/0271-1418bdb8ac45-d6313bc7dda2-1000/weuro_graphic.png", 02:00 WIB Polandia vs Swedia
-https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://editorial.uefa.com/resources/0271-1418bdb8ac45-d6313bc7dda2-1000/weuro_graphic.png", 02:00 WIB Polandia vs Swedia
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://newlife3.wanicelife.com:8880/live/D12m3851/37998742/3192.ts
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://editorial.uefa.com/resources/0271-1418bdb8ac45-d6313bc7dda2-1000/weuro_graphic.png", 23:00 WIB Inggris vs Belanda
-https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://editorial.uefa.com/resources/0271-1418bdb8ac45-d6313bc7dda2-1000/weuro_graphic.png", 23:00 WIB Inggris vs Belanda
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://newlife3.wanicelife.com:8880/live/D12m3851/37998742/3192.ts
-
-
-#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="SPECIAL LIVE", 02:00 WIB Fluminense vs Chelsea [Semi Final 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/sportv.m3u8
-
-
-
-
+https://hotlivezz179026907.akainu.xyz/Fc-yn_N0UD1CKW8Xr7rkTw/Fv2lucGIbhPi2caWYvF5Lg/1752066294774/live/may211/chunklist.m3u8
 ```````EVENT  ``````
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",
 
