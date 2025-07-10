@@ -54,7 +54,10 @@ https://hotlivezz179602324.akainu.xyz/eY_uKbg7Rc91s1vVYl3nug/Fv2lucGIbhPi2caWYvF
 https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=b9f1cc2f574688688b0d8fe70ae2cd3f&wsABSTime=1752121512
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://cdn.rri.co.id/berita/Denpasar/f/1750442828814-pp/r7cz11ws0oh156n.jpeg", 19:30 WIB Arema vs Oxford United
-https://drive.google.com/uc?export=download&id=1wQ9XNgjnYmkgOJqnth6oTzEJTOl3ZMJa&usp
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/Re1FDJG6KY7qYR-rXg-Ikg/Fv2lucGIbhPi2caWYvF5Lg/1752170814278/live/Z1SD/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://cdn.rri.co.id/berita/Denpasar/f/1750442828814-pp/r7cz11ws0oh156n.jpeg", 19:30 WIB Arema vs Oxford United
 #EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
