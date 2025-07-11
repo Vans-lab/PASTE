@@ -6,97 +6,94 @@
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
 #https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_it_italia_1/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png", 17:00 WIB Philippines vs Thailand 
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png", 13:30 WIB Indonesia vs Cambodia 
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/sspPdookoIBN644X48Td8g/Fv2lucGIbhPi2caWYvF5Lg/1752152018894/live/may211/chunklist.m3u8
+https://hotlivezz179026907.akainu.xyz/myPvr5XrL85cf74pgTQAnA/Fv2lucGIbhPi2caWYvF5Lg/1752236173109/live/may17/chunklist.m3u8
+https://hotlivezz179602324.akainu.xyz/hgHiZmJyEhi-OdDnPPV6kw/Fv2lucGIbhPi2caWYvF5Lg/1752235484264/live/Z1SD/chunklist.m3u8
 
-
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png",003 WIB VOLLEYBALL NATIONS LEAGUE
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png", 17:30 WIB Vietnam vs Thailand 
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/5yG6kawkCqeEaVYK1Jwq_Q/Fv2lucGIbhPi2caWYvF5Lg/1752149851225/live/may21/chunklist.m3u8
+https://hotlivezz179026907.akainu.xyz/myPvr5XrL85cf74pgTQAnA/Fv2lucGIbhPi2caWYvF5Lg/1752236173109/live/may17/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png", 17:20 WIB South Korea (w) vs Japan (w)
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png",003 VOLLEYBALL NATIONS LEAGUE 3
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/928Yzu2fsVjTeRueprsHEw/Fv2lucGIbhPi2caWYvF5Lg/1752235324405/live/may171/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png", 13:30 WIB Bulgaria Women vs France Women
 #EXTVLCOPT:http-origin=https://xlz.plcdn.xyz/ajax
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/ajax/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=59e81d52f701e2857d51e17850a3400f&wsABSTime=1752169485
+https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=c9b36d9de3cf4c3df5143de8cf815bd1&wsABSTime=1752255055
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png", 22:00 WIB Italy (w) vs Serbia (w) 
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png", 17:30 WIB Poland (w) vs Brazil (w)
 #EXTVLCOPT:http-origin=https://xlz.plcdn.xyz/ajax
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/ajax/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=59e81d52f701e2857d51e17850a3400f&wsABSTime=1752169485
+https://live3.procdnlive.com/livecdn/channel40.flv?auth_key=3000001752212243-0-0-eb6a89300fcdceea9ade46a438fe40c2
 
 
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://cdn.rri.co.id/berita/Denpasar/f/1750442828814-pp/r7cz11ws0oh156n.jpeg", 15:30 WIB Dewa United vs Port MTI
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://103.159.195.61:9981/stream/channelid/828235930?profile=pass
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://cdn.rri.co.id/berita/Denpasar/f/1750442828814-pp/r7cz11ws0oh156n.jpeg", 15:30 WIB Dewa United vs Port MTI
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/eY_uKbg7Rc91s1vVYl3nug/Fv2lucGIbhPi2caWYvF5Lg/1752155835762/live/caSD/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://cdn.rri.co.id/berita/Denpasar/f/1750442828814-pp/r7cz11ws0oh156n.jpeg", 15:30 WIB Dewa United vs Port MTI
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png", 22:00 WIB Belgium (w) vs Serbia (w) 
 #EXTVLCOPT:http-origin=https://xlz.plcdn.xyz/ajax
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/ajax/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=b9f1cc2f574688688b0d8fe70ae2cd3f&wsABSTime=1752121512
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://cdn.rri.co.id/berita/Denpasar/f/1750442828814-pp/r7cz11ws0oh156n.jpeg", 19:30 WIB Arema vs Oxford United
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/Re1FDJG6KY7qYR-rXg-Ikg/Fv2lucGIbhPi2caWYvF5Lg/1752170814278/live/Z1SD/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://cdn.rri.co.id/berita/Denpasar/f/1750442828814-pp/r7cz11ws0oh156n.jpeg", 19:30 WIB Arema vs Oxford United
-#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://mv-c767f67a88-lb.fast5cdn.net/98f9323d8130f133e8a96fd76c21bcd2/1752171240259/channel-2/index.m3u8
-
-
+https://live3.procdnlive.com/livecdn/channel40.flv?auth_key=3000001752212243-0-0-eb6a89300fcdceea9ade46a438fe40c2
 
 <=================== EVENT 2 =============================>
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://editorial.uefa.com/resources/0271-1418bdb8ac45-d6313bc7dda2-1000/weuro_graphic.png", 02:00 WIB Norwegia vs Islandia
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://editorial.uefa.com/resources/0271-1418bdb8ac45-d6313bc7dda2-1000/weuro_graphic.png", 02:00 WIB Italia vs Spanyol
 https://wahyu1ptv.pages.dev/Sport.TV2-HD.m3u8
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://editorial.uefa.com/resources/0271-1418bdb8ac45-d6313bc7dda2-1000/weuro_graphic.png", 02:00 WIB Finlandia vs Swiss
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://editorial.uefa.com/resources/0271-1418bdb8ac45-d6313bc7dda2-1000/weuro_graphic.png", 02:00 WIB Portugal vs Belgia
 https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142756
 
 
 
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png", 01:30 WIB Belgium Women vs Netherlands Women 
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png", 01:30 WIB Czech Republic Women vs Turkey Women  
 #EXTVLCOPT:http-origin=https://xlz.plcdn.xyz/ajax
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/ajax/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel40.flv?auth_key=3000001752126626-0-0-97f4d46c251cd504da58fb419caf7bff
+https://live3.procdnlive.com/livecdn/channel40.flv?auth_key=3000001752212243-0-0-eb6a89300fcdceea9ade46a438fe40c2
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png", 04:00 WIB Thailand Women vs Germany Women
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png", 04:00 WIB Thailand Women vs Dominican Republic Women 
 #EXTVLCOPT:http-origin=https://xlz.plcdn.xyz/ajax
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/ajax/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel40.flv?auth_key=3000001752126626-0-0-97f4d46c251cd504da58fb419caf7bff
+https://live3.procdnlive.com/livecdn/channel41.flv?auth_key=3000001752212800-0-0-14d04b6dd6ab3f66cc15b3290c56b9a4
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png", 07:30 WIB Dominican Republic Women vs USA Women
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png", 07:30 WIB Canada Women vs China Women
 #EXTVLCOPT:http-origin=https://xlz.plcdn.xyz/ajax
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/ajax/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel40.flv?auth_key=3000001752126626-0-0-97f4d46c251cd504da58fb419caf7bff
+https://live3.procdnlive.com/livecdn/channel40.flv?auth_key=3000001752212243-0-0-eb6a89300fcdceea9ade46a438fe40c2
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png", 13:30 WIB South Korea Women vs Bulgaria Women
+#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz/ajax
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/ajax/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel40.flv?auth_key=3000001752212243-0-0-eb6a89300fcdceea9ade46a438fe40c2
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png", 17:30 WIB Japan Women vs Poland Women
+#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz/ajax
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/ajax/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel40.flv?auth_key=3000001752212243-0-0-eb6a89300fcdceea9ade46a438fe40c2
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://iili.io/FJbkjte.png", 20:00 WIB Czech Republic Women vs Netherlands Women
+#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz/ajax
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/ajax/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel40.flv?auth_key=3000001752212243-0-0-eb6a89300fcdceea9ade46a438fe40c2
+
 
 ```````EVENT  ``````
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/480px-2025_FIFA_Club_World_Cup.svg.png",
