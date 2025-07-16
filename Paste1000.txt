@@ -6,112 +6,119 @@
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
 #https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_it_italia_1/tracks-v1a1/mono.ts.m
 
-#EXTINF:-1 group-title=" SPORTS EVENT 15/JULI/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", 17:00 WIB Malaysia vs Filipina
+#EXTINF:-1 group-title="EVENT 16/JULI/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", 17:00 WIB Kamboja vs Laos
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
 https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
 
-#EXTINF:-1 group-title=" SPORTS EVENT 15/JULI/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", 17:00 WIB Malaysia vs Filipina
-#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel4.flv?wsSecret=2cbb55a6cae5cc3241c389ff439f592f&wsABSTime=1752474518
+#EXTINF:-1 group-title="EVENT 16/JULI/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", 20:00 WIB Myanmar vs Timor-Leste
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
+https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
 
-#EXTINF:-1 group-title=" SPORTS EVENT 15/JULI/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", 17:00 WIB Malaysia vs Filipina
+
+#EXTINF:-1 group-title="EVENT 16/JULI/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png", 16:00 WIB Vietnam VS Kamboja
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/-kGjIn3bMa1qZLkv-zp5lQ/Fv2lucGIbhPi2caWYvF5Lg/1752593959314/live/may211/chunklist.m3u8
-https://hotlivezz179602324.akainu.xyz/Fp5tF3yfyh9SwpSlLAaeGA/Fv2lucGIbhPi2caWYvF5Lg/1752585002177/live/dungSD/chunklist.m3u8
+https://hotlivezz179026907.akainu.xyz/ijm_JFIvEXeRKFYXxK5SAw/Fv2lucGIbhPi2caWYvF5Lg/1752679468223/live/may17/chunklist.m3u8
 
-#EXTINF:-1 group-title=" SPORTS EVENT 15/JULI/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", 17:00 WIB Malaysia vs Filipina
-
-
-#EXTINF:-1 group-title=" SPORTS EVENT 15/JULI/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", 20:00 WIB Indonesia vs Brunei Darussalam
-https://drive.google.com/uc?export=download&id=1wQ9XNgjnYmkgOJqnth6oTzEJTOl3ZMJa&usp
-
-#EXTINF:-1 group-title=" SPORTS EVENT 15/JULI/2025" tvg-logo="https://context.id/images-data/2024/03/05/champ.jpg", 22:00 WIB Kairat vs Olimpija
-#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=d7e5d8e68464315f3384202a394c4eed&wsABSTime=1752609692
-
-#EXTINF:-1 group-title=" SPORTS EVENT 15/JULI/2025" tvg-logo="https://context.id/images-data/2024/03/05/champ.jpg", 22:30 WIB Lincoln Red Imps vs Víkingur
+#EXTINF:-1 group-title="EVENT 16/JULI/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png", 19:00 WIB Indonesia vs Philippines
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/gs71B72SMhLsknAw1mI5tA/Fv2lucGIbhPi2caWYvF5Lg/1752579190597/live/mySD/chunklist.m3u8
-
-
-<=================== EVENT 2 =============================>
-
-#EXTINF:-1 group-title=" SPORTS EVENT 16/JULI/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", 17:00 WIB Kamboja vs Laos
-https://drive.google.com/uc?export=download&id=1wQ9XNgjnYmkgOJqnth6oTzEJTOl3ZMJa&usp
-
-#EXTINF:-1 group-title=" SPORTS EVENT 16/JULI/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", 20:00 WIB Myanmar vs Timor-Leste
-https://drive.google.com/uc?export=download&id=1wQ9XNgjnYmkgOJqnth6oTzEJTOl3ZMJa&usp
+https://hotlivezz179602324.akainu.xyz/I3yJzLRh2GArs2fAf7OSFA/Fv2lucGIbhPi2caWYvF5Lg/1752688231996/live/nenSD/chunklist.m3u8
+https://hotlivezz179026907.akainu.xyz/ijm_JFIvEXeRKFYXxK5SAw/Fv2lucGIbhPi2caWYvF5Lg/1752679468223/live/may17/chunklist.m3u8
 
 
 
-#EXTINF:-1 group-title=" SPORTS EVENT 16/JULI/2025" tvg-logo="https://context.id/images-data/2024/03/05/champ.jpg", 01:30 WIB Inter Club d'Escaldes vs FCSB
+#EXTINF:-1 group-title="EVENT 16/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png",003 VOLLEYBALL NATIONS LEAGUE 1
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/8tZZh0DdHtcveKnuwJHhQg/Fv2lucGIbhPi2caWYvF5Lg/1752682392870/live/may21/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="EVENT 16/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 13.30 WIB Turkiye vs Amerika Serikat
 #EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=7fa686119883da71a0751cf77708c086&wsABSTime=1752609969
+https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=d66f096bfaa6629176f6dadf9e414f8b&wsABSTime=1752338426
 
-#EXTINF:-1 group-title=" SPORTS EVENT 16/JULI/2025" tvg-logo="https://context.id/images-data/2024/03/05/champ.jpg", 02:00 WIB Breidablik vs Egnatia Rrogozhinë
-
-
-
-
-#EXTINF:-1 group-title=" SPORTS EVENT 16/JULI/2025" tvg-logo="https://cdn1.nottinghamforest.news/uploads/22/2025/05/generated-image-124.jpg", 23:00 WIB Auda vs Larne
-
-
-
-
-#EXTINF:-1 group-title=" SPORTS EVENT 16/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 10.00 WIB Argentina vs Brasil
-#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel50.flv?auth_key=3000001752294816-0-0-2be0d886daf39fb0d1e0656ed9a1d0a8
-
-#EXTINF:-1 group-title=" SPORTS EVENT 16/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 13.30 WIB Turkiye vs Amerika Serikat
-#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel51.flv?auth_key=3000001752385336-0-0-3d1632805feef0a46250fcf12599b1fe
-
-#EXTINF:-1 group-title=" SPORTS EVENT 16/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 17.20 WIB Jerman vs Jepang
+#EXTINF:-1 group-title="EVENT 16/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 17.20 WIB Jerman vs Jepang
 #EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://live3.procdnlive.com/livecdn/channel52.flv?auth_key=3000001752473151-0-0-9c99561438acddb496bf1681dcd7ec9b
 
-#EXTINF:-1 group-title=" SPORTS EVENT 16/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 18.00 WIB China vs Jepang
+#EXTINF:-1 group-title="EVENT 16/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 18.00 WIB China vs Jepang
 #EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel50.flv?auth_key=3000001752294816-0-0-2be0d886daf39fb0d1e0656ed9a1d0a8
+https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=d66f096bfaa6629176f6dadf9e414f8b&wsABSTime=1752338426
 
-#EXTINF:-1 group-title=" SPORTS EVENT 16/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 18.00 WIB Ukraina vs Belanda
+#EXTINF:-1 group-title="EVENT 16/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 18.00 WIB Ukraina vs Belanda
 #EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://live3.procdnlive.com/livecdn/channel51.flv?auth_key=3000001752385336-0-0-3d1632805feef0a46250fcf12599b1fe
 
-#EXTINF:-1 group-title=" SPORTS EVENT 16/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 21.30 WIB Bulgaria vs Kuba
+#EXTINF:-1 group-title="EVENT 16/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 21.30 WIB Bulgaria vs Kuba
 #EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://live3.procdnlive.com/livecdn/channel53.flv?auth_key=3000001752473535-0-0-d5788699ba35cec15068a01b85a9a9da
 
-#EXTINF:-1 group-title=" SPORTS EVENT 16/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 21.30 WIB Serbia vs Italia
+#EXTINF:-1 group-title="EVENT 16/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 21.30 WIB Serbia vs Italia
 #EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel52.flv?auth_key=3000001752473151-0-0-9c99561438acddb496bf1681dcd7ec9b
+https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=d66f096bfaa6629176f6dadf9e414f8b&wsABSTime=1752338426
 
 
+<=================== EVENT 2 =============================>
+
+#EXTINF:-1 group-title="EVENT 17/JULI/2025" tvg-logo="https://context.id/images-data/2024/03/05/champ.jpg", 01:45 WIB Linfield vs Shelbourne
+#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=d7e5d8e68464315f3384202a394c4eed&wsABSTime=1752609692
+
+
+
+
+#EXTINF:-1 group-title="EVENT 17/JULI/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNZdjY8F0pXyoBGmS_er-G4_pJ_T-7kumY5Q&s", 02:00 WIB Norwegia vs Italia
+https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
+
+#EXTINF:-1 group-title="EVENT 17/JULI/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNZdjY8F0pXyoBGmS_er-G4_pJ_T-7kumY5Q&s", 02:00 WIB Norwegia vs Italia
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/4t96f0Bltc0PoGLzYkA5vA/Fv2lucGIbhPi2caWYvF5Lg/1752015372672/live/mapSD/chunklist.m3u8
+
+
+
+#EXTINF:-1 group-title="EVENT 17/JULI/2025" tvg-logo="https://assets.khelnow.com/news/uploads/2025/07/Brighton-Hove-Albion-vs-Stoke-City.jpg", 01:00 WIB Brighton & Hove Albion vs Stoke City
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+
+
+#EXTINF:-1 group-title="EVENT 17/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 01:00 WIB Iran vs Poland
+#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=d66f096bfaa6629176f6dadf9e414f8b&wsABSTime=1752338426
+
+#EXTINF:-1 group-title="EVENT 17/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 01:30 WIB Canada vs Slovenia
+#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel51.flv?auth_key=3000001752385336-0-0-3d1632805feef0a46250fcf12599b1fe
 
 ##############################MOTO GP############################
 
