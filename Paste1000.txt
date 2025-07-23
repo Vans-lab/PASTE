@@ -17,36 +17,89 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 
-#EXTINF:-1 group-title="EVENT 21/JULI/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", 20:00 WIB Indonesia vs Malaysia
-https://drive.google.com/uc?export=download&id=1wQ9XNgjnYmkgOJqnth6oTzEJTOl3ZMJa&usp
+#EXTINF:-1 group-title="EVENT 23/JULI/2025" tvg-logo="https://cms.westjavatoday.com/uploads/images/2025/06/image_750x500_6850c00667113.jpg",002 Badminton China Open 2025 [22–27 Juli 2025] 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18252
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18252
 
-#EXTINF:-1 group-title="EVENT 21/JULI/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", 20:00 WIB Filipina vs Brunei Darussalam
+#EXTINF:-1 group-title="EVENT 23/JULI/2025" tvg-logo="https://cms.westjavatoday.com/uploads/images/2025/06/image_750x500_6850c00667113.jpg",002 Badminton China Open 2025 [22–27 Juli 2025] 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18249
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
+
+
+#EXTINF:-1 group-title="EVENT 23/JULI/2025" tvg-logo="https://cms.westjavatoday.com/uploads/images/2025/06/image_750x500_6850c00667113.jpg",002 Badminton China Open 2025 [22–27 Juli 2025] 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18250
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18250
+
+
+
+
+#EXTINF:-1 group-title="EVENT 23/JULI/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 18:30 WIB Arsenal vs AC Miland
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
+
+#EXTINF:-1 group-title="EVENT 23/JULI/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 18:30 WIB Arsenal vs AC Miland
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/laZdVSkt5CYY68hY86QktQ/Fv2lucGIbhPi2caWYvF5Lg/1752940394477/live/caSD/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/GTw4YpifNm0jTIwcTSEu4Q/Fv2lucGIbhPi2caWYvF5Lg/1753029646867/live/oldSD/chunklist.m3u8
 
+#EXTINF:-1 group-title="EVENT 23/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 21:30 WIB Italy (w) vs USA (w)
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/GTw4YpifNm0jTIwcTSEu4Q/Fv2lucGIbhPi2caWYvF5Lg/1753029646867/live/oldSD/chunklist.m3u8
 
+#EXTINF:-1 group-title="EVENT 23/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 21:30 WIB Italy (w) vs USA (w)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18851
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18851
 
 <=================== EVENT 2 =============================>
 
-#EXTINF:-1 group-title="EVENT 22/JULI/2025" tvg-logo="https://context.id/images-data/2024/03/05/champ.jpg", champion league
+#EXTINF:-1 group-title="EVENT 24/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 01:00 WIB Poland (w) vs China (w) 
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/g21LsqgXjGYZ8fUx4q462g/Fv2lucGIbhPi2caWYvF5Lg/1753029423773/live/kienSD/chunklist.m3u8
 
-#EXTINF:-1 group-title="EVENT 22/JULI/2025" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p3/232/2025/07/12/Liga-Europa-logo-4-3108605250.jpg", 00:30 WIB CFR Cluj vs Paksi SE
-
-#EXTINF:-1 group-title="EVENT 22/JULI/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNZdjY8F0pXyoBGmS_er-G4_pJ_T-7kumY5Q&s", 02:00 WIB Prancis vs Jerman
-#https://wahyu1ptv.pages.dev/Sport.TV2-HD.m3u8
-#https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
-
-
-#EXTINF:-1 group-title="EVENT 22/JULI/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 02:00 WIB Sporting CP vs Sunderland
+#EXTINF:-1 group-title="EVENT 24/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 01:00 WIB Poland (w) vs China (w) 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18851
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18851
 
+
+#EXTINF:-1 group-title="EVENT 24/JULI/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 02:00 WIB Fenerbahçe vs Al Ittihad
+https://wahyu1ptv.pages.dev/Sport.TV2-HD.m3u8
+
+
+#EXTINF:-1 group-title="EVENT 24/JULI/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNZdjY8F0pXyoBGmS_er-G4_pJ_T-7kumY5Q&s", 02:00 WIB Jerman vs Spanyol
+https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
+#https://wahyu1ptv.pages.dev/Sport.TV2-HD.m3u8
+
+#EXTINF:-1 group-title="EVENT 24/JULI/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNZdjY8F0pXyoBGmS_er-G4_pJ_T-7kumY5Q&s", 02:00 WIB Jerman vs Spanyol
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/GTw4YpifNm0jTIwcTSEu4Q/Fv2lucGIbhPi2caWYvF5Lg/1753029646867/live/oldSD/chunklist.m3u8
 <=================== Cadangan =============================>
 
 #EXTINF:-1 group-title=" SPORTS EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 1
@@ -180,7 +233,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 
 #EXTINF:-1 group-title="MOTOGP CEKO" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",60 FPS
 #EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-https://convps.hdtvs1.top/aHR0cHM6Ly9vZTIuczRzdHJlYW0uY2ZkL3N0cmVhbW9yL2hscy8xL3N0cmVhbS5tM3U4.m3u8
+#https://convps.hdtvs1.top/aHR0cHM6Ly9vZTIuczRzdHJlYW0uY2ZkL3N0cmVhbW9yL2hscy8xL3N0cmVhbS5tM3U4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmrtkTK/tntsports2.jpg" group-title="MOTOGP CEKO",TNT Sports 2 
@@ -189,7 +242,7 @@ https://convps.hdtvs1.top/aHR0cHM6Ly9vZTIuczRzdHJlYW0uY2ZkL3N0cmVhbW9yL2hscy8xL3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?encoding=segmentBase
+#https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?encoding=segmentBase
 
 #EXTM3U
 #EXT-X-VERSION:3
@@ -198,16 +251,16 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qv
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 
 #EXTINF:-1 group-title="MOTOGP CEKO" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NUKLIR
 #EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-https://master.idxplayer.com/aHR0cHM6Ly9zZy5zMnN0cmVhbS5jZmQvc3RyZWFtc2cvaGxzLzAvc3RyZWFtLm0zdTg=.m3u8
+#https://master.idxplayer.com/aHR0cHM6Ly9zZy5zMnN0cmVhbS5jZmQvc3RyZWFtc2cvaGxzLzAvc3RyZWFtLm0zdTg=.m3u8
 
 #EXTINF:-1 group-title="MOTOGP CEKO" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NONTONGP
 #EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-https://master2.idxplayer.com/aHR0cHM6Ly9zZy5zMnN0cmVhbS5jZmQvc3RyZWFtc2cvaGxzLzIvc3RyZWFtLm0zdTg=.m3u8
+#https://master2.idxplayer.com/aHR0cHM6Ly9zZy5zMnN0cmVhbS5jZmQvc3RyZWFtc2cvaGxzLzIvc3RyZWFtLm0zdTg=.m3u8
 
 
 
