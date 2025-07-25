@@ -17,15 +17,7 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 
-#EXTINF:-1 group-title="EVENT 24/JULI/2025" tvg-logo="https://cms.westjavatoday.com/uploads/images/2025/06/image_750x500_6850c00667113.jpg",002 Badminton China Open 2025 [22–27 Juli 2025] 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18252
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18252
-
-#EXTINF:-1 group-title="EVENT 24/JULI/2025" tvg-logo="https://cms.westjavatoday.com/uploads/images/2025/06/image_750x500_6850c00667113.jpg",002 Badminton China Open 2025 [22–27 Juli 2025] 2
+#EXTINF:-1 group-title="EVENT 25/JULI/2025" tvg-logo="https://cms.westjavatoday.com/uploads/images/2025/06/image_750x500_6850c00667113.jpg",002 Badminton China Open 2025 [22–27 Juli 2025] 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -33,8 +25,7 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18252
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18249
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
 
-
-#EXTINF:-1 group-title="EVENT 24/JULI/2025" tvg-logo="https://cms.westjavatoday.com/uploads/images/2025/06/image_750x500_6850c00667113.jpg",002 Badminton China Open 2025 [22–27 Juli 2025] 3
+#EXTINF:-1 group-title="EVENT 25/JULI/2025" tvg-logo="https://cms.westjavatoday.com/uploads/images/2025/06/image_750x500_6850c00667113.jpg",002 Badminton China Open 2025 [22–27 Juli 2025] 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -42,8 +33,17 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18250
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18250
 
+#EXTINF:-1 group-title="EVENT 25/JULI/2025" tvg-logo="https://cms.westjavatoday.com/uploads/images/2025/06/image_750x500_6850c00667113.jpg",002 Badminton China Open 2025 [22–27 Juli 2025] 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18252
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18252
 
-#EXTINF:-1 group-title="EVENT 24/JULI/2025" tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2025/07/996x664/1_8d97854.jpg", 16:30 WIB Timnas Putri U21 vs Mabes TNI
+
+
+#EXTINF:-1 group-title="EVENT 25/JULI/2025" tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2025/07/996x664/1_8d97854.jpg", 16:30 WIB Timnas Putri U21 vs O2C Bandung
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -51,7 +51,7 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18250
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19176
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19176
 
-#EXTINF:-1 group-title="EVENT 24/JULI/2025" tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2025/07/996x664/1_8d97854.jpg", 19:00 WIB Timnas Putri Senior vs O2C Bandung 
+#EXTINF:-1 group-title="EVENT 25/JULI/2025" tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2025/07/996x664/1_8d97854.jpg", 19:00 WIB Timnas Putri Senior vs Mabes TNI 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -60,17 +60,42 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19176
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19176
 
 
-#EXTINF:-1 group-title="EVENT 24/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 21:30 WIB Japan (w) vs Turkey (w)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18851
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18851
 
-#EXTINF:-1 group-title="EVENT 24/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 21:30 WIB Japan (w) vs Turkey (w)
+
+
+#EXTINF:-1 group-title="EVENT 25/JULI/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", 16:00 WIB Vietnam vs Filipina
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+#EXTINF:-1 group-title="EVENT 25/JULI/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", 20:00 WIB Indonesia vs Thailand
 https://drive.google.com/uc?export=download&id=1wQ9XNgjnYmkgOJqnth6oTzEJTOl3ZMJa&usp
 
+
+
+
+#EXTINF:-1 group-title="EVENT 25/JULI/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LOGO_PRO_FUTSAL_LEAGUE_2025.png", 16:00 WIB Unggul FC vs Fafage Banua
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+#EXTINF:-1 group-title="EVENT 25/JULI/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LOGO_PRO_FUTSAL_LEAGUE_2025.png", 19:00 WIB BTS FC vs Blacksteel FC
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+
+
+#EXTINF:-1 group-title="EVENT 25/JULI/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 22:00 WIB FC Köln vs Leicester City
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/93GbjqbiJR_iJRQ3faULhA/Fv2lucGIbhPi2caWYvF5Lg/1753209091946/live/caSD/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="EVENT 24/JULI/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNZdjY8F0pXyoBGmS_er-G4_pJ_T-7kumY5Q&s", 02:00 WIB Jerman vs Spanyol
@@ -80,23 +105,17 @@ https://drive.google.com/uc?export=download&id=1wQ9XNgjnYmkgOJqnth6oTzEJTOl3ZMJa
 
 <=================== EVENT 2 =============================>
 
-#EXTINF:-1 group-title="EVENT 25/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 01:00 WIB Brazil (w) vs Germany (w)
+
+
+
+
+#EXTINF:-1 group-title="EVENT 26/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 21:00 WIB Italy (w) vs Poland (w)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18851
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18851
-
-#EXTINF:-1 group-title="EVENT 25/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 01:00 WIB Brazil (w) vs Germany (w)
-https://drive.google.com/uc?export=download&id=1wQ9XNgjnYmkgOJqnth6oTzEJTOl3ZMJa&usp
-
-
-#EXTINF:-1 group-title="EVENT 25/JULI/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", 16:00 WIB Vietnam vs Filipina
-https://drive.google.com/uc?export=download&id=1wQ9XNgjnYmkgOJqnth6oTzEJTOl3ZMJa&usp
-
-#EXTINF:-1 group-title="EVENT 25/JULI/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", 20:00 WIB Indonesia vs Thailand
-https://drive.google.com/uc?export=download&id=1wQ9XNgjnYmkgOJqnth6oTzEJTOl3ZMJa&usp
+#https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18851
 
 <=================== Cadangan =============================>
 
