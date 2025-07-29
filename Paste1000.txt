@@ -4,20 +4,21 @@
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571",08.00 WITA AL AHLY VS INTER MIAMI
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
-#https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_it_italia_1/tracks-v1a1/mono.ts.m
+#https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_it_italia_1/tracks-v1a1/mono.ts
 
-#EXTINF:-1 group-title="AFF U-23" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/ttte/images/5/55/MeWatchlogo.png/revision/latest/scale-to-width-down/985?cb=20250425014704",Mewatch Event 5 🇸🇬
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ZkRTDhhaBUzSbzZ2xU4v9_pKRyJnKxAbsQ&s",MU vs BOURNEMOUTH
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153729.m3u8
 
-#EXTINF:-1 group-title="AFF U-23" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/ttte/images/5/55/MeWatchlogo.png/revision/latest/scale-to-width-down/985?cb=20250425014704",Mewatch Event 6 🇸🇬
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+#EXTINF:-1 group-title="EVENT 30/JULI/2025" tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg",002 Badminton Macau Open 2025 [29 Juli – 3 Agusus 2025] 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18249
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
 
 
-#EXTINF:-1 group-title="EVENT 29/JULI/2025" tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg",002 Badminton Macau Open 2025 [29 Juli – 3 Agusus 2025] 2
+#EXTINF:-1 group-title="EVENT 30/JULI/2025" tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg",002 Badminton Macau Open 2025 [29 Juli – 3 Agusus 2025] 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -25,7 +26,7 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18250
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18250
 
-#EXTINF:-1 group-title="EVENT 29/JULI/2025" tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg",002 Badminton Macau Open 2025 [29 Juli – 3 Agusus 2025] 3
+#EXTINF:-1 group-title="EVENT 30/JULI/2025" tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg",002 Badminton Macau Open 2025 [29 Juli – 3 Agusus 2025] 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -33,7 +34,7 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18250
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18252
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18252
 
-#EXTINF:-1 group-title="EVENT 29/JULI/2025" tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg",002 Badminton Macau Open 2025 [29 Juli – 3 Agusus 2025] 4
+#EXTINF:-1 group-title="EVENT 30/JULI/2025" tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg",002 Badminton Macau Open 2025 [29 Juli – 3 Agusus 2025] 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -44,146 +45,39 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18253
 
 
 
-#EXTINF:-1 group-title="EVENT 29/JULI/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", 20:00 WIB Indonesia VS Vietnam [FINAL]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-
-#EXTINF:-1 group-title="EVENT 29/JULI/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", 20:00 WIB Indonesia VS Vietnam [FINAL]
-#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+#EXTINF:-1 group-title="EVENT 30/JULI/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 01:45 WIB Valencia vs Marseille
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=23755ea4338ddb7da54623232dc15c17&wsABSTime=1753798974
+https://hotlivezz179602324.akainu.xyz/auUTpdIcinc1WiPJflLTYQ/Fv2lucGIbhPi2caWYvF5Lg/1753571402305/live/oldSD/chunklist.m3u8
 
-<=================== Cadangan =============================>
-
-#EXTINF:-1 group-title=" SPORTS EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 1
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/-kGjIn3bMa1qZLkv-zp5lQ/Fv2lucGIbhPi2caWYvF5Lg/1752593959314/live/may211/chunklist.m3u8
+#EXTINF:-1 group-title="EVENT 30/JULI/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 06:30 WIB Louisville City FC vs Eintracht Frankfurt
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/8_ZvFxZhS8wgesKiYKrL6A/Fv2lucGIbhPi2caWYvF5Lg/1753802727917/live/meoSD/chunklist.m3u8
 
 
-#EXTINF:-1 group-title=" SPORTS EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 2
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/obCvYhEYWqYM_3ouVK-aHg/Fv2lucGIbhPi2caWYvF5Lg/1752681027769/live/may10/chunklist.m3u8
-
-#EXTINF:-1 group-title=" SPORTS EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/5057/default_ott.mpd
-
-#EXTINF:-1 group-title=" SPORTS EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 4
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/j8eeSg50CxpyL0Zb36bz4Q/Fv2lucGIbhPi2caWYvF5Lg/1752066050618/live/cunSD/chunklist.m3u8
-
-#EXTINF:-1 group-title=" SPORTS EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
-https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
-
-#EXTINF:-1 group-title=" SPORTS EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 
-#EXTINF:-1 group-title=" SPORTS EVENT" tvg-logo="https://pasjabar.com/wp-content/uploads/2025/07/ogp.jpg", Badminton Japan Open 2025 [15–20 Juli 2025] 1
-https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
-#https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
-
-#EXTINF:-1 group-title=" SPORTS EVENT" tvg-logo="https://pasjabar.com/wp-content/uploads/2025/07/ogp.jpg", Badminton Japan Open 2025 [15–20 Juli 2025] 2
+#EXTINF:-1 group-title="EVENT 30/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 13:45 WIB Italy vs Cuba
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18252
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18252
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18853
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18853
 
-#EXTINF:-1 group-title=" SPORTS EVENT" tvg-logo="https://pasjabar.com/wp-content/uploads/2025/07/ogp.jpg", Badminton Japan Open 2025 [15–20 Juli 2025] 4
+#EXTINF:-1 group-title="EVENT 30/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 13:45 WIB Italy vs Cuba
+https://drive.google.com/uc?export=download&id=1wQ9XNgjnYmkgOJqnth6oTzEJTOl3ZMJa&usp
+
+#EXTINF:-1 group-title="EVENT 30/JULI/2025" tvg-logo="https://iili.io/FJbkjte.png", 17:45 WIB Brazil vs China
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18249
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
-
-
-#EXTINF:-1 group-title=" SPORTS EVENT" tvg-logo="https://pasjabar.com/wp-content/uploads/2025/07/ogp.jpg", Badminton Japan Open 2025 [15–20 Juli 2025] 4
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18250
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18250
-
-
-
-
-#EXTINF:-1 group-title=" SPORTS EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png", Sea V League 1
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/myPvr5XrL85cf74pgTQAnA/Fv2lucGIbhPi2caWYvF5Lg/1752236173109/live/may17/chunklist.m3u8
-
-#EXTINF:-1 group-title=" SPORTS EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png", Sea V League 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18913
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18913
-
-#EXTINF:-1 group-title=" SPORTS EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png", Sea V League 3
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/Fc-yn_N0UD1CKW8Xr7rkTw/Fv2lucGIbhPi2caWYvF5Lg/1752066294774/live/may211/chunklist.m3u8
-
-
-
-#EXTINF:-1 group-title=" SPORTS EVENT" tvg-logo="https://iili.io/FJbkjte.png", VOLLEYBALL NATIONS LEAGUE 1
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/DQVWBJwesJ1uj3u78YE1jA/Fv2lucGIbhPi2caWYvF5Lg/1752662025140/live/may21/chunklist.m3u8
-
-#EXTINF:-1 group-title=" SPORTS EVENT" tvg-logo="https://iili.io/FJbkjte.png", VOLLEYBALL NATIONS LEAGUE 2
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/dxu4v8Faxl_OebxaPYrVpA/Fv2lucGIbhPi2caWYvF5Lg/1752684881053/live/may171/chunklist.m3u8
-#https://hotlivezz179026907.akainu.xyz/yHQ0ATro833cZcnQluu6Nw/Fv2lucGIbhPi2caWYvF5Lg/1752083315836/live/may20/chunklist.m3u8
-
-#EXTINF:-1 group-title=" SPORTS EVENT" tvg-logo="https://iili.io/FJbkjte.png", VOLLEYBALL NATIONS LEAGUE 3
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-http://iptvde.de:8080/live/OsmanTokmak/fgxgthus/89081.m3u8
-
-
-
-#EXTINF:-1 group-title=" SPORTS EVENT" tvg-logo="https://iili.io/3cSp4Lu.md.png", MotoGP 2025
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-
-
-
-#EXTINF:-1 group-title=" SPORTS EVENT" tvg-logo="https://iili.io/3yG5Ig2.png", Formula 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18853
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18853
 
 ##############################MOTO GP############################
 
@@ -218,36 +112,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
 #https://master2.idxplayer.com/aHR0cHM6Ly9zZy5zMnN0cmVhbS5jZmQvc3RyZWFtc2cvaGxzLzIvc3RyZWFtLm0zdTg=.m3u8
 
-
-
-##############################VNL 2025############################
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Extra HD" tvg-logo="https://iili.io/FJbkjte.png" group-title="VNL 2025",vnl 1
-http://nonamevos.com:80/4500/4500/78284
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Extra HD" tvg-logo="https://iili.io/FJbkjte.png" group-title="VNL 2025",vnl 2
-http://nonamevos.com:80/4500/4500/21044
-
-#EXTINF:-1 group-title="VNL 2025" tvg-logo="https://iili.io/FJbkjte.png", VNL 2025
-#EXTVLCOPT:http-referrer=https://q.zoomplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/yENOtWGutRoKgUz1WldbFw/Fv2lucGIbhPi2caWYvF5Lg/1749030766164/live/may20/chunklist.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://iili.io/FJbkjte.png" group-title="VNL 2025" , VNL LIVE
-#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-https://3gr3uomttgr31hcjtgezdrpjtfisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel9/playlist.m3u8?wsSecret=1a3b4b940535c65afdebaf1d2a2445fe&wsABSTime=1749054890&wsSession=6339fa55ae0cedb8e17c9b14-174901169371934&wsIPSercert=a06d83423e5ce13fa3c7f7df3406480d&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-id="Polsat Sport" tvg-name="PL: POLSAT SPORT" tvg-logo="https://docdog.top/logo/countries/poland/polsatsport.png" group-title="VNL 2025",PL: POLSAT SPORT
-http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/34309
-#EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-name="PL: POLSAT SPORT EXTRA" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportextra.png" group-title="VNL 2025",PL: POLSAT SPORT EXTRA
-http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/886
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR" tvg-logo="https://docdog.top/logo/countries/turkey/trt-spor-tr.png" group-title="VNL 2025",TR: TRT SPOR
-http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/129947
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ" tvg-logo="" group-title="VNL 2025",TR: TRT SPOR YILDIZ
-http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/129948
-#EXTINF:-1 tvg-id="" tvg-name="CRO: VIP MAX SPORT 1" tvg-logo="https://docdog.top/logo/countries/croatia/maxsport1.png" group-title="VNL 2025",CRO: VIP MAX SPORT 1
-http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/34146
-#EXTINF:-1 tvg-id="" tvg-name="CRO: VIP MAX SPORT 2" tvg-logo="https://docdog.top/logo/countries/croatia/maxsport2.png" group-title="VNL 2025",CRO: VIP MAX SPORT 2
-http://viprteaapi.top:8080/VIP017641741364792364/95dcb29a7748/37641
 
 
 ##############################TIMNAS############################
