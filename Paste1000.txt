@@ -6,6 +6,10 @@
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
 #https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_it_italia_1/tracks-v1a1/mono.ts
 
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png",MU VS BOUR
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/phusd2/chunklist.m3u8
+
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ZkRTDhhaBUzSbzZ2xU4v9_pKRyJnKxAbsQ&s",MU vs BOURNEMOUTH
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153729.m3u8
 
