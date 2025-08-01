@@ -10,6 +10,10 @@
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #https://179939170.vipcdnlive.xyz/live/phusd2/chunklist.m3u8
 
+EXTINF:-1 group-title="SPECIAL MOVIES" tvg-logo="https://kendariinfo.com/wp-content/uploads/2025/02/0c56c39b-7c6f-459d-b4cd-d4603703b55d.jpeg",KOMANG
+#EXTVLCOPT:http-referrer=https://higuys.rpmvid.com/
+https://higuys.rpmvid.com/hls/0nesXSXISbAj8lkHZzip7Q/sc/v1fiafnev/vftxwd/tt/master.m3u8?v=1751082628
+
 #EXTINF:-1 group-title="EVENT 1/AGUSTUS/2025" tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg",002 Badminton Macau Open 2025 [29 Juli – 3 Agusus 2025] 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
