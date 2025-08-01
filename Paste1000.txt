@@ -4,19 +4,13 @@
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png",MU VS BOUR
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
-https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_uk_mutv_fhd/index.m3u8
+#https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_uk_mutv_fhd/index.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png",MU VS BOUR
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/phusd2/chunklist.m3u8
+#https://179939170.vipcdnlive.xyz/live/phusd2/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ZkRTDhhaBUzSbzZ2xU4v9_pKRyJnKxAbsQ&s",MU vs BOURNEMOUTH
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153729.m3u8
-
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 08:30 WIB Manchester United vs AFC Bournemouth
-https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
-
-#EXTINF:-1 group-title="BWF HONGKONG OPEN" tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg",002 Badminton Macau Open 2025 [29 Juli – 3 Agusus 2025] 1
+#EXTINF:-1 group-title="EVENT 1/AGUSTUS/2025" tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg",002 Badminton Macau Open 2025 [29 Juli – 3 Agusus 2025] 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -25,7 +19,7 @@ https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
 
 
-#EXTINF:-1 group-title="BWF HONGKONG OPEN" tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg",002 Badminton Macau Open 2025 [29 Juli – 3 Agusus 2025] 2
+#EXTINF:-1 group-title="EVENT 1/AGUSTUS/2025" tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg",002 Badminton Macau Open 2025 [29 Juli – 3 Agusus 2025] 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -33,7 +27,7 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18250
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18250
 
-#EXTINF:-1 group-title="BWF HONGKONG OPEN" tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg",002 Badminton Macau Open 2025 [29 Juli – 3 Agusus 2025] 3
+#EXTINF:-1 group-title="EVENT 1/AGUSTUS/2025" tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg",002 Badminton Macau Open 2025 [29 Juli – 3 Agusus 2025] 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -41,14 +35,13 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18250
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18252
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18252
 
-#EXTINF:-1 group-title="BWF HONGKONG OPEN" tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg",002 Badminton Macau Open 2025 [29 Juli – 3 Agusus 2025] 4
+#EXTINF:-1 group-title="EVENT 1/AGUSTUS/2025" tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg",002 Badminton Macau Open 2025 [29 Juli – 3 Agusus 2025] 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18253
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18253
-
+#https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18253
 
 
 
