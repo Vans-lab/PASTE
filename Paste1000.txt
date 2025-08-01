@@ -14,6 +14,10 @@ EXTINF:-1 group-title="SPECIAL MOVIES" tvg-logo="https://kendariinfo.com/wp-cont
 #EXTVLCOPT:http-referrer=https://higuys.rpmvid.com/
 https://higuys.rpmvid.com/hls/0nesXSXISbAj8lkHZzip7Q/sc/v1fiafnev/vftxwd/tt/master.m3u8?v=1751082628
 
+EXTINF:-1 group-title="SPECIAL MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt2TGwSgsiMZJaivt_orPU5zSRTWEmq-vMAw&s",KARATE KID LEGENDS
+#EXTVLCOPT:http-referrer=https://moveanpre.com/
+https://movearnpre.com/stream/vvjUYcsitobulYEHk3RNiQ/hjkrhuihghfvu/1754101382/27801239/index-v1-a1.m3u8
+
 #EXTINF:-1 group-title="EVENT 1/AGUSTUS/2025" tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg",002 Badminton Macau Open 2025 [29 Juli – 3 Agusus 2025] 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
