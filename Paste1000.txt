@@ -18,7 +18,7 @@ EXTINF:-1 group-title="SPECIAL MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.
 #EXTVLCOPT:http-referrer=https://moveanpre.com/
 https://movearnpre.com/stream/vvjUYcsitobulYEHk3RNiQ/hjkrhuihghfvu/1754101382/27801239/index-v1-a1.m3u8
 
-#EXTINF:-1 group-title="EVENT 1/AGUSTUS/2025" tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg",002 Badminton Macau Open 2025 [29 Juli – 3 Agusus 2025] 1
+#EXTINF:-1 group-title="EVENT 2/AGUSTUS/2025" tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg",002 Badminton Macau Open 2025 [29 Juli – 3 Agusus 2025] 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -27,7 +27,7 @@ https://movearnpre.com/stream/vvjUYcsitobulYEHk3RNiQ/hjkrhuihghfvu/1754101382/27
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
 
 
-#EXTINF:-1 group-title="EVENT 1/AGUSTUS/2025" tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg",002 Badminton Macau Open 2025 [29 Juli – 3 Agusus 2025] 2
+#EXTINF:-1 group-title="EVENT 2/AGUSTUS/2025" tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg",002 Badminton Macau Open 2025 [29 Juli – 3 Agusus 2025] 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -35,15 +35,15 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18250
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18250
 
-#EXTINF:-1 group-title="EVENT 1/AGUSTUS/2025" tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg",002 Badminton Macau Open 2025 [29 Juli – 3 Agusus 2025] 3
+#EXTINF:-1 group-title="EVENT 2/AGUSTUS/2025" tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg",002 Badminton Macau Open 2025 [29 Juli – 3 Agusus 2025] 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18252
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18252
+#https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18252
 
-#EXTINF:-1 group-title="EVENT 1/AGUSTUS/2025" tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg",002 Badminton Macau Open 2025 [29 Juli – 3 Agusus 2025] 4
+#EXTINF:-1 group-title="EVENT 2/AGUSTUS/2025" tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg",002 Badminton Macau Open 2025 [29 Juli – 3 Agusus 2025] 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -53,6 +53,60 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18252
 
 
 
+#EXTINF:-1 group-title="EVENT 2/AGUSTUS/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png", 17:00 WIB Indonesia W vs Thailand W
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/NTyCMWvXm3REQ5R7DErI9w/Fv2lucGIbhPi2caWYvF5Lg/1754136845712/live/may171/chunklist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="EVENT 2/AGUSTUS/2025" tvg-logo="https://iili.io/FJbkjte.png", 18:00 WIB Brazil vs Poland
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18853
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18853
+
+
+
+#EXTINF:-1 group-title="EVENT 2/AGUSTUS/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 16:00 WIB Juventus vs A.C. Reggiana 1919 
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/jO4qZ7nRpMMEvhPsJmw7mg/Fv2lucGIbhPi2caWYvF5Lg/1753981800245/live/dungSD/chunklist.m3u8
+
+#EXTINF:-1 group-title="EVENT 2/AGUSTUS/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:30 WIB Bayern München vs Olympique Lyonnais
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/oKn6NxgYm89aw02D3ir9tA/Fv2lucGIbhPi2caWYvF5Lg/1753966171647/live/daoSD/chunklist.m3u8
+
+#EXTINF:-1 group-title="EVENT 2/AGUSTUS/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:30 WIB Bayern München vs Olympique Lyonnais
+https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
+
+#EXTINF:-1 group-title="EVENT 2/AGUSTUS/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 23:00 WIB WIB Lens vs AS Roma
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/v-wK-ANAYdz2zICed7f9IQ/Fv2lucGIbhPi2caWYvF5Lg/1753981619354/live/oldSD/chunklist.m3u8
+
+<=================== EVENT 2 =============================>
+
+#EXTINF:-1 group-title="EVENT 3/AGUSTUS/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 00:00 WIB Chaves vs Vitória Guimarães
+https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
+
+#EXTINF:-1 group-title="EVENT 3/AGUSTUS/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 00:00 WIB Twente vs Udinese
+https://wahyu1ptv.pages.dev/Sport.TV2-HD.m3u8
+
+#EXTINF:-1 group-title="EVENT 3/AGUSTUS/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 01:00 WIB Galatasaray vs Lazio
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/duEnb6jnEbl1pphuP2xpRg/Fv2lucGIbhPi2caWYvF5Lg/1753814415873/live/baoSD/chunklist.m3u8
 
 ##############################MOTO GP############################
 
