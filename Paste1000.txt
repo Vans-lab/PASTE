@@ -3,46 +3,64 @@
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 
+#EXTINF:-1 group-title="EVENT 6/AGUSTUS/2025" tvg-logo="https://assets-skorid.s3.ap-southeast-1.amazonaws.com/Skor_id_118e171bd6.jpeg", 16:30 WIB Indonesia (w) vs Thailand (w)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-EXTINF:-1 group-title="SPECIAL FILMS" tvg-logo="https://kendariinfo.com/wp-content/uploads/2025/02/0c56c39b-7c6f-459d-b4cd-d4603703b55d.jpeg", KOMANG
-#EXTVLCOPT:http-referrer=https://higuys.rpmvid.com/
-https://higuys.rpmvid.com/hls/0nesXSXISbAj8lkHZzip7Q/sc/v1fiafnev/vftxwd/tt/master.m3u8?v=1751082628
+#EXTINF:-1 group-title="EVENT 6/AGUSTUS/2025" tvg-logo="https://assets-skorid.s3.ap-southeast-1.amazonaws.com/Skor_id_118e171bd6.jpeg", 19:30 WIB Vietnam (w) vs Cambodia (w)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-EXTINF:-1 group-title="SPECIAL FILMS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt2TGwSgsiMZJaivt_orPU5zSRTWEmq-vMAw&s", KARATE KID LEGENDS
-#EXTVLCOPT:http-referrer=https://moveanpre.com/
-https://movearnpre.com/stream/vvjUYcsitobulYEHk3RNiQ/hjkrhuihghfvu/1754101382/27801239/index-v1-a1.m3u8
 
-#EXTINF:-1 group-title="EVENT 4/AGUSTUS/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 15:00 WIB Napoli vs Casertana
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+
+#EXTINF:-1 group-title="EVENT 6/AGUSTUS/2025" tvg-logo="https://assets.thehansindia.com/h-upload/2025/03/27/1536853-afc.jpg", 15:45 WIB Japan (w) U20 vs Guam (w) U20
+
+#EXTINF:-1 group-title="EVENT 6/AGUSTUS/2025" tvg-logo="https://assets.thehansindia.com/h-upload/2025/03/27/1536853-afc.jpg", 19:30 WIB Việt Nam U20 (w) vs Singapore (w) U20
+#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/VrNvioWHgcbRq-Ou6Mr5PA/Fv2lucGIbhPi2caWYvF5Lg/1754315434320/live/dungSD/chunklist.m3u8
-https://apisportzz179528093.nsnd.live/YqtN4jEPJhV0-3Ltu_5qIw/Fv2lucGIbhPi2caWYvF5Lg/1754315434320/live/sd-6MuPtcrkZakYTUwvdH/playlist.m3u8
+https://live3.procdnlive.com/livecdn/channel19.flv?auth_key=3000001754455231-0-0-df012ddcd70099ca809adba0d2303da2
 
-
-#EXTINF:-1 group-title="EVENT 4/AGUSTUS/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 18:00 WIB Daegu vs Barcelona
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTINF:-1 group-title="EVENT 6/AGUSTUS/2025" tvg-logo="https://assets.thehansindia.com/h-upload/2025/03/27/1536853-afc.jpg", 19:30 WIB India vs Indonesia
+#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/gvdByBoYcMQGnVKvajO7Wg/Fv2lucGIbhPi2caWYvF5Lg/1753982712229/live/daSD/chunklist.m3u8
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001754454325-0-0-9d4c62606e8d3afde0e30d997ff196b7
 
-
-#EXTINF:-1 group-title="EVENT 4/AGUSTUS/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 23:00 WIB Liverpool vs Athletic Club
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTINF:-1 group-title="EVENT 6/AGUSTUS/2025" tvg-logo="https://assets.thehansindia.com/h-upload/2025/03/27/1536853-afc.jpg", 19:45 WIB Iran U20 (w) vs Malaysia (w) U20 
+#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/HlNJs7yR71DR-IZVl0mg1w/Fv2lucGIbhPi2caWYvF5Lg/1753547224849/live/soiSD/chunklist.m3u8
+https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=cf876e44deff1ec555ecc7f8f755aa9d&wsABSTime=1754498616
 
+#EXTINF:-1 group-title="EVENT 6/AGUSTUS/2025" tvg-logo="https://assets.thehansindia.com/h-upload/2025/03/27/1536853-afc.jpg", 21:00 WIB Chinese Taiwan U20 vs Palestine (w) U20
 
 
 <=================== EVENT 2 =============================>
 
-#EXTINF:-1 group-title="EVENT 5/AGUSTUS/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 02:00 WIB  Sevilla vs Al Qadisiya
+#EXTINF:-1 group-title="EVENT 7/AGUSTUS/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 00:00 WIB Arsenal vs Villarreal
 #EXTVLCOPT:http-origin=https://demo.zplayer.xyz
 #EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://hotlivezz179602324.akainu.xyz/lMOUfmCtx8JMNagn7zHocA/Fv2lucGIbhPi2caWYvF5Lg/1753982712229/live/conSD/chunklist.m3u8
 
+#EXTINF:-1 group-title="EVENT 7/AGUSTUS/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 01:30 WIB Aston Villa vs AS Roma
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/-_Yw3w664EYnRrqNtmJoAg/Fv2lucGIbhPi2caWYvF5Lg/1754346903767/live/soiSD/chunklist.m3u8
+
+#EXTINF:-1 group-title="EVENT 7/AGUSTUS/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 01:30 WIB Real Betis vs Como
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/Dgka_AQb7nkVbNOk_cVztg/Fv2lucGIbhPi2caWYvF5Lg/1753636805817/live/kienSD/chunklist.m3u8
 
 
 
