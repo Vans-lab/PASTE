@@ -3,9 +3,13 @@
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/71/2025/08/07/bri-spl-i2clue-2305512913.jpg",BORNEO VS BHAYANGKARA
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/71/2025/08/07/bri-spl-i2clue-2305512913.jpg",MAKASSAR VS JEPARA
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/natrasd2/chunklist.m3u8
+https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/71/2025/08/07/bri-spl-i2clue-2305512913.jpg",SURABAYA VS YOGYAKARTA
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/nguumavuongsd2/chunklist.m3u8
 
 #EXTINF:-1 group-title="EVENT 8/AGUSTUS/2025" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 14:00 WIB United States vs Dominican Republic
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
