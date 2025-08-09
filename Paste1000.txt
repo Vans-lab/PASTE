@@ -15,6 +15,9 @@ https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
 https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uk_mutv_fhd/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ZkRTDhhaBUzSbzZ2xU4v9_pKRyJnKxAbsQ&s",MU VS FIORENTINA 2
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153729.m3u8
+
 #EXTINF:-1 group-title="EVENT 9/AGUSTUS/2025" tvg-logo="https://www.scisports.com/wp-content/uploads/2022/10/Eredivisie-SciSports-2022-1280x720.jpeg", 23:45 WIB Feyenoord vs NAC Breda
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
 
