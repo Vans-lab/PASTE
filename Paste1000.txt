@@ -3,13 +3,13 @@
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/71/2025/08/07/bri-spl-i2clue-2305512913.jpg",MAKASSAR VS JEPARA
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/71/2025/08/07/bri-spl-i2clue-2305512913.jpg",BANDUNG VS PADANG
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/71/2025/08/07/bri-spl-i2clue-2305512913.jpg",SURABAYA VS YOGYAKARTA
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/nguumavuongsd2/chunklist.m3u8
+#https://179939170.vipcdnlive.xyz/live/nguumavuongsd2/chunklist.m3u8
 
 #EXTINF:-1 group-title="EVENT 9/AGUSTUS/2025" tvg-logo="https://www.scisports.com/wp-content/uploads/2022/10/Eredivisie-SciSports-2022-1280x720.jpeg", 23:45 WIB Feyenoord vs NAC Breda
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
