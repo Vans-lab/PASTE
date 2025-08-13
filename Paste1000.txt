@@ -12,169 +12,75 @@
 #https://qtcdn.livestreameuro.live/live/m104qt/playlist.m3u8
 
 
-#EXTINF:-1 group-title="EVENT 12/AGUSTUS/2025" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 002 10:00 13:00 16:00 dan 19:00 WIB
+<=================== EVENT 1 =============================>
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/ajax/chanel/type/7/link/channel9
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://xl365.plcdn.xyz
+#EXTINF:-1 group-title="EVENT 13/AGUSTUS/2025" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 002 10:00 13:00 16:00 dan 19:00 WIB
+https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=3b3000f1b98e7c7defac6866a4528409&wsABSTime=1754931890
+
+#EXTINF:-1 group-title="EVENT 13/AGUSTUS/2025"tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 002 10:00 13:00 16:00 dan 19:00 WIB
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19331&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=19331&type=dash
 
-#EXTINF:-1 group-title="EVENT 12/AGUSTUS/2025" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 002 10:00 13:00 16:00 dan 19:00 WIB
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19331&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19331&type=dash
-
-#EXTINF:-1 group-title="EVENT 12/AGUSTUS/2025" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 002 10:00 13:00 16:00 dan 19:00 WIB
+#EXTINF:-1 group-title="EVENT 13/AGUSTUS/2025"tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 002 10:00 13:00 16:00 dan 19:00 WIB
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19332&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=19332&type=dash
 
-#EXTINF:-1 group-title="EVENT 12/AGUSTUS/2025" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 002 10:00 13:00 16:00 dan 19:00 WIB
+#EXTINF:-1 group-title="EVENT 13/AGUSTUS/2025"tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 002 10:00 13:00 16:00 dan 19:00 WIB
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19334&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=19334&type=dash
 
+
+#EXTINF:-1 group-title="EVENT 13/AGUSTUS/2025" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 12:00 WIB Egypt U21 (w) vs Vietnam U21
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/NzwV6iE7c5y2ZelIdrsKUg/Fv2lucGIbhPi2caWYvF5Lg/1755084476276/live/may17/chunklist.m3u8
+
 <====================================>
 
-#EXTINF:-1 group-title="EVENT 12/AGUSTUS/2025" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/08/11/logo-piala-kemerdekaan-1754892270596_43.png?w=600&q=90", 19:00 WIB Indonesia vs Tajikistan
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTINF:-1 group-title="EVENT 13/AGUSTUS/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYoHxnlkWY-uob8C2zOJUHnbNnPhbtp540VA&s", 19:00 WIB Persib vs Manila Digger
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+<====================================>
 
 
-
-#EXTINF:-1 group-title="EVENT 12/AGUSTUS/2025" tvg-logo="https://assets-skorid.s3.ap-southeast-1.amazonaws.com/Skor_id_118e171bd6.jpeg", 19:30 WIB Indonesia vs Kamboja	
+#EXTINF:-1 group-title="EVENT 13/AGUSTUS/2025" tvg-logo="https://assets-skorid.s3.ap-southeast-1.amazonaws.com/Skor_id_118e171bd6.jpeg", 19:30 ASEAN MISG Serenity Cup 2025
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 group-title="EVENT 12/AGUSTUS/2025" tvg-logo="https://assets-skorid.s3.ap-southeast-1.amazonaws.com/Skor_id_118e171bd6.jpeg", 19:30 WIB Vietnam vs Thailand
+#EXTINF:-1 group-title="EVENT 13/AGUSTUS/2025" tvg-logo="https://assets-skorid.s3.ap-southeast-1.amazonaws.com/Skor_id_118e171bd6.jpeg", 19:30 ASEAN MISG Serenity Cup 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
-<====================================>
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
-#EXTINF:-1 group-title="EVENT 12/AGUSTUS/2025" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2024/08/23/logo-afc-challenge-league_169.jpeg?w=1200", 16:30 WIB Yangon United vs Ezra FC 
-https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=a988978aee3825189c2dd56ca73b2abf&wsABSTime=1755031836
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
-#EXTINF:-1 group-title="EVENT 12/AGUSTUS/2025" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2024/08/23/logo-afc-challenge-league_169.jpeg?w=1200", 17:00 WIB Maziya S&RC vs Al-Arabi Club (KUW) 
-https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=a16ac32396c1b4842af9a4bad25c2421&wsABSTime=1755032189
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
-#EXTINF:-1 group-title="EVENT 12/AGUSTUS/2025" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2024/08/23/logo-afc-challenge-league_169.jpeg?w=1200", 18:00 WIB  Abahani Limited vs Muras United FC 
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=de209f8255b036169338af820c2dcb30&wsABSTime=1755032714
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
-#EXTINF:-1 group-title="EVENT 12/AGUSTUS/2025" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2024/08/23/logo-afc-challenge-league_169.jpeg?w=1200", 18:30 WIB Tainan Steel vs Khangarid FC
-https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=2de32cd512cd1e8429ebd6fbac45f587&wsABSTime=1755032356
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
-#EXTINF:-1 group-title="EVENT 12/AGUSTUS/2025" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2024/08/23/logo-afc-challenge-league_169.jpeg?w=1200", 19:15 WIB Kasuka FC vs Phnom Penh FC
-https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=982e09b79beac40be9a5a071fe4ca682&wsABSTime=1755032496
-
-<====================================>
-
-#EXTINF:-1 group-title="EVENT 12/AGUSTUS/2025" tvg-logo="https://ott.the-afc.com/image/1920x1080/c97d978c-a244-4603-ae51-619ac1811fcf.jpg?v=20240614021328", 18:34 WIB Chengdu Rongcheng FC vs Bangkok United FC 
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/M6m23ezY35bz4VnsuC14WA/Fv2lucGIbhPi2caWYvF5Lg/1754761203617/live/coSD/chunklist.m3u8
-
-#EXTINF:-1 group-title="EVENT 12/AGUSTUS/2025" tvg-logo="https://ott.the-afc.com/image/1920x1080/c97d978c-a244-4603-ae51-619ac1811fcf.jpg?v=20240614021328", 23:00 WIB Al Duhail vs Sepahan
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/PDht_7EJyickb5GC1kM8JQ/Fv2lucGIbhPi2caWYvF5Lg/1754761058616/live/mapSD/chunklist.m3u8
-
-<====================================>
-
-#EXTINF:-1 group-title="EVENT 12/AGUSTUS/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 23:00 WIB Grasshopper vs Bayern Munich
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/oKn6NxgYm89aw02D3ir9tA/Fv2lucGIbhPi2caWYvF5Lg/1753966171647/live/daoSD/chunklist.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/ajax/chanel/type/7/link/channel3
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
-#EXTINF:-1 group-title="EVENT 12/AGUSTUS/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 23:30 WIB Juventus vs JuventusU23
-https://live1.pro2cdnlive.com/live/channel3.flv?wsSecret=2d139e65ec393d73b9c5ada6c8d9a226&wsABSTime=1755029260
-
-<====================================>
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/ajax/chanel/type/7/link/channel3
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
-#EXTINF:-1 group-title="EVENT 12/AGUSTUS/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfkIQcHuIeQqlJwpqe-zfuBCSwTadaiSEgOQ&s", 19:15 WIB Johor Darul Takzim vs Negeri Sembilan
-https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=eaafaeb2ccfe1fb6082eabb27978d337&wsABSTime=1755033893
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/ajax/chanel/type/7/link/channel3
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
-#EXTINF:-1 group-title="EVENT 12/AGUSTUS/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfkIQcHuIeQqlJwpqe-zfuBCSwTadaiSEgOQ&s", 20:00 WIB Selangor FC vs DPMM FC
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=042f843653206d4593524129afca5200&wsABSTime=1755034207
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
-#EXTINF:-1 group-title="EVENT 12/AGUSTUS/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfkIQcHuIeQqlJwpqe-zfuBCSwTadaiSEgOQ&s", 20:00 WIB Kelantan United vs Imigresen FC
-https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=a16ac32396c1b4842af9a4bad25c2421&wsABSTime=1755032189
-
-
 <=================== EVENT 2 =============================>
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/ajax/chanel/type/7/link/channel8
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
-#EXTINF:-1 group-title="EVENT 13/AGUSTUS/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 00:00 WIB Swarovski Tirol vs Real Madrid
-https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=0409982dfeb87d4e71d75d91d347163a&wsABSTime=1755029476
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/ajax/chanel/type/7/link/channel24
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
-#EXTINF:-1 group-title="EVENT 13/AGUSTUS/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 02:00 WIB Monza vs Inter Milan 
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=a62b78e55a557181a7b9cda933436b93&wsABSTime=1755029586
-
-
-
+#EXTINF:-1 group-title="EVENT 14/AGUSTUS/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvWTiOY8ubY4ia_QV9ehA9_jJHxX-oQpeGuw&s", 02:00 WIB PSG vs Tottenham Hotspur
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 ##############################MOTO GP############################
 
