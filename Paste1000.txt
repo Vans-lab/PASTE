@@ -22,24 +22,6 @@
 #EXTINF:-1 group-title="EVENT 16/AGUSTUS/2025" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 002 10:00 13:00 16:00 dan 19:00 WIB
 https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=3b3000f1b98e7c7defac6866a4528409&wsABSTime=1754931890
 
-#EXTINF:-1 group-title="EVENT 16/AGUSTUS/2025" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 002 10:00 13:00 16:00 dan 19:00 WIB
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19331&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19331&type=dash
-
-#EXTINF:-1 group-title="EVENT 16/AGUSTUS/2025" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 002 10:00 13:00 16:00 dan 19:00 WIB
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19332&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19332&type=dash
-
-#EXTINF:-1 group-title="EVENT 16/AGUSTUS/2025" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", 002 10:00 13:00 16:00 dan 19:00 WIB
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19334&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19334&type=dash
-
 <================>
 
 #EXTINF:-1 group-title="EVENT 16/AGUSTUS/2025" tvg-logo="https://iili.io/3cSp4Lu.md.png", 003 MotoGP 2025 Round 13
@@ -52,15 +34,36 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 16/AGUSTUS/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB PSIM Yogyakarta vs Arema
-
-#EXTINF:-1 group-title="EVENT 16/AGUSTUS/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Persik Kediri vs Madura United
-
-#EXTINF:-1 group-title="EVENT 16/AGUSTUS/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persita vs Persebaya Surabaya
-
-#EXTINF:-1 group-title="EVENT 16/AGUSTUS/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Bhayangkara vs PSM
 
 #EXTINF:-1 group-title="EVENT 16/AGUSTUS/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persis Solo vs Persija
+https://drive.google.com/uc?export=download&id=1wQ9XNgjnYmkgOJqnth6oTzEJTOl3ZMJa&usp
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#EXTINF:-1 group-title="EVENT 16/AGUSTUS/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB BRI Super League
+
+
+
+<================>
+
+
+#EXTINF:-1 group-title="EVENT 16/AGUSTUS/2025" tvg-logo="https://assets-skorid.s3.ap-southeast-1.amazonaws.com/Skor_id_118e171bd6.jpeg", 16:00 WIB Myanmar (w) vs Thailand (w)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#EXTINF:-1 group-title="EVENT 16/AGUSTUS/2025" tvg-logo="https://assets-skorid.s3.ap-southeast-1.amazonaws.com/Skor_id_118e171bd6.jpeg", 20:00 WIB Vietnam (w) vs Australia U23 (w)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
 <================>
 
 #EXTINF:-1 group-title="EVENT 16/AGUSTUS/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 18:30 WIB Aston Villa vs Newcastle United
@@ -99,7 +102,7 @@ https://hotlivezz179602324.akainu.xyz/yDoj9wGMm0C06OyAR8hvsQ/Fv2lucGIbhPi2caWYvF
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 16/AGUSTUS/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx5GLwa6CelP7F7ZJXAk-5J_nCPgWNH8bOww&s", Como vs SudTirol
+#EXTINF:-1 group-title="EVENT 16/AGUSTUS/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx5GLwa6CelP7F7ZJXAk-5J_nCPgWNH8bOww&s", 23:00 WIB Como vs SudTirol
 #EXTVLCOPT:http-origin=https://demo.zplayer.xyz
 #EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
@@ -117,15 +120,29 @@ https://hotlivezz179602324.akainu.xyz/mmOMcMRFxpi40yBLWP-Ncw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-origin=https://demo.zplayer.xyz
 #EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/PyeFrx60dFHm3MqUghmWfA/Fv2lucGIbhPi2caWYvF5Lg/1754761127888/live/satSD/chunklist.m3u8
+https://apisportzz179528093.nsnd.live/QjQk6Cp_LmjvNDHnM_qWMQ/Fv2lucGIbhPi2caWYvF5Lg/1755360787524/live/sd-6MtMPH5psnmr332vzf/chunklist.m3u8
 
 #EXTINF:-1 group-title="EVENT 16/AGUSTUS/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Meiji_Yasuda_J1_League_logo.svg/800px-Meiji_Yasuda_J1_League_logo.svg.png", 17:00 WIB Vissel Kobe vs Yokohama FC
 #EXTVLCOPT:http-origin=https://demo.zplayer.xyz
 #EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live-xlvb.nsnd.live/jZl-fSzSLGIctiP0MAY4ig/1dae3400e4a56a95aa98d9615588b5c1/1755106611/live/_definst_/stream_1_1bda7@dungHD/chunklist.m3u8
+https://live-xlvb.nsnd.live/To1v_3Ta7nkD5nCAhjKyAQ/1dae3400e4a56a95aa98d9615588b5c1/1755360402/live/_definst_/stream_1_1bda7@dungHD/chunklist.m3u8
 
 <=================== EVENT 2 =============================>
+
+#EXTINF:-1 group-title="EVENT 17/AGUSTUS/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 01:30 WIB Inter Milan vs Olympiakos Piraeus
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/MTA0hlGbu-RDT0QYH7dvfQ/Fv2lucGIbhPi2caWYvF5Lg/1754674242274/live/mySD/chunklist.m3u8
+
+#EXTINF:-1 group-title="EVENT 17/AGUSTUS/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 01:45 WIB Atalanta vs Juventus 
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/JteAoalbZB_haL1oglzfFQ/Fv2lucGIbhPi2caWYvF5Lg/1754842228038/live/soiSD/playlist.m3u8
+
+<================>
 
 #EXTINF:-1 group-title="EVENT 17/AGUSTUS/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", 00:30 WIB Mallorca vs Barcelona
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -176,7 +193,7 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTVLCOPT:http-origin=https://demo.zplayer.xyz
 #EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/MuQF-kEj_D3LNss97T4OUg/Fv2lucGIbhPi2caWYvF5Lg/1754650862142/live/trauSD/chunklist.m3u8
+https://hotlivezz179602324.akainu.xyz/CQ3mPfgiRZ0vp_7yOKKfUw/Fv2lucGIbhPi2caWYvF5Lg/1755020909750/live/thuSD/chunklist.m3u8
 
 ##############################MOTO GP############################
 
