@@ -15,6 +15,12 @@
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
 https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MAIN_EVENT/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 group-title="EVENT 8/AGUSTUS/2025" tvg-logo="https://footballgroundguide.com/app/uploads/2023/12/premiereleague-logo-1024x1024.png", UNITED VS ARSENAL 2
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/CbT0ujkMY6btucrhpCpFsQ/Fv2lucGIbhPi2caWYvF5Lg/1755463236686/live/nenSD/chunklist.m3u8
+
 
 <=================== EVENT 1 =============================>
 
