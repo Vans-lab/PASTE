@@ -28,50 +28,25 @@
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 #https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
-#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/AFC_U-23_Asian_Cup_logo.svg/1200px-AFC_U-23_Asian_Cup_logo.svg.png", 19:30 WIB Indonesia vs Laos 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19486&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19486&type=dash
-
-#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/AFC_U-23_Asian_Cup_logo.svg/1200px-AFC_U-23_Asian_Cup_logo.svg.png", 19:30 WIB Indonesia vs Laos 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19486&type=drm
-https://spacetv.my.id/index.mpd?id=19486&type=dash
-
-
-#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/AFC_U-23_Asian_Cup_logo.svg/1200px-AFC_U-23_Asian_Cup_logo.svg.png", Kualifikasi Piala Asia U-23 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-
-
 <=================== EVENT 1 =============================>
 
-#EXTINF:-1 group-title="EVENT 3/SEPTEMBER/2025" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 17:00 WIB Netherlands (w) vs Japan (w)
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTINF:-1 group-title="EVENT 5/SEPTEMBER/2025" tvg-logo="https://www.djarumbadminton.com/assets/_processed_/7/6/csm_BAOJI-China-Masters-2025_5fb5375fa9.png", 002 BADMINTON BAOJI China Masters 2025
+#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/Kpk3MfKA4zrmHhMDHwSzdg/Fv2lucGIbhPi2caWYvF5Lg/1756915080430/live/may20/chunklist.m3u8
-https://hotlivezz179602324.akainu.xyz/kF2AXoo0nyrOXOWgyHDZzg/Fv2lucGIbhPi2caWYvF5Lg/1756136321133/live/kienSD/chunklist.m3u8
-
-#EXTINF:-1 group-title="EVENT 3/SEPTEMBER/2025" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 20:30 WIB Italy (w) vs Poland (w)
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://drive.google.com/uc?export=download&id=1wQ9XNgjnYmkgOJqnth6oTzEJTOl3ZMJa&usp
+https://7e86d2bafe2218ebd6fabec2d6fe49d0.v.smtcdns.net/play.cbalive.weibisai.com/live/3996909291723061_AiHD.m3u8?txSecret=30a1dd2e9fb5957d84f79cf72428d595&txTime=68BA2800
+https://7e86d2bafe2218ebd6fabec2d6fe49d0.v.smtcdns.net/play.cbalive.weibisai.com/live/3996909474388061_AiHD.m3u8?txSecret=87edb434427828353927a20f6d220e04&txTime=68BA2800
+https://7e86d2bafe2218ebd6fabec2d6fe49d0.v.smtcdns.net/play.cbalive.weibisai.com/live/3996910377601061_AiHD.m3u8?txSecret=e179b38ff05f7095c12238701b2d0194&txTime=68BA2800
+https://ecfc3cde48e2bb818cde2ffa8262e58d.v.smtcdns.net/play.cbalive.weibisai.com/live/3996910550624061_AiHD.m3u8?txSecret=aa0712df0e984ec12bf343ccb7398b79&txTime=68BA2800
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 3/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", 16:30 WIB Livoli Divisi Utama 
+#EXTINF:-1 group-title="EVENT 4/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", 19:00 WIB Livoli Divisi Utama 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19488&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=19488&type=dash
 
-#EXTINF:-1 group-title="EVENT 3/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", 16:30 WIB Livoli Divisi Utama 
+#EXTINF:-1 group-title="EVENT 4/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", 19:00 WIB Livoli Divisi Utama 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
@@ -79,63 +54,92 @@ https://spacetv.my.id/index.mpd?id=19488&type=dash
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 3/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiGPAhBpu1BLVYDgB-3YV4fxc9bCRCPrq4A&s", 002 Kualifikasi Piala Asia U-23 2026
+#EXTINF:-1 group-title="EVENT 4/SEPTEMBER/2025" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 17:00 WIB Brazil (w) vs France (w)
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/P5LU4fZm3Og1e2tf3Clp0w/Fv2lucGIbhPi2caWYvF5Lg/1757000378761/live/may17/chunklist.m3u8
+https://hotlivezz179602324.akainu.xyz/i_qw6OmYBkXQ7mt8c9vX2A/Fv2lucGIbhPi2caWYvF5Lg/1756656886815/live/cunSD/chunklist.m3u8
+
+#EXTINF:-1 group-title="EVENT 4/SEPTEMBER/2025" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 20:30 WIB USA (w) vs Turkey (w)
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/zgY7u5uVTKO05gZ7VBwALA/Fv2lucGIbhPi2caWYvF5Lg/1756236566101/live/dungSD/chunklist.m3u8
+https://drive.google.com/uc?export=download&id=1wQ9XNgjnYmkgOJqnth6oTzEJTOl3ZMJa&usp
+<================>
+
+#EXTINF:-1 group-title="EVENT 4/SEPTEMBER/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:00 WIB Malaysia VS Singapura
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
+<================>
 
-#EXTINF:-1 group-title="EVENT 3/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiGPAhBpu1BLVYDgB-3YV4fxc9bCRCPrq4A&s", 19:30 WIB Indonesia vs Laos 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19486&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19486&type=dash
+#EXTINF:-1 group-title="EVENT 4/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 21:00 WIB Kazakhstan vs Wales
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 
-#EXTINF:-1 group-title="EVENT 3/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiGPAhBpu1BLVYDgB-3YV4fxc9bCRCPrq4A&s", 19:30 WIB Indonesia vs Laos 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19486&type=drm
-https://spacetv.my.id/index.mpd?id=19486&type=dash
+#EXTINF:-1 group-title="EVENT 4/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 23:00 WIB Georgia vs Turki
+#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
+
+#EXTINF:-1 group-title="EVENT 4/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 23:00 WIB Lithuania vs Malta
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+
+#EXTINF:-1 group-title="EVENT 4/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 23:00 WIB Sao Tome dan Principe vs Guinea Ekuatorial
+https://wahyu1ptv.pages.dev/Sport.TV5-HD.m3u8
+<================>
 
 
-#EXTINF:-1 group-title="EVENT 3/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiGPAhBpu1BLVYDgB-3YV4fxc9bCRCPrq4A&s", 15:30 WIB South Korea U23 vs Macau U23
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/v1nj66YohcF8H3vetv8xgg/Fv2lucGIbhPi2caWYvF5Lg/1755971105176/live/soiSD/chunklist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://xl365.plcdn.xyz
-#EXTINF:-1 group-title="EVENT 3/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiGPAhBpu1BLVYDgB-3YV4fxc9bCRCPrq4A&s", 16:00 WIB Malaysia U23 vs Lebanon U23
-https://live1.pro2cdnlive.com/live/channel30.flv?wsSecret=ea40c25d48e8e70b54314457f6e2f832&wsABSTime=1756917411
+<=================== EVENT 2 =============================>
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://xl365.plcdn.xyz
-#EXTINF:-1 group-title="EVENT 3/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiGPAhBpu1BLVYDgB-3YV4fxc9bCRCPrq4A&s", 19:00 WIB Vietnam U23 vs Bangladesh U23
-https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=b78b6c91295d4a15888a27433e645ce0&wsABSTime=1756918060
+#EXTINF:-1 group-title="EVENT 5/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 01:45 WIB Luksemburg vs Irlandia Utara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://xl365.plcdn.xyz
-#EXTINF:-1 group-title="EVENT 3/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiGPAhBpu1BLVYDgB-3YV4fxc9bCRCPrq4A&s", 19:30 WIB Thailand U23 vs Mongolia U23
-https://live1.pro2cdnlive.com/live/channel4.flv?wsSecret=6af3260c07159065eed634a6658ecf13&wsABSTime=1756918282
+#EXTINF:-1 group-title="EVENT 5/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 01:45 WIB Liechtenstein vs Belgia
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://xl365.plcdn.xyz
-#EXTINF:-1 group-title="EVENT 3/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiGPAhBpu1BLVYDgB-3YV4fxc9bCRCPrq4A&s", 20:00 WIB Syria U23 vs Philippines U23
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=ad9e2389f256e6a2b32ab7c6e91828d8&wsABSTime=1756918387
+#EXTINF:-1 group-title="EVENT 5/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 01:45 WIB Slovakia vs Jerman
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+
+#EXTINF:-1 group-title="EVENT 5/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 01:45 WIB Bulgaria vs Spanyol
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#EXTINF:-1 group-title="EVENT 5/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 01:45 WIB Belanda vs Polandia
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+
+#EXTINF:-1 group-title="EVENT 5/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 06:30 WIB Argentina vs Venezuela
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+#EXTINF:-1 group-title="EVENT 5/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 06:30 WIB Kolombia vs Bolivia
+https://wahyu1ptv.pages.dev/Sport.TV3-HD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTINF:-1 group-title="EVENT 5/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 07:30 WIB Brasil vs Cili
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 <=================== Cadangan =============================>
 
