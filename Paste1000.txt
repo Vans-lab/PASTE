@@ -76,7 +76,9 @@ https://twnx2-cf.boblcfwudz421.com/auth%3Dc5fec7ff3496755b4962851b790f68ffe207f5
 https://twnx1-cf.boblcfwudz421.com/auth%3Dab8284d69f3d5c78d7bde4555e2497d114f2d190ae8a105a6790c7a139159964f69638cb9a44dfddd544c8869cb0c33a7a7c0668f6f31128fa1b6652663b227b5ddf0f98ba01f869985524edd75593b9912909b4f0df6eba414cf144abbe407baa2adae9c0a3b643fb19fc963c13d729c24241ae61a18d820e91f8438275d99e995df808e5a8b97ee66fbb03da2fb0cde2d62a2fe49e17328b5fddb821c61a794c320dd1bdf51142e0093eeaad65dfeb%26cid%3DaW4--kBpsAdKTsUqeDOIb250914%26_v%3D2%26_r%3DxjIYyB%26_vis%3D5e1aa4e23a7f9292c6f2d98767ace3929e8605ece90a193c2fecc4eaa5128a89%26_vvs%3Daa05c424854729252dd0ee76275847ddd3fcb8694517435fe7406a377094f047/app/c370444.m3u8
 
 #EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persija vs Bali United
-https://drive.google.com/uc?export=download&id=1O4HUNH-oabhDKscPlwLdVQ3_xJNXDskS&usp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hlsplayer.net/
+https://stream.titanlivescore.com/live/LXSCORE-4879789.m3u8
 
 #EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 15:30 WIB Sriwijaya FC vs Garudayaksa FC
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
