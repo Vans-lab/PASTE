@@ -36,13 +36,15 @@
 
 <=================== EVENT NP =============================>
 
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://asset-2.tribunnews.com/kalteng/foto/bank/originals/Hong-Kong-Open-2025.jpg", 002 LI-NING Hong Kong Open 2025
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://asset-2.tribunnews.com/kalteng/foto/bank/originals/Hong-Kong-Open-2025.jpg", 002 LI-NING Hong Kong Open 2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4007186557870061_AiHD.m3u8?txSecret=b427531cb96a658ce47c72980eddd7d3&txTime=68C63DC0
+https://aae3e8111b7e62fa97499a11d53fc80a.v.smtcdns.net/play.cbalive.weibisai.com/live/21Ap1998/4000636279535061_AiHD.m3u8?txSecret=d37fc76470144877aecd608458fdeb29&txTime=68C78F40
+
+
 
 <=================== EVENT 1 =============================>
 
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://iili.io/3cSp4Lu.md.png", 003 MotoGP 2025
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://iili.io/3cSp4Lu.md.png", 003 MotoGP 2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -52,209 +54,152 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persis Solo vs Persijap
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
-https://twnx3-cf.boblcfwudz421.com/auth%3Db66567e159f8377fa6c535976c02b2b43be040ae01750647474b15b3127c103ac94fe4223c60bfe89dcb8aff9ec91e5d89c12985d48d11ffac90fcf5bc851bc640525dfd822978f2ac2bb8672c449e51a1e577df90ebbf17e7c0b4e9416b6b726e9fec88150830968e0025dfb8e4c05c5e9b16db958d3c29bb472dd7b0e39074fa3f2ec92f15bff27685245510d1c386b94d46e1427b16d1248311eb3d0dd153%26cid%3Dlx3BndubspSsbh4I0XB_9250912%26_v%3D2%26_r%3DD8bms9%26_vis%3D9234fff93e64adc4bce3f76a854714588bb4e5e799f036b000592bd8e3b8aea3%26_vvs%3De1cf734a81e37b345a5441b41e63bc41cb95b0741adc28d5c21febce1406617c/app/c370076.m3u8
-
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persis Solo vs Persijap
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB PSIM Yogyakarta vs Borneo
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://apisportzz179528093.nsnd.live/iufN2uWCo_Ou32IWyIK5Uw/Fv2lucGIbhPi2caWYvF5Lg/1757786790556/live/sd-6MuTNFj6brJPm35JH9/chunklist.m3u8
+https://apisportzz179528093.nsnd.live/uDpX7Usw-VUj_bk7t2JUlg/Fv2lucGIbhPi2caWYvF5Lg/1757860520827/live/sd-6MuTNFj6vus6YMdGS7/chunklist.m3u8
 
-<================>
-
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 20:30 WIB Persiraja Banda Aceh vs Adhyaksa FC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
-https://twnx2-cf.boblcfwudz421.com/auth%3Dbf9d0620fd307917a17611c68cdea88b7af3994138b0ffe2db92391b2e2de27346147c153330e610697e347ad88caa237d88d80c43edabc1db5b75fa7bb59959936da9ac93fd604bc402a035b07d51b6f18bb8b673331819f1e952e88cece54f8ae104d77adebcb3bae849e49bd8a1f9c47dc478ef628ef5629c16aca02831fe507a05443363ebb5ea1960966563d3331d0d7f94d03a7f93f0a2f4fd1adfa8e5%26cid%3Dlx3BndubspSsbh4I0XB_9250912%26_v%3D2%26_r%3DIn4Av4%26_vis%3D26cd73e39038ea28b8b4529a3b30da25f02307cf0c593ebac02c01f006c0dfe6%26_vvs%3D9a38c7d07ef68227b99f7adbd52285de2552b74b7725893b1377b7cc0c9d4158/app/c370161.m3u8
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/2025_FIVB_Men%27s_Volleyball_World_Championship_logo.png", 20:00 WIB Slovenia vs Chile
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/LGg9bh5_wURr7A8RbMV8sw/Fv2lucGIbhPi2caWYvF5Lg/1757789295493/live/may211/chunklist.m3u8
-
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/2025_FIVB_Men%27s_Volleyball_World_Championship_logo.png", 20:30 WIB Poland vs Romania
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/dPbBHuyBru-aEjBIq5Emig/Fv2lucGIbhPi2caWYvF5Lg/1757789485799/live/may21/chunklist.m3u8
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 18:30 WIB Arsenal vs Nottingham Forest
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Crystal Palace vs Sunderland
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel30.flv?wsSecret=ea40c25d48e8e70b54314457f6e2f832&wsABSTime=1756917411
-
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Fulham vs Leeds United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=5a4f883a6d7892e472d06332b2bb0399&wsABSTime=1755275780
-
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Everton vs Aston Villa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=5ca268c9cb2e01e69f349053bcaeb168&wsABSTime=1757446645
-
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB AFC Bournemouth vs Brighton & Hove Albion
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=31b2834a33b15c0d748eaf5f9e5d42ba&wsABSTime=1757445056
-
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Newcastle United vs Wolverhampton Wanderers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=ed2a76f71645bfc17d15d7f84e38398a&wsABSTime=1757796940
-
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 23:30 WIB West Ham United vs Tottenham Hotspur
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=ed2a76f71645bfc17d15d7f84e38398a&wsABSTime=1757796940
-
-#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 02:00 WIB Brentford vs Chelsea
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB PSIM Yogyakarta vs Borneo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
 https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=47c4e1e2584218e80ab6fc8f7fc2efc1&wsABSTime=1756251627
 
-<================>
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB PSIM Yogyakarta vs Borneo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
+https://twnx2-cf.boblcfwudz421.com/auth%3Dc5fec7ff3496755b4962851b790f68ffe207f59d9112a5391e3337418d9b05adb6c8e9989352a3e933128aac101b142102645268f23e8c4cbe7476e00af7929bbb4593b077735ec89b4ee567d3fbbc8d676f6cad19fdbc9e9ae0b37ae8f6c1056ce6a324172580fd2bbaf63dbb84ff3566a062f511028f20544ff88bc34af0e04b0f03ecdece8a20a6af21491b60af18a613befa7b6165172d0192f1bc2d05d9%26cid%3DaW4--kBpsAdKTsUqeDOIb250914%26_v%3D2%26_r%3DUBlZ2A%26_vis%3D90df1ca1a45889394009099c02b741a125be301ad0d25ed01fad51b7a8c0ea1d%26_vvs%3Db61b81c4259b1acfb243d68a9fe741be1c22622b6f68c834601fee1ac065193b/app/c370479.m3u8
 
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", 19:00 WIB Getafe vs Real Oviedo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", 16:00 WIB Berlian Bank Jateng vs DPUPR Alib Grobogan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
+https://twnx1-cf.boblcfwudz421.com/auth%3Dab8284d69f3d5c78d7bde4555e2497d114f2d190ae8a105a6790c7a139159964f69638cb9a44dfddd544c8869cb0c33a7a7c0668f6f31128fa1b6652663b227b5ddf0f98ba01f869985524edd75593b9912909b4f0df6eba414cf144abbe407baa2adae9c0a3b643fb19fc963c13d729c24241ae61a18d820e91f8438275d99e995df808e5a8b97ee66fbb03da2fb0cde2d62a2fe49e17328b5fddb821c61a794c320dd1bdf51142e0093eeaad65dfeb%26cid%3DaW4--kBpsAdKTsUqeDOIb250914%26_v%3D2%26_r%3DxjIYyB%26_vis%3D5e1aa4e23a7f9292c6f2d98767ace3929e8605ece90a193c2fecc4eaa5128a89%26_vvs%3Daa05c424854729252dd0ee76275847ddd3fcb8694517435fe7406a377094f047/app/c370444.m3u8
 
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", 21:15 WIB Real Sociedad vs Real Madrid
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persija vs Bali United
+https://drive.google.com/uc?export=download&id=1O4HUNH-oabhDKscPlwLdVQ3_xJNXDskS&usp
 
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", 23:30 WIB Athletic Club vs Deportivo Alavés
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", 02:00 WIB Atlético Madrid vs Villarreal
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 15:30 WIB Sriwijaya FC vs Garudayaksa FC
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://apisportzz179528093.nsnd.live/rP_f2TsH2DD-7UQRhijfkg/Fv2lucGIbhPi2caWYvF5Lg/1757861593568/live/sd-6MvY6pCCZxB7ETfnpb/chunklist.m3u8
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 20:00 WIB Cagliari vs Parma
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/2025_FIVB_Men%27s_Volleyball_World_Championship_logo.png", 16:30 WIB Serbia vs Czech Republic
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/3QsyeOn0RKmcEqo8ilPglg/Fv2lucGIbhPi2caWYvF5Lg/1757863941797/live/may171/chunklist.m3u8
 
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 23:00 WIB Juventus vs Internazionale
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/2025_FIVB_Men%27s_Volleyball_World_Championship_logo.png", 17:00 WIB France vs South Korea
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/EECE0hufU1oWfWxO9jeBIQ/Fv2lucGIbhPi2caWYvF5Lg/1757865447000/live/may20/chunklist.m3u8
+
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/2025_FIVB_Men%27s_Volleyball_World_Championship_logo.png", 20:00 WIB Brazil vs China
+https://drive.google.com/uc?export=download&id=1O4HUNH-oabhDKscPlwLdVQ3_xJNXDskS&usp
+
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/2025_FIVB_Men%27s_Volleyball_World_Championship_logo.png", 20:30 WIB Italy vs Algeria 
+https://drive.google.com/uc?export=download&id=1O4HUNH-oabhDKscPlwLdVQ3_xJNXDskS&usp
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 20:00 WIB Burnley vs Liverpool
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=b78b6c91295d4a15888a27433e645ce0&wsABSTime=1756918060
+
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 22:30 WIB Manchester City vs Manchester United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=b78b6c91295d4a15888a27433e645ce0&wsABSTime=1756918060
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", 19:00 WIB Celta de Vigo vs Girona
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", 21:15 WIB Levante vs Real Betis
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", 23:30 WIB Osasuna vs Rayo Vallecano
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 17:30 WIB Roma vs Torino
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
 
-#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 01:45 WIB Fiorentina vs Napoli
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 20:00 WIB Atalanta vs Lecce
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 20:00 WIB Pisa vs Udinese
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
+
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 23:00 WIB Sassuolo vs Lazio
 #EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
 <================>
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 20:30 WIB Heidenheim vs Borussia Dortmund
-https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 20:30 WIB Wolfsburg vs Köln
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 20:30 WIB Mainz 05 vs RB Leipzig
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 23:30 WIB Bayern München vs Hamburger SV
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 20:30 WIB St. Pauli vs Augsburg
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 22:30 WIB Borussia M'gladbach vs Werder Bremen
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
 <================>
 
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://www.scisports.com/wp-content/uploads/2022/10/Eredivisie-SciSports-2022-1280x720.jpeg", 21:30 WIB Ajax vs PEC Zwolle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=bd75dddd747fd613827021fa2736b357&wsABSTime=1757446439
-
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://www.scisports.com/wp-content/uploads/2022/10/Eredivisie-SciSports-2022-1280x720.jpeg", 23:45 WIB Go Ahead Eagles vs Volendam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=47c4e1e2584218e80ab6fc8f7fc2efc1&wsABSTime=1756251627
-
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://www.scisports.com/wp-content/uploads/2022/10/Eredivisie-SciSports-2022-1280x720.jpeg", 23:45 WIB NEC vs PSV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=31b2834a33b15c0d748eaf5f9e5d42ba&wsABSTime=1757445056
-
-<=================== EVENT 2 =============================>
-
-#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://iili.io/FDOiPI4.jpg", 02:05 WIB Auxerre vs Monaco
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://www.scisports.com/wp-content/uploads/2022/10/Eredivisie-SciSports-2022-1280x720.jpeg", 17:15 WIB Excelsior vs Sparta Rotterdam
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/22msIyWPrOU6szwKUkYHBA/Fv2lucGIbhPi2caWYvF5Lg/1757184046311/live/soiSD/chunklist.m3u8
+https://hotlivezz179026907.akainu.xyz/JmtCcyxR0iGWl95uFoJPjg/Fv2lucGIbhPi2caWYvF5Lg/1757863537462/live/may9/chunklist.m3u8
 
-#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtSOgYHYgY43ADlPwLKXVTE9Oj-INo2K8WcQ&s", 01:00 WIB Al Hilal vs Al Quadisiya
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
-#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/250px-MLS_crest_logo_RGB_gradient.svg.png", 06:30 WIB Charlotte vs Inter Miami
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=ad9e2389f256e6a2b32ab7c6e91828d8&wsABSTime=1756918387
-
-#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/250px-MLS_crest_logo_RGB_gradient.svg.png", 07:30 WIB Dallas vs Austin
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=1dcb5e13163153f209020122a3a15a20&wsABSTime=1756398200
-
-#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/250px-MLS_crest_logo_RGB_gradient.svg.png", 06:30 WIB DC United vs Orlando City SC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://www.scisports.com/wp-content/uploads/2022/10/Eredivisie-SciSports-2022-1280x720.jpeg", 19:30 WIB Heracles vs AZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
 https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=6fc46db3822e90a7a966bbeec2139e13&wsABSTime=1757445950
 
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://www.scisports.com/wp-content/uploads/2022/10/Eredivisie-SciSports-2022-1280x720.jpeg", 19:30 WIB Utrecht vs Groningen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=775013d1e4c59fa45c79b898b03ed293&wsABSTime=1757445346
+
+#EXTINF:-1 group-title="EVENT 14/SEPTEMBER/2025" tvg-logo="https://www.scisports.com/wp-content/uploads/2022/10/Eredivisie-SciSports-2022-1280x720.jpeg", 21:45 WIB Telstar vs Fortuna Sittard
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=5a4f883a6d7892e472d06332b2bb0399&wsABSTime=1755275780
 
 
 <=================== Cadangan =============================>
