@@ -36,65 +36,114 @@
 
 <=================== EVENT 1 =============================>
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-origin=https://ppdd02.playerktidfintkd.shop
-#EXTINF:-1 group-title="EVENT 19/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Bhayangkara vs Persik Kediri
-https://twnx1-cf.boblcfwudz421.com/auth%3Db946aed456ac462c6c51b56685584660494e364eab1694bd21ae9836b9b337591e7961412a5be26bdadc33ffa3a71ea47f287001b23ad1e402de6f5d7adb0ed42333b8b2d06e7c3e0014bffe0cb9f88511232f933b87e665136493a15cf80c4832f8df2c9497501e0795ec5be0467f5e2869cc3188fee506091fe149f7efbc25e44260cb84952bb403d81ba4082a1448ccdaea86151c7c5e87f930aa015794dd%26cid%3DaW4--kBpsAdKTsUqeDOIb250914%26_v%3D2%26_r%3Dsmd8sa%26_vis%3D253bb6f0a1dab396cdc80e1091c5d0758cbbc1706d1b3697c9c7bc877ddd65d2%26_vvs%3D35bba7b5b0ae49ef9c266113d22690fb2fd7db6a7b9e0a50bdb8e6755a915b27/app/c371542.m3u8
+#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://iili.io/3yG5Ig2.png", 003 Formula 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 19/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Bhayangkara vs Persik Kediri
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://iili.io/KfT7PJ2.jpg", Testing
+#EXTVLCOPT:http-origin=https://ppdd02.playerktidfintkd.shop
+#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://twnx3-cf.boblcfwudz421.com/auth%3D43e7b6f0684c902798e0eedd4a912c9b98922eb4ddc012e4de23bb808130a3cbed640bfa97dc9286edc3e59ff12345e6e6b6cf9d0227358bfe22342d559d2f38d75e0fef13245d4fac8738f044ec7717a63dad0bf35fcd01a860ffe58f44101341beae6a1c2500320e5e3c42b90871226448542715310b5500def559479b6c4462047aa872bb0a8e0bc03df211b508c7d8a0ed7016e31abfb983ddbd02d28d3a%26cid%3DaW4--kBpsAdKTsUqeDOIb250914%26_v%3D2%26_r%3DOUlLm6%26_vis%3D695355e6bdd80831372fb26d23800cc546f140ab677c9dcf26b574f3bba5802f%26_vvs%3D9ae4b3d72c4138b9bfcbf439df4c5dfaa11c902a785dfcc79a14d97c27334de2/app/c371719.m3u8
+
+#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", 13:00 WIB Putri: Kota Impian Wahana vs Bharata Muda
+#EXTVLCOPT:http-origin=https://ppdd02.playerktidfintkd.shop
+#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://twnx1-cf.boblcfwudz421.com/auth%3Dd5c6669224c844256c38b3d9759185f8e47fefe4a2aca49ea621d6c79a71ab56233d8713461796e9acd7846cf2686d6dc96744aec120b167fd09fb4b2fc16ed09d8e3e247e82d661f0f4164d37f7a830e0d6b8172c1c3a0ab4b906253b1eba1d5acd416075b55b237c2d0564b63bdfbd7deccc327ef798dcbc14dfb8989145b05153d13473944e29ef1a7d7feac06b6c42724fe48a00032b1b7997495c79c261%26cid%3DaW4--kBpsAdKTsUqeDOIb250914%26_v%3D2%26_r%3DZHVZc1%26_vis%3D984ebe6bf7156f647d79d121658e6365198e45399b800b5ed1782656bcd0fc17%26_vvs%3Df6b879345c2bb29656a62e9fc710ef7a0a4d83022516823d3ec7a6207230d0c1/app/c371719.m3u8
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Dewa United vs PSBS Biak Numfor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=5a8f45379c8199e0d509bc39c4637d65&wsABSTime=1758386845
+
+#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Bali United vs PSIM Yogyakarta
+https://drive.google.com/uc?export=download&id=1O4HUNH-oabhDKscPlwLdVQ3_xJNXDskS&usp
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/2025_FIVB_Men%27s_Volleyball_World_Championship_logo.png", 14:30 WIB Turkey vs Netherlands
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://apisportzz179528093.nsnd.live/9IoJezQSPViZr5O_dQ1Pcw/Fv2lucGIbhPi2caWYvF5Lg/1758292503083/live/sd-6MuTNFj7msbw2D1JcT/chunklist.m3u8
+https://hotlivezz179026907.akainu.xyz/uys8Ylhuu__tGRcweqjGSA/Fv2lucGIbhPi2caWYvF5Lg/1757168905672/live/may17/chunklist.m3u8
 
-#EXTINF:-1 group-title="EVENT 19/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Bhayangkara vs Persik Kediri
+#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/2025_FIVB_Men%27s_Volleyball_World_Championship_logo.png", 19:00 WIB Poland vs Canada
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://drive.google.com/uc?export=download&id=1O4HUNH-oabhDKscPlwLdVQ3_xJNXDskS&usp
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 18:30 WIB Liverpool vs Everton
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 23:30 WIB Manchester United vs Chelsea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+
+#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 18:30 WIB Liverpool vs Everton
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=5a8f45379c8199e0d509bc39c4637d65&wsABSTime=1758386845
+
+#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Burnley vs Nottingham Forest
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel4.flv?wsSecret=6af3260c07159065eed634a6658ecf13&wsABSTime=1756918282
+
+#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Brighton & Hove Albion vs Tottenham Hotspur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=7448d833c78d634d1b3536c7e9449a55&wsABSTime=1758340788
+
+#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Wolverhampton vs Leeds United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel30.flv?wsSecret=2519924428dbf41edb685d9adbabce4b&wsABSTime=1758340353
+
+#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB West Ham vs Crystal Palace
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=b1b437e822ff6863edad54ed7b3442d4&wsABSTime=1758299528
 
-#EXTINF:-1 group-title="EVENT 19/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persebaya Surabaya vs Semen Padang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=f55b2dc71d27ea21261b14b3c346782c&wsABSTime=1758299696
-
-#EXTINF:-1 group-title="EVENT 19/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Malut United vs Madura United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=31b2834a33b15c0d748eaf5f9e5d42ba&wsABSTime=1757445056
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 19/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/2025_FIVB_Men%27s_Volleyball_World_Championship_logo.png", 20:00 WIB Czech Republic vs China
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 19/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtSOgYHYgY43ADlPwLKXVTE9Oj-INo2K8WcQ&s", 22:15 WIB Al Quadisiya vs Al Khaleej
+#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 23:30 WIB Manchester United vs Chelsea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=a9bcfe879fdd34402cd04779d88cb348&wsABSTime=1757445149
 
-#EXTINF:-1 group-title="EVENT 19/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtSOgYHYgY43ADlPwLKXVTE9Oj-INo2K8WcQ&s", 22:35 WIB Al Feiha vs Al Shabab
+#EXTINF:-1 group-title="EVENT 21/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 02:00 WIB Fulham vs Brentford
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=b1b437e822ff6863edad54ed7b3442d4&wsABSTime=1758299528
 
-#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtSOgYHYgY43ADlPwLKXVTE9Oj-INo2K8WcQ&s", 01:00 WIB Al-Ahli vs Al Hilal
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
 <================>
 
-#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", 02:00 WIB Real Betis vs Real Sociedad
+#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", 21:15 WIB Real Madrid vs Espanyol
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", 19:00 WIB Girona vs Levante
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -102,20 +151,80 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 01:45 WIB Lecce vs Cagliari
+#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", 23:30 WIB Deportivo Alavés vs Sevilla
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", 23:30 WIB Villarreal vs Osasuna
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 group-title="EVENT 21/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", 02:00 WIB Valencia vs Athletic Club
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 20:00 WIB Bologna vs Genoa
 #EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 
+#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 23:00 WIB Hellas Verona vs Juventus
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+
+#EXTINF:-1 group-title="EVENT 21/SEPTEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 01:45 WIB Udinese vs Milan
+#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 20:30 WIB Hamburger SV vs Heidenheim
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+
+#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 20:30 WIB Augsburg vs Mainz 05
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 20:30 WIB Werder Bremen vs Freiburg
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 01:30 WIB Stuttgart vs St. Pauli
+#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 20:30 WIB Hoffenheim vs Bayern München
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
-#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://iili.io/FDOiPI4.jpg", 01:45 WIB Olympique Lyonnais vs Angers SCO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=50b2e0adabbe315ab588fade62d4b6a2&wsABSTime=1758301175
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTINF:-1 group-title="EVENT 20/SEPTEMBER/2025" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 23:30 WIB RB Leipzig vs Köln
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 <=================== Cadangan =============================>
 
