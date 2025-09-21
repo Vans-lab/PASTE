@@ -65,7 +65,9 @@ https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=5a4f883a6d7892e472d063
 https://apisportzz179528093.nsnd.live/wKNw1ZSzelALeGcmQ7z4jg/Fv2lucGIbhPi2caWYvF5Lg/1758465305347/live/sd-6MuTNFj6mAzbs4Jk1h/chunklist.m3u8
 
 #EXTINF:-1 group-title="EVENT 21/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB PSM vs Persija
-https://drive.google.com/uc?export=download&id=1O4HUNH-oabhDKscPlwLdVQ3_xJNXDskS&usp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hlsplayer.net/
+https://stream.titanlivescore.com/live/LXSCORE-4879795.m3u8
 
 #EXTINF:-1 group-title="EVENT 21/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 15:30 WIB Tornado FC vs Persela
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
