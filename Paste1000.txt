@@ -16,9 +16,15 @@
 #EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
 #https://fhlsport121.fgs37g8.xyz/token-IkQpnrXBKPeGuDB9yvY6n23XlJvThCHjPXP%2BwKQdF2Gn4bjPHUFdD4IoqRBAX05JBCeIwDdmmvw%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5LnJ3YWJ3by5jb20=/rrty/sd-1-4428227.m3u8?txSecret=7f5f0f857334de2ffaf55acc4d1f595b&txTime=68CFE693
 
-#EXTINF:-1 group-title="UNITED" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi91egU4fdCWqURg8V74PWx4uncrXAmODmXFOMQpgmfKIPl2hs21n7u0OTqTFcZQOcv2IZSbTkIw7x-WFdoWikVI8-2LP7UhFKMSr41ZENg-1EeEIukIAnn6lLTLbHRf3AezlCbr3NOBq-oIYZ_g5bCofVpLm-vILTVwBitPnhY6VUA8mbou5FfSe1c2Q=s610",MU VS BURNLEY EPL
+#EXTINF:-1 group-title="UNITED" tvg-logo="https://iili.io/FtSr5Mb.jpg", 19:30 WITA Brentford vs Manchester United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#EXTINF:-1 group-title="UNITED" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi91egU4fdCWqURg8V74PWx4uncrXAmODmXFOMQpgmfKIPl2hs21n7u0OTqTFcZQOcv2IZSbTkIw7x-WFdoWikVI8-2LP7UhFKMSr41ZENg-1EeEIukIAnn6lLTLbHRf3AezlCbr3NOBq-oIYZ_g5bCofVpLm-vILTVwBitPnhY6VUA8mbou5FfSe1c2Q=s610",BRENTFORD VS MU EPL
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
-#https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/LIVE_Fubo_Sports_4/index.m3u8
+https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_tnt_1_sport/index.m3u8
 
 #EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://footballgroundguide.com/app/uploads/2023/12/premiereleague-logo-1024x1024.png", UNITED VS ARSENAL 2
 #EXTVLCOPT:http-origin=https://demo.zplayer.xyz
