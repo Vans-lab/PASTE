@@ -10,7 +10,13 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQz991nL/garuda.jpg" group-title="TIMNAS,RCTI
+#EXTINF:-1 group-title="TIMNAS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142756
+
+#EXTINF:-1 tvg-logo="https://iili.io/FtUio6g.md.png" group-title="TIMNAS",Espn NL 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/246159
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQz991nL/garuda.jpg" group-title="TIMNAS",RCTI
 http://vippccjuzfa.top:8080/VIP011511745084773397/5e58cd5492ad/34322
 
 
