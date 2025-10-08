@@ -3,6 +3,22 @@
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQz991nL/garuda.jpg" group-title="TIMNAS",ARAB SAIDI VS INDONESIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQz991nL/garuda.jpg" group-title="TIMNAS,RCTI
+http://vippccjuzfa.top:8080/VIP011511745084773397/5e58cd5492ad/34322
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQz991nL/garuda.jpg" group-title="TIMNAS",SPORTDIGITAL
+http://shafak.xyz:8880/15653663194287/11337842658653/408230
+
+
+
 ##############################MOTO GP############################
 
 #EXTINF:-1 group-title="MOTOGP INDONESIA" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",60 FPS
@@ -64,25 +80,6 @@ https://fhlsport200.tbafs39a1.xyz/token-cUUuzuWceqSGvjMul%2FY6kWnVlJvS13vjZSH%2F
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 #https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
-
-<=================== EVENT 1 =============================>
-
-#EXTINF:-1 group-title="EVENT 6/OKTOBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 15:30 WIB Kendal Tornado FC vs Persiba Balikpapan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel18.m3u8?wsSecret=b3a668ec6cd9539811f2e22ee595189f&wsABSTime=1759771527
-
-#EXTINF:-1 group-title="EVENT 6/OKTOBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 15:30 WIB FC Bekasi City vs Sumsel United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://www.instreamtv.xyz
-#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
-https://play-cdn.sportsbal.com/sport/202_4329464_1.m3u8?hls_ctx=3p15ce7a&sign=PNkb9h8r_xXo2suP_gsQEIhS9MHV74HddnkQXBfz3CMPBOfCg4WfPjtS-dJibMou56sA8FbD-rlnPaTfjnhbM0JG6N10neg7UMnNDaDHqOtyMWZTFvPxXDsiK2aEaK8_smggMOcoEa1M1UGgduFxIQFLwDGWUROeIfkfRBvLoUJMK2EFBbjYwjzY0saj8dIWmh0APLBZK4CsVw7pyhJGmIGrIBsJOlhdQfD0193Z4K5Rf5enkOW8z2D7qKBw4B4Oz6LTq3khT6h03ZzEoiNryUXcTyEW4YSLwSH2T2fqYGfon5HndCXv4kE2D3zG4riCZw3FI_h29ONdlKNoDuRUeA&timestamp=1759739812078
-
-#EXTINF:-1 group-title="EVENT 6/OKTOBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 19:00 WIB Persela Lamongan vs Persipura Jayapura
-https://live5.k8v4dh4.app/live/43612277.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://www.instreamtv.xyz
-#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
 
 <=================== Cadangan =============================>
 
