@@ -5,148 +5,70 @@
 
 <=================== EVENT 1 =============================>
 
-#EXTINF:-1 group-title="EVENT 14/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZcw3hUf4Kbs1BPdeQz89yKnQ4vTpsV0qK4w&s", 14:00 WIB VICTOR Denmark Open 2025
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTINF:-1 group-title="EVENT 15/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZcw3hUf4Kbs1BPdeQz89yKnQ4vTpsV0qK4w&s", 14:00 WIB VICTOR Denmark Open 2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/6ZRTHoQNDLHjXgGwMqwklg/Fv2lucGIbhPi2caWYvF5Lg/1760448649221/live/may28/chunklist.m3u8
-https://hotlivezz179026907.akainu.xyz/V3ffzUvGoAMpVX8vi7YQ-w/Fv2lucGIbhPi2caWYvF5Lg/1760448649221/live/may281/chunklist.m3u8
-https://hotlivezz179026907.akainu.xyz/Izf0gH3zAj_fXcSZUFgT2Q/Fv2lucGIbhPi2caWYvF5Lg/1760448649222/live/may271/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
+https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4030021968519061_AiHD.m3u8?txSecret=7ded9fb914ced414c874480fc87355ef&txTime=68F07BD0
+https://b414242ef41ad30e8c2963221cbfa0c3.v.smtcdns.net/play.cbalive.weibisai.com/live/4030022159162061_AiHD.m3u8?txSecret=ee98fc49b91a144dcb34e2284da20b4d&txTime=68F07BD0
+https://b188f789c84dcab4371c6e06ad24ca1e.v.smtcdns.net/play.cbalive.weibisai.com/live/4030022543927061_AiHD.m3u8?txSecret=f5a8c3194fc1f151acd19b9433195f4f&txTime=68F07BD0
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 14/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpaeHYtfo-sQsIl20E38b6fYqIpG3hmdjhRA&s",  17:30 WIB Tionghoa Taipei vs Thailand
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://www.thairath.co.th
-#EXTVLCOPT:http-referrer=https://www.thairath.co.th/
-https://ssai-streaming.thairath.co.th/bamm-csai/playlist.m3u8
 
-#EXTINF:-1 group-title="EVENT 14/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpaeHYtfo-sQsIl20E38b6fYqIpG3hmdjhRA&s",  18:00 WIB Filipina vs Timor-Leste
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
+<================>
 
-#EXTINF:-1 group-title="EVENT 14/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpaeHYtfo-sQsIl20E38b6fYqIpG3hmdjhRA&s",  19:30 WIB Nepal vs Vietnam
+#EXTINF:-1 group-title="EVENT 15/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-p4WkPrwkhYDK4GaklCCCrxsXqRMmUuM0g&s",  19:30 WIB Indonesia U17 vs Mongolia U17 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel5.m3u8?wsSecret=b1b437e822ff6863edad54ed7b3442d4&wsABSTime=1758299528
-
-#EXTINF:-1 group-title="EVENT 14/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpaeHYtfo-sQsIl20E38b6fYqIpG3hmdjhRA&s",  20:00 WIB Malaysia vs Laos
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
-https://cors-proxy.wangzhishi.net/https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
-
-#EXTINF:-1 group-title="EVENT 14/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpaeHYtfo-sQsIl20E38b6fYqIpG3hmdjhRA&s",  21:00 WIB India vs Singapura
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+https://live1.pro2cdnlive.com/live/channel4.m3u8?wsSecret=f37c1f3c00906002f3999ffda276219a&wsABSTime=1760550780
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 14/OKTOBER/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 17:30 WIB Jepang vs Brasil
+#EXTINF:-1 group-title="EVENT 15/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7RTxqgg8GiGZsRqyTOiejvcL6ec4DLF6JhA&s",  23:45 WIB Olympique Lyonnais vs St. Pölten
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 group-title="EVENT 15/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7RTxqgg8GiGZsRqyTOiejvcL6ec4DLF6JhA&s",  23:45 WIB Vålerenga vs Wolfsburg
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 group-title="EVENT 16/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7RTxqgg8GiGZsRqyTOiejvcL6ec4DLF6JhA&s",  02:00 WIB Roma vs Barcelona
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 group-title="EVENT 16/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7RTxqgg8GiGZsRqyTOiejvcL6ec4DLF6JhA&s",  02:00 WIB Chelsea FC vs Paris
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 16/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEWPxhzRNDGdkz1RdxQFwPYZKXrBQd_qSF2A&s", 03:00 WIB Maroko U-20 vs Perancis U-20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
 
-#EXTINF:-1 group-title="EVENT 14/OKTOBER/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 18:00 WIB Republik Korea vs Paraguay
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=e68cb10944a881ac5eb9143be03e7ffa&wsABSTime=1759252985
-
-#EXTINF:-1 group-title="EVENT 14/OKTOBER/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 23:00 WIB Norwegia vs Selandia Baru
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTINF:-1 group-title="EVENT 16/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEWPxhzRNDGdkz1RdxQFwPYZKXrBQd_qSF2A&s", 06:00 WIB Argentina U-20 vs Kolombia U-20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 14/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 23:00 WIB Estonia vs Moldova
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
-https://ultra2.falconx1.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8
-
-#EXTINF:-1 group-title="EVENT 14/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 23:00 WIB Afrika Selatan vs Rwanda
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel4.m3u8?wsSecret=b8e74d168ebad458e67b276fd2ebf70d&wsABSTime=1759946937
-
-#EXTINF:-1 group-title="EVENT 14/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 23:00 WIB Nigeria vs Benin
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live.golivenow71.com/1d51688facb0d8c7514430b0507cf3b3/1760468647011/r8ztat6/index.m3u8
-
-#EXTINF:-1 group-title="EVENT 14/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 23:00 WIB Somalia vs Mozambik
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live.golivenow71.com/96e896a98a94400dec005cfdfd8160cc/1760468742511/lhsazur/index.m3u8
-
-#EXTINF:-1 group-title="EVENT 15/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 00:00 WIB Qatar vs Uni Emirat Arab
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-#EXTINF:-1 group-title="EVENT 15/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 01:45 WIB Turki vs Georgia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel3.m3u8?wsSecret=cf3507e6f344f8278191dfa06355166d&wsABSTime=1760468979
-
-#EXTINF:-1 group-title="EVENT 15/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 01:45 WIB Latvia vs Inggris
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-#EXTINF:-1 group-title="EVENT 15/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 01:45 WIB Spanyol vs Bulgaria
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-#EXTINF:-1 group-title="EVENT 15/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 01:45 WIB Italia vs Israel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
-https://ultra2.falconx1.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8
-
-#EXTINF:-1 group-title="EVENT 15/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 01:45 WIB Portugal vs Hungaria
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-
-#EXTINF:-1 group-title="EVENT 15/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 01:45 WIB Arab Saudi vs Irak
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-#EXTINF:-1 group-title="EVENT 15/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 02:00 WIB Maroko vs Kongo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel9.m3u8?wsSecret=bb596160135054e1aa252114f1c3c003&wsABSTime=1760376977
-
-#EXTINF:-1 group-title="EVENT 15/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 02:00 WIB Pantai Gading vs Kenya
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel23.m3u8?wsSecret=350084137f67a9c5153c2353d6f933a7&wsABSTime=1758671972
-
-#EXTINF:-1 group-title="EVENT 15/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 02:00 WIB Senegal vs Mauritania
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel12.m3u8?wsSecret=bf84dee53a68a1e00a96c72a93a16de0&wsABSTime=1760469425
+#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
 
 ##############################MOTO GP############################
 
