@@ -7,30 +7,39 @@
 
 <=================== EVENT 1 =============================>
 
-#EXTINF:-1 group-title="EVENT 16/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZcw3hUf4Kbs1BPdeQz89yKnQ4vTpsV0qK4w&s", 002 VICTOR Denmark Open 2025
+<================>
 
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZcw3hUf4Kbs1BPdeQz89yKnQ4vTpsV0qK4w&s", 002 VICTOR Denmark Open 2025
+#EXTINF:-1 group-title="EVENT 17/OKTOBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Persita vs PSIM Yogyakarta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel19.m3u8?wsSecret=ac7f11b1b73594b1539e9a3608b2310f&wsABSTime=1760377178
+
+#EXTINF:-1 group-title="EVENT 17/OKTOBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB PSBS Biak Numfor vs Persib
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel2.m3u8?wsSecret=b397e8676816b5253ae5fc520628394c&wsABSTime=1758736536
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 16/OKTOBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Dewa United vs Madura United
+#EXTINF:-1 group-title="EVENT 17/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-p4WkPrwkhYDK4GaklCCCrxsXqRMmUuM0g&s", 16:30 WIB Indonesia vs Myanmar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phusd1RK/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel14.m3u8?wsSecret=5a4f883a6d7892e472d06332b2bb0399&wsABSTime=1755275780
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 16/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7RTxqgg8GiGZsRqyTOiejvcL6ec4DLF6JhA&s",  23:45 WIB Atletico Madrid vs Manchester United
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-title="EVENT 17/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRliJBemTreOG8p9FLXmRgBLDHPDzJXfBiUFg&s",  17:05 WIB Brisbane Roar vs Macarthur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
-#EXTINF:-1 group-title="EVENT 17/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7RTxqgg8GiGZsRqyTOiejvcL6ec4DLF6JhA&s",  02:00 WIB SL Benfica vs Arsenal
+
+<=================== EVENT 2 =============================>
+
+#EXTINF:-1 group-title="EVENT 18/OKTOBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", 02:00 WIB Real Oviedo vs Espanyol
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -38,18 +47,18 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 group-title="EVENT 17/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7RTxqgg8GiGZsRqyTOiejvcL6ec4DLF6JhA&s",  02:00 WIB PSG vs Real Madrid
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-title="EVENT 18/OKTOBER/2025" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 01:30 WIB Union Berlin vs Borussia M'gladbach
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-#EXTINF:-1 group-title="EVENT 17/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7RTxqgg8GiGZsRqyTOiejvcL6ec4DLF6JhA&s",  02:00 WIB Bayern vs Juventus
+#EXTINF:-1 group-title="EVENT 18/OKTOBER/2025" tvg-logo="https://iili.io/FDOiPI4.jpg", 01:45 WIB PSG vs Strasbourg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel6.m3u8?wsSecret=56a11cac5b764e283f5cac2c475d275e&wsABSTime=1758736636
+https://live1.pro2cdnlive.com/live/channel2.m3u8?wsSecret=bfaf685e53abb537ad8529111004db87&wsABSTime=1760723830
+
 
 ##############################MOTO GP############################
 
