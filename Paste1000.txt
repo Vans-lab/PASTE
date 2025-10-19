@@ -3,9 +3,9 @@
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 
-#EXTINF:-1 group-title="LIVE WSBK" tvg-logo="https://asset-2.tribunnews.com/pontianak/foto/bank/images/Line-Up-WSBK-2025-Lengkap-Satu-Tim-Mundur-Nicolo-Bulega-Vs-Toprak-Razgatlioglu-Calon-Juara-Dunia.jpg",20.00 WITA WSBK FINAL
-#EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-https://master.s3stream.cfd/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4OS9obHMvc3RyZWFtLm0zdTg=.m3u8
+#EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://i1.sndcdn.com/artworks-000006940421-b97a1t-t500x500.jpg",23.30 WITA LIVERPOOL VS MAN UTD
+#EXTVLCOPT:http-referrer=https://kilatlive.co/
+https://rr4---sn-8pxuuxa-on.applecdnstore.com/live_event_sky_sports_main_event/index.m3u8
 
 #EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://iili.io/FtSr5Mb.jpg", 22:30 WIB Liverpool vs Manchester United
 #KODIPROP:inputstreamaddon=inputstream.adaptive
