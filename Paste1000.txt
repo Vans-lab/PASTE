@@ -14,6 +14,13 @@ https://rr4---sn-8pxuuxa-on.applecdnstore.com/live_event_sky_sports_main_event/i
 #KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-1.png" group-title="UNITED DAY",Hub Premier 1 FHD
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
+
+#EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://iili.io/FkbwkX4.md.jpg",CANAL LIVE 2
+http://viptwso.top:8080//VIP01545171425617373/ca75a1a2314d/128998
+
+
 #EXTINF:-1 tvg-id="" group-title="UNITED DAY" tvg-name="DAZN 1 Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/800px-Premier_League_Logo.svg.png",EPL 1
 http://supersonictv.live:8080/Allen123/Allen123/7627
 
