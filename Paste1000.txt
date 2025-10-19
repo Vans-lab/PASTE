@@ -42,9 +42,8 @@ https://play-cdn.sportsbal.com/sport/202_4299223_1.m3u8?hls_ctx=e5890145&sign=dG
 https://live1.pro2cdnlive.com/live/channel21.m3u8?wsSecret=69279f980defcf685a4e99a7d8daf630&wsABSTime=1760034429
 
 #EXTINF:-1 group-title="EVENT 19/OKTOBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persijap vs Bali United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live3.procdnlive.com/livecdn/channel71.flv?auth_key=3000001760853607-0-0-153bce28493a755223b0ba9c28f35c4c
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m205nd/playlist.m3u8
 
 <================>
 
