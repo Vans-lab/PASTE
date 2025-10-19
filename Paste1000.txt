@@ -14,6 +14,9 @@ https://rr4---sn-8pxuuxa-on.applecdnstore.com/live_event_sky_sports_main_event/i
 #KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
+#EXTINF:-1 tvg-id="" group-title="UNITED DAY" tvg-name="DAZN 1 Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/800px-Premier_League_Logo.svg.png",EPL 1
+http://supersonictv.live:8080/Allen123/Allen123/7627
+
 <=================== EVENT 1 =============================>
 #EXTINF:-1 group-title="VOLLY KOREA" tvg-logo="https://en.sportschosun.com/images/2025/10/14/there-are-many-things-to-see-without-kim-116228/there-are-many-things-to-see-without-kim-11622802.jpg",PINK SPIDER VS RED SPARKS
 #https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/fgfx5w7lzgqno2bijg4in8rbr4jag6m9uipd/playlist.m3u8?hdnts=st=1760771972~exp=1760804382~acl=*/fgfx5w7lzgqno2bijg4in8rbr4jag6m9uipd/*~hmac=e8d060856d58cacdd2ecf9afbf0953398889132cab65da47c04e6f804cb9eb04
