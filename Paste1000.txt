@@ -14,6 +14,9 @@ https://rr4---sn-8pxuuxa-on.applecdnstore.com/live_event_sky_sports_main_event/i
 #KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
+#EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-1.png" group-title="UNITED DAY",Hub Premier 1 FHD
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
 
