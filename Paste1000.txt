@@ -3,6 +3,15 @@
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uiS8r-587FkO_jtl8jWxnEElWr0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4668355/2d9633.jpg" group-title="LIVE TEST", Chelsea vs Sunderland - Premier League - 20:30 WIB 25-10-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=9182&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=9182&type=dash
+
 #EXTINF:-1 group-title="VOLI KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd63b1Lf9T4IL97RMzSeBjFbyS6U-o45BwYw&s",RED SPARKS VS GS CALTEX
 #https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0002/vyaf5rh87anwzdlulltk0ai7atrc1az8josv/playlist.m3u8?hdnts=st=1761215946~exp=1761248356~acl=*/vyaf5rh87anwzdlulltk0ai7atrc1az8josv/*~hmac=9078cdd47bfa9cb04c5e0e8fe986db4ff9eb007315fb16ca6ec980d4cfa56182
 
