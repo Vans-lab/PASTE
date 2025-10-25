@@ -30,6 +30,23 @@
 
 #EXTINF:-1 tvg-id="" group-title="UNITED DAY" tvg-name="DAZN 1 Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/800px-Premier_League_Logo.svg.png",EPL 1
 #http://supersonictv.live:8080/Allen123/Allen123/7627
+
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=6686&type=drm
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/JiVbZppG7SsS2-LSh3U_mSleh0w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4667506/af1ec9.jpg" group-title="TEST",TEST
+https://hihi.my.id/hihi/hihi.mpd?id=6686&type=dash
+
+#KODIPROP:inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=6686&type=drm
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-title="COBA",COBA
+https://hihi.my.id/hihi/hihi.mpd?id=6686&type=dash
+
 <=================== UPCOMING =============================>
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/zCDP9iV7F7-mQoYn0arI1pbcLFY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-french-open-2025-semifinals-b7f208.jpg" group-title="LIVE NOW - YONEX French Open 2025 - Semifinals", Han Yue (CHN) vs Wang Zhi Yi (CHN) - Women's Singles Semifinals | YONEX French Open 2025 - 15:00 WIB 25-10-2025
