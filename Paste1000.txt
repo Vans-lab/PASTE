@@ -30,6 +30,519 @@
 
 #EXTINF:-1 tvg-id="" group-title="UNITED DAY" tvg-name="DAZN 1 Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/800px-Premier_League_Logo.svg.png",EPL 1
 #http://supersonictv.live:8080/Allen123/Allen123/7627
+<=================== UPCOMING =============================>
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/zCDP9iV7F7-mQoYn0arI1pbcLFY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-french-open-2025-semifinals-b7f208.jpg" group-title="LIVE NOW - YONEX French Open 2025 - Semifinals", Han Yue (CHN) vs Wang Zhi Yi (CHN) - Women's Singles Semifinals | YONEX French Open 2025 - 15:00 WIB 25-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=18249&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=18249&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/tVkm1ELmj6j20xXgQupb61otCP8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4667503/f16137.jpg" group-title="LIVE NOW - Indosiar", PERSIK Kediri vs PSM Makassar - BRI Super League - 15:00 WIB 25-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=205&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=205&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dKAr0uQTtRE1DEQvDG1QFgzRtlY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4666170/3c010c.jpg" group-title="LIVE NOW - WTA 250", WTA 250: Guangzhou Open 2025 - Semifinal - 15:30 WIB 25-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=17505&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=17505&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/JiVbZppG7SsS2-LSh3U_mSleh0w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4667506/af1ec9.jpg" group-title="UPCOMING NEXT", Ipswich vs West Bromwich Albion - EFL Championship - 18:25 WIB 25-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=6686&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=6686&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/8On00dSb1wuwiE_eJv1nMp1gpOE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4665897/0967d3.jpg" group-title="UPCOMING NEXT", PSMS Medan vs Persiraja Banda Aceh - Pegadaian Championship - 18:52 WIB 25-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=19543&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=19543&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WgWbyxxu4srxWwJbhE9MGQr80yg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4665860/cc3803.jpg" group-title="UPCOMING NEXT", Girona vs Oviedo - LaLiga - 18:55 WIB 25-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=6299&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=6299&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aZ9MDN1LW9OvG9kmpNJmlwuFtK0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4667512/04d444.jpg" group-title="UPCOMING NEXT", Galatasaray HDI Sigorta vs Altekma - Turkish Men's Volleyball League - 18:55 WIB 25-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://hihi.my.id/hihi/hihi.m3u8?id=19737
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PlRqs6Q3UNCNieS0CHU1GA_RU24=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4665901/6fc3dc.jpg" group-title="UPCOMING NEXT", Rajadamnern 2025 Interim Middleweight Title - 19:00 WIB 25-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://hihi.my.id/hihi/hihi.m3u8?id=19388
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/YrmPzA-pvpqbz9UtPI45m05XtDE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4667501/b5aa23.jpg" group-title="UPCOMING NEXT", Bali United FC vs PERSITA - BRI Super League - 19:00 WIB 25-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=19354&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=19354&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/CXFuO9J3I-MAhxg-73dgg30oJgg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4666171/51e423.jpg" group-title="UPCOMING NEXT", Parma vs Como - Serie A - 19:45 WIB 25-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=19404&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=19404&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uA6rErjYbyGeHliDHl1DWXcHoZU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4666174/b16bb4.jpg" group-title="UPCOMING NEXT", Udinese vs Lecce - Serie A - 19:45 WIB 25-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=17938&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=17938&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SDlHvuUGN7_GsvF-ZGrySrWz0ws=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4665861/dc996d.jpg" group-title="UPCOMING NEXT", ATP 500: Erste Bank Open 2025 - Semifinal - 20:00 WIB 25-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=17875&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=17875&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/c6D4igBUHoTWWCYqGWAFs8LouLc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4667507/857963.jpg" group-title="UPCOMING NEXT", ATP 500: Swiss Indoors Basel 2025 - Semifinal - 20:00 WIB 25-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=6317&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=6317&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ASCHGz97Ae28fE92t1cQEWxr2Ac=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4668356/b684d9.jpg" group-title="UPCOMING NEXT", Newcastle vs Fulham - Premier League - 20:30 WIB 25-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=9183&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=9183&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uiS8r-587FkO_jtl8jWxnEElWr0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4668355/2d9633.jpg" group-title="UPCOMING NEXT", Chelsea vs Sunderland - Premier League - 20:30 WIB 25-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=9182&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/zCDP9iV7F7-mQoYn0arI1pbcLFY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-french-open-2025-semifinals-b7f208.jpg" group-title="UPCOMING NEXT", An Se Young (KOR) vs Chen Yu Fei (CHN) - Women's Singles Semifinals | YONEX French Open 2025 - 21:00 WIB 25-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=18249&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=18249&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gMz4tW-WKBHiioY80qjIZOc6giI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4665859/c6affb.jpg" group-title="UPCOMING NEXT", Espanyol vs Elche - LaLiga - 21:10 WIB 25-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=6299&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=6299&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/omo4ViJtPFkbl6Sdvh_Q0ilHi2Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4666458/379595.jpg" group-title="UPCOMING NEXT", Fortuna Sittard vs FC Groningen - Eredivisie - 21:25 WIB 25-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=6686&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=6686&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/F3suDX6khZsDlqMXOEpWUx7gDos=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4666172/57df83.jpg" group-title="UPCOMING NEXT", Napoli vs Inter - Serie A - 22:30 WIB 25-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=19404&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=19404&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0w3SJi7s8zS05ZL3CgtLLJ8v7Xs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4668360/fae3ff.jpg" group-title="UPCOMING NEXT", Man United vs Brighton - Premier League - 23:11 WIB 25-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=9182&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/encMH305K7C6lxMqkilMDmqyAs4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4667511/4ef52c.jpg" group-title="UPCOMING NEXT", Ziraat Bankkart vs Fenerbahce Medicana - Turkish Men's Volleyball League - 23:25 WIB 25-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://hihi.my.id/hihi/hihi.m3u8?id=19737
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Z2yXsCAl9jNaPnGADhEfZHDvxsE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4665863/c66438.jpg" group-title="UPCOMING NEXT", Athletic Club vs Getafe - LaLiga - 23:25 WIB 25-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=6317&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=6317&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/JCnU3ZFRj4L5RctQnaqvvQhGqHs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4667519/9227a1.jpg" group-title="UPCOMING NEXT", Formula 1 Gran Premio de La Ciudad de Mexico 2025 - Practice 3 - 00:25 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=17884&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=17884&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-65XJyGPopFsjgswzEgtomULat8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4668362/f6e5e2.jpg" group-title="UPCOMING NEXT", Brentford vs Liverpool - Premier League - 01:41 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=9182&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jcaLbSuW-uNDCKfaDX8zbFdJbuo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4666187/a75258.jpg" group-title="UPCOMING NEXT", Cremonese vs Atalanta - Serie A - 01:45 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=19404&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=19404&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Awqn5CaHRJZtVJzH84obJeT-KSY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4665864/8258bb.jpg" group-title="UPCOMING NEXT", Valencia vs Villarreal - LaLiga - 02:00 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=6317&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=6317&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/7iQoGtPB_PVFqeVyx4ESiCW3COo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4665902/3a21a1.jpg" group-title="UPCOMING NEXT", Benfica vs Arouca - Liga Portugal - 02:25 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=6685&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=6685&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cGY1f0q7AhI5MtsxQZhDrcEw1cg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4667520/0fdc5a.jpg" group-title="UPCOMING NEXT", Formula 1 Gran Premio de La Ciudad de Mexico 2025 - Qualifying - 03:55 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=17884&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=17884&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/h_srjN-LGqRxxeqfthxXqx4nLoU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4671069/019543.jpg" group-title="UPCOMING NEXT", Fajar Alfian/Muhammad Shohibul Fikri (INA) vs Aaron Chia/Soh Wooi Yik (MAS) - Men's Doubles Semifinals | YONEX French Open 2025 - 04:00 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=18249&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=18249&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/y2F0iLyeKTTryHIFCvGkG4tw1aI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4665851/d75e71.jpg" group-title="UPCOMING NEXT", Bank of Utah Championship - Round 3 - 04:00 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=18189&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=18189&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/RWx541e-It1MnYRzUA4RS5r5mSA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4665848/60cd36.jpg" group-title="UPCOMING NEXT", Hanwha LIFEPLUS International Crown - Semi Final Round - 06:30 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=18190&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=18190&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/57GN6lq6GIcTOxEHUeAdtXKVLKM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4667514/0fd91f.jpg" group-title="UPCOMING NEXT", Wushu - Wushu Taolu & Sanda (Hari Ketiga) | PON Bela Diri Kudus 2025 - 08:00 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://hihi.my.id/hihi/hihi.m3u8?id=19688
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OG9F8MhdLSESodZmcdeZB4ORWos=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4662056/94a1d9.jpg" group-title="UPCOMING NEXT", MotoGP Warm Up & Rider's Parade: MotoGP 2025 Round 20 - PETRONAS Grand Prix of Malaysia - 09:35 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=17140&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=17140&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-JceF0WUQ8QqLvL46YEYR-7lccE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4662367/540608.jpg" group-title="UPCOMING NEXT", WTA 500: Toray PPO Tennis 2025 - Final - 10:00 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=6786&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=6786&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NA69yO4449HrLi3p_AQAkD_lchI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4662059/4f7518.jpg" group-title="UPCOMING NEXT", Moto3 Race: MotoGP 2025 Round 20 - PETRONAS Grand Prix of Malaysia - 10:45 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=17140&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=17140&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kWGyv70yZeRsRX7F_BNzn33RUME=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4665855/d9b83b.jpg" group-title="UPCOMING NEXT", Hanwha LIFEPLUS International Crown - Final Round - 11:00 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=18190&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=18190&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/K06hvcCCmdQ2nbXy0tpqrFafnN4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4662057/b347aa.jpg" group-title="UPCOMING NEXT", Moto2 Race: MotoGP 2025 Round 20 - PETRONAS Grand Prix of Malaysia - 12:10 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=17140&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=17140&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wYl5xdSABRIJujpA8fdgN2GBo74=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4662058/615196.jpg" group-title="UPCOMING NEXT", MotoGP Race: MotoGP 2025 Round 20 - PETRONAS Grand Prix of Malaysia - 13:25 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=17140&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=17140&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/fJmH9aoh2887WOyhINgg_8CgJlM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4666459/5c356c.jpg" group-title="UPCOMING NEXT", WTA 250: Guangzhou Open 2025 - Final - 15:00 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=6786&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=6786&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-k3-xYh8f_ZJ6XBvnLkRk1aDAcY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4665900/018a8b.jpg" group-title="UPCOMING NEXT", Sriwijaya FC vs FC Bekasi City - Pegadaian Championship - 15:22 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://hihi.my.id/hihi/hihi.m3u8?id=19542
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/TEPmhMgv4gAhLvFSu9mpqAAKjyk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4665899/6ac0d1.jpg" group-title="UPCOMING NEXT", Deltras FC vs PSIS Semarang - Pegadaian Championship - 15:22 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=19584&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=19584&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/rVv793VfSYVEzmhRLI4K9LFB9Wo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4665894/e622e1.jpg" group-title="UPCOMING NEXT", Garudayaksa FC vs Persikad - Pegadaian Championship - 15:22 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://hihi.my.id/hihi/hihi.m3u8?id=19541
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lQeUoFL3F-bfMr4VI8aLHEo5b6Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4667502/da55d5.jpg" group-title="UPCOMING NEXT", Arema FC vs Borneo FC Samarinda - BRI Super League - 15:30 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=19354&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=19354&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/YOiya74wxYBGAB1WDNwHNA_fwk8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4666460/265657.jpg" group-title="UPCOMING NEXT", Twente vs Ajax - Eredivisie - 18:15 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=6685&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=6685&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/FC6RsYzI3vfkhYhCoxWBVi2gXMQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4667521/a0e53d.jpg" group-title="UPCOMING NEXT", Torino vs Genoa - Serie A - 18:15 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=19404&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=19404&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jdrfafd_FlNyV0irkRbs5j-GGrQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4667504/257989.jpg" group-title="UPCOMING NEXT", Malut United FC vs Semen Padang FC - BRI Super League - 18:30 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=205&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=205&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lwWceW-XdhbZcNE_8fPoUYwk4BQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4665896/8177a5.jpg" group-title="UPCOMING NEXT", Persiba Balikpapan vs Persiku Kudus - Pegadaian Championship - 18:52 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://hihi.my.id/hihi/hihi.m3u8?id=19541
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/U5z_YfbrC9r7gmATPJhOIDkOKP0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4665858/a935b5.jpg" group-title="UPCOMING NEXT", Mallorca vs Levante - LaLiga - 19:55 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=6299&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=6299&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Rse9DoCJ3VXyJ4cMpMQsAuMOvqY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4666461/33a30d.jpg" group-title="UPCOMING NEXT", Feyenoord vs PSV - Eredivisie - 20:15 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=6685&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=6685&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/7bEzNJXzpfOfkwWH4Td6CA6XkoA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4668364/ce1297.jpg" group-title="UPCOMING NEXT", Arsenal vs Crystal Palace - Premier League - 20:30 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=9182&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-kwbpvDjOmRB7e3CUd5KmbQ86dk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4668357/92926a.jpg" group-title="UPCOMING NEXT", Aston Villa vs Man City - Premier League - 20:30 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=9183&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=9183&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pgCyoZHLlT3kbyZvmKlMk9PVIqU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4667522/20f919.jpg" group-title="UPCOMING NEXT", Sassuolo vs Roma - Serie A - 20:45 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=19404&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=19404&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/O1L1XE7zzc4gRs5BPVb6c2nuFok=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4667523/de2278.jpg" group-title="UPCOMING NEXT", Verona vs Cagliari - Serie A - 20:45 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=17939&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=17939&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/grOMvQV4vBa9ohF-W2Xts3EftC8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4668363/2b3d9f.jpg" group-title="UPCOMING NEXT", Wolves vs Burnley - Premier League - 20:50 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=19536&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=19536&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pfuDiy65pQOLBw5CYE7CoV5CpXo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4668359/0c6014.jpg" group-title="UPCOMING NEXT", (Data Zone) Arsenal vs Crystal Palace - Premier League - 20:50 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=18796&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=18796&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qv8kTrNzyd0MK95NAUxR8JojkYw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4668361/45ee4e.jpg" group-title="UPCOMING NEXT", Bournemouth vs Nottingham Forest - Premier League - 20:50 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=19375&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=19375&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3d01g8-WE_CqdpMewwaWXXxzXO0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4667509/765cb8.jpg" group-title="UPCOMING NEXT", ATP 500: Swiss Indoors Basel 2025 - Final - 21:30 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=17875&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=17875&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wBHjybPoISpriOnF_i4ta9Ncd1g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4667516/cf84f0.jpg" group-title="UPCOMING NEXT", Vakifbank vs Galatasaray Daikin - Turkish Women's Volleyball League - 21:55 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://hihi.my.id/hihi/hihi.m3u8?id=19738
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SFIcPgbVzdOcmZuzIlR5g_WD5is=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4665857/57cd6e.jpg" group-title="UPCOMING NEXT", Real Madrid vs Barcelona - LaLiga - 22:05 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=6299&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=6299&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/e2RnwcDBiWivAVfdFx7tl0h7OBU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4666462/60644c.jpg" group-title="UPCOMING NEXT", AZ Alkmaar vs Utrecht - Eredivisie - 22:30 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=6685&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=6685&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wmk_2vgnwwe3puAR_jg8h6KMAwU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4668388/ba902f.jpg" group-title="UPCOMING NEXT", Everton vs Tottenham - Premier League - 23:10 WIB 26-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=9182&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/24sq3g2qkVYnVNO3ZlfTUMPzJTI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4670653/f30b32.jpg" group-title="UPCOMING NEXT", Tondela vs Sporting - Liga Portugal - 01:00 WIB 27-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=18739&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=18739&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/00KGsGXoTNvSGl28Aw1FSMxZpnE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4671093/cb34c3.jpg" group-title="UPCOMING NEXT", Bhayangkara Presisi Lampung FC vs PERSIJAP - BRI Super League - 15:00 WIB 27-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=205&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=205&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lG-m2TxAqTEXFVGe1CTqxWQZgR8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4670654/003402.jpg" group-title="UPCOMING NEXT", Jelang Kick Off - PERSIB vs PERSIS - BRI Super League - 18:30 WIB 27-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://hihi.my.id/hihi/hihi.m3u8?id=19355
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/AwyXh2F4gXbk5SdritjTvbrqIsw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4670655/e6082f.jpg" group-title="UPCOMING NEXT", PERSIB vs PERSIS - BRI Super League - 19:00 WIB 27-10-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=19354&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=19354&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Zzvm4aFn_6gIbix5YEUy_hN8c3o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19725/one-pride-mma-battle-for-glory-224534.jpg" group-title="UPCOMING NEXT", One Pride MMA Battle for Glory - 18:00 WIB 02-11-2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hihi.my.id/hihi/hihi.mpd?id=19725&type=drm
+https://hihi.my.id/hihi/hihi.mpd?id=19725&type=dash
+
+
 
 <=================== EVENT 1 =============================>
 
