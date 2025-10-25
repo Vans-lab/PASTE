@@ -75,7 +75,10 @@ https://t2nt2-cf.wooblzlhl524.com/auth%3Dc9786832c1525f6b9a77e94356ed76469deef49
 https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=f1c8225c81616337cd19b3e254333554&wsABSTime=1761424409
 
 #EXTINF:-1 group-title="EVENT 25/OKTOBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Bali United vs Persita
-https://shorter.me/B3a8t
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.instreamtv.xyz
+#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
+https://play-cdn.sportsbal.com/sport/202_4300645_1.m3u8?sign=OUV0Oj5gfuJTOyExKqPMT61NTnoosy-k5qVoWDr2h8N9Vgvl6qUG29lNYt2Grnqi_BRh3at54p5408OOtrYc51XE70cUbOonnKMKvT9mKLxHOpc82GuVyXK9dA-SsM7UAwveprERQtvw8kKmTZX2RWqPkWZQwW9EqZLdm6HYJSEUvK7_FjhH3HnEBCi8WxYKuHvVP8P8XS0elIQltRtkcqiefRNWzx0tg1VpgVBTOxDt9qoVGSZ5lCzWM6DH0JintdN7JtbnBhXKg6o2PPm9UGxUT0I81Bf99Vhx2QvH7QfIFiu3g_lSO65PQb0R2UL2XRASoPM9nDFn-pdcGpR8yQ&timestamp=1761393966401
 
 <================>
 
