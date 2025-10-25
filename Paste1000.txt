@@ -4,8 +4,7 @@
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uiS8r-587FkO_jtl8jWxnEElWr0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4668355/2d9633.jpg" group-title="LIVE TEST", Chelsea vs Sunderland - Premier League - 20:30 WIB 25-10-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uiS8r-587FkO_jtl8jWxnEElWr0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4668355/2d9633.jpg" group-title="TEST", Chelsea vs Sunderland - Premier League - 20:30 WIB 25-10-2025
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
