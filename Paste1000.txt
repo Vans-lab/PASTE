@@ -12,6 +12,17 @@
 #KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
+#EXTINF:-1 group-title="EL CLASSICO"tvg-logo="http://138.199.27.237:8080/0tv_logo/119.png" tvg-id="beinsports1.fr" ,|FR| BEIN SPORTS ᵁᴴᴰ 1
+http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/146116
+#EXTINF:-1 group-title="EL CLASSICO"tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" tvg-id="beinsports1.fr" ,|FR| beIN Sports 1 ᴴᴰ
+http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/228
+#EXTINF:-1 group-title="EL CLASSICO"tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" tvg-id="beinsports1.fr" ,|FR| beIN Sports 1 ᴴᴰ
+http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/50148
+#EXTINF:-1 group-title="EL CLASSICO"tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" tvg-id="beinsports1.fr" ,|FR| BEIN SPORTS 1 4K
+http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/35522
+#EXTINF:-1 group-title="EL CLASSICO"tvg-logo="http://138.199.27.237:8080/0tv_logo/119.png" tvg-id="beinsports1.fr" ,|FR| BEIN SPORT 1 ˢᴰ
+http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/12900
+
 #EXTINF:-1 group-title="EL CLASSICO" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
 
