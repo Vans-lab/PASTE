@@ -4,7 +4,16 @@
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 
 #EXTINF:-1 group-title="VOLI KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd63b1Lf9T4IL97RMzSeBjFbyS6U-o45BwYw&s",HYUNDAI HILLSTATE VS RED SPARKS 
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/8t9obnc49m03kl9qn5ynfsnhk3lgiz5llkih/playlist.m3u8?hdnts=st=1761466093~exp=1761498503~acl=*/8t9obnc49m03kl9qn5ynfsnhk3lgiz5llkih/*~hmac=6fd01f44c523364c31e405300ffa99df2037e68cc6c68464a266961cf7b1a8c7
+#https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/8t9obnc49m03kl9qn5ynfsnhk3lgiz5llkih/playlist.m3u8?hdnts=st=1761466093~exp=1761498503~acl=*/8t9obnc49m03kl9qn5ynfsnhk3lgiz5llkih/*~hmac=6fd01f44c523364c31e405300ffa99df2037e68cc6c68464a266961cf7b1a8c7
+
+#EXTINF:-1 group-title="EL CLASSICO" tvg-logo="https://iili.io/FtSMHX9.jpg", 22:15 WIB Real Madrid vs Barcelona
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
+
+#EXTINF:-1 group-title="EL CLASSICO" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
+#http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
 
 
 #EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://i1.sndcdn.com/artworks-000006940421-b97a1t-t500x500.jpg",23.30 WITA MAN UTD VS BRIGHTON
@@ -36,7 +45,12 @@ https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/8t9obnc49m03kl9qn5ynfs
 
 
 <=================== EVENT 1 =============================>
+#EXTINF:-1 group-title="EVENT 26/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqo2RFQF0V4Hac36ES3j-7GqvEbCVWicVWFQ&s", 17:00 WIB YONEX French Open 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
+https://v4-a0504dae9c72cdb02b00ddedf6df4973.livehwc4.com/pull-prod511.zczlxxkj.com/live/8644694.m3u8?auth_info=DHcy4Wlob8RcQaoIQT%2BgwWCuWcVyclBQ0eA%2BXRaJhaU%3D.36614163486b4978454e373749537945&edge_slice=true&sub_m3u8=true&user_session_id=20946336b78edab1276dd33ce989f6c0
 
+<================>
 <================>
 
 #EXTINF:-1 group-title="EVENT 26/OKTOBER/2025" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2024/08/23/logo-afc-challenge-league_169.jpeg?w=1200", 15:00 WIB Shan United vs Tainan City
