@@ -12,6 +12,10 @@
 #KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
+#EXTINF:-1 group-title="EL CLASICO" tvg-logo="https://iili.io/FtSMHX9.jpg", 23:15 WITA Real Madrid vs Barcelona
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/heosd2RK/playlist.m3u8
+
 #EXTINF:-1 group-title="EL CLASICO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqvht3Vvx9Gz1UNHKukYRaAoEyqhhCc1IHt2qkVAE-e3AKEiI8Tuncnvmj&s=10",BEIN SPORTS 2 AU
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -34,6 +38,11 @@ http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/12900
 
 #EXTINF:-1 group-title="EL CLASICO" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
+
+#EXTINF:-1 group-title="EL CLASICO" tvg-logo="https://iili.io/FtSMHX9.jpg",23:15 WITA Real Madrid vs Barcelona
+#EXTVLCOPT:http-referrer=https://kilatlive.co/
+https://rr4---sn-8pxuuxa-on.applecdnstore.com/live_event_premier_sports_1_fhd/index.m3u8
+
 
 
 #EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://i1.sndcdn.com/artworks-000006940421-b97a1t-t500x500.jpg",23.30 WITA MAN UTD VS BRIGHTON
