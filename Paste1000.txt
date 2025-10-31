@@ -36,7 +36,9 @@
 
 
 <=================== EVENT 1 =============================>
-#EXTINF:-1 group-title="EVENT 30/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJDXhkdhyfdy2OwBw3sjtfVxVF0jiG0RWfCQ&s", 002 HYLO Open 2025
+#EXTINF:-1 group-title="EVENT 31/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJDXhkdhyfdy2OwBw3sjtfVxVF0jiG0RWfCQ&s", 002 HYLO Open 2025
+
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJDXhkdhyfdy2OwBw3sjtfVxVF0jiG0RWfCQ&s", 002 HYLO Open 2025
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -46,44 +48,79 @@ https://hotlivezz179026907.akainu.xyz/hxBjLjLCbSTNWosGrD9M2w/Fv2lucGIbhPi2caWYvF
 
 <================>
 
-<=================== EVENT 2 =============================>
-
-#EXTINF:-1 group-title="EVENT 31/OKTOBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 00:30 WIB Cagliari vs Sassuolo
-#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-
-#EXTINF:-1 group-title="EVENT 31/OKTOBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 02:45 WIB Pisa vs Lazio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
-https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
+#EXTINF:-1 group-title="EVENT 31/OKTOBER/2025" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB Pepper Savings Bank W vs Hyundai E&C Hillstate W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://m.sports.naver.com
+#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20251030022F21
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 31/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzVCfE0vbi7wiefIkpuh2YHyROUD7yL5Pcw&s",  01:00 WIB Puerto de Vega vs Celta de Vigo
-https://shorter.me/GqZqK
+#EXTINF:-1 group-title="EVENT 31/OKTOBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB PSIM Yogyakarta vs Persik Kediri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.instreamtv.xyz
+#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
+https://play-cdn.sportsbal.com/sport/202_4302513_2.m3u8?hls_ctx=z4y97u09&sign=Nr2bBMUl55IbLCSCFgW3vRcAaAN9LsRPr_1JqabJVRitJkgxYrmmxYcyhrG5DgXAILnWBqjI62_aWEd3chrBKo5CNw8-sI4YyQMm2jCTvhcf1-lTTSNMBZxncmAoHxD4Ab616MVoMbN3-2CWRyEa-wucYORRPzqjzDJGQICAbgW6JR4AFLYPfJr7df0s-bVc95RgXnryUQ0wY6bxWLtpje7rcktVvLHB_quB_ZXxzvBrAIvMZcON4GYFsLdwqwxi0kMCcQ3e3p-ryGpw8BZRyAb2Ivh12_WM_4cfp0keVV5eLTIUIM5twIOD2cPKDjZ386TwwYdRkAxr8O0LDSaOUw&timestamp=1761900010310
 
-#EXTINF:-1 group-title="EVENT 31/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzVCfE0vbi7wiefIkpuh2YHyROUD7yL5Pcw&s",  01:00 WIB Orihuela vs Levante
-https://shorter.me/MBJAZ
+#EXTINF:-1 group-title="EVENT 31/OKTOBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB PSIM Yogyakarta vs Persik Kediri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live.golivenow71.com/b2449839f065901cd36b1e39cf211ba0/1761932595604/vbyuizw/index.m3u8
 
-#EXTINF:-1 group-title="EVENT 31/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzVCfE0vbi7wiefIkpuh2YHyROUD7yL5Pcw&s",  02:00 WIB Getxo vs Deportivo Alavés
-https://shorter.me/R5E7e
+#EXTINF:-1 group-title="EVENT 31/OKTOBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persija vs PSBS Biak Numfor
+https://shorter.me/Ufuot
 
-#EXTINF:-1 group-title="EVENT 31/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzVCfE0vbi7wiefIkpuh2YHyROUD7yL5Pcw&s",  03:00 WIB Palma del Rio vs Real Betis
-https://shorter.me/BlmWV
-
-#EXTINF:-1 group-title="EVENT 31/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzVCfE0vbi7wiefIkpuh2YHyROUD7yL5Pcw&s",  03:00 WIB Atlètic Lleida vs Espanyol
-https://shorter.me/em5-F
+#EXTINF:-1 group-title="EVENT 31/OKTOBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persija vs PSBS Biak Numfor
+https://shorter.me/dkftX
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 31/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtSOgYHYgY43ADlPwLKXVTE9Oj-INo2K8WcQ&s", 00:30 WIB Al-Ahli vs Al Riyadh
+#EXTINF:-1 group-title="EVENT 31/OKTOBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 15:30 WIB Persela vs PSIS Semarang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd08.playerktidfintkd.shop/live.html?
+#EXTVLCOPT:http-origin=https://ppdd08.playerktidfintkd.shop
+https://t3nt2-cf.wooblzlhl524.com/auth%3D7c37f82fb5129fbc93c0854eceae919320af30a9ea4b7cd7e8f5a5bff6dc5e964ee1459277b7ff14ac2757dce6a9b8fa2f1c5de548a0a3b772c2bd9c1243b1424942abde39c0892ab001b8ac8b26379a19c1c5b207416881162e448d14f8c751e9624357d9f918771a9688fd94af4b0a1063acd712d062e1deef9fa312a6f64fffde830420c3643e606d42d3631de27963ae98ef3be1790e3eda0063e0ccfd27385a2584c483d3fe92b0fc34dc44aceb73a96efe9b2be11ae0a5ebd824d84fde50bfb9cacb83ec8d01bfe41b0184299b49fa5a1492318ac3ab15142a9119dad28b07f5f20765f3283b44ec04b0e121c3975f37cbda3e76992728ccb4af84b90619e61ea7a26273bfdce605ecaffdec6a521f803d763a85d5c6b544508420c42774009665b1d5d19032e20d146d7a5b23%26cid%3DxyodnX9shLX8hwL6Nc1qS251031%26_v%3D2%26_r%3Du1GGWH%26_vis%3Dc863cca45c342934824e94779635ed46bd3ccc053f6517bd755addeaa0174814%26_vvs%3D728807d9352ff41b2e07e5c959307dd5a3ec116fff8c88527fb3ffd353318b0f/app/c380037.m3u8
+
+#EXTINF:-1 group-title="EVENT 31/OKTOBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 19:00 WIB PSMS vs Garudayaksa
+https://shorter.me/xq5PR
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 31/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRliJBemTreOG8p9FLXmRgBLDHPDzJXfBiUFg&s",  17:45 WIB Perth Glory vs Melbourne Victory
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cignalplay.com/
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 31/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtSOgYHYgY43ADlPwLKXVTE9Oj-INo2K8WcQ&s", 21:50 WIB Al Hilal vs Al Shabab
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+
+<=================== EVENT 2 =============================>
+
+#EXTINF:-1 group-title="EVENT 1/NOVEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", 03:00 WIB Getafe vs Girona
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kudos111.terranovax1.cfd/000/
+https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
+
+#EXTINF:-1 group-title="EVENT 1/NOVEMBER/2025" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 02:30 WIB Augsburg vs Borussia Dortmund
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
+https://ultra2.falconx1.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8
+
+
+#EXTINF:-1 group-title="EVENT 1/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHCwTsEHAAf1RIQXpXEyh-eNO-VEPv2XXxFQ&s", 02:30 WIB Luton Town vs Forest Green Rovers
+https://shorter.me/ERc4N
+
+#EXTINF:-1 group-title="EVENT 1/NOVEMBER/2025" tvg-logo="https://www.scisports.com/wp-content/uploads/2022/10/Eredivisie-SciSports-2022-1280x720.jpeg", 02:00 WIB PSV vs Fortuna Sittard
+https://shorter.me/MKwar
 
 ##############################MOTO GP############################
 
