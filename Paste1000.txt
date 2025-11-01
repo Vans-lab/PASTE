@@ -8,7 +8,7 @@
 
 #EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://i1.sndcdn.com/artworks-000006940421-b97a1t-t500x500.jpg",Nottingham Forest vs Manchester United
 #EXTVLCOPT:http-referrer=https://kilatlive.co/
-https://rr4---sn-8pxuuxa-on.applecdnstore.com/live_event_nz_sky_sport_4/index.m3u8
+#https://rr4---sn-8pxuuxa-on.applecdnstore.com/live_event_nz_sky_sport_4/index.m3u8
 
 
 #EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://iili.io/FtSr5Mb.jpg", 23:00 WITA Nottingham Forest vs Manchester United
@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="UNITED DAY" tvg-name="DAZN 1 Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/800px-Premier_League_Logo.svg.png",EPL 1
-http://supersonictv.live:8080/Allen123/Allen123/7627
+#http://supersonictv.live:8080/Allen123/Allen123/7627
 
 
 
