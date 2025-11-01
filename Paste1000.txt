@@ -7,6 +7,12 @@
 #https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0001/2u5aadcd1fy2ayagc84015qspq9m2xbhies5/playlist.m3u8?hdnts=st=1761905201~exp=1761937611~acl=*/2u5aadcd1fy2ayagc84015qspq9m2xbhies5/*~hmac=beb4d20b963bdad16874e08d23ac462de0faba61809b6bf86400a4f525b0a821
 
 #EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://i1.sndcdn.com/artworks-000006940421-b97a1t-t500x500.jpg",Nottingham Forest vs Manchester United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.instreamtv.xyz
+#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
+https://play-cdn.kapsports.com/sport/202_4302998_1.m3u8?sign=Q_G2Tm8VvUWRfvDcDgIE4tlUdWuoBwl5AXBykCBW0F0QTXaVvzBi4k22o_zJ5W5WnhuDPX8X3G7hu2j2TUZ7zP_2SZK0Mv7Eae6itGHV3VfS5HrMAFR1Cp8I7SmM2BfAvsK6puKb4MQVGdG1RQQbAWonDCMkVyzstnIAoLhHJQR52DMbM-mueqPljND2ji9gE_3R9dFmNB5GfgE8T2fgGMZINgj0yk4aSu1p63YeFjat0FM6Ci0u7-y0YYYUZAqOi2-S_WuyHcBxt67wroZNJtuQv5uQkeXMh4nYb0i52w9ExiI_CfU8R2shFedyO0hub9BDKyIHs6XvqXDXDbUCEQ&timestamp=1762008975706
+
+#EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://i1.sndcdn.com/artworks-000006940421-b97a1t-t500x500.jpg",Nottingham Forest vs Manchester United
 #EXTVLCOPT:http-referrer=https://kilatlive.co/
 #https://rr4---sn-8pxuuxa-on.applecdnstore.com/live_event_nz_sky_sport_4/index.m3u8
 
@@ -37,7 +43,7 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="UNITED DAY" tvg-name="DAZN 1 Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/800px-Premier_League_Logo.svg.png",EPL 1
-#http://supersonictv.live:8080/Allen123/Allen123/7627
+http://supersonictv.live:8080/Allen123/Allen123/7627
 
 
 
