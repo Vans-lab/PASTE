@@ -4,7 +4,7 @@
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 
 #EXTINF:-1 group-title="VOLI KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd63b1Lf9T4IL97RMzSeBjFbyS6U-o45BwYw&s",RED SPARKS VS IBK ALTOS
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0001/2u5aadcd1fy2ayagc84015qspq9m2xbhies5/playlist.m3u8?hdnts=st=1761905201~exp=1761937611~acl=*/2u5aadcd1fy2ayagc84015qspq9m2xbhies5/*~hmac=beb4d20b963bdad16874e08d23ac462de0faba61809b6bf86400a4f525b0a821
+#https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0001/2u5aadcd1fy2ayagc84015qspq9m2xbhies5/playlist.m3u8?hdnts=st=1761905201~exp=1761937611~acl=*/2u5aadcd1fy2ayagc84015qspq9m2xbhies5/*~hmac=beb4d20b963bdad16874e08d23ac462de0faba61809b6bf86400a4f525b0a821
 
 
 #EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://i1.sndcdn.com/artworks-000006940421-b97a1t-t500x500.jpg",23.30 WITA MAN UTD VS BRIGHTON
@@ -36,17 +36,15 @@ http://supersonictv.live:8080/Allen123/Allen123/7627
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 1/NOVEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 15:30 WIB Adhyaksa vs PSPS
+#EXTINF:-1 group-title="EVENT 1/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU", BALI VS BANDUNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.instreamtv.xyz
 #EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
 https://play-cdn.kapsports.com/sport/202_4342463_1.m3u8?hls_ctx=9068006e&sign=lSnGIxige710Ih1PMF-4ZOe3YLspvzMngN9Ty3yyoQeesafXIPzo-Tcm-VjoozXM65NlfJwI9E8NP8ddta-pis948-nU5UxM1YyWMYaGDw2HHqGlcRA3fKUgvGTElE1koWXoaTWHvgP0O67s1IbwmNbh664zBvsKP-ETzFdV_e6I_Othx5HLmz2G1nujEDYY36KS2MTkzXEbcT-P4KXTFD5oVeexeEHbJAIKGOY0MLsrpk1XOofkAaT-9Mv40AR27uvWGc95I1lRiB9g3ehzbk0Sz-SKkfBkiTQsARkuUQ0PDIPHGNrpoPKL8mjxRXPvnikz_3mVq0Oz-_W0qCizIg&timestamp=1761986598332
 
-#EXTINF:-1 group-title="EVENT 1/NOVEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 15:30 WIB Persiku Kudus vs Tornado FC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://www.instreamtv.xyz
-#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
-https://play-cdn.kapsports.com/sport/202_4342461_1.m3u8?hls_ctx=50vr6604&sign=ZCPt1FmrdMs7iscDJjzHn7VzYNvT5D8Chq6U1iMUZ5CwP9DKIpQX5qScA4vw-l4C4traF6Zodh_yCXlY4EWo52sM9NG41fIZHXWA9Ygi_RRM4qQ4C1BJgA8HKLcU5ojQxcUnNv7vdEZRBz-wNVvRGUmTKaK6seBdlpALAQB3XBLeFwXs12ewwXcinvaCHwS0KJ4ukrEtpghSZ7XpseViW90CZG9d8AAMwuQTCRaAa3pfzLibAEzKmksKo9h-GKaakPhbCc2eb4kOiF8lwEDJHwHIwU43ofuXzGIEEk9uoOQRHz9RTBnwk29DqJISU2zAM5krAFM8KGhNHADwUTwMpg&timestamp=1761986693778
+#EXTINF:-1 group-title="EVENT 1/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU", BALI UTD VS PERSIB
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m202nd/playlist.m3u8
 
 #EXTINF:-1 group-title="EVENT 1/NOVEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 19:00 WIB PSS Sleman vs Persipura
 
