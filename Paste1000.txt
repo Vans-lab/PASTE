@@ -6,6 +6,8 @@
 #EXTINF:-1 group-title="VOLI KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd63b1Lf9T4IL97RMzSeBjFbyS6U-o45BwYw&s",RED SPARKS VS IBK ALTOS
 #https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0001/2u5aadcd1fy2ayagc84015qspq9m2xbhies5/playlist.m3u8?hdnts=st=1761905201~exp=1761937611~acl=*/2u5aadcd1fy2ayagc84015qspq9m2xbhies5/*~hmac=beb4d20b963bdad16874e08d23ac462de0faba61809b6bf86400a4f525b0a821
 
+#EXTINF:-1 group-title="SPECIAL FUTSAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJ9Q86pOIjjtjex_z5vM5TdRDBYdXNQwQhA&s",INDONESIA VS AUSTRALIA
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762022374/ei/hv8Fad2TFdievcAPp_S6gAg/ip/39.194.2.133/id/cTlVAp6Kqtc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/siu/1/bui/AdEuB5TakOeCOh8Hp83qAWMwtFBpjFmmYw4qJ62hMFcqk8W_vBW4wAkQ2RmbI9efVPR01KcoNQ/spc/6b0G_NZNHa5YS-5tqEEk8Dr2Cm_9BM8BlZLo45Lzx28Sh2mHHNw5/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgSiAtApBpeSV-GtwWLUO9WTaA7p7MyRMOxpb_oLiNAQ8CIQCP8B_4ej-PP-xP9CQOhL4jdXo5l7sPxXQot3NA47YdwQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://i1.sndcdn.com/artworks-000006940421-b97a1t-t500x500.jpg",23.30 WITA MAN UTD VS BRIGHTON
 #EXTVLCOPT:http-referrer=https://kilatlive.co/
