@@ -33,11 +33,11 @@ https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_09_57_45_81759503-0f87-4809-a818
 #KODIPROP:inputstream.adaptive.license_key=9f7b38835dea3262a6d088c694ad4f6c:f17671d5cfee446960c796662f19dd96
 https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_10_00_28_cacd1449-8d9c-4dbe-8608-92f13a99fb9a/PROD_CMAF_CENC/index-dash.mpd
 
-#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="FIFA WORLDCUP U17",FIFA 4
+#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="FIFA WORLDCUP U17",FIFA 4  Indonesia v Zambia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=780aa122c60732a88313577987dd19a5:0cbc9919030257f7b0f6dc4161a00731
-https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_09_48_57_d12938a9-9b3d-4066-8234-3aa461b4f4df/PROD_CMAF_CENC/index-dash.mpd
+#KODIPROP:inputstream.adaptive.license_key=818a7a1ec0dc381dbc2d0a0da3ce3b21:117c2cf92af441ec1d3f4e9f4fb5ad4f
+https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_10_04_31_60bab816-d8f1-4cf7-83fc-81b77938059a/PROD_CMAF_CENC/index-dash.mpd
 
 
 #EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="FIFA WORLDCUP U17",FIFA 5
