@@ -27,11 +27,11 @@ https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_09_56_49_20d9b99e-0e84-4f35-98ab
 #KODIPROP:inputstream.adaptive.license_key=3f95bd0de1d430549e6a11c75dc89c4e:64f43e668dd7bcb703d95bc2d1165596
 https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_09_57_45_81759503-0f87-4809-a818-7aa94bd10cef/PROD_CMAF_CENC/index-dash.mpd
 
-#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="FIFA WORLDCUP U17",FIFA 3
+#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="FIFA WORLDCUP U17",FIFA 3 Haiti v Egypt
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1d2f2745075337181be182238493595:e763cd5a2f2e0c87685c80bcaa4fa98c
-https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_09_47_15_86a5519d-2518-4af9-929d-474c8d727fb4/PROD_CMAF_CENC/index-dash.mpd
+#KODIPROP:inputstream.adaptive.license_key=9f7b38835dea3262a6d088c694ad4f6c:f17671d5cfee446960c796662f19dd96
+https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_10_00_28_cacd1449-8d9c-4dbe-8608-92f13a99fb9a/PROD_CMAF_CENC/index-dash.mpd
 
 #EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="FIFA WORLDCUP U17",FIFA 4
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
