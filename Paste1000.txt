@@ -6,6 +6,14 @@
 #EXTINF:-1 group-title="VOLI KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd63b1Lf9T4IL97RMzSeBjFbyS6U-o45BwYw&s",RED SPARKS VS IBK ALTOS
 #https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0001/2u5aadcd1fy2ayagc84015qspq9m2xbhies5/playlist.m3u8?hdnts=st=1761905201~exp=1761937611~acl=*/2u5aadcd1fy2ayagc84015qspq9m2xbhies5/*~hmac=beb4d20b963bdad16874e08d23ac462de0faba61809b6bf86400a4f525b0a821
 
+#EXTM3U
+#KODIPROP:inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a863f5c4b3c05208a2aec18b19185e74:5c786d3f4d408117264b6b4aa5d2b72e
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROomB7cF9Cew99ICyF7PqFDEhbo4fsIpN7ig&s" group-title="TEST",COBA
+https://du2yfy2plnh46.cloudfront.net/out/v1/4676c6ca588d4ea494ec3f25a5778090/8f1900706e91489c97d9bfa78cd54535/027a1ce70f5243389f55092171452030/index.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080
+
 ======================================================================================================================
 #EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="FIFA WORLDCUP U17",FIFA 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
