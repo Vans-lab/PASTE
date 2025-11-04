@@ -11,6 +11,38 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a863f5c4b3c05208a2aec18b19185e74:5c786d3f4d408117264b6b4aa5d2b72e
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROomB7cF9Cew99ICyF7PqFDEhbo4fsIpN7ig&s" group-title="TEST2",COBA
+https://du2yfy2plnh46.cloudfront.net/out/v1/4676c6ca588d4ea494ec3f25a5778090/8f1900706e91489c97d9bfa78cd54535/027a1ce70f5243389f55092171452030/index.mpd
+#KODIPROP:inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3afc5af1b7a25e08bf1de4122123b6c6:93f9de47c3796a89c24c69ad3430d49d
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="TEST2",COBA2
+https://du2yfy2plnh46.cloudfront.net/out/v1/4676c6ca588d4ea494ec3f25a5778090/8f1900706e91489c97d9bfa78cd54535/027a1ce70f5243389f55092171452030/index.mpd
+#KODIPROP:inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6947d07b886580d888cf462f7fc8f26:b4bada0ef1c07542933be76293a7d320
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="TEST2",COBA3
+https://du2yfy2plnh46.cloudfront.net/out/v1/4676c6ca588d4ea494ec3f25a5778090/8f1900706e91489c97d9bfa78cd54535/027a1ce70f5243389f55092171452030/index.mpd
+#KODIPROP:inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef72675b1bfb5e60bc35549c8304b6c3:018eb01142f33a1de1a4c0c59e17c8e3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="TEST2",COBA4
+https://du2yfy2plnh46.cloudfront.net/out/v1/4676c6ca588d4ea494ec3f25a5778090/8f1900706e91489c97d9bfa78cd54535/027a1ce70f5243389f55092171452030/index.mpd
+#KODIPROP:inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a34b9a03c89958a9893996d9b4b8c847:1aa346d9a1d97d392a6fccac361593fb
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="TEST2",COBA5
+https://du2yfy2plnh46.cloudfront.net/out/v1/4676c6ca588d4ea494ec3f25a5778090/8f1900706e91489c97d9bfa78cd54535/027a1ce70f5243389f55092171452030/index.mpd
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a863f5c4b3c05208a2aec18b19185e74:5c786d3f4d408117264b6b4aa5d2b72e
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROomB7cF9Cew99ICyF7PqFDEhbo4fsIpN7ig&s" group-title="TEST",COBA
 https://du2yfy2plnh46.cloudfront.net/out/v1/4676c6ca588d4ea494ec3f25a5778090/8f1900706e91489c97d9bfa78cd54535/027a1ce70f5243389f55092171452030/index.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080
 #KODIPROP:inputstream.adaptive
