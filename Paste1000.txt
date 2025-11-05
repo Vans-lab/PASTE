@@ -87,6 +87,11 @@ http://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/o
 http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
 <================>
+#EXTINF:-1 group-title="EVENT 5/NOVEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Borneo FC Samarinda vs Dewa United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT=http-origin=https://www.instreamtv.xyz
+#EXTVLCOPT=http-referrer=https://www.instreamtv.xyz/
+https://play-cdn.kapsports.com/sport/202_4304564_1.m3u8?sign=YgfaqjVet2xMQlQu6dqOk3ZGscv777NT29Dtkmmt9FZSenNcthXCM2vx4TGbSejHYUy_VmDAtnN8xl5iS5DYwRLvInAUR1569YrKcZAqYhqspzc5BQbA70ljxXLyesGYlm0N-pmvDd1waAjNLbE6xqWYMzF1rMunpaiR4d6sd2EBj0IpkcXxIRe6M8lr--Z83XT1gidiGNafSz754ruY8Jac8Hiom9BqWy0Zakgu6FSgKxDXPi6Y5BNycLhYujvOkYAtKYnMxwJJnrrRcUHXzDdG7Ed_gPRoW7m0EWJC7wYlhBoamr9bCCg0k397jmKPLTV7yIib6orEyPFHhp3bPA&timestamp=1762345165473
 
 #EXTINF:-1 group-title="EVENT 5/NOVEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Borneo FC Samarinda vs Dewa United
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
