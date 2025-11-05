@@ -88,6 +88,17 @@ http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/o
 
 <================>
 
+#EXTINF:-1 group-title="EVENT 5/NOVEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Borneo FC Samarinda vs Dewa United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT=http-origin=https://www.instreamtv.xyz
+#EXTVLCOPT=http-referrer=https://www.instreamtv.xyz/
+https://shorter.me/nIjWn
+
+#EXTINF:-1 group-title="EVENT 5/NOVEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Borneo FC vs Dewa United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://wahyu1ptv.pages.dev/Indosiar-[HD].m3u8
+
+
 #EXTINF:-1 group-title="EVENT 5/NOVEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/AFC_Champions_League_Elite_logo.svg/1200px-AFC_Champions_League_Elite_logo.svg.png", 17:00 WIB Vissel Kobe vs Ulsan
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -372,7 +383,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imghippo.com/files/nnPz8688tgk.jpg", Bali Utd vs Persib Bandung
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imghippo.com/files/nnPz8688tgk.jpg", INDOSIAR LIGA SUPER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://wahyu1ptv.pages.dev/Indosiar-[HD].m3u8
 
