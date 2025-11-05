@@ -8,18 +8,18 @@ https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/k9nhknsnsq32dn5hzvt
 
 
 ======================================================================================================================
-#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="FIFA WORLDCUP U17",FIFA 1 Brazil v Honduras
+#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="FIFA WORLDCUP U17",FIFA 1 Panama v Republic of Ireland
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=17df085413ef3515aeb08eb307442613:e42ddce6fa16033b194b754fb576569e
-https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_09_49_51_0798d42f-c4cc-4518-97e1-beaa6984225f/PROD_CMAF_CENC/index-dash.mpd
+#KODIPROP:inputstream.adaptive.license_key=c53c719aecf83f30bcfe86e180ecd4c2:6d50f39ec3f978ba99197b015f556367
+https://d7pd9oqdl4d44.cloudfront.net/2025_11_04_14_53_05_29396cff-23f6-4362-8887-8a03f070708a/PROD_CMAF_CENC/index-dash.mpd
 
 
-#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="FIFA WORLDCUP U17",FIFA 2 Côte d'Ivoire v Switzerland
+#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="FIFA WORLDCUP U17",Paraguay v Uzbekistan
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=120de3717b3f30509f08401c1932b4dd:9ea12431d439e7f2f09241def325fc3c
-https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_09_56_49_20d9b99e-0e84-4f35-98ab-674412179552/PROD_CMAF_CENC/index-dash.mpd
+#KODIPROP:inputstream.adaptive.license_key=cf465e51793931319abeb35c6099b658:9bafff4e55acd60dfc4e7c89369ed642
+https://d7pd9oqdl4d44.cloudfront.net/2025_11_04_15_39_28_45767c2d-d3a4-4b5c-9c06-6c60605c476e/PROD_CMAF_CENC/index-dash.mpd
 
 #EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="FIFA WORLDCUP U17",FIFA 3 Mexico v Korea Republic
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -27,11 +27,11 @@ https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_09_56_49_20d9b99e-0e84-4f35-98ab
 #KODIPROP:inputstream.adaptive.license_key=3f95bd0de1d430549e6a11c75dc89c4e:64f43e668dd7bcb703d95bc2d1165596
 https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_09_57_45_81759503-0f87-4809-a818-7aa94bd10cef/PROD_CMAF_CENC/index-dash.mpd
 
-#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="FIFA WORLDCUP U17",FIFA 3 Haiti v Egypt
+#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="FIFA WORLDCUP U17",Austria v Saudi Arabia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f7b38835dea3262a6d088c694ad4f6c:f17671d5cfee446960c796662f19dd96
-https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_10_00_28_cacd1449-8d9c-4dbe-8608-92f13a99fb9a/PROD_CMAF_CENC/index-dash.mpd
+#KODIPROP:inputstream.adaptive.license_key=f9235b9ad64f384daea287edba6784c1:254f75f7f05ab80acc8e51f4f100348c
+https://d7pd9oqdl4d44.cloudfront.net/2025_11_04_14_41_23_e12767a3-c30f-436a-93b3-41b65d760aa8/PROD_CMAF_CENC/index-dash.mpd
 
 #EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="FIFA WORLDCUP U17",FIFA 4  Indonesia v Zambia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
