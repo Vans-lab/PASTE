@@ -4,9 +4,58 @@
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 
 #EXTINF:-1 group-title="VOLI KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd63b1Lf9T4IL97RMzSeBjFbyS6U-o45BwYw&s",HI PASS VS RED SPARKS
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/k9nhknsnsq32dn5hzvtbn1dyy2d2efau6qbc/playlist.m3u8?hdnts=st=1762337800~exp=1762370210~acl=*/k9nhknsnsq32dn5hzvtbn1dyy2d2efau6qbc/*~hmac=fad3e1ed3a5c223a46b657a76ced895e9374bac73554433636b13bd49a2115f4
+#https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/k9nhknsnsq32dn5hzvtbn1dyy2d2efau6qbc/playlist.m3u8?hdnts=st=1762337800~exp=1762370210~acl=*/k9nhknsnsq32dn5hzvtbn1dyy2d2efau6qbc/*~hmac=fad3e1ed3a5c223a46b657a76ced895e9374bac73554433636b13bd49a2115f4
 
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/05/3e/04/d2/053e04d2-4a87-4993-9d6a-2c1c2ed898be.jpg" group-title="LIVE NOW - Super League", Blue Eagles v FCB Nyasa Big Bullets - 19:20 WIB 06-11-2025 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=8913c242-d6d4-4e49-9b57-750f20852d08 
+https://dildo.beww.pl/plus.mpd?id=8913c242-d6d4-4e49-9b57-750f20852d08 
 
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/37/a4/cc/2a/37a4cc2a-b497-4f9f-b7a1-04cf6a27677e.jpg" group-title="LIVE NOW - Super League", Songwe Border United v Creck Sporting FC - 19:20 WIB 06-11-2025 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=1a1dc853-ef7b-4574-8a49-e33bf3fe1c0e 
+https://dildo.beww.pl/plus.mpd?id=1a1dc853-ef7b-4574-8a49-e33bf3fe1c0e 
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/fd/93/88/2c/fd93882c-b3c7-4dc5-abb9-1411b3fc69ac.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", Portugal v Morocco - 19:20 WIB 06-11-2025 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=86c3783f-a202-4252-8731-d818bc7174fe 
+https://dildo.beww.pl/plus.mpd?id=86c3783f-a202-4252-8731-d818bc7174fe
+ 
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c2/bf/ae/75/c2bfae75-1a1b-4804-a09d-62c1e7defd98.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", Bolivia v Italy - 19:20 WIB 06-11-2025 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=eb8aed90-1cc4-4c33-9255-c84954a91629 
+https://dildo.beww.pl/plus.mpd?id=eb8aed90-1cc4-4c33-9255-c84954a91629 
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7c/1d/18/a2/7c1d18a2-9712-4b1d-a206-51336eebb23c.jpg" group-title="UPCOMING", FC Fassell v Paynesville FC - 22:50 WIB 06-11-2025 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=95efff5e-8e89-4849-9e3a-e0861aa6544b 
+https://dildo.beww.pl/plus.mpd?id=95efff5e-8e89-4849-9e3a-e0861aa6544b 
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/39/bb/ee/05/39bbee05-7874-4ab3-8f0f-13fe1c395ca8.jpg" group-title="UPCOMING", Borough FC v Downtown FC - 19:50 WIB 06-11-2025 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=9f5ff04a-1699-49c8-93c0-7d2928298759 
+https://dildo.beww.pl/plus.mpd?id=9f5ff04a-1699-49c8-93c0-7d2928298759 
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ef/fc/02/34/effc0234-1682-4ffd-95ed-2367c8c68caf.jpg" group-title="UPCOMING", Heaven Eleven v Black Man Warriors FC - 22:50 WIB 06-11-2025 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=ab69da8a-bf21-42f4-99b8-ba721780eeac 
+https://dildo.beww.pl/plus.mpd?id=ab69da8a-bf21-42f4-99b8-ba721780eeac 
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/87/5c/2c/15/875c2c15-bf49-4141-9419-d90899ff25e3.jpg" group-title="UPCOMING", LISCR FC v Watanga FC - 00:05 WIB 07-11-2025 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=c287d46b-a664-4151-b594-fcc77e8f5c0c 
+https://dildo.beww.pl/plus.mpd?id=c287d46b-a664-4151-b594-fcc77e8f5c0c 
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/87/08/2d/cf/87082dcf-1ef0-42e0-9930-58670ea3a68a.jpg" group-title="UPCOMING", St. Michel SC v Bel Air FC - 21:20 WIB 06-11-2025 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=c1425453-c9c3-4c37-9f39-57ebc9800a11 https://dildo.beww.pl/plus.mpd?id=c1425453-c9c3-4c37-9f39-57ebc9800a11 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a9/8a/5f/bb/a98a5fbb-930e-4903-b26a-5dfecb22ffea.jpg" group-title="UPCOMING", Discoveries SA v Freeport FC - 19:50 WIB 06-11-2025 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=5ecf4896-19d4-4b6c-a52a-9d3cf0b0eb9a https://dildo.beww.pl/plus.mpd?id=5ecf4896-19d4-4b6c-a52a-9d3cf0b0eb9a #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5a/42/23/b4/5a4223b4-3346-4340-83f0-fd9c2fbdc03b.jpg" group-title="UPCOMING", Japan v New Caledonia - 19:50 WIB 06-11-2025 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=50cd6f67-55ab-4f55-8660-da278d960873 https://dildo.beww.pl/plus.mpd?id=50cd6f67-55ab-4f55-8660-da278d960873 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ba/bb/1a/02/babb1a02-1e42-419d-880d-f53b31cfb849.jpg" group-title="UPCOMING", United Arab Emirates v Croatia - 22:05 WIB 06-11-2025 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=f34e2547-1c82-4825-90b7-67ea9a4d80c2 https://dildo.beww.pl/plus.mpd?id=f34e2547-1c82-4825-90b7-67ea9a4d80c2 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/08/c2/32/94/08c23294-a2df-4968-b0df-5f265cca14e7.jpg" group-title="UPCOMING", Fiji v Belgium - 21:35 WIB 06-11-2025 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=70ac035e-345e-4f87-b878-f75886a346db https://dildo.beww.pl/plus.mpd?id=70ac035e-345e-4f87-b878-f75886a346db #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/9b/e6/20/e4/9be620e4-12e8-4b54-8e17-011a54c8c96b.jpg" group-title="UPCOMING", Argentina v Tunisia - 20:20 WIB 06-11-2025 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=d594c588-3af4-431e-aa95-c324443e15b4 https://dildo.beww.pl/plus.mpd?id=d594c588-3af4-431e-aa95-c324443e15b4 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/46/a9/46/47/46a94647-a8dd-416d-b513-b7586072844b.jpg" group-title="UPCOMING", Qatar v South Africa - 22:35 WIB 06-11-2025 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=72b5c998-a1ca-45cf-b04a-296b30b0635f https://dildo.beww.pl/plus.mpd?id=72b5c998-a1ca-45cf-b04a-296b30b0635f #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/14/2b/ec/6f/142bec6f-2fad-4191-ae74-c4030dd064f7.jpg" group-title="UPCOMING", Senegal v Costa Rica - 22:35 WIB 06-11-2025 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=a5cb9f86-f2e9-489e-85fe-d88c23ef9f83 https://dildo.beww.pl/plus.mpd?id=a5cb9f86-f2e9-489e-85fe-d88c23ef9f83
 ======================================================================================================================
 #EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="FIFA WORLDCUP U17",FIFA 1 Panama v Republic of Ireland
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
