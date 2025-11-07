@@ -6,6 +6,23 @@
 #EXTINF:-1 group-title="VOLI KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd63b1Lf9T4IL97RMzSeBjFbyS6U-o45BwYw&s",HI PASS VS RED SPARKS
 #https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/k9nhknsnsq32dn5hzvtbn1dyy2d2efau6qbc/playlist.m3u8?hdnts=st=1762337800~exp=1762370210~acl=*/k9nhknsnsq32dn5hzvtbn1dyy2d2efau6qbc/*~hmac=fad3e1ed3a5c223a46b657a76ced895e9374bac73554433636b13bd49a2115f4
 
+#EXTM3U #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/46/5f/46/88/465f4688-e90d-4b11-b52e-c52d11ce4cb9.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", Germany v Korea DPR - 19:50 WIB 07-11-2025 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=de6888de-ee72-4fe1-9fa0-db07934282e3 
+https://dildo.beww.pl/plus.mpd?id=de6888de-ee72-4fe1-9fa0-db07934282e3 
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1b/10/57/d3/1b1057d3-4cea-4961-989f-1bb9c254f53a.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", El Salvador v Colombia - 19:20 WIB 07-11-2025 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=57ec69f4-ffa7-4999-a63d-c0902e431564 
+https://dildo.beww.pl/plus.mpd?id=57ec69f4-ffa7-4999-a63d-c0902e431564 
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7a/45/97/a4/7a4597a4-7dde-4a0d-b629-f8c85e6a8ea9.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", England v Haiti - 19:16 WIB 07-11-2025 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=fe5d86a1-d0c6-4c33-b6a0-d677f2cd2e15 
+https://dildo.beww.pl/plus.mpd?id=fe5d86a1-d0c6-4c33-b6a0-d677f2cd2e15
 
 ======================================================================================================================
 #EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="FIFA WORLDCUP U17",FIFA 1 Panama v Republic of Ireland
