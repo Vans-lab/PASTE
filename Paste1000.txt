@@ -6,11 +6,24 @@
 #EXTINF:-1 group-title="VOLI KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd63b1Lf9T4IL97RMzSeBjFbyS6U-o45BwYw&s",HI PASS VS RED SPARKS
 #https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/k9nhknsnsq32dn5hzvtbn1dyy2d2efau6qbc/playlist.m3u8?hdnts=st=1762337800~exp=1762370210~acl=*/k9nhknsnsq32dn5hzvtbn1dyy2d2efau6qbc/*~hmac=fad3e1ed3a5c223a46b657a76ced895e9374bac73554433636b13bd49a2115f4
 
-#EXTM3U #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/46/5f/46/88/465f4688-e90d-4b11-b52e-c52d11ce4cb9.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", Germany v Korea DPR - 19:50 WIB 07-11-2025 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d2/90/87/d4/d29087d4-aaa6-416c-bcda-0d32afc9bd0f.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", Mexico v Côte d'Ivoire - 21:35 WIB 07-11-2025 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=971ff2cc-a988-43ea-802b-f458ebe7b2c6 
+https://dildo.beww.pl/plus.mpd?id=971ff2cc-a988-43ea-802b-f458ebe7b2c6 
+
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ee/76/6f/42/ee766f42-b42f-4984-b1b0-615fd7a4f2c4.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", Egypt v Venezuela - 20:20 WIB 07-11-2025 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=6748035f-8126-4388-9d20-97a7d0ef2c90 
+https://dildo.beww.pl/plus.mpd?id=6748035f-8126-4388-9d20-97a7d0ef2c90 
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/46/5f/46/88/465f4688-e90d-4b11-b52e-c52d11ce4cb9.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", Germany v Korea DPR - 19:50 WIB 07-11-2025 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=de6888de-ee72-4fe1-9fa0-db07934282e3 
 https://dildo.beww.pl/plus.mpd?id=de6888de-ee72-4fe1-9fa0-db07934282e3 
+
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1b/10/57/d3/1b1057d3-4cea-4961-989f-1bb9c254f53a.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", El Salvador v Colombia - 19:20 WIB 07-11-2025 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 
@@ -23,6 +36,8 @@ https://dildo.beww.pl/plus.mpd?id=57ec69f4-ffa7-4999-a63d-c0902e431564
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=fe5d86a1-d0c6-4c33-b6a0-d677f2cd2e15 
 https://dildo.beww.pl/plus.mpd?id=fe5d86a1-d0c6-4c33-b6a0-d677f2cd2e15
+
+
 
 ======================================================================================================================
 #EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="FIFA WORLDCUP U17",FIFA 1 Panama v Republic of Ireland
