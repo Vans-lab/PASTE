@@ -6,6 +6,11 @@
 #EXTINF:-1 group-title="VOLI KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd63b1Lf9T4IL97RMzSeBjFbyS6U-o45BwYw&s",HI PASS VS RED SPARKS
 #https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/k9nhknsnsq32dn5hzvtbn1dyy2d2efau6qbc/playlist.m3u8?hdnts=st=1762337800~exp=1762370210~acl=*/k9nhknsnsq32dn5hzvtbn1dyy2d2efau6qbc/*~hmac=fad3e1ed3a5c223a46b657a76ced895e9374bac73554433636b13bd49a2115f4
 
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/75/b2/c0/24/75b2c024-b212-4007-b589-2e98a89eda82.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", Brazil v Indonesia - 22:19 WIB 07-11-2025 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=1744d15c-25b0-4159-92ae-4fee215f88fb 
+https://dildo.beww.pl/plus.mpd?id=1744d15c-25b0-4159-92ae-4fee215f88fb
+
 #EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™",LIVE 5 BRAZIL VS INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
