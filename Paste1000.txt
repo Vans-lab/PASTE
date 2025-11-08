@@ -17,6 +17,10 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
 https://rr4---sn-8pxuuxa-on.applecdnstore.com/live_event_tnt_sports_1_hd/index.m3u8
 
+#EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://iili.io/FtSr5Mb.jpg", 19:30 WIB Tottenham Hotspur vs Manchester United
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/momsd2RK/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/75/b2/c0/24/75b2c024-b212-4007-b589-2e98a89eda82.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", Brazil v Indonesia - 22:19 WIB 07-11-2025 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=1744d15c-25b0-4159-92ae-4fee215f88fb 
