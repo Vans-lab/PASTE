@@ -349,8 +349,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 #EXTINF:-1 group-title="MOTOGP PORTUGAL" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",60 FPS
-#EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-https://convps.hdtvs1.top/aHR0cHM6Ly9vZTIuczRzdHJlYW0uY2ZkL3N0cmVhbW9yL2hscy8xL3N0cmVhbS5tM3U4.m3u8
+#EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
+https://tc.s1stream.top/97a980c8-d574-4dce-8177-3d14118fc665/hls.m3u8?hdnts=exp%3D1762594016~acl%3D%252F97a980c8-d574-4dce-8177-3d14118fc665%252Fhls.m3u8%252A~hmac%3D7dbddec95ec1c8b55e31b92c299f83df0fd942b1208cd5becab873a701051a20
 
 #EXTINF:-1 group-title="MOTOGP PORTUGAL" tvg-logo="https://iili.io/3cSp4Lu.md.png", B3 MotoGP 2025
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -360,12 +360,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 
 #EXTINF:-1 group-title="MOTOGP PORTUGAL" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NUKLIR
-#EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-https://master.idxplayer.com/aHR0cHM6Ly9zZy5zMnN0cmVhbS5jZmQvc3RyZWFtc2cvaGxzLzAvc3RyZWFtLm0zdTg=.m3u8
+#EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
+https://master.idxplayer.com/aHR0cHM6Ly9zZy5zMXN0cmVhbS50b3Avc3RyZWFtc2cvaGxzLzAvc3RyZWFtLm0zdTg=.m3u8
 
 #EXTINF:-1 group-title="MOTOGP PORTUGAL" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NONTONGP
-#EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-https://master2.idxplayer.com/aHR0cHM6Ly9zZy5zMnN0cmVhbS5jZmQvc3RyZWFtc2cvaGxzLzIvc3RyZWFtLm0zdTg=.m3u8
+#EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
+https://master.s3stream.top/aHR0cHM6Ly9vcGkuaWR4cGxheWVyLmNvbS9obHMvc3RyZWFtLm0zdTg=.m3u8
 
 
 #EXTINF:-1 group-title="LIVE VOLI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", LIVOLI FINAL 4
