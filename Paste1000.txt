@@ -36,8 +36,17 @@
 #EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
 #http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/91/b2/36/7d/91b2367d-56ea-4ac4-8920-73f9627ca70e.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", Korea Republic v Côte d'Ivoire - 19:15 WIB 10-11-2025 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=b97c515a-260a-436d-9eed-bf2ff9f58ec6 https://dildo.beww.pl/plus.mpd?id=b97c515a-260a-436d-9eed-bf2ff9f58ec6 
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4d/3d/e0/32/4d3de032-488d-4054-add3-63d569d46054.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", El Salvador v Germany - 20:15 WIB 10-11-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=fced6eb4-6108-491b-a920-bc577f8aca6c
+https://dildo.beww.pl/plus.mpd?id=fced6eb4-6108-491b-a920-bc577f8aca6c
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/91/b2/36/7d/91b2367d-56ea-4ac4-8920-73f9627ca70e.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", Korea Republic v Côte d'Ivoire - 19:15 WIB 10-11-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=b97c515a-260a-436d-9eed-bf2ff9f58ec6
+https://dildo.beww.pl/plus.mpd?id=b97c515a-260a-436d-9eed-bf2ff9f58ec6 
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/46/da/bf/13/46dabf13-b53c-4d1f-b967-7cd7c9cf010d.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", Switzerland v Mexico2 - 19:15 WIB 10-11-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
@@ -56,12 +65,6 @@ https://dildo.beww.pl/plus.mpd?id=bfdc6495-67ac-413c-99d3-13d5d20932b9
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=952a85b7-5e3d-4b65-bf13-f41188d6d75c
 https://dildo.beww.pl/plus.mpd?id=952a85b7-5e3d-4b65-bf13-f41188d6d75c 
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4d/3d/e0/32/4d3de032-488d-4054-add3-63d569d46054.jpg" group-title="UPCOMING", El Salvador v Germany - 20:15 WIB 10-11-2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=fced6eb4-6108-491b-a920-bc577f8aca6c
-https://dildo.beww.pl/plus.mpd?id=fced6eb4-6108-491b-a920-bc577f8aca6c 
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7c/79/aa/99/7c79aa99-2bac-44ac-9d06-33de537bab5d.jpg" group-title="UPCOMING", Zambia v Brazil - 21:30 WIB 10-11-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
