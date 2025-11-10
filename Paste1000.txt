@@ -36,93 +36,29 @@
 #EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
 #http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/75/b2/c0/24/75b2c024-b212-4007-b589-2e98a89eda82.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", Brazil v Indonesia - 22:19 WIB 07-11-2025 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=1744d15c-25b0-4159-92ae-4fee215f88fb 
-https://dildo.beww.pl/plus.mpd?id=1744d15c-25b0-4159-92ae-4fee215f88fb
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/91/b2/36/7d/91b2367d-56ea-4ac4-8920-73f9627ca70e.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", Korea Republic v Côte d'Ivoire - 19:15 WIB 10-11-2025 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=b97c515a-260a-436d-9eed-bf2ff9f58ec6 https://dildo.beww.pl/plus.mpd?id=b97c515a-260a-436d-9eed-bf2ff9f58ec6 
 
-#EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™",LIVE 5 BRAZIL VS INDONESIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
-http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/46/da/bf/13/46dabf13-b53c-4d1f-b967-7cd7c9cf010d.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", Switzerland v Mexico - 19:15 WIB 10-11-2025 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=8705a3b6-682e-4b92-8549-d138e84303cb https://dildo.beww.pl/plus.mpd?id=8705a3b6-682e-4b92-8549-d138e84303cb
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d2/90/87/d4/d29087d4-aaa6-416c-bcda-0d32afc9bd0f.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", Mexico v Côte d'Ivoire - 21:35 WIB 07-11-2025 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=971ff2cc-a988-43ea-802b-f458ebe7b2c6 
-https://dildo.beww.pl/plus.mpd?id=971ff2cc-a988-43ea-802b-f458ebe7b2c6 
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/eb/ae/cf/f1/ebaecff1-1fd4-422f-8051-ede98baa8ddd.jpg" group-title="UPCOMING", Colombia v Korea DPR - 20:15 WIB 10-11-2025 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=bfdc6495-67ac-413c-99d3-13d5d20932b9 https://dildo.beww.pl/plus.mpd?id=bfdc6495-67ac-413c-99d3-13d5d20932b9 
 
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c1/09/23/5a/c109235a-dba3-46b5-b603-ce368769d35f.jpg" group-title="UPCOMING", Egypt v England - 22:30 WIB 10-11-2025 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=952a85b7-5e3d-4b65-bf13-f41188d6d75c https://dildo.beww.pl/plus.mpd?id=952a85b7-5e3d-4b65-bf13-f41188d6d75c 
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ee/76/6f/42/ee766f42-b42f-4984-b1b0-615fd7a4f2c4.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", Egypt v Venezuela - 20:20 WIB 07-11-2025 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=6748035f-8126-4388-9d20-97a7d0ef2c90 
-https://dildo.beww.pl/plus.mpd?id=6748035f-8126-4388-9d20-97a7d0ef2c90 
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4d/3d/e0/32/4d3de032-488d-4054-add3-63d569d46054.jpg" group-title="UPCOMING", El Salvador v Germany - 20:15 WIB 10-11-2025 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=fced6eb4-6108-491b-a920-bc577f8aca6c https://dildo.beww.pl/plus.mpd?id=fced6eb4-6108-491b-a920-bc577f8aca6c 
 
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7c/79/aa/99/7c79aa99-2bac-44ac-9d06-33de537bab5d.jpg" group-title="UPCOMING", Zambia v Brazil - 21:30 WIB 10-11-2025 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=967fce5f-513c-4408-94ba-1fff707e1602 https://dildo.beww.pl/plus.mpd?id=967fce5f-513c-4408-94ba-1fff707e1602 
 
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/82/02/69/95/82026995-496a-4f9e-b44c-129152dc9475.jpg" group-title="UPCOMING", Honduras v Indonesia - 21:19 WIB 10-11-2025 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=55a47aad-e1bd-4ca1-afc7-0cd580773063 https://dildo.beww.pl/plus.mpd?id=55a47aad-e1bd-4ca1-afc7-0cd580773063 
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/46/5f/46/88/465f4688-e90d-4b11-b52e-c52d11ce4cb9.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", Germany v Korea DPR - 19:50 WIB 07-11-2025 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=de6888de-ee72-4fe1-9fa0-db07934282e3 
-https://dildo.beww.pl/plus.mpd?id=de6888de-ee72-4fe1-9fa0-db07934282e3 
-
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1b/10/57/d3/1b1057d3-4cea-4961-989f-1bb9c254f53a.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", El Salvador v Colombia - 19:20 WIB 07-11-2025 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=57ec69f4-ffa7-4999-a63d-c0902e431564 
-https://dildo.beww.pl/plus.mpd?id=57ec69f4-ffa7-4999-a63d-c0902e431564 
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7a/45/97/a4/7a4597a4-7dde-4a0d-b629-f8c85e6a8ea9.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", England v Haiti - 19:16 WIB 07-11-2025 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=fe5d86a1-d0c6-4c33-b6a0-d677f2cd2e15 
-https://dildo.beww.pl/plus.mpd?id=fe5d86a1-d0c6-4c33-b6a0-d677f2cd2e15
-
-
-
-======================================================================================================================
-#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="FIFA WORLDCUP U17",FIFA 1 Panama v Republic of Ireland
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c53c719aecf83f30bcfe86e180ecd4c2:6d50f39ec3f978ba99197b015f556367
-https://d7pd9oqdl4d44.cloudfront.net/2025_11_04_14_53_05_29396cff-23f6-4362-8887-8a03f070708a/PROD_CMAF_CENC/index-dash.mpd
-
-
-#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="FIFA WORLDCUP U17",Paraguay v Uzbekistan
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf465e51793931319abeb35c6099b658:9bafff4e55acd60dfc4e7c89369ed642
-https://d7pd9oqdl4d44.cloudfront.net/2025_11_04_15_39_28_45767c2d-d3a4-4b5c-9c06-6c60605c476e/PROD_CMAF_CENC/index-dash.mpd
-
-#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="FIFA WORLDCUP U17",FIFA 3 Mexico v Korea Republic
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f95bd0de1d430549e6a11c75dc89c4e:64f43e668dd7bcb703d95bc2d1165596
-https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_09_57_45_81759503-0f87-4809-a818-7aa94bd10cef/PROD_CMAF_CENC/index-dash.mpd
-
-#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="FIFA WORLDCUP U17",Austria v Saudi Arabia
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f9235b9ad64f384daea287edba6784c1:254f75f7f05ab80acc8e51f4f100348c
-https://d7pd9oqdl4d44.cloudfront.net/2025_11_04_14_41_23_e12767a3-c30f-436a-93b3-41b65d760aa8/PROD_CMAF_CENC/index-dash.mpd
-
-#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="FIFA WORLDCUP U17",FIFA 4  Indonesia v Zambia
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=818a7a1ec0dc381dbc2d0a0da3ce3b21:117c2cf92af441ec1d3f4e9f4fb5ad4f
-https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_10_04_31_60bab816-d8f1-4cf7-83fc-81b77938059a/PROD_CMAF_CENC/index-dash.mpd
-
-
-#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="FIFA WORLDCUP U17",FIFA 5
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a910a075d59132d79defbeefef5fd5a0:d1d6b33d096ae300498daa6fbfc7bd67
-https://d7pd9oqdl4d44.cloudfront.net/2025_10_30_10_38_42_d5f984b6-2182-4c0a-9219-0cff0df2ae82/PROD_CMAF_CENC/index-dash.mpd
-
-
-
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/54/33/3f/4d/54333f4d-97e0-453e-8ef9-d273b8a184d0.jpg" group-title="UPCOMING", Venezuela v Haiti - 22:30 WIB 10-11-2025 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=45d3c261-aa78-47bb-a985-180adc74f6ad https://dildo.beww.pl/plus.mpd?id=45d3c261-aa78-47bb-a985-180adc74f6ad
 
 
 
@@ -161,200 +97,6 @@ http://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/o
 #KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
 http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
-<=================== EVENT 1 =============================>
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://iili.io/3cSp4Lu.md.png", 21:15 WIB MotoGP 2025 Round 21- Qatar Airways Grand Prix of Portugal Moto3 Race
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
-https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-<================================================>
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Dewa United vs PSM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live.golivenow71.com/60519ee2881081baf8a1b239b976bd59/1762721289429/r8ztat6/r8ztat6@720p.m3u8
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Dewa United vs PSM
-https://shorter.me/v7K_O
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Madura United vs Persijap
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m201nd/playlist.m3u8
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Semen Padang vs Borneo
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m202nd/playlist.m3u8
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 15:30 WIB Persikad Depok FC vs Persekat
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 19:00 WIB Bekasi City vs PSMS
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 20:30 WIB France v Canada
-
-<================>
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Crystal Palace vs Brighton & Hove Albion
-https://shorter.me/iQgEZ
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Nottingham Forest vs Leeds United
-https://shorter.me/Y-nZp
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Brentford vs Newcastle United
-https://shorter.me/9nU3u
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Aston Villa vs AFC Bournemouth
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
-https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 23:30 WIB Manchester City vs Liverpool
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
-https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
-
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", 20:00 WIB Athletic Club vs Real Oviedo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", 22:15 WIB Rayo Vallecano vs Real Madrid
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-#EXTINF:-1 group-title="EVENT 10/NOVEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", 00:30 WIB Mallorca vs Getafe
-https://shorter.me/RZGKX
-
-#EXTINF:-1 group-title="EVENT 10/NOVEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", 00:30 WIB Valencia vs Real Betis
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-#EXTINF:-1 group-title="EVENT 10/NOVEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", 03:00 WIB Celta de Vigo vs Barcelona
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 18:30 WIB Atalanta vs Sassuolo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 21:00 WIB Bologna vs Napoli
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 21:00 WIB Genoa vs Fiorentina
-https://shorter.me/2Ajqg
-
-#EXTINF:-1 group-title="EVENT 10/NOVEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 00:00 WIB Roma vs Udinese
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 10/NOVEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 02:45 WIB Internazionale vs Lazio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 21:30 WIB Freiburg vs St. Pauli
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 23:30 WIB Stuttgart vs Augsburg
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-#EXTINF:-1 group-title="EVENT 10/NOVEMBER/2025" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 01:30 WIB Eintracht Frankfurt vs Mainz 05
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://iili.io/FDOiPI4.jpg", 21:00 WIB Lorient vs Toulouse
-https://shorter.me/8r6PO
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://iili.io/FDOiPI4.jpg", 23:15 WIB Angers SCO vs Auxerre
-https://shorter.me/fV7sR
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://iili.io/FDOiPI4.jpg", 23:15 WIB Metz vs Nice
-https://shorter.me/XIyJl
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://iili.io/FDOiPI4.jpg", 23:15 WIB Strasbourg vs Lille
-https://shorter.me/3F96e
-
-#EXTINF:-1 group-title="EVENT 10/NOVEMBER/2025" tvg-logo="https://iili.io/FDOiPI4.jpg", 02:45 WIB Olympique Lyonnais vs PSG
-https://shorter.me/kgRwe
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://www.scisports.com/wp-content/uploads/2022/10/Eredivisie-SciSports-2022-1280x720.jpeg", 18:15 WIB Utrecht vs Ajax
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://www.scisports.com/wp-content/uploads/2022/10/Eredivisie-SciSports-2022-1280x720.jpeg", 20:30 WIB NEC vs Groningen
-https://shorter.me/DwVVN
-
-#EXTINF:-1 group-title="EVENT 9/NOVEMBER/2025" tvg-logo="https://www.scisports.com/wp-content/uploads/2022/10/Eredivisie-SciSports-2022-1280x720.jpeg", 22:45 WIB AZ vs PSV
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
-
-#EXTINF:-1 group-title="EVENT 10/NOVEMBER/2025" tvg-logo="https://www.scisports.com/wp-content/uploads/2022/10/Eredivisie-SciSports-2022-1280x720.jpeg", 02:00 WIB Go Ahead Eagles vs Feyenoord
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
-
-
 
 ##############################MOTO GP############################
 
@@ -363,28 +105,28 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/maste
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 #EXTINF:-1 group-title="MOTOGP PORTUGAL" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",60 FPS
 #EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
-https://tc.s1stream.top/97a980c8-d574-4dce-8177-3d14118fc665/hls.m3u8?hdnts=exp%3D1762594016~acl%3D%252F97a980c8-d574-4dce-8177-3d14118fc665%252Fhls.m3u8%252A~hmac%3D7dbddec95ec1c8b55e31b92c299f83df0fd942b1208cd5becab873a701051a20
+#https://tc.s1stream.top/97a980c8-d574-4dce-8177-3d14118fc665/hls.m3u8?hdnts=exp%3D1762594016~acl%3D%252F97a980c8-d574-4dce-8177-3d14118fc665%252Fhls.m3u8%252A~hmac%3D7dbddec95ec1c8b55e31b92c299f83df0fd942b1208cd5becab873a701051a20
 
 #EXTINF:-1 group-title="MOTOGP PORTUGAL" tvg-logo="https://iili.io/3cSp4Lu.md.png", B3 MotoGP 2025
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 
 #EXTINF:-1 group-title="MOTOGP PORTUGAL" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NUKLIR
 #EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
-https://master.idxplayer.com/aHR0cHM6Ly9zZy5zMXN0cmVhbS50b3Avc3RyZWFtc2cvaGxzLzAvc3RyZWFtLm0zdTg=.m3u8
+#https://master.idxplayer.com/aHR0cHM6Ly9zZy5zMXN0cmVhbS50b3Avc3RyZWFtc2cvaGxzLzAvc3RyZWFtLm0zdTg=.m3u8
 
 #EXTINF:-1 group-title="MOTOGP PORTUGAL" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NONTONGP
 #EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
-https://master.s3stream.top/aHR0cHM6Ly9vcGkuaWR4cGxheWVyLmNvbS9obHMvc3RyZWFtLm0zdTg=.m3u8
+#https://master.s3stream.top/aHR0cHM6Ly9vcGkuaWR4cGxheWVyLmNvbS9obHMvc3RyZWFtLm0zdTg=.m3u8
 
-
+##############################################
 #EXTINF:-1 group-title="LIVE VOLI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", LIVOLI FINAL 4
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lansd1RK/playlist.m3u8
