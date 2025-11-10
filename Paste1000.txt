@@ -1715,15 +1715,15 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k44W7jg.jpg" group-title="FOOTBALL CLUB,MUTV ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://tvmate.icu:8080/69NpyV/884735/53717
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wddA7nT.jpg" group-title="FOOTBALL CLUB,REAL MADRID TV ᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wddA7nT.jpg" group-title="FOOTBALL CLUB",REAL MADRID TV ᴴᴰ
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lJoFi92.jpg" group-title="FOOTBALL CLUB,BARCA TV ᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lJoFi92.jpg" group-title="FOOTBALL CLUB",BARCA TV ᴴᴰ
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tP1WwdX.jpg" group-title="FOOTBALL CLUB,INTER TV ᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tP1WwdX.jpg" group-title="FOOTBALL CLUB",INTER TV ᴴᴰ
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8MCJAtZ.jpg" group-title="FOOTBALL CLUB,MILAN TV ᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8MCJAtZ.jpg" group-title="FOOTBALL CLUB",MILAN TV ᴴᴰ
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/127757
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UbZvIra.jpg" group-title="FOOTBALL CLUB,VOOSPORT ᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UbZvIra.jpg" group-title="FOOTBALL CLUB",VOOSPORT ᴴᴰ
 
 
 <============================ Sports ========================>
