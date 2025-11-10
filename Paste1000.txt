@@ -36,6 +36,12 @@
 #EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
 #http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
 
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/82/02/69/95/82026995-496a-4f9e-b44c-129152dc9475.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", Honduras v Indonesia - 21:19 WIB 10-11-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=55a47aad-e1bd-4ca1-afc7-0cd580773063
+https://dildo.beww.pl/plus.mpd?id=55a47aad-e1bd-4ca1-afc7-0cd580773063
+
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/91/b2/36/7d/91b2367d-56ea-4ac4-8920-73f9627ca70e.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", Korea Republic v Côte d'Ivoire - 19:15 WIB 10-11-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
