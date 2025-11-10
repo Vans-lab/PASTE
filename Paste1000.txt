@@ -45,25 +45,41 @@
 #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=8705a3b6-682e-4b92-8549-d138e84303cb
 https://dildo.beww.pl/plus.mpd?id=8705a3b6-682e-4b92-8549-d138e84303cb
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/eb/ae/cf/f1/ebaecff1-1fd4-422f-8051-ede98baa8ddd.jpg" group-title="UPCOMING", Colombia v Korea DPR - 20:15 WIB 10-11-2025 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=bfdc6495-67ac-413c-99d3-13d5d20932b9 https://dildo.beww.pl/plus.mpd?id=bfdc6495-67ac-413c-99d3-13d5d20932b9 
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c1/09/23/5a/c109235a-dba3-46b5-b603-ce368769d35f.jpg" group-title="UPCOMING", Egypt v England - 22:30 WIB 10-11-2025 
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/eb/ae/cf/f1/ebaecff1-1fd4-422f-8051-ede98baa8ddd.jpg" group-title="UPCOMING", Colombia v Korea DPR - 20:15 WIB 10-11-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=952a85b7-5e3d-4b65-bf13-f41188d6d75c https://dildo.beww.pl/plus.mpd?id=952a85b7-5e3d-4b65-bf13-f41188d6d75c 
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=bfdc6495-67ac-413c-99d3-13d5d20932b9
+https://dildo.beww.pl/plus.mpd?id=bfdc6495-67ac-413c-99d3-13d5d20932b9 
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4d/3d/e0/32/4d3de032-488d-4054-add3-63d569d46054.jpg" group-title="UPCOMING", El Salvador v Germany - 20:15 WIB 10-11-2025 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=fced6eb4-6108-491b-a920-bc577f8aca6c https://dildo.beww.pl/plus.mpd?id=fced6eb4-6108-491b-a920-bc577f8aca6c 
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c1/09/23/5a/c109235a-dba3-46b5-b603-ce368769d35f.jpg" group-title="UPCOMING", Egypt v England - 22:30 WIB 10-11-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=952a85b7-5e3d-4b65-bf13-f41188d6d75c
+https://dildo.beww.pl/plus.mpd?id=952a85b7-5e3d-4b65-bf13-f41188d6d75c 
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7c/79/aa/99/7c79aa99-2bac-44ac-9d06-33de537bab5d.jpg" group-title="UPCOMING", Zambia v Brazil - 21:30 WIB 10-11-2025 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=967fce5f-513c-4408-94ba-1fff707e1602 https://dildo.beww.pl/plus.mpd?id=967fce5f-513c-4408-94ba-1fff707e1602 
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4d/3d/e0/32/4d3de032-488d-4054-add3-63d569d46054.jpg" group-title="UPCOMING", El Salvador v Germany - 20:15 WIB 10-11-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=fced6eb4-6108-491b-a920-bc577f8aca6c
+https://dildo.beww.pl/plus.mpd?id=fced6eb4-6108-491b-a920-bc577f8aca6c 
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/82/02/69/95/82026995-496a-4f9e-b44c-129152dc9475.jpg" group-title="UPCOMING", Honduras v Indonesia - 21:19 WIB 10-11-2025 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=55a47aad-e1bd-4ca1-afc7-0cd580773063 https://dildo.beww.pl/plus.mpd?id=55a47aad-e1bd-4ca1-afc7-0cd580773063 
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7c/79/aa/99/7c79aa99-2bac-44ac-9d06-33de537bab5d.jpg" group-title="UPCOMING", Zambia v Brazil - 21:30 WIB 10-11-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=967fce5f-513c-4408-94ba-1fff707e1602
+https://dildo.beww.pl/plus.mpd?id=967fce5f-513c-4408-94ba-1fff707e1602 
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/54/33/3f/4d/54333f4d-97e0-453e-8ef9-d273b8a184d0.jpg" group-title="UPCOMING", Venezuela v Haiti - 22:30 WIB 10-11-2025 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=45d3c261-aa78-47bb-a985-180adc74f6ad https://dildo.beww.pl/plus.mpd?id=45d3c261-aa78-47bb-a985-180adc74f6ad
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/82/02/69/95/82026995-496a-4f9e-b44c-129152dc9475.jpg" group-title="UPCOMING", Honduras v Indonesia - 21:19 WIB 10-11-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=55a47aad-e1bd-4ca1-afc7-0cd580773063
+https://dildo.beww.pl/plus.mpd?id=55a47aad-e1bd-4ca1-afc7-0cd580773063 
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/54/33/3f/4d/54333f4d-97e0-453e-8ef9-d273b8a184d0.jpg" group-title="UPCOMING", Venezuela v Haiti - 22:30 WIB 10-11-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=45d3c261-aa78-47bb-a985-180adc74f6ad
+https://dildo.beww.pl/plus.mpd?id=45d3c261-aa78-47bb-a985-180adc74f6ad
 
 
 
