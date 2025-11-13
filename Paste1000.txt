@@ -83,6 +83,86 @@ http://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/o
 #KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
 http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
+<================>
+
+#EXTINF:-1 group-title="EVENT 13/NOVEMBER/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 19:30 Thailand vs Singapore
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 13/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 23:00 WIB Uni Emirat Arab vs Irak
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+#EXTINF:-1 group-title="EVENT 13/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 23:00 WIB Nigeria vs Gabon
+https://shorter.me/Le5FW
+
+<=================== EVENT 2 =============================>
+
+#EXTINF:-1 group-title="EVENT 14/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 00:00 WIB Azerbaijan vs Islandia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
+https://ultra2.falconx1.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8
+
+#EXTINF:-1 group-title="EVENT 14/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 00:00 WIB Norwegia vs Estonia
+#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+#EXTINF:-1 group-title="EVENT 14/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 00:00 WIB Armenia vs Hungaria
+#EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
+
+#EXTINF:-1 group-title="EVENT 14/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 02:00 WIB Kamerun vs Republik Demokratik Kongo
+https://shorter.me/bz7vK
+
+#EXTINF:-1 group-title="EVENT 14/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 02:45 WIB Andorra vs Albania
+https://shorter.me/fuqWk
+
+#EXTINF:-1 group-title="EVENT 14/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 02:45 WIB Inggris vs Serbia
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+
+#EXTINF:-1 group-title="EVENT 14/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 02:45 WIB Perancis vs Ukraina
+#EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
+
+#EXTINF:-1 group-title="EVENT 14/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 02:45 WIB Moldova vs Italia
+https://shorter.me/YbChr
+
+#EXTINF:-1 group-title="EVENT 14/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 02:45 WIB Republik Irlandia vs Portugal
+#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+#EXTINF:-1 group-title="EVENT 14/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 05:00 WIB Suriname vs El Salvador
+https://shorter.me/Jexrd
+
+#EXTINF:-1 group-title="EVENT 14/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 05:00 WIB Bermuda vs Curaçao
+https://shorter.me/5EKNV
+
+#EXTINF:-1 group-title="EVENT 14/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 07:00 WIB Trinidad dan Tobago vs Jamaika
+https://shorter.me/FDNfm
+
+#EXTINF:-1 group-title="EVENT 14/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 09:00 WIB Haiti vs Kosta Rika
+https://shorter.me/PHHPd
+
+#EXTINF:-1 group-title="EVENT 14/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 09:00 WIB Guatemala vs Panama
+https://shorter.me/tU2NN
+
+#EXTINF:-1 group-title="EVENT 14/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 09:00 WIB Nikaragua vs Honduras
+https://shorter.me/idsrH
+
 
 
 ##############################MOTO GP############################
