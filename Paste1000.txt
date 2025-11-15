@@ -213,7 +213,7 @@ https://master.idxplayer.com/aHR0cHM6Ly9zZy5zMXN0cmVhbS50b3Avc3RyZWFtc2cvaGxzLzA
 
 #EXTINF:-1 group-title="MOTOGP VALENCIA" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NONTONGP
 #EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
-https://master.s3stream.top/aHR0cHM6Ly9vcGkuaWR4cGxheWVyLmNvbS9obHMvc3RyZWFtLm0zdTg=.m3u8
+https://master3.s4stream.top/hls/stream.m3u8
 
 ##############################################
 #EXTINF:-1 group-title="LIVE VOLI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", LIVOLI FINAL 4
