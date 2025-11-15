@@ -4,16 +4,14 @@
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 
 #EXTINF:-1 group-title="VOLI KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd63b1Lf9T4IL97RMzSeBjFbyS6U-o45BwYw&s",RED SPARKS VS HI PASS
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0003/z2slhxocelblnicia6cm698fya1i1q5dru9a/playlist.m3u8?hdnts=st=1762944609~exp=1762977019~acl=*/z2slhxocelblnicia6cm698fya1i1q5dru9a/*~hmac=63843aa49939af1a7efcdf8637c224f7ea10f9a23c181e2ace2d894b21d9a83c
+#https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0003/z2slhxocelblnicia6cm698fya1i1q5dru9a/playlist.m3u8?hdnts=st=1762944609~exp=1762977019~acl=*/z2slhxocelblnicia6cm698fya1i1q5dru9a/*~hmac=63843aa49939af1a7efcdf8637c224f7ea10f9a23c181e2ace2d894b21d9a83c
 
-#EXTINF:-1 group-title="JUM'AT-Kumamoto Masters Japan 2025" tvg-logo="https://i.ytimg.com/vi/irgtcq9EnYo/hq720.jpg", COURT 1
-https://mobilelive-play-2.ysp.cctv.cn/ikotv/2029097001_fhd.m3u8
+#EXTINF:-1 group-title="SEMIFINAL-Kumamoto Masters Japan 2025" tvg-logo="https://i.ytimg.com/vi/irgtcq9EnYo/hq720.jpg", COURT 1
+https://mobilelive-play-2.ysp.cctv.cn/ikotv/2029097601_fhd.m3u8
 
-#EXTINF:-1 group-title="JUM'AT-Kumamoto Masters Japan 2025" tvg-logo="https://i.ytimg.com/vi/irgtcq9EnYo/hq720.jpg", COURT 2
-https://mobilelive-play-2.ysp.cctv.cn/ikotv/2029097101_fhd.m3u8
+#EXTINF:-1 group-title="SEMIFINAL-Kumamoto Masters Japan 2025" tvg-logo="https://i.ytimg.com/vi/irgtcq9EnYo/hq720.jpg", COURT 2
+https://mobilelive-play-2.ysp.cctv.cn/ikotv/2029097701_fhd.m3u8
 
-#EXTINF:-1 group-title="JUM'AT-Kumamoto Masters Japan 2025" tvg-logo="https://i.ytimg.com/vi/irgtcq9EnYo/hq720.jpg", COURT 3
-https://mobilelive-play-2.ysp.cctv.cn/ikotv/2029093901_fhd.m3u8
 
 
 
