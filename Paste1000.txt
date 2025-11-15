@@ -45,6 +45,11 @@ https://mobilelive-play-2.ysp.cctv.cn/ikotv/2029097701_fhd.m3u8
 #EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
 #http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
 
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c4/2d/3b/e6/c42d3be6-afb5-4b73-85b3-6acb82716208.png" group-title="LIVE NOW - FIFA U-17 World Cup™", Japan v South Africa - 20:15 WIB 15-11-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=439ee740-8042-4522-be73-6d6536b2327b
+https://dildo.beww.pl/plus.mpd?id=439ee740-8042-4522-be73-6d6536b2327b
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/dd/d5/f7/6e/ddd5f76e-81d7-4c23-8838-0488b095f5f1.png" group-title="LIVE NOW - FIFA U-17 World Cup™", Korea Republic v England - 19:15 WIB 15-11-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
