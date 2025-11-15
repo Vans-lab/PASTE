@@ -46,6 +46,24 @@ https://mobilelive-play-2.ysp.cctv.cn/ikotv/2029097701_fhd.m3u8
 #http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
 
 
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/dd/d5/f7/6e/ddd5f76e-81d7-4c23-8838-0488b095f5f1.png" group-title="LIVE NOW - FIFA U-17 World Cup™", Korea Republic v England - 19:15 WIB 15-11-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=a012d47b-4d12-471e-a1ea-28ab3e1e6496
+https://dildo.beww.pl/plus.mpd?id=a012d47b-4d12-471e-a1ea-28ab3e1e6496
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/3a/b0/99/d0/3ab099d0-b2db-4266-9509-ab14231eaa4b.png" group-title="LIVE NOW - FIFA U-17 World Cup™", Senegal v Uganda - 19:15 WIB 15-11-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=afc3f6ee-6c51-40d2-988a-c184ca26f69b
+https://dildo.beww.pl/plus.mpd?id=afc3f6ee-6c51-40d2-988a-c184ca26f69b
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/3d/21/31/cc/3d2131cc-9702-4c64-a80e-f18534ebdfd8.png" group-title="LIVE NOW - FIFA U-17 World Cup™", Italy v Czechia - 19:45 WIB 15-11-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=92a11e23-67b7-4029-8c8d-9ad75128b927
+https://dildo.beww.pl/plus.mpd?id=92a11e23-67b7-4029-8c8d-9ad75128b927
+
 #EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/6c1ffny7/piala-dunia-u-17-fifa-2025-qatar-ratio-16x9.jpg" group-title="FIFA WORLDCUP U17",LIVE  1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
