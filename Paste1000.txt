@@ -187,11 +187,14 @@ https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
-#EXTINF:-1 group-title="MOTOGP VALENCIA" tvg-logo="https://iili.io/3cSp4Lu.md.png", 16:40 WIB MotoGP 2025 Round 22 - Motul Grand Prix of the Valencian Community Qualifying 1 & 2 
+#EXTINF:-1 group-title="MOTOGP VALENCIA" tvg-logo="https://iili.io/3cSp4Lu.md.png", 16:40 WIB MotoGP 2025 Round 22 - Motul Grand Prix of the Valencian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
 https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 group-title="MOTOGP VALENCIA" tvg-logo="https://iili.io/3cSp4Lu.md.png", 16:40 WIB MotoGP 2025 Round 22 - Motul Grand Prix of the Valencian
+https://lb10.strmd.top/secure/wNRQsJyjPrtulxxOxYFmJFsxmNVuTrLq/echo/stream/motogp-grand-prix-of-valencia-motogp-1/1/playlist.m3u8
 
 #EXTINF:-1 group-title="MOTOGP VALENCIA" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",60 FPS
 #EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
