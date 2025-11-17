@@ -6,10 +6,6 @@
 #EXTINF:-1 group-title="VOLI KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd63b1Lf9T4IL97RMzSeBjFbyS6U-o45BwYw&s",RED SPARKS VS HI PASS
 #https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0003/z2slhxocelblnicia6cm698fya1i1q5dru9a/playlist.m3u8?hdnts=st=1762944609~exp=1762977019~acl=*/z2slhxocelblnicia6cm698fya1i1q5dru9a/*~hmac=63843aa49939af1a7efcdf8637c224f7ea10f9a23c181e2ace2d894b21d9a83c
 
-#EXTINF:-1 group-title="FINAL-Kumamoto Masters Japan 2025" tvg-logo="https://i.ytimg.com/vi/irgtcq9EnYo/hq720.jpg", COURT 1
-https://mobilelive-play-2.ysp.cctv.cn/ikotv/2029097901_fhd.m3u8
-
-
 
 
 
@@ -80,78 +76,60 @@ http://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/o
 http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
 
+<================================================>
+
+#EXTINF:-1 group-title="EVENT 17/NOVEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 14:30 WIB Persipal BU vs Persiba Balikpapan
+#EXTVLCOPT:http-origin=https://ppdd11.playerktidfintkd.shop
+#EXTVLCOPT:http-referrer=https://ppdd11.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODk5NDQ4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PThzbDImc2twdE51bT0zcmQ%3D&_pb=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://t6nt2-cf.wooblzlhl524.com/auth%3Dee7b580a170b5d08696438591f11a8f218da1ce282f75a9ae9df1f5b7e3df616b3da13e3c90adecf9b6bdbe46d11efde701e8c0098095492e045714d91332bd1bdae7f12c808bdc4f71dad8edd86779fed98cd0d7790b4ce1d4311a189468d20a370a268a44e6dc081a476d36e8e953d91bcf487321a22784d483da1fcf24d35b3be71feb53e1c919af6646340f5a26db2e2e464834c16c7d5b8431ab72a36ec%26cid%3DmyVWzWzyg8V9Xkf6yQYgq251113%26_v%3D2%26_r%3DrhLIG9%26_vis%3D78879d648fe60a6467cbf1d4b761e46724ae20b12b034242d8818125040462a8%26_vvs%3De89d4252101bc10d4036e66dbdb987a9bc7a91e3147cad039c5c746d01e8e7d1/app/c383863.m3u8
+
+#EXTINF:-1 group-title="EVENT 17/NOVEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 19:00 WIB PSS Sleman vs Persiku Kudus
+
 <================>
 
-#EXTINF:-1 group-title="EVENT 16/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 21:00 WIB Hungaria vs Republik Irlandia
+#EXTINF:-1 group-title="EVENT 17/NOVEMBER/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 18:00 WIB Bahrain vs Somalia
+https://shorter.me/9Rs0I
+
+#EXTINF:-1 group-title="EVENT 17/NOVEMBER/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 22:00 WIB Canada vs Mozambique
+https://shorter.me/jxRUO
+
+#EXTINF:-1 group-title="EVENT 17/NOVEMBER/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 23:30 WIB Qatar vs Zimbabwe
+https://shorter.me/Kytr1
+
+#EXTINF:-1 group-title="EVENT 18/NOVEMBER/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 00:00 WIB Finland vs Andorra
+https://shorter.me/8fIXV
+
+
+<=================== EVENT 2 =============================>
+
+#EXTINF:-1 group-title="EVENT 18/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 02:45 WIB Montenegro vs Kroasia
 #EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 
-#EXTINF:-1 group-title="EVENT 16/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 21:00 WIB Portugal vs Armenia
+#EXTINF:-1 group-title="EVENT 18/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 02:45 WIB Irlandia Utara vs Luksemburg
+https://shorter.me/cZqy_
+
+#EXTINF:-1 group-title="EVENT 18/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 02:45 WIB Malta vs Polandia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
+https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8
+
+#EXTINF:-1 group-title="EVENT 18/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 02:45 WIB Republik Ceko vs Gibraltar
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
+
+#EXTINF:-1 group-title="EVENT 18/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 02:45 WIB Jerman vs Slovakia
 #EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
 
-<=================== EVENT 2 =============================>
-
-#EXTINF:-1 group-title="EVENT 17/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 00:00 WIB Ukraina vs Islandia
-https://shorter.me/273r4
-
-#EXTINF:-1 group-title="EVENT 17/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 00:00 WIB Albania vs Inggris
+#EXTINF:-1 group-title="EVENT 18/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 02:45 WIB Belanda vs Lithuania
 #EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-
-#EXTINF:-1 group-title="EVENT 17/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 00:00 WIB Serbia vs Latvia
-https://shorter.me/7AGd5
-
-#EXTINF:-1 group-title="EVENT 17/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 00:00 WIB Azerbaijan vs Perancis
-#EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
-
-#EXTINF:-1 group-title="EVENT 17/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 02:00 WIB Nigeria vs Republik Demokratik Kongo
-https://shorter.me/N4OxS
-
-#EXTINF:-1 group-title="EVENT 17/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 02:45 WIB Israel vs Moldova
-#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-
-#EXTINF:-1 group-title="EVENT 17/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 02:45 WIB Italia vs Norwegia
-#EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
-##############################MOTO GP############################
-
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/spotv2.jpg" group-title="MOTOGP VALENCIA",SPOTV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-
-#EXTINF:-1 group-title="MOTOGP VALENCIA" tvg-logo="https://iili.io/3cSp4Lu.md.png", 16:40 WIB MotoGP 2025 Round 22 - Motul Grand Prix of the Valencian
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
-https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTINF:-1 group-title="MOTOGP VALENCIA" tvg-logo="https://iili.io/3cSp4Lu.md.png", 16:40 WIB MotoGP 2025 Round 22 - Motul Grand Prix of the Valencian
-https://lb10.strmd.top/secure/wNRQsJyjPrtulxxOxYFmJFsxmNVuTrLq/echo/stream/motogp-grand-prix-of-valencia-motogp-1/1/playlist.m3u8
-
-#EXTINF:-1 group-title="MOTOGP VALENCIA" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",60 FPS
-#EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
-https://master2.s5stream.top/hls/3/stream.m3u8
-
-
-#EXTINF:-1 group-title="MOTOGP VALENCIA" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NUKLIR
-#EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-
-#EXTINF:-1 group-title="MOTOGP VALENCIA" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-baru_241118074545-459.png",NONTONGP
-#EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
-https://master3.sabunhitam.com/hls/3/stream.m3u8
 
 ##############################################
 #EXTINF:-1 group-title="LIVE VOLI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", LIVOLI FINAL 4
