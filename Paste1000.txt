@@ -6,6 +6,12 @@
 #EXTINF:-1 group-title="VOLI KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd63b1Lf9T4IL97RMzSeBjFbyS6U-o45BwYw&s",RED SPARKS VS HI PASS
 #https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0003/z2slhxocelblnicia6cm698fya1i1q5dru9a/playlist.m3u8?hdnts=st=1762944609~exp=1762977019~acl=*/z2slhxocelblnicia6cm698fya1i1q5dru9a/*~hmac=63843aa49939af1a7efcdf8637c224f7ea10f9a23c181e2ace2d894b21d9a83c
 
+#EXTINF:-1 group-title="TIMNAS" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:00 WIB Indonesia U-23 vs Mali U-23
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nguumavuongsd1RK/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f3/d0/b6/9e/f3d0b69e-ee36-4f95-8308-5a3bb328a0c7.png" group-title="LIVE NOW - FIFA U-17 World Cup™", Italy v Uzbekistan - 19:15 WIB 18-11-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
