@@ -6,15 +6,41 @@
 #EXTINF:-1 group-title="VOLI KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd63b1Lf9T4IL97RMzSeBjFbyS6U-o45BwYw&s",RED SPARKS VS HI PASS
 #https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0003/z2slhxocelblnicia6cm698fya1i1q5dru9a/playlist.m3u8?hdnts=st=1762944609~exp=1762977019~acl=*/z2slhxocelblnicia6cm698fya1i1q5dru9a/*~hmac=63843aa49939af1a7efcdf8637c224f7ea10f9a23c181e2ace2d894b21d9a83c
 
-#EXTINF:-1 group-title="TIMNAS" tvg-logo="https://i.imghippo.com/files/nnPz8688tgk.jpg", Indonesia u23 vs Mali u23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#https://wahyu1ptv.pages.dev/Indosiar-[HD].m3u8
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/28/df/34/e6/28df34e6-2ef5-4adf-bbd6-f657bc66281f.png" group-title="LIVE NOW - FIFA U-17 World Cup™", Brazil v France - 20:15 WIB 18-11-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=571a80e6-129c-4e6b-a708-cd68ddc1a722
+https://dildo.beww.pl/plus.mpd?id=571a80e6-129c-4e6b-a708-cd68ddc1a722
 
-#EXTINF:-1 group-title="TIMNAS" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:00 WIB Indonesia U-23 vs Mali U-23
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nguumavuongsd1RK/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/41/86/8a/87/41868a87-d5ba-48de-a894-fbb8790e8b07.png" group-title="LIVE NOW - FIFA U-17 World Cup™", Switzerland v Republic of Ireland - 21:30 WIB 18-11-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=21aa5338-6f3b-40b0-bacd-1e384f461f8a
+https://dildo.beww.pl/plus.mpd?id=21aa5338-6f3b-40b0-bacd-1e384f461f8a
 
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/65/99/d5/53/6599d553-ce11-4cd2-95c1-170247788391.png" group-title="LIVE NOW - FIFA U-17 World Cup™", Uganda v Burkina Faso - 19:15 WIB 18-11-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=59f950ad-5588-4efe-a4e6-645de004cfdf
+https://dildo.beww.pl/plus.mpd?id=59f950ad-5588-4efe-a4e6-645de004cfdf
 
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4a/ac/f6/9b/4aacf69b-7273-4a72-9191-0bd76106f377.png" group-title="LIVE NOW - FIFA U-17 World Cup™", Mexico v Portugal - 19:45 WIB 18-11-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=0ecf5179-445b-481b-b77d-2e6bfb62279a
+https://dildo.beww.pl/plus.mpd?id=0ecf5179-445b-481b-b77d-2e6bfb62279a
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1f/e0/c1/5f/1fe0c15f-3e0f-4958-bb21-2eef1fe115f4.jpg" group-title="LIVE NOW - FIFA U-17 World Cup™", Georgia v Germany - 23:50 WIB 18-11-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=53c706cf-4fc3-4141-af90-87ffb4001076
+https://dildo.beww.pl/plus.mpd?id=53c706cf-4fc3-4141-af90-87ffb4001076
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a7/70/63/a5/a77063a5-81a5-43b5-a1e5-429fe628d465.png" group-title="LIVE NOW - FIFA U-17 World Cup™", Netherlands v Republic of Ireland - 00:50 WIB 19-11-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dildo.beww.pl/plusdrm.php?id=191dc2fb-3edf-47e1-bee8-17462d501ff9
+https://dildo.beww.pl/plus.mpd?id=191dc2fb-3edf-47e1-bee8-17462d501ff9
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f3/d0/b6/9e/f3d0b69e-ee36-4f95-8308-5a3bb328a0c7.png" group-title="LIVE NOW - FIFA U-17 World Cup™", Italy v Uzbekistan - 19:15 WIB 18-11-2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
