@@ -6,6 +6,8 @@
 #EXTINF:-1 group-title="VOLI KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd63b1Lf9T4IL97RMzSeBjFbyS6U-o45BwYw&s",RED SPARKS VS HI PASS
 #https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0003/z2slhxocelblnicia6cm698fya1i1q5dru9a/playlist.m3u8?hdnts=st=1762944609~exp=1762977019~acl=*/z2slhxocelblnicia6cm698fya1i1q5dru9a/*~hmac=63843aa49939af1a7efcdf8637c224f7ea10f9a23c181e2ace2d894b21d9a83c
 
+#EXTINF:-1 group-title="JUNIOR GP" tvg-logo="https://akcdn.detik.net.id/visual/2025/10/30/veda-ega-pratama-1761796110212_169.jpeg?w=1200",VEDA
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763924216/ei/mAQjaZjvAY-mvcAPos3wkQo/ip/39.194.1.141/id/vy4ogPuyv9g.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51673643/txs/51673643%2C51673644/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AdEuB5QtBRyCXoLl7BVENbgkWZwCP03aKhw_26mEv334Chv6RYIyAHSmkNHRBUNZ2lRG_0QwyA/spc/6b0G_CU8dpV48Oz6qYW3-JdpQHXz6zMlz28gZHqLyG_JQw8s-gUE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOZMar7HiNDMyHnwJlxh3F4-NEUBjWzmPNFGrNeN_ax6AiBnZnQCBTj-SGOOUx9zKVs5-kfBGqHvgTl94tUCSnGEmA%3D%3D/file/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://asset-2.tribunnews.com/kalteng/foto/bank/originals/Australia-Open-2025.jpg" group-title="BWF AUSTRALIA OPEN",FINAL
