@@ -31,9 +31,9 @@ http://supersonictv.live:8080/Allen123/Allen123/7627
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
 #https://rr4---sn-8pxuuxa-on.applecdnstore.com/live_event_tnt_sports_1_hd/index.m3u8
 
-#EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://iili.io/FtSr5Mb.jpg", 19:30 WIB Tottenham Hotspur vs Manchester United
+#EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://iili.io/FtSr5Mb.jpg",EPL
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#https://ckhot-179939170.cdnfree.pro/live/momsd2RK/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@momsd1RK/chunklist.m3u8
 
 #EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
