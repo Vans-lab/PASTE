@@ -32,10 +32,10 @@
 #https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCfDYkvS/images-4.jpg" group-title="UNITED DAY",Star Sport Select
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
+#http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
 
 #EXTINF:-1 tvg-id="" group-title="UNITED DAY" tvg-name="DAZN 1 Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/800px-Premier_League_Logo.svg.png",EPL 1
-http://supersonictv.live:8080/Allen123/Allen123/7627
+#http://supersonictv.live:8080/Allen123/Allen123/7627
 
 #EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://iili.io/FtSr5Mb.jpg", 19:30 WIB Tottenham Hotspur vs Manchester United
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
