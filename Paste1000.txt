@@ -52,68 +52,99 @@
 
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 2/DESEMBER/2025" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/11/bb/f7/16/11bbf716-160d-474c-a086-d2c8e9455216.jpg?width=330", 19:30 WIB Brazil vs Japan
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
+#EXTINF:-1 group-title="EVENT 3/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Kjvrv9A5J_jXmjc3Ae_lOwADbacAfctcyg&s", 19:00 WIB Aljazair vs Sudan
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
+
+#EXTINF:-1 group-title="EVENT 3/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Kjvrv9A5J_jXmjc3Ae_lOwADbacAfctcyg&s", 21:30 WIB Irak vs Bahrain
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
+
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Kjvrv9A5J_jXmjc3Ae_lOwADbacAfctcyg&s", 00:00 WIB Jordania vs Uni Emirat Arab
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 3/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx5GLwa6CelP7F7ZJXAk-5J_nCPgWNH8bOww&s", 21:00 WIB Atalanta vs Genoa
+https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx5GLwa6CelP7F7ZJXAk-5J_nCPgWNH8bOww&s", 00:00 WIB Napoli vs Cagliari
+https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx5GLwa6CelP7F7ZJXAk-5J_nCPgWNH8bOww&s", 03:00 WIB Internazionale vs Venezia
+https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+
+<================>
+
+<=================== EVENT 2 =============================>
+
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 02:30 WIB Burnley vs Crystal Palace
+https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 02:30 WIB Brighton & Hove Albion vs Aston Villa
+https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 02:30 WIB Arsenal vs Brentford
+https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 02:30 WIB Wolverhampton Wanderers vs Nottingham Forest
+https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 03:15 WIB Liverpool vs Sunderland
+https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 03:15 WIB Leeds United vs Chelsea
+https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", 01:00 WIB Athletic Club vs Real Madrid
+https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNvHLMF5m8ZfGgWSD_P5W_d3kP2cOI3mW-g&s", 00:00 WIB Bochum vs Stuttgart
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=LC7Z8e6BvRAKQ2v2Z_r3ZGly4tivAW7nYCHlRsBw5CXQBbS8iLpP2nEGv84VLSI_CtXo0zgdQaCowvmIAOfJiujdWHVp-m86TbqIHeEarnI=
-https://d7pd9oqdl4d44.cloudfront.net/2025_12_01_16_41_52_135a950f-3c69-4982-8705-95f71760ff8c/PROD_CMAF_CENC/index-dash.mpd
-
-<================================================>
-
-#EXTINF:-1 group-title="EVENT 2/DESEMBER/2025" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a3/cc/80/84/a3cc8084-8bdc-411e-b646-fd61d6f6bcec.jpg?width=330", 19:30 WIB Spain W vs Morocco W
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 2/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Kjvrv9A5J_jXmjc3Ae_lOwADbacAfctcyg&s", 19:00 WIB Maroko vs Comoros
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
-
-#EXTINF:-1 group-title="EVENT 2/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Kjvrv9A5J_jXmjc3Ae_lOwADbacAfctcyg&s", 21:30 WIB Mesir vs Kuwait
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
-
-#EXTINF:-1 group-title="EVENT 3/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Kjvrv9A5J_jXmjc3Ae_lOwADbacAfctcyg&s", 00:00 WIB Arab Saudi vs Oman
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 2/DESEMBER/2025" tvg-logo="https://shorter.me/87PxH", 20:30 WIB Ajax vs Groningen
-#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 3/DESEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 02:30 WIB AFC Bournemouth vs Everton
-https://drive.google.com/uc?export=download&id=117qXM3z-86sXISJbsHlZjiw137nd4qhB&usp
-
-#EXTINF:-1 group-title="EVENT 3/DESEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 02:30 WIB WIB Fulham vs Manchester City
-https://drive.google.com/uc?export=download&id=117qXM3z-86sXISJbsHlZjiw137nd4qhB&usp
-
-#EXTINF:-1 group-title="EVENT 3/DESEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 3:15 WIB Newcastle United vs Tottenham Hotspur
-https://drive.google.com/uc?export=download&id=117qXM3z-86sXISJbsHlZjiw137nd4qhB&usp
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 3/DESEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", 03:00 WIB Barcelona vs Atlético Madrid
-#EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 3/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNvHLMF5m8ZfGgWSD_P5W_d3kP2cOI3mW-g&s", 00:00 WIB Borussia M'gladbach vs St. Pauli
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 3/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNvHLMF5m8ZfGgWSD_P5W_d3kP2cOI3mW-g&s", 00:00 WIB Hertha BSC vs Kaiserslautern
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNvHLMF5m8ZfGgWSD_P5W_d3kP2cOI3mW-g&s", 00:00 WIB Freiburg vs Darmstadt 98
+https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
 
-#EXTINF:-1 group-title="EVENT 3/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNvHLMF5m8ZfGgWSD_P5W_d3kP2cOI3mW-g&s", 03:00 WIB Borussia Dortmund vs Bayer Leverkusen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
-https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNvHLMF5m8ZfGgWSD_P5W_d3kP2cOI3mW-g&s", 02:45 WIB Union Berlin vs Bayern München
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNvHLMF5m8ZfGgWSD_P5W_d3kP2cOI3mW-g&s", 02:45 WIB Hamburger SV vs Holstein Kiel
+https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzVCfE0vbi7wiefIkpuh2YHyROUD7yL5Pcw&s", 02:00 WIB Talavera CF vs Málaga
+https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzVCfE0vbi7wiefIkpuh2YHyROUD7yL5Pcw&s", 03:00 WIB Antoniano vs Villarreal
+https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzVCfE0vbi7wiefIkpuh2YHyROUD7yL5Pcw&s", 03:00 WIB Torrent vs Real Betis
+https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzVCfE0vbi7wiefIkpuh2YHyROUD7yL5Pcw&s", 03:00 WIB Reddis vs Real Sociedad
+https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzVCfE0vbi7wiefIkpuh2YHyROUD7yL5Pcw&s", 03:00 WIB Ourense CF vs Girona
+https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzVCfE0vbi7wiefIkpuh2YHyROUD7yL5Pcw&s", 03:00 WIB Cieza vs Levante
+https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+
 
 
 
