@@ -23,6 +23,12 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://iili.io/FtSr5Mb.jpg", 04:00 WITA Manchester United vs West Ham United
 https://hls.bitiyu9.cc/SPi2qNwIkIsDnscDxPG0yrBUL2pKQ2JqK0RGRTZWa0Q3MlgxeUlobkVMWXRNOGRKekZFWFp3SHhlSno3c3M1blNXSHkzVnl0bE8rUUdTSSGZxRGwxTk83TnJQc2lhOhgrI0tnw-6MvYM2f2BjWsSA7FrFm1u8uotkTnd07871d986ef654b88377598b95ca88c28eed9a21e12dc45a73b24ffb61f8b500e5a7e192fdf6a1f1ec9166e4b72ca094b20401aef2318605e064f38097f973fb1001065bc6a16b7f72352c7780a8be66fc3098d883d4bf08d29c509ad54d0165322951989b3b4752235a99639eef6a130a03dbe3f2e7c2f1fd3e4541ba965bd8fecc92e8fde3721e230a314b4504fb8e2232b5b3d0765d77dc2c70d4b7c6abcf9f4a0d7add788f9d8310f6f5f58b3cee7c4e919275369e63da65d301684a798d70fac09c6add7190f68bb6b6e5df1/d396bd7ea3cd/hd-en-6MuT7JxzNDE2ycMXqR.m3u8?token=iktv2869109a908e0a10ba8ab04481b9f317e61f5fc21998140c2d49219a750ac4504cbbb216e88aea572c7c82bf66f7c231f1cb530aeb02015e872774eddb3722a090da65aabdcd858f3ca03807dbc20e5dd6dc694e7f92bb3ef35dff952cbe1cc8ed5994cfcff5fc8b90081b1f13564b61%%
 
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6a0b314c42279f6bf01a5262247901e5-thumbnail.jpg" group-title="UNITED DAY",Manchester United vs. West Ham United
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/epl_mun/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-name="  group-title="UNITED DAY",LIVE 3 USA Network 1✅
 ##https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWM5OGZjM2FkNDI1LTc2MzgtMjMwNC00OTUyLWRmZGVhYzlh/master.m3u8|referer=https://www.vidembed.re/
 https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8|referer=https://webxzplay.cfd/
