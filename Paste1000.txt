@@ -53,291 +53,96 @@ https://rr4---sn-8pxuuxa-on.applecdnstore.com/UK_SKY_SPORTS_MAIN_EVENT_TV/index.
 #EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
 #http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
 
-<================================================>
-
-#EXTINF:-1 tvg-id="" tvg-name="00:15 Wib Istanbul Efes vs Real Madrid" group-title="Live Pertandingan", 00:15 Wib Istanbul Efes vs Real Madrid
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:00 Wib Sarakilis vs Maccabi Tel Aviv" group-title="Live Pertandingan", 01:00 Wib Sarakilis vs Maccabi Tel Aviv
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:00 Wib Sabadell vs Deportivo La Coruña" group-title="Live Pertandingan", 01:00 Wib Sabadell vs Deportivo La Coruña
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:00 Wib Leganes vs Albacete" group-title="Live Pertandingan", 01:00 Wib Leganes vs Albacete
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:00 Wib Balearics vs Espanyol" group-title="Live Pertandingan", 01:00 Wib Balearics vs Espanyol
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:00 Wib Real Avila vs Rayo Vallecano" group-title="Live Pertandingan", 01:00 Wib Real Avila vs Rayo Vallecano
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:30 Wib Monaco vs Paris" group-title="Live Pertandingan", 01:30 Wib Monaco vs Paris
-https://play7ba.peodlc.com/live/201_4318911_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:00 Wib Bonferredina vs Racing Santander" group-title="Live Pertandingan", 02:00 Wib Bonferredina vs Racing Santander
-https://play7ba.peodlc.com/live/202_4700787_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:05 Wib Hapoel Tel Aviv vs Aswil" group-title="Live Pertandingan", 02:05 Wib Hapoel Tel Aviv vs Aswil
-https://play7ba.peodlc.com/live/201_4318910_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:15 Wib Olympiacos vs Fenerbahce" group-title="Live Pertandingan", 02:15 Wib Olympiacos vs Fenerbahce
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:18 Wib Southampton vs Birmingham" group-title="Live Pertandingan", 02:18 Wib Southampton vs Birmingham
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:45 Wib Partizan Belgrade vs Bayern Munich" group-title="Live Pertandingan", 02:45 Wib Partizan Belgrade vs Bayern Munich
-https://play7ba.peodlc.com/live/201_4318909_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:00 Wib Lazio vs Ac Milan" group-title="Live Pertandingan", 03:00 Wib Lazio vs Ac Milan
-https://play7ba.peodlc.com/live/202_4358296_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:00 Wib Manchester United vs West Ham United" group-title="Live Pertandingan", 03:00 Wib Manchester United vs West Ham United
-https://play7ba.peodlc.com/live/202_4314337_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:00 Wib Zaragoza vs Burgos" group-title="Live Pertandingan", 03:00 Wib Zaragoza vs Burgos
-https://play7ba.peodlc.com/live/202_4700788_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:00 Wib St Anders vs Celta Vigo" group-title="Live Pertandingan", 03:00 Wib St Anders vs Celta Vigo
-https://play7ba.peodlc.com/live/202_4700789_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:00 Wib Extremadura vs Sevilla" group-title="Live Pertandingan", 03:00 Wib Extremadura vs Sevilla
-https://play7ba.peodlc.com/live/202_4700790_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:00 Wib Cartagena vs Valencia" group-title="Live Pertandingan", 03:00 Wib Cartagena vs Valencia
-https://play7ba.peodlc.com/live/202_4700791_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="04:00 Wib Tenerife vs Granada" group-title="Live Pertandingan", 04:00 Wib Tenerife vs Granada
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="05:30 Wib Cruzeiro vs Botafogo" group-title="Live Pertandingan", 05:30 Wib Cruzeiro vs Botafogo
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="06:30 Wib Atletico Nacional De Medellin vs Independiente Medellin" group-title="Live Pertandingan", 06:30 Wib Atletico Nacional De Medellin vs Independiente Medellin
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:00 Wib Celtics vs Wizards" group-title="Live Pertandingan", 07:00 Wib Celtics vs Wizards
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:00 Wib Warriors vs 76ers" group-title="Live Pertandingan", 07:00 Wib Warriors vs 76ers
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:30 Wib Timberwolves vs Pelicans" group-title="Live Pertandingan", 07:30 Wib Timberwolves vs Pelicans
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:30 Wib Lakers vs Raptors" group-title="Live Pertandingan", 07:30 Wib Lakers vs Raptors
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:30 Wib Jazz vs Nets" group-title="Live Pertandingan", 07:30 Wib Jazz vs Nets
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:35 Wib Barranquilla Youth vs Cali America" group-title="Live Pertandingan", 08:35 Wib Barranquilla Youth vs Cali America
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:30 Wib Sichuan vs Ningbo" group-title="Live Pertandingan", 14:30 Wib Sichuan vs Ningbo
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:35 Wib Macarthur Fc vs Melbourne Victory" group-title="Live Pertandingan", 15:35 Wib Macarthur Fc vs Melbourne Victory
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="16:00 Wib Jiangsu vs Hefei Storm" group-title="Live Pertandingan", 16:00 Wib Jiangsu vs Hefei Storm
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="16:00 Wib Changsha Yongsheng vs Jilin" group-title="Live Pertandingan", 16:00 Wib Changsha Yongsheng vs Jilin
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:35 Wib Perth Glory vs Western Sydney Ramblers" group-title="Live Pertandingan", 17:35 Wib Perth Glory vs Western Sydney Ramblers
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:30 Wib Hong Kong Golden Bulls vs Tong Xi" group-title="Live Pertandingan", 18:30 Wib Hong Kong Golden Bulls vs Tong Xi
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:00 Wib Zhejiang vs Shenzhen" group-title="Live Pertandingan", 19:00 Wib Zhejiang vs Shenzhen
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:00 Wib Guangzhou vs Guangdong" group-title="Live Pertandingan", 19:00 Wib Guangzhou vs Guangdong
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:00 Wib Grozny vs Orenburg Gassovik" group-title="Live Pertandingan", 23:00 Wib Grozny vs Orenburg Gassovik
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="00:00 Wib Galatasaray vs Samsunspor" group-title="Live Pertandingan", 00:00 Wib Galatasaray vs Samsunspor
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="00:30 Wib Prussia Münster vs Hannover 96" group-title="Live Pertandingan", 00:30 Wib Prussia Münster vs Hannover 96
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="00:30 Wib Dusseldorf vs Schalke 04" group-title="Live Pertandingan", 00:30 Wib Dusseldorf vs Schalke 04
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:00 Wib Fredericia vs Odense" group-title="Live Pertandingan", 01:00 Wib Fredericia vs Odense
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:00 Wib Brest vs Monaco" group-title="Live Pertandingan", 01:00 Wib Brest vs Monaco
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:30 Wib Galati Steel vs Slobozia" group-title="Live Pertandingan", 01:30 Wib Galati Steel vs Slobozia
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:00 Wib Red Star Belgrade vs Barcelona" group-title="Live Pertandingan", 02:00 Wib Red Star Belgrade vs Barcelona
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:00 Wib Sbv Elite vs Groningen" group-title="Live Pertandingan", 02:00 Wib Sbv Elite vs Groningen
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:15 Wib Panathinaikos vs Valencia" group-title="Live Pertandingan", 02:15 Wib Panathinaikos vs Valencia
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:30 Wib Baskonia vs Milan Armani" group-title="Live Pertandingan", 02:30 Wib Baskonia vs Milan Armani
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:30 Wib Bologna vs Dubai" group-title="Live Pertandingan", 02:30 Wib Bologna vs Dubai
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:30 Wib Mainz vs Borussia Monchengladbach" group-title="Live Pertandingan", 02:30 Wib Mainz vs Borussia Monchengladbach
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:45 Wib Lalouvière vs Dende" group-title="Live Pertandingan", 02:45 Wib Lalouvière vs Dende
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:00 Wib Hull City vs Middlesbrough" group-title="Live Pertandingan", 03:00 Wib Hull City vs Middlesbrough
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:00 Wib Lille vs Marseille" group-title="Live Pertandingan", 03:00 Wib Lille vs Marseille
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:00 Wib Real Oviedo vs Mallorca" group-title="Live Pertandingan", 03:00 Wib Real Oviedo vs Mallorca
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:15 Wib Benfica vs Sporting Cp" group-title="Live Pertandingan", 03:15 Wib Benfica vs Sporting Cp
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="06:00 Wib Palestinians vs Ouachibaatar" group-title="Live Pertandingan", 06:00 Wib Palestinians vs Ouachibaatar
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:00 Wib Heat vs Magic" group-title="Live Pertandingan", 07:00 Wib Heat vs Magic
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:00 Wib Lakers vs Celtics" group-title="Live Pertandingan", 07:00 Wib Lakers vs Celtics
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:30 Wib Hornets vs Raptors" group-title="Live Pertandingan", 07:30 Wib Hornets vs Raptors
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:30 Wib Jazz vs Knicks" group-title="Live Pertandingan", 07:30 Wib Jazz vs Knicks
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:30 Wib Trail Blazers vs Pistons" group-title="Live Pertandingan", 07:30 Wib Trail Blazers vs Pistons
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:30 Wib Spurs vs Cavaliers" group-title="Live Pertandingan", 07:30 Wib Spurs vs Cavaliers
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:30 Wib Nuggets vs Hawks" group-title="Live Pertandingan", 07:30 Wib Nuggets vs Hawks
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:00 Wib Clippers vs Grizzlies" group-title="Live Pertandingan", 08:00 Wib Clippers vs Grizzlies
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:00 Wib 76ers vs Bucks" group-title="Live Pertandingan", 08:00 Wib 76ers vs Bucks
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:00 Wib Suns vs Rockets" group-title="Live Pertandingan", 08:00 Wib Suns vs Rockets
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:00 Wib Pacers vs Bulls" group-title="Live Pertandingan", 08:00 Wib Pacers vs Bulls
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="09:30 Wib Mavericks vs Thunder" group-title="Live Pertandingan", 09:30 Wib Mavericks vs Thunder
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="11:00 Wib Auckland Fc vs Wellington Phoenix" group-title="Live Pertandingan", 11:00 Wib Auckland Fc vs Wellington Phoenix
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 Wib Tokyo Fc vs Niigata Swans" group-title="Live Pertandingan", 12:00 Wib Tokyo Fc vs Niigata Swans
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 Wib Gamba Osaka vs Tokyo Green" group-title="Live Pertandingan", 12:00 Wib Gamba Osaka vs Tokyo Green
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 Wib Osaka Sakura vs Yokohama Fc" group-title="Live Pertandingan", 12:00 Wib Osaka Sakura vs Yokohama Fc
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 Wib Shimizu Heartbeat vs Okayama Green Pheasant" group-title="Live Pertandingan", 12:00 Wib Shimizu Heartbeat vs Okayama Green Pheasant
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 Wib Kashima Antlers vs Yokohama F. Marinos" group-title="Live Pertandingan", 12:00 Wib Kashima Antlers vs Yokohama F. Marinos
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 Wib Urawa Red Diamonds vs Kawasaki Frontale" group-title="Live Pertandingan", 12:00 Wib Urawa Red Diamonds vs Kawasaki Frontale
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 Wib Nagoya Grampus vs Fukuoka Hornets" group-title="Live Pertandingan", 12:00 Wib Nagoya Grampus vs Fukuoka Hornets
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 Wib Sanfrecce Hiroshima vs Shonan Marine" group-title="Live Pertandingan", 12:00 Wib Sanfrecce Hiroshima vs Shonan Marine
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 Wib Kashiwa Reysol vs Machida Zevia" group-title="Live Pertandingan", 12:00 Wib Kashiwa Reysol vs Machida Zevia
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 Wib Kyoto Phoenix vs Vissel Kobe" group-title="Live Pertandingan", 12:00 Wib Kyoto Phoenix vs Vissel Kobe
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13:00 Wib Newcastle Jets vs Melbourne City" group-title="Live Pertandingan", 13:00 Wib Newcastle Jets vs Melbourne City
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13:00 Wib Gwangju Fc vs Jeonbuk Hyundai" group-title="Live Pertandingan", 13:00 Wib Gwangju Fc vs Jeonbuk Hyundai
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:30 Wib Lokomotiv Sofia vs Botev Plovdiv" group-title="Live Pertandingan", 17:30 Wib Lokomotiv Sofia vs Botev Plovdiv
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:00 Wib Lamphun Warriors vs Rayong" group-title="Live Pertandingan", 18:00 Wib Lamphun Warriors vs Rayong
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:00 Wib Rostov vs Rubin Kazan" group-title="Live Pertandingan", 18:00 Wib Rostov vs Rubin Kazan
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:00 Wib Beijing Guoan vs Henan" group-title="Live Pertandingan", 18:00 Wib Beijing Guoan vs Henan
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:30 Wib Buriram United vs Kanchanaburi Dynamics" group-title="Live Pertandingan", 18:30 Wib Buriram United vs Kanchanaburi Dynamics
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:30 Wib Eyupspor vs Kayserispor" group-title="Live Pertandingan", 18:30 Wib Eyupspor vs Kayserispor
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:00 Wib Paderborn vs Eversborg" group-title="Live Pertandingan", 19:00 Wib Paderborn vs Eversborg
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:00 Wib Kaiserslautern vs Dresden" group-title="Live Pertandingan", 19:00 Wib Kaiserslautern vs Dresden
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:00 Wib Muangthong United vs Chonburi" group-title="Live Pertandingan", 19:00 Wib Muangthong United vs Chonburi
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:00 Wib Bochum vs Bielefeld" group-title="Live Pertandingan", 19:00 Wib Bochum vs Bielefeld
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:30 Wib Prashu Keli vs Ayutthaya United" group-title="Live Pertandingan", 19:30 Wib Prashu Keli vs Ayutthaya United
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:30 Wib Watford vs Norwich" group-title="Live Pertandingan", 19:30 Wib Watford vs Norwich
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:30 Wib Aston Villa vs Arsenal" group-title="Live Pertandingan", 19:30 Wib Aston Villa vs Arsenal
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:30 Wib Charlton vs Portsmouth" group-title="Live Pertandingan", 19:30 Wib Charlton vs Portsmouth
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:30 Wib Derby County vs Leicester City" group-title="Live Pertandingan", 19:30 Wib Derby County vs Leicester City
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 Wib Lokomotiv Pvdiv vs Alda" group-title="Live Pertandingan", 20:00 Wib Lokomotiv Pvdiv vs Alda
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 Wib Andorra Fc vs Almeria" group-title="Live Pertandingan", 20:00 Wib Andorra Fc vs Almeria
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 Wib Villarreal vs Getafe" group-title="Live Pertandingan", 20:00 Wib Villarreal vs Getafe
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:30 Wib Spartak Moscow vs Dynamo Moscow" group-title="Live Pertandingan", 20:30 Wib Spartak Moscow vs Dynamo Moscow
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="21:00 Wib Konyaspor vs Rizesburg" group-title="Live Pertandingan", 21:00 Wib Konyaspor vs Rizesburg
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="21:00 Wib Sassuolo vs Fiorentina" group-title="Live Pertandingan", 21:00 Wib Sassuolo vs Fiorentina
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-
-==========sea games==========
-#EXTINF:-1 group-logo="" group-title="SEA GAMES" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/998/598998-LOGO-m.png",Sea Games 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d56316d3d77148d18bd1f23138247207:340620d36e8e8209a7608154ff0c96d4
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/index.mpd
-#EXTINF:-1 group-logo="" group-title="SEA GAMES" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/199/598199-LOGO-m.png",Sea Games 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d19fdcc1de0245edbbfcfaa31b3385ed:d0bfa058d6f3d7c45c5244820dbda8f3
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
-#EXTINF:-1 group-logo="" group-title="SEA GAMES" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/201/598201-LOGO-m.png",Sea Games 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
-#EXTINF:-1 group-logo="" group-title="SEA GAMES" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/202/598202-LOGO-m.png",Sea Games 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e02fc4146be34c2db75a847a6f5e95e9:a25a6118776646a690b2931609264bd5
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/da31f135bd6c4fe0b7dc4262436277fb/index.mpd
-
-
-
 <=================== EVENT 1 =============================>
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB IBK W vs Daejeon KGC W
+#EXTINF:-1 group-title="EVENT 5/DESEMBER/2025" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB GS Caltex W vs Pepper Savings Bank W
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://m.sports.naver.com
-#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20251204022F81
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0001/b9wnghnnlwmwaixbfl0vjkniq16m7huyhjyo/playlist.m3u8?hdnts=st=1764841729~exp=1764874139~acl=*/b9wnghnnlwmwaixbfl0vjkniq16m7huyhjyo/*~hmac=68946b6eb970c716a2085b47e48ca3ad775ff9644e116d73a246835ff13bfbaa
+#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20251205022F83
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/6oegf1pi9xrdbpojnd1tmj5d1356l4h0s38b/playlist.m3u8?hdnts=st=1764928179~exp=1764960589~acl=*/6oegf1pi9xrdbpojnd1tmj5d1356l4h0s38b/*~hmac=f5525c942f7926bd4f0e832d3f6d8d21e994dd1d0188a78af70c07af47e34061
 
-#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB Woori vs KAL Jumbos
+#EXTINF:-1 group-title="EVENT 5/DESEMBER/2025" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB Kepco vs Rush & Cash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://m.sports.naver.com
-#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20251204022M80
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0003/rdyulbqosqlqat6lev8iv95vv34c04izd16a/playlist.m3u8?hdnts=st=1764841798~exp=1764874208~acl=*/rdyulbqosqlqat6lev8iv95vv34c04izd16a/*~hmac=6b05bff67c9eab912409eeb7248446a8bce5f46f87915e25ec8cd7e817df66f1
+#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20251205022M82
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0003/kpemt9u3yeiivcrqhuqxkga4m96z76fnom5g/playlist.m3u8?hdnts=st=1764928271~exp=1764960681~acl=*/kpemt9u3yeiivcrqhuqxkga4m96z76fnom5g/*~hmac=742a992fed63b13f5868695aff7d26220d6be75a7a3c3b4aff8eb68e2671310e
+
+
+<================================================>
+#EXTINF:-1 group-title="EVENT 5/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTacwmsLJsT6ppmXQanLUlbP-fyu8EkELQDNg&s", 18:30 WIB Shan United VS Thep Xanh Nam Dinh FC 
+<================>
+
+#EXTINF:-1 group-title="EVENT 5/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyHCxkUx20n-3l99U4G7SmmcdGcXFItHELEQ&s", 18:00 WIB Myanmar U22 VS Philippines U22 
+https://shorter.me/Jqrmh
 
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTacwmsLJsT6ppmXQanLUlbP-fyu8EkELQDNg&s", 18:30 WIB Shan United VS Thep Xanh Nam Dinh FC 
-https://shorter.me/pq5E4
+#EXTINF:-1 group-title="EVENT 5/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB PERSIB vs Borneo FC Samarinda
+https://shorter.me/GBXd0
 
-#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTacwmsLJsT6ppmXQanLUlbP-fyu8EkELQDNg&s", 19:00 WIB Svay Rieng FC VS Johor Darul Ta'zim FC
-https://shorter.me/pYjDi
+#EXTINF:-1 group-title="EVENT 5/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB PERSIB vs Borneo FC Samarinda
+https://shorter.me/8LFJ_
 
-#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTacwmsLJsT6ppmXQanLUlbP-fyu8EkELQDNg&s", 19:00 WIB Bangkok United FC VS Lion City Sailors
+<================>
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="EVENT 5/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRliJBemTreOG8p9FLXmRgBLDHPDzJXfBiUFg&s",  15:35 WIB Macarthur vs Melbourne Victory
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="EVENT 5/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRliJBemTreOG8p9FLXmRgBLDHPDzJXfBiUFg&s",  17:45 WIB Perth Glory vs Western Sydney Wanderers
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyHCxkUx20n-3l99U4G7SmmcdGcXFItHELEQ&s", 18:30 WIB Indonesia Women VS Thailand Women
-https://shorter.me/dPJP1
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Kjvrv9A5J_jXmjc3Ae_lOwADbacAfctcyg&s", 21:30 WIB Palestina vs Tunisia
+#EXTINF:-1 group-title="EVENT 5/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Kjvrv9A5J_jXmjc3Ae_lOwADbacAfctcyg&s", 21:30 WIB Oman vs Maroko
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
 
-#EXTINF:-1 group-title="EVENT 5/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Kjvrv9A5J_jXmjc3Ae_lOwADbacAfctcyg&s", 00:00 WIB Syria vs Qatar
+#EXTINF:-1 group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Kjvrv9A5J_jXmjc3Ae_lOwADbacAfctcyg&s", 01:30 WIB Comoros vs Arab Saudi
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
 
 <================>
 
 <=================== EVENT 2 =============================>
 
-#EXTINF:-1 group-title="EVENT 5/DESEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 03:00 WIB Manchester United vs West Ham United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+<================>
+
+#EXTINF:-1 group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", 03:00 WIB Real Oviedo vs Mallorca
+#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 02:30 WIB Mainz 05 vs Borussia M'gladbach
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://iili.io/FDOiPI4.jpg", 01:00 WIB Brest vs Monaco
+
+#EXTINF:-1 group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://iili.io/FDOiPI4.jpg", 03:00 WIB Lille vs Olympique Marseille
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHCwTsEHAAf1RIQXpXEyh-eNO-VEPv2XXxFQ&s", 02:30 WIB Salford City vs Leyton Orient
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 5/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx5GLwa6CelP7F7ZJXAk-5J_nCPgWNH8bOww&s", 00:00 WIB Bologna vs Parma
-https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
-
-#EXTINF:-1 group-title="EVENT 5/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx5GLwa6CelP7F7ZJXAk-5J_nCPgWNH8bOww&s", 03:00 WIB Lazio vs Milan
-https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
-
-<================>
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 
 
 
