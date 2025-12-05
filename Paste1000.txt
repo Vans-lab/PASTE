@@ -18,33 +18,33 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-\
+#https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
 #EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://iili.io/FtSr5Mb.jpg", 04:00 WITA Manchester United vs West Ham United
-https://hls.bitiyu9.cc/SPi2qNwIkIsDnscDxPG0yrBUL2pKQ2JqK0RGRTZWa0Q3MlgxeUlobkVMWXRNOGRKekZFWFp3SHhlSno3c3M1blNXSHkzVnl0bE8rUUdTSSGZxRGwxTk83TnJQc2lhOhgrI0tnw-6MvYM2f2BjWsSA7FrFm1u8uotkTnd07871d986ef654b88377598b95ca88c28eed9a21e12dc45a73b24ffb61f8b500e5a7e192fdf6a1f1ec9166e4b72ca094b20401aef2318605e064f38097f973fb1001065bc6a16b7f72352c7780a8be66fc3098d883d4bf08d29c509ad54d0165322951989b3b4752235a99639eef6a130a03dbe3f2e7c2f1fd3e4541ba965bd8fecc92e8fde3721e230a314b4504fb8e2232b5b3d0765d77dc2c70d4b7c6abcf9f4a0d7add788f9d8310f6f5f58b3cee7c4e919275369e63da65d301684a798d70fac09c6add7190f68bb6b6e5df1/d396bd7ea3cd/hd-en-6MuT7JxzNDE2ycMXqR.m3u8?token=iktv2869109a908e0a10ba8ab04481b9f317e61f5fc21998140c2d49219a750ac4504cbbb216e88aea572c7c82bf66f7c231f1cb530aeb02015e872774eddb3722a090da65aabdcd858f3ca03807dbc20e5dd6dc694e7f92bb3ef35dff952cbe1cc8ed5994cfcff5fc8b90081b1f13564b61%%
+#https://hls.bitiyu9.cc/SPi2qNwIkIsDnscDxPG0yrBUL2pKQ2JqK0RGRTZWa0Q3MlgxeUlobkVMWXRNOGRKekZFWFp3SHhlSno3c3M1blNXSHkzVnl0bE8rUUdTSSGZxRGwxTk83TnJQc2lhOhgrI0tnw-6MvYM2f2BjWsSA7FrFm1u8uotkTnd07871d986ef654b88377598b95ca88c28eed9a21e12dc45a73b24ffb61f8b500e5a7e192fdf6a1f1ec9166e4b72ca094b20401aef2318605e064f38097f973fb1001065bc6a16b7f72352c7780a8be66fc3098d883d4bf08d29c509ad54d0165322951989b3b4752235a99639eef6a130a03dbe3f2e7c2f1fd3e4541ba965bd8fecc92e8fde3721e230a314b4504fb8e2232b5b3d0765d77dc2c70d4b7c6abcf9f4a0d7add788f9d8310f6f5f58b3cee7c4e919275369e63da65d301684a798d70fac09c6add7190f68bb6b6e5df1/d396bd7ea3cd/hd-en-6MuT7JxzNDE2ycMXqR.m3u8?token=iktv2869109a908e0a10ba8ab04481b9f317e61f5fc21998140c2d49219a750ac4504cbbb216e88aea572c7c82bf66f7c231f1cb530aeb02015e872774eddb3722a090da65aabdcd858f3ca03807dbc20e5dd6dc694e7f92bb3ef35dff952cbe1cc8ed5994cfcff5fc8b90081b1f13564b61%%
 
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6a0b314c42279f6bf01a5262247901e5-thumbnail.jpg" group-title="UNITED DAY",Manchester United vs. West Ham United
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/epl_mun/tracks-v1a1/mono.ts.m3u8
+#https://gg.poocloud.in/epl_mun/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="  group-title="UNITED DAY",LIVE 3 USA Network 1✅
 ##https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWM5OGZjM2FkNDI1LTc2MzgtMjMwNC00OTUyLWRmZGVhYzlh/master.m3u8|referer=https://www.vidembed.re/
-https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8|referer=https://webxzplay.cfd/
+#https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8|referer=https://webxzplay.cfd/
 
 #EXTINF: -1  group-title="UNITED DAY",LIVE 5 HUB PREMIER 1
-http://mag.redmytv.com/bO3trtivgYaMDwr/l4ptb6R31K/1289436
+#http://mag.redmytv.com/bO3trtivgYaMDwr/l4ptb6R31K/1289436
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCfDYkvS/images-4.jpg" group-title="UNITED DAY",Star Sport Select
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
+#http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
 
 #EXTINF:-1 tvg-id="" group-title="UNITED DAY" tvg-name="DAZN 1 Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/800px-Premier_League_Logo.svg.png",EPL 1
 #http://supersonictv.live:8080/Allen123/Allen123/7627
 
 #EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://iili.io/FtSr5Mb.jpg",UNITED
 #EXTVLCOPT:http-referrer=https://kilatlive.live/
-https://rr4---sn-8pxuuxa-on.applecdnstore.com/UK_SKY_SPORTS_MAIN_EVENT_TV/index.m3u8
+#https://rr4---sn-8pxuuxa-on.applecdnstore.com/UK_SKY_SPORTS_MAIN_EVENT_TV/index.m3u8
 
 #EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://iili.io/FtSr5Mb.jpg",EPL
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -143,6 +143,27 @@ https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
+
+
+==========sea games==========
+#EXTINF:-1 group-logo="" group-title="SEA GAMES" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/998/598998-LOGO-m.png",Sea Games 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d56316d3d77148d18bd1f23138247207:340620d36e8e8209a7608154ff0c96d4
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/index.mpd
+#EXTINF:-1 group-logo="" group-title="SEA GAMES" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/199/598199-LOGO-m.png",Sea Games 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d19fdcc1de0245edbbfcfaa31b3385ed:d0bfa058d6f3d7c45c5244820dbda8f3
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
+#EXTINF:-1 group-logo="" group-title="SEA GAMES" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/201/598201-LOGO-m.png",Sea Games 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
+#EXTINF:-1 group-logo="" group-title="SEA GAMES" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/202/598202-LOGO-m.png",Sea Games 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e02fc4146be34c2db75a847a6f5e95e9:a25a6118776646a690b2931609264bd5
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/da31f135bd6c4fe0b7dc4262436277fb/index.mpd
+
+
 
 
 
