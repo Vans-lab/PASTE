@@ -6,6 +6,8 @@
 #EXTINF:-1 group-title="VOLI KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd63b1Lf9T4IL97RMzSeBjFbyS6U-o45BwYw&s",GS CALTEX VS RED SPARKS
 #https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/hf3ge3gcz2tdxxas4bh5ovyzk10p5aaf5is8/playlist.m3u8?hdnts=st=1764325427~exp=1764357837~acl=*/hf3ge3gcz2tdxxas4bh5ovyzk10p5aaf5is8/*~hmac=ca3d5b5cbdccf18aad1526cf1db8069e2bd2187c7f058c1121daaaf7159910eb
 
+#EXTINF:-1 group-title="FIFA E WORLD CUP 2025" tvg-logo="https://www.konami.com/games_cms/promo/eu/uploads/efootball_fifae_visual-1024x576.jpg",DAY 2
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765474054/ei/pqo6aYr-A8SMg8UP87bBqAs/ip/39.194.4.9/id/7l-u_DMdfKA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51688473/txs/51688472%2C51688473/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/siu/1/bui/AYUSA3Ar4V2mpCEogRfbMHE0koaVOAju5s5g3vyvkvyryBijHUff9F_gQ2-bUFk29dpvsZme3Q/spc/wH4Qq8fvua2JYAl5Fv4vuSyz8YZZSTRbr-KtZ3_m1_6T4EMjAI24/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAN13I2j3CuOSec56wIc9gcXeyxHwkfyrwsviQjYQb77yAiEAtLU_NLBUMayG0WE7J9By4hZp1VVEDsaq1gSH63oEuUQ%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://iili.io/FtSr5Mb.jpg", 04:00 WITA Wolverhampton Wanderers vs Manchester United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
