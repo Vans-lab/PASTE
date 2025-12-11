@@ -57,25 +57,26 @@
 
 
 <=================== EVENT 1 =============================>
-#EXTINF:-1 group-title="EVENT 10/DESEMBER/2025" tvg-logo="https://shorter.me/2xP-X", 09:30 WIB Indonesia vs Thailand
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
-https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
+#EXTINF:-1 group-title="EVENT 11/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyHCxkUx20n-3l99U4G7SmmcdGcXFItHELEQ&s", 16:00 WIB Vietnam U22 VS Malaysia U22 
+https://shorter.me/bJUIS
 
-#EXTINF:-1 group-title="EVENT 10/DESEMBER/2025" tvg-logo="https://holopis.com/wp-content/uploads/2025/11/SEA-Games-2025-Thailand.png", 12:30 WIB Malaysia W vs Indonesia (w)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d19fdcc1de0245edbbfcfaa31b3385ed:d0bfa058d6f3d7c45c5244820dbda8f3
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
+#EXTINF:-1 group-title="EVENT 11/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyHCxkUx20n-3l99U4G7SmmcdGcXFItHELEQ&s", 19:00 WIB Thailand U22 VS Singapore U22
+https://shorter.me/SvTy-
 
-#EXTINF:-1 group-title="EVENT 10/DESEMBER/2025" tvg-logo="https://holopis.com/wp-content/uploads/2025/11/SEA-Games-2025-Thailand.png", 15:00 WIB Myanmar W vs Vietnam (w)
 
-#EXTINF:-1 group-title="EVENT 10/DESEMBER/2025" tvg-logo="https://holopis.com/wp-content/uploads/2025/11/SEA-Games-2025-Thailand.png", 17:30 WIB Singapore W vs Thailand (w)
+#EXTINF:-1 group-title="EVENT 11/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyHCxkUx20n-3l99U4G7SmmcdGcXFItHELEQ&s", 16:00 WIB Vietnam Women VS Myanmar Women
+https://shorter.me/4RyUK
+
+#EXTINF:-1 group-title="EVENT 11/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyHCxkUx20n-3l99U4G7SmmcdGcXFItHELEQ&s", 16:00 WIB Philippines Women VS Malaysia Women 
+https://shorter.me/kDwEF
 
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 10/DESEMBER/2025" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB GS Caltex W vs IBK W
+#EXTINF:-1 group-title="EVENT 11/DESEMBER/2025" tvg-logo="https://shorter.me/CVAcq", 002 Odisha Masters 2025
+https://play.live8818.com/nami/sd-R2Lf6TvjoxjvN44bVw5.m3u8
+
+
+#EXTINF:-1 group-title="EVENT 11/DESEMBER/2025" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB Expressway Co W vs Hungkuk W
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -83,103 +84,133 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
-#EXTINF:-1 group-title="EVENT 10/DESEMBER/2025" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB Kepco vs Woori
+#EXTINF:-1 group-title="EVENT 11/DESEMBER/2025" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB Samsung Blue Fangs vs Hyundai Skywalkers
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:-1 group-title="EVENT 10/DESEMBER/2025" tvg-logo="https://shorter.me/IxVCR", 18:00 WIB Bahcelievler Bld W vs Goztepe W
-#EXTINF:-1 group-title="EVENT 10/DESEMBER/2025" tvg-logo="https://shorter.me/IxVCR", 22:00 WIB Nilufer Bld. W vs Ilbank W
-#EXTINF:-1 group-title="EVENT 10/DESEMBER/2025" tvg-logo="https://shorter.me/IxVCR", 22:30 WIB Besiktas W vs Eczacibasi W
-#EXTINF:-1 group-title="EVENT 10/DESEMBER/2025" tvg-logo="https://shorter.me/IxVCR", 23:00 WIB Aras Kargo W vs Kuzey Boru Genclik W
-
-#EXTINF:-1 group-title="EVENT 10/DESEMBER/2025" tvg-logo="https://shorter.me/9VZKP", 20:00 WIB Praia Clube W vs Orlando Valkyries W
-#EXTINF:-1 group-title="EVENT 10/DESEMBER/2025" tvg-logo="https://shorter.me/9VZKP", 23:30 WIB Zhetysu Almaty Women vs Alianza Lima W 
-
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 10/DESEMBER/2025" tvg-logo="https://shorter.me/sS209", 19:15 WIB Persib vs Bangkok United
+#EXTINF:-1 group-title="EVENT 11/DESEMBER/2025" tvg-logo="https://shorter.me/sS209", 17:00 WIB Gamba Osaka vs Ratchaburi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-#EXTINF:-1 group-title="EVENT 10/DESEMBER/2025" tvg-logo="https://shorter.me/sS209", 19:15 WIB Selangor vs Lion City Sailors
+#EXTINF:-1 group-title="EVENT 11/DESEMBER/2025" tvg-logo="https://shorter.me/sS209", 17:00 WIB Nam Dinh vs Eastern SC
+https://shorter.me/n68pe
+
+#EXTINF:-1 group-title="EVENT 11/DESEMBER/2025" tvg-logo="https://shorter.me/sS209", 19:15 WIB Wofoo Tai Po vs Cong An Hanoi
+https://shorter.me/wtgwb
+
+#EXTINF:-1 group-title="EVENT 11/DESEMBER/2025" tvg-logo="https://shorter.me/sS209", 19:15 WIB Beijing Guoan vs Macarthur
+https://shorter.me/8ilNv
+
+#EXTINF:-1 group-title="EVENT 11/DESEMBER/2025" tvg-logo="https://shorter.me/sS209", 19:15 WIB Bangkok Glass vs Tampines Rovers
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
-<================>
-
-#EXTINF:-1 group-title="EVENT 10/DESEMBER/2025" tvg-logo="https://shorter.me/FNR-a", 17:00 WIB Seoul vs Melbourne City
-https://shorter.me/JeWcn
-
-#EXTINF:-1 group-title="EVENT 10/DESEMBER/2025" tvg-logo="https://shorter.me/FNR-a", 17:00 WIB Sanfrecce Hiroshima vs Shanghai Shenhua
-https://shorter.me/49Uph
+#EXTINF:-1 group-title="EVENT 11/DESEMBER/2025" tvg-logo="https://shorter.me/sS209", 19:15 WIB Kaya vs Pohang Steelers
+https://shorter.me/bN7XY
 
 <================>
+
+#EXTINF:-1 group-title="EVENT 11/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Kjvrv9A5J_jXmjc3Ae_lOwADbacAfctcyg&s", 21:30 WIB Maroko vs Syria
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
+
+#EXTINF:-1 group-title="EVENT 12/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Kjvrv9A5J_jXmjc3Ae_lOwADbacAfctcyg&s", 00:30 WIB Palestina vs Arab Saudi
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
 
 <=================== EVENT 2 =============================>
 
-#EXTINF:-1 group-title="EVENT 11/DESEMBER/2025" tvg-logo="https://shorter.me/ii84S", 00:45 WIB Qarabağ vs Ajax
-#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-
-#EXTINF:-1 group-title="EVENT 11/DESEMBER/2025" tvg-logo="https://shorter.me/ii84S", 00:45 WIB Villarreal vs København
+#EXTINF:-1 group-title="EVENT 12/DESEMBER/2025" tvg-logo="https://shorter.me/Pflov", 00:45 WIB Ferencváros vs Rangers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 11/DESEMBER/2025" tvg-logo="https://shorter.me/ii84S", 03:00 WIB Juventus vs Paphos
-#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
-
-#EXTINF:-1 group-title="EVENT 11/DESEMBER/2025" tvg-logo="https://shorter.me/ii84S", 03:00 WIB Benfica vs Napoli
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
-https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8
-
-#EXTINF:-1 group-title="EVENT 11/DESEMBER/2025" tvg-logo="https://shorter.me/ii84S", 03:00 WIB Borussia Dortmund vs Bodø / Glimt
-
-#EXTINF:-1 group-title="EVENT 11/DESEMBER/2025" tvg-logo="https://shorter.me/ii84S", 03:00 WIB Bayer Leverkusen vs Newcastle United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 11/DESEMBER/2025" tvg-logo="https://shorter.me/ii84S", 03:00 WIB Club Brugge vs Arsenal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
-https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-
-#EXTINF:-1 group-title="EVENT 11/DESEMBER/2025" tvg-logo="https://shorter.me/ii84S", 03:00 WIB Athletic Club vs PSG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
-https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
-
-#EXTINF:-1 group-title="EVENT 11/DESEMBER/2025" tvg-logo="https://shorter.me/ii84S", 03:00 WIB Real Madrid vs Manchester City
+#EXTINF:-1 group-title="EVENT 12/DESEMBER/2025" tvg-logo="https://shorter.me/Pflov", 00:45 WIB Utrecht vs Nottingham Forest
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
+#EXTINF:-1 group-title="EVENT 12/DESEMBER/2025" tvg-logo="https://shorter.me/Pflov", 00:45 WIB Nice vs Sporting Braga
+#EXTINF:-1 group-title="EVENT 12/DESEMBER/2025" tvg-logo="https://shorter.me/Pflov", 00:45 WIB Young Boys vs Lille
 
-<================>
+#EXTINF:-1 group-title="EVENT 12/DESEMBER/2025" tvg-logo="https://shorter.me/Pflov", 00:45 WIB Ludogorets vs PAOK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
+https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
 
-#EXTINF:-1 group-title="EVENT 10/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Kjvrv9A5J_jXmjc3Ae_lOwADbacAfctcyg&s", 00:00 WIB Aljazair vs Irak
-#https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
+#EXTINF:-1 group-title="EVENT 12/DESEMBER/2025" tvg-logo="https://shorter.me/Pflov", 00:45 WIB Stuttgart vs Maccabi Tel Aviv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
-#EXTINF:-1 group-title="EVENT 10/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Kjvrv9A5J_jXmjc3Ae_lOwADbacAfctcyg&s", 00:00 WIB Bahrain vs Sudan
-#https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8
+#EXTINF:-1 group-title="EVENT 12/DESEMBER/2025" tvg-logo="https://shorter.me/Pflov", 00:45 WIB Dinamo Zagreb vs Real Betis
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 group-title="EVENT 12/DESEMBER/2025" tvg-logo="https://shorter.me/Pflov", 03:00 WIB Basel vs Aston Villa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 12/DESEMBER/2025" tvg-logo="https://shorter.me/Pflov", 03:00 WIB Celtic vs Roma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 12/DESEMBER/2025" tvg-logo="https://shorter.me/Pflov", 03:00 WIB FCSB vs Feyenoord
+#EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
+
+#EXTINF:-1 group-title="EVENT 12/DESEMBER/2025" tvg-logo="https://shorter.me/Pflov", 03:00 WIB Brann vs Fenerbahçe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kudos111.terranovax1.cfd/000/
+https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
+
+#EXTINF:-1 group-title="EVENT 12/DESEMBER/2025" tvg-logo="https://shorter.me/Pflov", 03:00 WIB Olympique Lyonnais vs Go Ahead Eagles
+
+
+
+
+
+
+#EXTINF:-1 group-title="EVENT 12/DESEMBER/2025" tvg-logo="https://shorter.me/NzYuB", 00:45 WIB Fiorentina vs Dynamo Kyiv
+
+#EXTINF:-1 group-title="EVENT 12/DESEMBER/2025" tvg-logo="https://shorter.me/NzYuB", 00:45 WIB CSU Craiova vs Sparta Praha
+#EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
+
+#EXTINF:-1 group-title="EVENT 12/DESEMBER/2025" tvg-logo="https://shorter.me/NzYuB", 03:00 WIB Shelbourne vs Crystal Palace
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
+https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 12/DESEMBER/2025" tvg-logo="https://shorter.me/NzYuB", 03:00 WIB Aberdeen vs Strasbourg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 ==========sea games==========
 #EXTINF:-1 group-logo="" group-title="Sea Games Thailand 2025" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/998/598998-LOGO-m.png",Sea Games 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
