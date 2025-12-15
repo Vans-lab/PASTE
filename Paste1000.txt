@@ -6,12 +6,14 @@
 #EXTINF:-1 group-title="VOLI KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd63b1Lf9T4IL97RMzSeBjFbyS6U-o45BwYw&s",GS CALTEX VS RED SPARKS
 #https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/hf3ge3gcz2tdxxas4bh5ovyzk10p5aaf5is8/playlist.m3u8?hdnts=st=1764325427~exp=1764357837~acl=*/hf3ge3gcz2tdxxas4bh5ovyzk10p5aaf5is8/*~hmac=ca3d5b5cbdccf18aad1526cf1db8069e2bd2187c7f058c1121daaaf7159910eb
 
-
-#EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://iili.io/FtSr5Mb.jpg", 04:00 WITA Wolverhampton Wanderers vs Manchester United
+#EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://iili.io/FtSr5Mb.jpg", 03:00 WIB Manchester United vs AFC Bournemouth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-#https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="03:00 Wib Manchester United vs Bournemouth" group-title="UNITED DAY", 03:00 Wib Manchester United vs Bournemouth
+https://play7ba.peodlc.com/live/202_4316058_1.m3u8
 
 
 #EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://iili.io/FtSr5Mb.jpg", 04:00 WITA Wolves vs Manchester United
