@@ -64,46 +64,6 @@
 
 
 <=================== EVENT 1 =============================>
-<================================================>
-
-#EXTINF:-1 group-title="EVENT 16/DESEMBER/2025" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB Red Spark W vs Pink Spider W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://m.sports.naver.com
-#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20251216022F101
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0002/qc5twdv6hxtf8ofn6bwezzc4l2bid0ypnqsv/playlist.m3u8?hdnts=st=1765878938~exp=1765911348~acl=*/qc5twdv6hxtf8ofn6bwezzc4l2bid0ypnqsv/*~hmac=855be2225c2308375163050ec4623cd1ca033f4ce0fbe93f9d1e752f164cfa70
-
-#EXTINF:-1 group-title="EVENT 16/DESEMBER/2025" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB KAL Jumbos v Hyundai Skywalkers 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://m.sports.naver.com
-#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20251216022M100
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0001/jmn4hsoupohkrvxbbwdqezvqn439ozvwgl8x/playlist.m3u8?hdnts=st=1765878973~exp=1765911383~acl=*/jmn4hsoupohkrvxbbwdqezvqn439ozvwgl8x/*~hmac=85535003ea00ba3f576e4d41be673e73648beedcef0b24dbe4d177b8f032f837
-
-
-<================================================>
-<================>
-#EXTINF:-1 group-title="EVENT 16/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Kjvrv9A5J_jXmjc3Ae_lOwADbacAfctcyg&s", 21:30 WIB Maroko vs Uni Emirat Arab
-<=================== EVENT 2 =============================>
-
-#EXTINF:-1 group-title="EVENT 17/DESEMBER/2025" tvg-logo="https://shorter.me/2eCIq", 03:00 WIB Cardiff City vs Chelsea
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-
-#EXTINF:-1 group-title="EVENT 17/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzVCfE0vbi7wiefIkpuh2YHyROUD7yL5Pcw&s",  01:00 WIB Deportivo La Coruña vs Mallorca
-https://live.golivenow71.com/fe822eef9ef1fffcc4b54801b59290a5/1765764419832/rchtwtx/rchtwtx@720p.m3u8
-
-#EXTINF:-1 group-title="EVENT 17/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzVCfE0vbi7wiefIkpuh2YHyROUD7yL5Pcw&s",  01:00 WIB Eibar vs Elche
-https://live.golivenow71.com/fe822eef9ef1fffcc4b54801b59290a5/1765764419832/rchtwtx/rchtwtx@720p.m3u8
-
-#EXTINF:-1 group-title="EVENT 17/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzVCfE0vbi7wiefIkpuh2YHyROUD7yL5Pcw&s",  03:00 WIB Eldense vs Real Sociedad
-https://live.golivenow71.com/fe822eef9ef1fffcc4b54801b59290a5/1765764419832/rchtwtx/rchtwtx@720p.m3u8
-
-#EXTINF:-1 group-title="EVENT 17/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzVCfE0vbi7wiefIkpuh2YHyROUD7yL5Pcw&s",  03:00 WIB Sporting Gijón vs Valencia
-https://live.golivenow71.com/fe822eef9ef1fffcc4b54801b59290a5/1765764419832/rchtwtx/rchtwtx@720p.m3u8
-
-#EXTINF:-1 group-title="EVENT 17/DESEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzVCfE0vbi7wiefIkpuh2YHyROUD7yL5Pcw&s",  03:00 WIB CD Guadalajara vs Barcelona
-https://live.golivenow71.com/fe822eef9ef1fffcc4b54801b59290a5/1765764419832/rchtwtx/rchtwtx@720p.m3u8
 
 
 ==========sea games==========
