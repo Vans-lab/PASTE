@@ -68,49 +68,32 @@
 <=================== EVENT 1 =============================>
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 022/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB PSBS Biak Numfor vs Bali United
-http://filex.tv:8080//live/shafiq02/1234/302264.ts
-
-#EXTINF:-1 group-title="EVENT 022/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB PSBS Biak Numfor vs Bali United
-https://shorter.me/pW9Do
-
-#EXTINF:-1 group-title="EVENT 022/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB PSBS Biak Numfor vs Bali United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live.golivenow71.com/55c580d2cba3d28534abd1a034fcaf58/1766426959779/gmpmb95/index.m3u8
-
-#EXTINF:-1 group-title="EVENT 022/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Semen Padang vs Persija
-http://filex.tv:8080//live/shafiq02/1234/302264.ts
-
-#EXTINF:-1 group-title="EVENT 022/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Semen Padang vs Persija
-https://shorter.me/nDk8p
-
-#EXTINF:-1 group-title="EVENT 022/DESEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Semen Padang vs Persija
-https://shorter.me/P5XII
-
-<================================================>
-
-#EXTINF:-1 group-title="EVENT 022/DESEMBER/2025" tvg-logo="https://shorter.me/FNR-a", 23:00 WIB Al Sharjah vs Al Hilal
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-#EXTINF:-1 group-title="EVENT 022/DESEMBER/2025" tvg-logo="https://shorter.me/FNR-a", 23:00 WIB Tractor Sazi vs Al Duhail
+#EXTINF:-1 group-title="EVENT 023/DESEMBER/2025" tvg-logo="https://shorter.me/sS209", 20:45 WIB Al Hussein vs Ahal
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:-1 group-title="EVENT 023/DESEMBER/2025" tvg-logo="https://shorter.me/FNR-a", 01:15 WIB Al Gharafa vs Al Wahda
+<================>
 
-#EXTINF:-1 group-title="EVENT 023/DESEMBER/2025" tvg-logo="https://shorter.me/FNR-a", 01:15 WIB Al Shorta vs Al-Ahli
+#EXTINF:-1 group-title="EVENT 023/DESEMBER/2025" tvg-logo="https://shorter.me/FNR-a", 23:00 WIB Al Sadd vs Shabab Al Ahli
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+#EXTINF:-1 group-title="EVENT 024/DESEMBER/2025" tvg-logo="https://shorter.me/FNR-a", 01:15 WIB Al Ittihad vs Nasaf
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 022/DESEMBER/2025" tvg-logo="https://shorter.me/cchNf", 21:00 WIB Mali vs Zambia
+#EXTINF:-1 group-title="EVENT 023/DESEMBER/2025" tvg-logo="https://shorter.me/cchNf", 22:00 WIB Senegal vs Bostwana
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -118,7 +101,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 023/DESEMBER/2025" tvg-logo="https://shorter.me/cchNf", 00:00 WIB Afrika Selatan vs Angola
+#EXTINF:-1 group-title="EVENT 024/DESEMBER/2025" tvg-logo="https://shorter.me/cchNf", 00:30 WIB Nigeria vs Tanzania
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -126,7 +109,7 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 023/DESEMBER/2025" tvg-logo="https://shorter.me/cchNf", 03:00 WIB Mesir vs Zimbabwe
+#EXTINF:-1 group-title="EVENT 024/DESEMBER/2025" tvg-logo="https://shorter.me/cchNf", 03:00 WIB Tunisia vs Uganda
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -137,30 +120,13 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 <================>
 <=================== EVENT 2 =============================>
 
-#EXTINF:-1 group-title="EVENT 023/DESEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 03:00 WIB Fulham vs Nottingham Forest
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-
-
-#EXTINF:-1 group-title="EVENT 023/DESEMBER/2025" tvg-logo="https://iili.io/FtSMHX9.jpg", 03:00 WIB Athletic Club vs Espanyol
+#EXTINF:-1 group-title="EVENT 024/DESEMBER/2025" tvg-logo="https://shorter.me/2eCIq", 03:00 WIB Arsenal vs Crystal Palace
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd 
-
-
-#EXTINF:-1 group-title="EVENT 023/DESEMBER/2025" tvg-logo="https://shorter.me/PdfXf", 02:00 WIB Napoli vs Bologna
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 
 ######################################################################TV CHANNELS#############################################################################################################################################
 
