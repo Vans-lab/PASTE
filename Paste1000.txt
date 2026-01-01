@@ -67,70 +67,42 @@
 
 <=================== EVENT 1 =============================>
 <================================================>
-#EXTINF:-1 group-title="EVENT 031/DESEMBER/2025" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB Hungkuk W vs Hyundai E&C Hillstate W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://m.sports.naver.com
-#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20251231022F127
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0003/ukhf7vrffmvfdbd7phy8u5vqu1tl7qisjerp/playlist.m3u8?hdnts=st=1767174509~exp=1767206919~acl=*/ukhf7vrffmvfdbd7phy8u5vqu1tl7qisjerp/*~hmac=5e6ee223e19a2d5e8c0ebce6308954b5b8aac2a8c17c49eb6bb9bd13b82ed75c
 
-#EXTINF:-1 group-title="EVENT 031/DESEMBER/2025" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB Hyundai Skywalkers vs KB Stars
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://m.sports.naver.com
-#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20251231022M126
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0002/w86owvvg1gcxx9tcdottxibaq1tlg2vayvez/playlist.m3u8?hdnts=st=1767174626~exp=1767207036~acl=*/w86owvvg1gcxx9tcdottxibaq1tlg2vayvez/*~hmac=9c0c38549cf0d6db753c221b7d8512b53548cb130f8a904923f23fef349a299f
-
-<================================================>
-
-#EXTINF:-1 group-title="EVENT 031/DESEMBER/2025" tvg-logo="https://shorter.me/WvlHP",  15:00 WIB Central Coast Mariners vs Brisbane Roar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-<================================================>
-
-#EXTINF:-1 group-title="EVENT 031/DESEMBER/2025" tvg-logo="https://shorter.me/cchNf", 23:00 WIB Sudan vs Burkina Faso
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd 
-
-#EXTINF:-1 group-title="EVENT 031/DESEMBER/2025" tvg-logo="https://shorter.me/cchNf", 23:00 WIB Guinea Ekuatorial vs Aljazair
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 01/JANUARI/2026" tvg-logo="https://shorter.me/cchNf", 02:00 WIB Gabon vs Pantai Gading
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd 
-
-#EXTINF:-1 group-title="EVENT 01/JANUARI/2026" tvg-logo="https://shorter.me/cchNf", 02:00 WIB Mozambik vs Kamerun
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 031/DESEMBER/2025" tvg-logo="https://shorter.me/3gy7g", 22:25 WIB NEOM vs Al Ittihad
-
-#EXTINF:-1 group-title="EVENT 01/JANUARI/2026" tvg-logo="https://shorter.me/3gy7g", 00:30 WIB Al Kholood vs Al Hilal
+#EXTINF:-1 group-title="EVENT 01/JANUARI/2026" tvg-logo="https://shorter.me/WvlHP", 15:00 WIB Western Sydney Wanderers vs Macarthur
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
+
+<================================================>
+#EXTINF:-1 group-title="EVENT 01/JANUARI/2026" tvg-logo="https://shorter.me/cchNf", 23:00 WIB Sudan vs Burkina Faso
+<================>
+
+#EXTINF:-1 group-title="EVENT 01/JANUARI/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png", 19:30 WIB Blackburn Rovers vs Wrexham
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd 
+
+#EXTINF:-1 group-title="EVENT 01/JANUARI/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png", 22:00 WIB Southampton vs Millwall
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd 
+
+#EXTINF:-1 group-title="EVENT 02/JANUARI/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png", 00:30 WIB Sheffield United vs Leicester City
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd 
+
 
 ######################################################################TV CHANNELS#############################################################################################################################################
 
