@@ -3,10 +3,6 @@
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296711&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22151236-agjj43zzrrrf3ags.png" group-title="JAJAL2",⏳ [03-01 19:30 WIB] Aston Villa - Nottingham|Premier League
-http://spacetv.my.id/experimen/us.mpd?id=296711&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-title="VOLI KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd63b1Lf9T4IL97RMzSeBjFbyS6U-o45BwYw&s",GS CALTEX VS RED SPARKS
 #https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/hf3ge3gcz2tdxxas4bh5ovyzk10p5aaf5is8/playlist.m3u8?hdnts=st=1764325427~exp=1764357837~acl=*/hf3ge3gcz2tdxxas4bh5ovyzk10p5aaf5is8/*~hmac=ca3d5b5cbdccf18aad1526cf1db8069e2bd2187c7f058c1121daaaf7159910eb
@@ -67,6 +63,224 @@ http://spacetv.my.id/experimen/us.mpd?id=296711&type=dash|User-Agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="UNITED DAY" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
 #http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
+
+=@============setanta=============
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296636&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22161513-tehdx0ybxkzxwkka.png" group-title="LIVE MATCH",⏳ [03-01 02:45 WIB] Cagliari - Milan|Serie A
+http://spacetv.my.id/experimen/us.mpd?id=296636&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296637&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22161616-txy0ctovigz5poyv.png" group-title="LIVE MATCH",⏳ [03-01 18:30 WIB] Como - Udinese|Serie A
+http://spacetv.my.id/experimen/us.mpd?id=296637&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296720&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22161703-6ivogylyzssxdfqk.png" group-title="LIVE MATCH",⏳ [04-01 00:00 WIB] Juventus - Lecce|Serie A
+http://spacetv.my.id/experimen/us.mpd?id=296720&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296721&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22161751-zvy3x4chubviadwv.png" group-title="LIVE MATCH",⏳ [04-01 02:45 WIB] Atalanta - Roma|Serie A
+http://spacetv.my.id/experimen/us.mpd?id=296721&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296640&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22161901-cvppy7zfqjjxnpae.png" group-title="LIVE MATCH",⏳ [04-01 18:30 WIB] Lazio - Napoli|Serie A
+http://spacetv.my.id/experimen/us.mpd?id=296640&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296641&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22162003-iczcmhm9ccxje4tf.png" group-title="LIVE MATCH",⏳ [04-01 21:00 WIB] Fiorentina - Cremonese|Serie A
+http://spacetv.my.id/experimen/us.mpd?id=296641&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296722&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22162057-henof3vcpwswx5lq.png" group-title="LIVE MATCH",⏳ [05-01 02:45 WIB] Inter - Bologna|Serie A
+http://spacetv.my.id/experimen/us.mpd?id=296722&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296723&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22162321-ln8gg4j42asdnkw0.png" group-title="LIVE MATCH",⏳ [06-01 21:00 WIB] Pisa - Como|Serie A
+http://spacetv.my.id/experimen/us.mpd?id=296723&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296644&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22162641-f44rdgj92qsxq5nl.png" group-title="LIVE MATCH",⏳ [07-01 00:00 WIB] Lecce - Roma|Serie A
+http://spacetv.my.id/experimen/us.mpd?id=296644&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296645&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22163207-5osulbt9sume0gle.png" group-title="LIVE MATCH",⏳ [07-01 02:45 WIB] Sassuolo - Juventus|Serie A
+http://spacetv.my.id/experimen/us.mpd?id=296645&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296725&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22163455-3r74dobbnrkv4u72.png" group-title="LIVE MATCH",⏳ [08-01 00:30 WIB] Napoli - Verona|Serie A
+http://spacetv.my.id/experimen/us.mpd?id=296725&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296648&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22163637-scutxqe7lt0qwsro.png" group-title="LIVE MATCH",⏳ [08-01 02:45 WIB] Lazio - Fiorentina|Serie A
+http://spacetv.my.id/experimen/us.mpd?id=296648&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296711&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22151236-agjj43zzrrrf3ags.png" group-title="LIVE MATCH",⏳ [03-01 19:30 WIB] Aston Villa - Nottingham|Premier League
+http://spacetv.my.id/experimen/us.mpd?id=296711&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296595&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22151329-9wa8pkknel4d0r0i.png" group-title="LIVE MATCH",⏳ [03-01 22:00 WIB] Brighton - Burnley|Premier League
+http://spacetv.my.id/experimen/us.mpd?id=296595&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296596&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22151412-clhsb1gmo5jzt1of.png" group-title="LIVE MATCH",⏳ [03-01 22:00 WIB] Wolves - West Ham |Premier League
+http://spacetv.my.id/experimen/us.mpd?id=296596&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296597&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22151506-va1m8plbev6jms7h.png" group-title="LIVE MATCH",⏳ [04-01 00:30 WIB] Bournemouth - Arsenal |Premier League
+http://spacetv.my.id/experimen/us.mpd?id=296597&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296712&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22151506-va1m8plbev6jms7h.png" group-title="LIVE MATCH",⏳ [04-01 00:30 WIB] Bournemouth - Arsenal |Premier League
+http://spacetv.my.id/experimen/us.mpd?id=296712&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296713&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22151603-6lxvzb2rg2rtarr3.png" group-title="LIVE MATCH",⏳ [04-01 19:30 WIB] Leeds - Manchester United|Premier League
+http://spacetv.my.id/experimen/us.mpd?id=296713&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296601&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22151903-klyltijognitvzsk.png" group-title="LIVE MATCH",⏳ [04-01 22:00 WIB] Newcastle - Crystal Palace|Premier League
+http://spacetv.my.id/experimen/us.mpd?id=296601&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296600&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22151811-lqzag60cyvdmd5db.png" group-title="LIVE MATCH",⏳ [04-01 22:00 WIB] Fulham - Liverpool|Premier League
+http://spacetv.my.id/experimen/us.mpd?id=296600&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296602&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22151957-h29fiuii5wlmoyqk.png" group-title="LIVE MATCH",⏳ [04-01 22:00 WIB] Tottenham - Sunderland |Premier League
+http://spacetv.my.id/experimen/us.mpd?id=296602&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296599&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22151732-tige57ha8n014ep8.png" group-title="LIVE MATCH",⏳ [04-01 22:00 WIB] Everton - Brentford|Premier League
+http://spacetv.my.id/experimen/us.mpd?id=296599&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296714&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22152057-cozsvl9k6eadotom.png" group-title="LIVE MATCH",⏳ [05-01 00:30 WIB] Manchester City - Chelsea|Premier League
+http://spacetv.my.id/experimen/us.mpd?id=296714&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296715&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22152152-anab3ctljwha60cd.png" group-title="LIVE MATCH",⏳ [07-01 03:00 WIB] West Ham - Nottingham |Premier League
+http://spacetv.my.id/experimen/us.mpd?id=296715&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296628&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22160107-5tacz9r8slonuau7.png" group-title="LIVE MATCH",⏳ [03-01 02:45 WIB] Toulouse - Lens|lIGUE 1
+http://spacetv.my.id/experimen/us.mpd?id=296628&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296708&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22160202-m3jgyjvjjrd4xbxg.png" group-title="LIVE MATCH",⏳ [03-01 23:00 WIB] Monaco - Lyon|lIGUE 1
+http://spacetv.my.id/experimen/us.mpd?id=296708&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296630&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22160245-r3ax4mrqebjkpl3o.png" group-title="LIVE MATCH",⏳ [04-01 01:00 WIB] Nice - Strasbourg|lIGUE 1
+http://spacetv.my.id/experimen/us.mpd?id=296630&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296631&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22160333-lfcqh2d705z3rqsg.png" group-title="LIVE MATCH",⏳ [04-01 03:05 WIB] Lille - Rennes|lIGUE 1
+http://spacetv.my.id/experimen/us.mpd?id=296631&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296632&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22160420-dk0lseuvf1rpbokm.png" group-title="LIVE MATCH",⏳ [04-01 21:00 WIB] Marseille - Nantes|lIGUE 1
+http://spacetv.my.id/experimen/us.mpd?id=296632&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296709&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22160529-a4pjh5r5e2ddg88c.png" group-title="LIVE MATCH",⏳ [04-01 23:15 WIB] Lorient - Metz|lIGUE 1
+http://spacetv.my.id/experimen/us.mpd?id=296709&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296710&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22160620-ere57sk4osuj7z5g.png" group-title="LIVE MATCH",⏳ [05-01 02:45 WIB] Paris SG - Paris FC|lIGUE 1
+http://spacetv.my.id/experimen/us.mpd?id=296710&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296635&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22160711-vyklkuxk7sr6r6ju.png" group-title="LIVE MATCH",⏳ [09-01 01:00 WIB] Paris SG - Marseille|lIGUE 1
+http://spacetv.my.id/experimen/us.mpd?id=296635&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296620&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22154902-n6aw5iz6zhisqoir.png" group-title="LIVE MATCH",⏳ [03-01 00:30 WIB] Al Ahli - Al Nassr|RSL
+http://spacetv.my.id/experimen/us.mpd?id=296620&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296621&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22154950-eiy1imavvexamb4y.png" group-title="LIVE MATCH",⏳ [05-01 00:30 WIB] Damac - Al Hilal|RSL
+http://spacetv.my.id/experimen/us.mpd?id=296621&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296800&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/30133106-f62x7axexkaya1ro.png" group-title="LIVE MATCH",⏳ [13-01 00:30 WIB] Al Hilal - Al Nassr|RSL
+http://spacetv.my.id/experimen/us.mpd?id=296800&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296654&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22165015-ghvvwicgxiolbggn.png" group-title="LIVE MATCH",⏳ [04-01 05:00 WIB] Miami Heat - Minnesota Timberwolves|NBA
+http://spacetv.my.id/experimen/us.mpd?id=296654&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296655&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22165124-rutjl3dun4pnwao4.png" group-title="LIVE MATCH",⏳ [05-01 02:00 WIB] Cleveland Cavaliers - Detroit Pistons|NBA
+http://spacetv.my.id/experimen/us.mpd?id=296655&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296656&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22165216-tjsdepbl5djwz4zw.png" group-title="LIVE MATCH",⏳ [06-01 10:00 WIB] Los Angeles Clippers - Golden State Warriors|NBA
+http://spacetv.my.id/experimen/us.mpd?id=296656&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296657&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22165315-8zz8zvjhx72s5fby.png" group-title="LIVE MATCH",⏳ [07-01 08:00 WIB] Minnesota Timberwolves - Miami Heat|NBA
+http://spacetv.my.id/experimen/us.mpd?id=296657&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296758&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/30104644-k3wszbryoakezne3.png" group-title="LIVE MATCH",⏳ [09-01 08:00 WIB] Minnesota Timberwolves - Cleveland Cavaliers|NBA
+http://spacetv.my.id/experimen/us.mpd?id=296758&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296798&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/30132832-5hu49gu7i3cetqhf.png" group-title="LIVE MATCH",⏳ [12-01 03:00 WIB] Orlando Magic - New Orleans Pelicans |NBA
+http://spacetv.my.id/experimen/us.mpd?id=296798&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296799&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/30132932-irs3yxmv5hhmovzg.png" group-title="LIVE MATCH",⏳ [13-01 10:00 WIB] Sacramento Kings - Los Angeles Lakers|NBA
+http://spacetv.my.id/experimen/us.mpd?id=296799&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296622&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22155323-wjjpoaganhlagvev.png" group-title="LIVE MATCH",⏳ [03-01 00:00 WIB] Anadolu Efes - Crvena zvezda|Live Event
+http://spacetv.my.id/experimen/us.mpd?id=296622&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296620&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22154902-n6aw5iz6zhisqoir.png" group-title="LIVE MATCH",⏳ [03-01 00:30 WIB] Al Ahli - Al Nassr|Live Event
+http://spacetv.my.id/experimen/us.mpd?id=296620&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296623&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22155414-vcskr2xyq18pzf5l.png" group-title="LIVE MATCH",⏳ [03-01 02:15 WIB] Panathinaikos - Olympiacos|Live Event
+http://spacetv.my.id/experimen/us.mpd?id=296623&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296624&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22155502-og8ykna5tzidxj19.png" group-title="LIVE MATCH",⏳ [03-01 02:45 WIB] Real Madrid - Dubai|Live Event
+http://spacetv.my.id/experimen/us.mpd?id=296624&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296628&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22160107-5tacz9r8slonuau7.png" group-title="LIVE MATCH",⏳ [03-01 02:45 WIB] Toulouse - Lens|Live Event
+http://spacetv.my.id/experimen/us.mpd?id=296628&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296636&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22161513-tehdx0ybxkzxwkka.png" group-title="LIVE MATCH",⏳ [03-01 02:45 WIB] Cagliari - Milan|Live Event
+http://spacetv.my.id/experimen/us.mpd?id=296636&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296695&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/26134431-ssjiavc4bthobkms.png" group-title="LIVE MATCH",⏳ [03-01 03:00 WIB] Rayo Vallecano - Getafe|Live Event
+http://spacetv.my.id/experimen/us.mpd?id=296695&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296614&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22154037-j8evxdf0chcmhjdh.png" group-title="LIVE MATCH",⏳ [03-01 08:00 WIB] Florida Panthers - New York Rangers|Live Event
+http://spacetv.my.id/experimen/us.mpd?id=296614&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296826&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/31114940-chlqkprqwm4p1nif.png" group-title="LIVE MATCH",⏳ [03-01 18:00 WIB] Day 2|Live Event
+http://spacetv.my.id/experimen/us.mpd?id=296826&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296637&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22161616-txy0ctovigz5poyv.png" group-title="LIVE MATCH",⏳ [03-01 18:30 WIB] Como - Udinese|Live Event
+http://spacetv.my.id/experimen/us.mpd?id=296637&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296653&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22164645-xglkzgvqfkjiokox.png" group-title="LIVE MATCH",⏳ [03-01 19:30 WIB] Celtic - Rangers|Live Event
+http://spacetv.my.id/experimen/us.mpd?id=296653&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296711&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22151236-agjj43zzrrrf3ags.png" group-title="LIVE MATCH",⏳ [03-01 19:30 WIB] Aston Villa - Nottingham|Live Event
+http://spacetv.my.id/experimen/us.mpd?id=296711&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 
 
