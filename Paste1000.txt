@@ -285,39 +285,53 @@ http://spacetv.my.id/experimen/us.mpd?id=296711&type=dash|User-Agent=Mozilla/5.0
 
 
 <=================== EVENT 1 =============================>
-#EXTINF:-1 group-title="EVENT 03/JANUARI/2026" tvg-logo="https://iili.io/Kc6R4Dv.png", 14:00 WIB Hyundai E&C Hillstate W vs GS Caltex W
+<================================================>
+
+#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Persis Solo vs Persita
+#EXTVLCOPT:http-origin=https://ppdd16.plaifrdcikf.shop/
+#EXTVLCOPT:http-referrer=https://ppdd16.plaifrdcikf.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://m.sports.naver.com
-#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20260103022F133
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0001/cb2umup0o1hofh2ixcahl8tz64ih4f6mkohe/playlist.m3u8?hdnts=st=1767423210~exp=1767455620~acl=*/cb2umup0o1hofh2ixcahl8tz64ih4f6mkohe/*~hmac=9a9755ecd2feb346efa20308598d71be7d86b663ba54a9e443137d09d10b1899
+https://cxyznt3-cf.didjhfyu8yg.sbs/auth%3D2760b1c1afdb4f57db80e7d9efea7ff16bcbcaebc4b7e50026f1493a3aa9e51a3740ba77cac97c1ac067b1f4cde7f9a7dd81e8c36bd84e448f9500771d0d123e3ae5601b949ab4f2c11ab71cb58cb626641579a4ff814e96abd5af7f8c34ca90390d7da3ef95ee2cabca72ef4e64afaf6ca9cc16498800a8b5ece12cb1443ff3207d77f311f445363a08334efe680cf50bdd9d180f0d7ed5b58c81c91b44f257e828344cec27cb6c57aab5dbaac6d8e509292bdf088ecdae3ed663a4c9b9940e%26cid%3DWjrgwItUPBj8HL-5puDZh251227%26_v%3D2%26_r%3DafOPrm%26_vis%3D83ea0d78260ce036ce26faf13f0f257e1190f75bc68c55791796329c22b2e787%26_vvs%3De88b7870b9fc4d7ad81a1ab231eb9cefe11bf4f0de5f08ebedea729d1685576d/app/c394812.m3u8
+
+#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Persis Solo vs Persita
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://b.erorekfr.shop/hls/ZFFFQQ.m3u8
+
+#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Persis Solo vs Persita
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live.golivenow71.com/d909b2c63291d0cd78ce8ffc3dcb5176/1767550066643/xqispup/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB PSIM Yogyakarta vs Semen Padang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+
+#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB PSIM Yogyakarta vs Semen Padang
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://b.erorekfr.shop/hls/ZFFFQQQ.m3u8
+
+#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB PSIM Yogyakarta vs Semen Padang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live.golivenow71.com/b7a3df552c1485e5ab3f70ad35b57b72/1767550020333/9l7x9pa/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Bali United vs Arema
+https://shorter.me/dR7Fn
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 13:30 WIB Persipura vs Deltras
 
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 03/JANUARI/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Persija vs Persijap
-https://drive.google.com/uc?export=download&id=117qXM3z-86sXISJbsHlZjiw137nd4qhB&usp
-
-#EXTINF:-1 group-title="EVENT 03/JANUARI/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Persija vs Persijap
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live.golivenow71.com/16fe883c2c8edbfae3c888cf08459049/1767459843255/vg4b678/index.m3u8
-
-#EXTINF:-1 group-title="EVENT 03/JANUARI/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Borneo vs PSM
-https://drive.google.com/uc?export=download&id=117qXM3z-86sXISJbsHlZjiw137nd4qhB&usp
-
-#EXTINF:-1 group-title="EVENT 03/JANUARI/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Borneo vs PSM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live.golivenow71.com/56cdf68b67b6c55b38f99a1ddf521230/1767459716437/armrqlx/index.m3u8
-
-#EXTINF:-1 group-title="EVENT 03/JANUARI/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Madura United vs Persebaya Surabaya
-https://drive.google.com/uc?export=download&id=117qXM3z-86sXISJbsHlZjiw137nd4qhB&usp
-
-#EXTINF:-1 group-title="EVENT 03/JANUARI/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Madura United vs Persebaya Surabaya
-https://shorter.me/EtF57
-
-<================================================>
-
-#EXTINF:-1 group-title="EVENT 03/JANUARI/2026" tvg-logo="https://shorter.me/cchNf", 23:00 WIB Senegal vs Sudan
+#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://shorter.me/cchNf", 23:00 WIB Maroko vs Tanzania
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -325,7 +339,7 @@ https://shorter.me/EtF57
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://shorter.me/cchNf", 02:00 WIB Mali vs Tunisia
+#EXTINF:-1 group-title="EVENT 05/JANUARI/2026" tvg-logo="https://shorter.me/cchNf", 02:00 WIB Afrika Selatan vs Kamerun
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -335,21 +349,28 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 03/JANUARI/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 19:30 WIB Aston Villa vs Nottingham Forest
+#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 19:30 WIB Leeds United vs Manchester United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 22:00 WIB Tottenham Hotspur vs Sunderland
 https://drive.google.com/uc?export=download&id=117qXM3z-86sXISJbsHlZjiw137nd4qhB&usp
 
-#EXTINF:-1 group-title="EVENT 03/JANUARI/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 22:00 WIB Brighton & Hove Albion vs Burnley
+#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 22:00 WIB Newcastle United vs Crystal Palace
+
+#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 22:00 WIB Fulham vs Liverpool
 https://drive.google.com/uc?export=download&id=117qXM3z-86sXISJbsHlZjiw137nd4qhB&usp
 
-#EXTINF:-1 group-title="EVENT 03/JANUARI/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 22:00 WIB Wolverhampton Wanderers vs West Ham United
-https://drive.google.com/uc?export=download&id=117qXM3z-86sXISJbsHlZjiw137nd4qhB&usp
+#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 22:00 WIB Everton vs Brentford
 
-#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 00:30 WIB AFC Bournemouth vs Arsenal
+#EXTINF:-1 group-title="EVENT 05/JANUARI/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 00:30 WIB Manchester City vs Chelsea
 https://drive.google.com/uc?export=download&id=117qXM3z-86sXISJbsHlZjiw137nd4qhB&usp
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 03/JANUARI/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 20:00 WIB Celta de Vigo vs Valencia
+#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 20:00 WIB Sevilla vs Levante
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -357,51 +378,7 @@ https://drive.google.com/uc?export=download&id=117qXM3z-86sXISJbsHlZjiw137nd4qhB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 03/JANUARI/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 22:15 WIB Osasuna vs Athletic Club
-#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-
-#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 00:30 WIB Elche vs Villarreal
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 03:00 WIB Espanyol vs Barcelona
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 03/JANUARI/2026" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 18:30 WIB Como vs Udinese
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 03/JANUARI/2026" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 21:00 WIB Sassuolo vs Parma
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 03/JANUARI/2026" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 21:00 WIB Genoa vs Pisa
-#EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
-
-#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 00:00 WIb Juventus vs Lecce
+#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 22:15 WIB Real Madrid vs Real Betis
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -409,7 +386,7 @@ https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd 
 
-#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 02:45 WIB Atalanta vs Roma
+#EXTINF:-1 group-title="EVENT 05/JANUARI/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 00:30 WIB Deportivo Alavés vs Real Oviedo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -417,28 +394,82 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd 
 
+#EXTINF:-1 group-title="EVENT 05/JANUARI/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 00:30 WIB Mallorca vs Girona
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 05/JANUARI/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 03:00 WIB Real Sociedad vs Atlético Madrid
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 03/JANUARI/2026" tvg-logo="https://iili.io/FDOiPI4.jpg", 23:00 WIB Monaco vs Olympique Lyonnais
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live.golivenow71.com/d92e573a6e012b67883e476c08b7f2aa/1767464982559/xqispup/index.m3u8
+#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 18:30 WIB Lazio vs Napoli
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd 
 
-#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://iili.io/FDOiPI4.jpg", 01:00 WIB Nice vs Strasbourg
-https://shorter.me/8FS8D
+#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 21:00 WIB Fiorentina vs Cremonese
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://iili.io/FDOiPI4.jpg", 03:05 WIB Lille vs Rennes
-https://shorter.me/z1u_H
+#EXTINF:-1 group-title="EVENT 05/JANUARI/2026" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 00:00 WIB Verona vs Torino
+https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
+
+#EXTINF:-1 group-title="EVENT 05/JANUARI/2026" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 02:45 WIB Internazionale vs Bologna
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd 
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://iili.io/FDOiPI4.jpg", 21:00 WIB Olympique Marseille vs Nantes
+#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://iili.io/FDOiPI4.jpg", 23:15 WIB Brest vs Auxerre
+#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://iili.io/FDOiPI4.jpg", 23:15 WIB Le Havre vs Angers SCO
+#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://iili.io/FDOiPI4.jpg", 23:15 WIB Lorient vs Metz
+#EXTINF:-1 group-title="EVENT 05/JANUARI/2026" tvg-logo="https://iili.io/FDOiPI4.jpg", 02:45 WIB PSG vs Paris
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png", 19:00 WIB Birmingham City vs Coventry City
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png", 22:00 WIB Norwich City vs Stoke City
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png", 22:00 WIB Middlesbrough vs Southampton
+https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
 <=================== EVENT 2 =============================>
-
-#EXTINF:-1 group-title="EVENT 04/JANUARI/2026" tvg-logo="https://shorter.me/3gy7g", 00:30 WIB Al Ittihad vs Al Taawon
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
 
 
 ######################################################################TV CHANNELS#############################################################################################################################################
