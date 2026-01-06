@@ -7,23 +7,16 @@
 #EXTINF:-1 group-title="VOLI KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd63b1Lf9T4IL97RMzSeBjFbyS6U-o45BwYw&s",GS CALTEX VS RED SPARKS
 #https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/hf3ge3gcz2tdxxas4bh5ovyzk10p5aaf5is8/playlist.m3u8?hdnts=st=1764325427~exp=1764357837~acl=*/hf3ge3gcz2tdxxas4bh5ovyzk10p5aaf5is8/*~hmac=ca3d5b5cbdccf18aad1526cf1db8069e2bd2187c7f058c1121daaaf7159910eb
 
+#EXTINF:-1 group-title="MALAYSIA OPEN 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3cjhzsHbNYBWr9uPl_G9J0V7fN4etm-Gh5Q&s",COURT 1
+https://4616e8a4d665fbcde54c71a9c63dcad5.v.smtcdns.net/play.cbalive.weibisai.com/live/4100246909362061_AiHD.m3u8?txSecret=684558ec7ac78d35c1e4b4f6d6d42bbd&txTime=695D93F0
 
-#EXTINF:-1 tvg-id="k82rekhgop97rep" tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="LIGA INDONESIA LIVE",⚪ [15:30] Bhayangkara Presisi Indonesia FC vs Dewa United FC
-https://vipertv.my.id/tools/index.m3u8?id=k82rekhgop97rep&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-==============================================
-#EXTINF:-1 tvg-id="n54qllhnzp8jqvy" tvg-logo="https://img.thesports.com/football/competition/06565a2672fc1f85be8c44da526c3820.png" group-title="LIGA INDONESIA LIVE",⚪ [15:30] Barito Putera vs Persiku Kudus
-https://vipertv.my.id/tools/index.m3u8?id=n54qllhnzp8jqvy&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-==============================================
-#EXTINF:-1 group-title="📅 Event Upcoming",No matches available
-https://example.com
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=19354&type=direm&token=OMT494aUc9ZZhr84u6ErDSJ4Zjp4Gz2A
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="LIGA INDONESIA LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/LSMXNU98rEYzD11zABJSBCy_rWI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827312/85b5d7.jpg" ch-number="1", Bhayangkara Presisi Lampung FC vs Dewa United Banten FC - BRI Super League
-http://archertv.my.id/atraksi/index.mpd?id=19354&type=dash&token=OMT494aUc9ZZhr84u6ErDSJ4Zjp4Gz2A|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=19354&type=direm&token=OMT494aUc9ZZhr84u6ErDSJ4Zjp4Gz2A
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="LIGA INDONESIA LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/dw_31ghsl50Ozu-_ExEQRLkXR-A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827313/1643e3.jpg" ch-number="2", PERSIK Kediri vs PERSIB - BRI Super League
-http://archertv.my.id/atraksi/index.mpd?id=19354&type=dash&token=OMT494aUc9ZZhr84u6ErDSJ4Zjp4Gz2A|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-title="MALAYSIA OPEN 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3cjhzsHbNYBWr9uPl_G9J0V7fN4etm-Gh5Q&s",COURT 2
+https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4100247177099061_AiHD.m3u8?txSecret=9cf088690579802b23b5d833db8770c2&txTime=695D93F0
+
+#EXTINF:-1 group-title="MALAYSIA OPEN 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3cjhzsHbNYBWr9uPl_G9J0V7fN4etm-Gh5Q&s",COURT 3
+https://b188f789c84dcab4371c6e06ad24ca1e.v.smtcdns.net/play.cbalive.weibisai.com/live/4100247346259061_AiHD.m3u8?txSecret=d6e22ee166c21c4dedc1b2abfaf9a8bb&txTime=695D93F0
+
+
 <=================== EVENT 1 =============================>
 <================================================>
 
