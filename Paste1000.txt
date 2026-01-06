@@ -16,6 +16,169 @@ https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com
 #EXTINF:-1 group-title="BWF MALAYSIA OPEN 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3cjhzsHbNYBWr9uPl_G9J0V7fN4etm-Gh5Q&s",COURT 3
 https://b188f789c84dcab4371c6e06ad24ca1e.v.smtcdns.net/play.cbalive.weibisai.com/live/4100247346259061_AiHD.m3u8?txSecret=d6e22ee166c21c4dedc1b2abfaf9a8bb&txTime=695D93F0
 
+=@============setanta=============
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296723&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22162321-ln8gg4j42asdnkw0.png" group-title="LIGA TOP EROPA",⏳ [06-01 21:00 WIB] Pisa - Como|Serie A
+http://spacetv.my.id/experimen/us.mpd?id=296723&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296644&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22162641-f44rdgj92qsxq5nl.png" group-title="LIGA TOP EROPA",⏳ [07-01 00:00 WIB] Lecce - Roma|Serie A
+http://spacetv.my.id/experimen/us.mpd?id=296644&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296645&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22163207-5osulbt9sume0gle.png" group-title="LIGA TOP EROPA",⏳ [07-01 02:45 WIB] Sassuolo - Juventus|Serie A
+http://spacetv.my.id/experimen/us.mpd?id=296645&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296725&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22163455-3r74dobbnrkv4u72.png" group-title="LIGA TOP EROPA",⏳ [08-01 00:30 WIB] Napoli - Verona|Serie A
+http://spacetv.my.id/experimen/us.mpd?id=296725&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296648&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22163637-scutxqe7lt0qwsro.png" group-title="LIGA TOP EROPA",⏳ [08-01 02:45 WIB] Lazio - Fiorentina|Serie A
+http://spacetv.my.id/experimen/us.mpd?id=296648&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296649&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22163743-7ymilodfbl18i9ml.png" group-title="LIGA TOP EROPA",⏳ [08-01 02:45 WIB] Parma - Inter|Serie A
+http://spacetv.my.id/experimen/us.mpd?id=296649&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296650&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22163845-uqp0sjlqm4anawz3.png" group-title="LIGA TOP EROPA",⏳ [08-01 02:45 WIB] Torino - Udinese|Serie A
+http://spacetv.my.id/experimen/us.mpd?id=296650&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296651&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22164017-qv3yunvgpfe9fpnh.png" group-title="LIGA TOP EROPA",⏳ [09-01 00:30 WIB] Cremonese - Cagliari|Serie A
+http://spacetv.my.id/experimen/us.mpd?id=296651&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296652&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22164140-ztguftxpdoxjic0h.png" group-title="LIGA TOP EROPA",⏳ [09-01 02:45 WIB] Milan - Genoa|Serie A
+http://spacetv.my.id/experimen/us.mpd?id=296652&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296788&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/30131406-gafmmdxu6xepa0xx.png" group-title="LIGA TOP EROPA",⏳ [10-01 21:00 WIB] Como - Bologna|Serie A
+http://spacetv.my.id/experimen/us.mpd?id=296788&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296789&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/30131450-qp6zub0bwsjphi6w.png" group-title="LIGA TOP EROPA",⏳ [10-01 21:00 WIB] Udinese - Pisa|Serie A
+http://spacetv.my.id/experimen/us.mpd?id=296789&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296790&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/30131539-sdtaxx3v6nbmnuwt.png" group-title="LIGA TOP EROPA",⏳ [11-01 00:00 WIB] Roma - Sassuolo|Serie A
+http://spacetv.my.id/experimen/us.mpd?id=296790&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296715&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22152152-anab3ctljwha60cd.png" group-title="LIGA TOP EROPA",⏳ [07-01 03:00 WIB] West Ham - Nottingham |Premier League
+http://spacetv.my.id/experimen/us.mpd?id=296715&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296605&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22152248-6otkunldwrtqvoal.png" group-title="LIGA TOP EROPA",⏳ [08-01 02:30 WIB] Bournemouth - Tottenham|Premier League
+http://spacetv.my.id/experimen/us.mpd?id=296605&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296606&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22152349-ov0v7tfqaxnhjn7m.png" group-title="LIGA TOP EROPA",⏳ [08-01 02:30 WIB] Brentford - Sunderland|Premier League
+http://spacetv.my.id/experimen/us.mpd?id=296606&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296608&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22152542-kvtmmu4svckslnvz.png" group-title="LIGA TOP EROPA",⏳ [08-01 02:30 WIB] Everton - Wolves|Premier League
+http://spacetv.my.id/experimen/us.mpd?id=296608&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296609&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22152632-a5ugfh6mwkzw27gx.png" group-title="LIGA TOP EROPA",⏳ [08-01 02:30 WIB] Fulham - Chelsea|Premier League
+http://spacetv.my.id/experimen/us.mpd?id=296609&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296716&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22152444-she622yjlrdrwa3t.png" group-title="LIGA TOP EROPA",⏳ [08-01 02:30 WIB] Crystal Palace - Aston Villa|Premier League
+http://spacetv.my.id/experimen/us.mpd?id=296716&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296611&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22152852-motocjqsqmtszcmy.png" group-title="LIGA TOP EROPA",⏳ [08-01 03:05 WIB] Newcastle - Leeds|Premier League
+http://spacetv.my.id/experimen/us.mpd?id=296611&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296686&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/23102048-9fvl2onkvtgsf1bd.png" group-title="LIGA TOP EROPA",⏳ [08-01 03:05 WIB] Burnley - Manchester United|Premier League
+http://spacetv.my.id/experimen/us.mpd?id=296686&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296719&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22152940-amuvxfmpqq7iflbk.png" group-title="LIGA TOP EROPA",⏳ [09-01 03:00 WIB] Arsenal - Liverpool|Premier League
+http://spacetv.my.id/experimen/us.mpd?id=296719&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296635&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22160711-vyklkuxk7sr6r6ju.png" group-title="LIGA TOP EROPA",⏳ [09-01 01:00 WIB] Paris SG - Marseille|lIGUE 1
+http://spacetv.my.id/experimen/us.mpd?id=296635&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296800&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/30133106-f62x7axexkaya1ro.png" group-title="LIGA TOP EROPA",⏳ [13-01 00:30 WIB] Al Hilal - Al Nassr|RSL
+http://spacetv.my.id/experimen/us.mpd?id=296800&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296656&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22165216-tjsdepbl5djwz4zw.png" group-title="LIGA TOP EROPA",⏳ [06-01 10:00 WIB] Los Angeles Clippers - Golden State Warriors|NBA
+http://spacetv.my.id/experimen/us.mpd?id=296656&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296657&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22165315-8zz8zvjhx72s5fby.png" group-title="LIGA TOP EROPA",⏳ [07-01 08:00 WIB] Minnesota Timberwolves - Miami Heat|NBA
+http://spacetv.my.id/experimen/us.mpd?id=296657&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296758&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/30104644-k3wszbryoakezne3.png" group-title="LIGA TOP EROPA",⏳ [09-01 08:00 WIB] Minnesota Timberwolves - Cleveland Cavaliers|NBA
+http://spacetv.my.id/experimen/us.mpd?id=296758&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296798&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/30132832-5hu49gu7i3cetqhf.png" group-title="LIGA TOP EROPA",⏳ [12-01 03:00 WIB] Orlando Magic - New Orleans Pelicans |NBA
+http://spacetv.my.id/experimen/us.mpd?id=296798&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296799&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/30132932-irs3yxmv5hhmovzg.png" group-title="LIGA TOP EROPA",⏳ [13-01 10:00 WIB] Sacramento Kings - Los Angeles Lakers|NBA
+http://spacetv.my.id/experimen/us.mpd?id=296799&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296828&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/31114940-chlqkprqwm4p1nif.png" group-title="LIGA TOP EROPA",⏳ [05-01 18:00 WIB] Day 4|Live Event
+http://spacetv.my.id/experimen/us.mpd?id=296828&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296660&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22165646-mrl6mebxk2xtkwqh.png" group-title="LIGA TOP EROPA",⏳ [06-01 03:00 WIB] Leicester - West Brom|Live Event
+http://spacetv.my.id/experimen/us.mpd?id=296660&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296618&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22154431-st1vmsv4ibwkknet.png" group-title="LIGA TOP EROPA",⏳ [06-01 07:30 WIB] Ottawa Senators - Detroit Red Wings|Live Event
+http://spacetv.my.id/experimen/us.mpd?id=296618&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296656&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22165216-tjsdepbl5djwz4zw.png" group-title="LIGA TOP EROPA",⏳ [06-01 10:00 WIB] Los Angeles Clippers - Golden State Warriors|Live Event
+http://spacetv.my.id/experimen/us.mpd?id=296656&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296829&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/31114940-chlqkprqwm4p1nif.png" group-title="LIGA TOP EROPA",⏳ [06-01 18:00 WIB] Day 5|Live Event
+http://spacetv.my.id/experimen/us.mpd?id=296829&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296723&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22162321-ln8gg4j42asdnkw0.png" group-title="LIGA TOP EROPA",⏳ [06-01 21:00 WIB] Pisa - Como|Live Event
+http://spacetv.my.id/experimen/us.mpd?id=296723&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296644&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22162641-f44rdgj92qsxq5nl.png" group-title="LIGA TOP EROPA",⏳ [07-01 00:00 WIB] Lecce - Roma|Live Event
+http://spacetv.my.id/experimen/us.mpd?id=296644&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296625&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22155553-rip9jnfydkr68txm.png" group-title="LIGA TOP EROPA",⏳ [07-01 00:45 WIB] Fenerbahce - Olympiacos|Live Event
+http://spacetv.my.id/experimen/us.mpd?id=296625&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296626&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22155645-xxjmyglcvdbgi2cf.png" group-title="LIGA TOP EROPA",⏳ [07-01 02:05 WIB] Hapoel Tel-Aviv - Dubai|Live Event
+http://spacetv.my.id/experimen/us.mpd?id=296626&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296627&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22155732-bz1uzvoamazyalhb.png" group-title="LIGA TOP EROPA",⏳ [07-01 02:30 WIB] Barcelona - Maccabi Tel-Aviv|Live Event
+http://spacetv.my.id/experimen/us.mpd?id=296627&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296645&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22163207-5osulbt9sume0gle.png" group-title="LIGA TOP EROPA",⏳ [07-01 02:45 WIB] Sassuolo - Juventus|Live Event
+http://spacetv.my.id/experimen/us.mpd?id=296645&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmus.kt?id=296715&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/22152152-anab3ctljwha60cd.png" group-title="LIGA TOP EROPA",⏳ [07-01 03:00 WIB] West Ham - Nottingham |Live Event
+http://spacetv.my.id/experimen/us.mpd?id=296715&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
 
 <====================================>
 
