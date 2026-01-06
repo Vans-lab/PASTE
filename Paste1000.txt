@@ -182,161 +182,143 @@ http://spacetv.my.id/experimen/us.mpd?id=296715&type=dash|User-Agent=Mozilla/5.0
 
 <====================================>
 
-#EXTINF:-1 tvg-id="" tvg-name="07:00 Wib Knicks vs Pistons" group-title="LIVE MATCH", 07:00 Wib Knicks vs Pistons
+#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Tianjin vs Beijing Enterprises" group-title="LIVE SPORTS", 18:35 Wib Tianjin vs Beijing Enterprises
+https://play7ba.peodlc.com/live/201_4434553_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Shanxi vs Sichuan" group-title="LIVE SPORTS", 18:35 Wib Shanxi vs Sichuan
+https://play7ba.peodlc.com/live/201_4434552_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Ningbo vs Beijing" group-title="LIVE SPORTS", 18:35 Wib Ningbo vs Beijing
+https://play7ba.peodlc.com/live/201_4434548_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Fujian vs Shandong" group-title="LIVE SPORTS", 18:35 Wib Fujian vs Shandong
+https://play7ba.peodlc.com/live/201_4434547_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Guangzhou vs Xinjiang" group-title="LIVE SPORTS", 18:35 Wib Guangzhou vs Xinjiang
+https://play7ba.peodlc.com/live/201_4434549_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Jilin vs Jiangsu" group-title="LIVE SPORTS", 18:35 Wib Jilin vs Jiangsu
+https://play7ba.peodlc.com/live/201_4434550_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Tongxi vs Liaoning" group-title="LIVE SPORTS", 18:35 Wib Tongxi vs Liaoning
+https://play7ba.peodlc.com/live/201_4434551_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="20:00 Wib Al Nasr Dubai vs Sharjah" group-title="LIVE SPORTS", 20:00 Wib Al Nasr Dubai vs Sharjah
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:30 Wib Bulls vs Celtics" group-title="LIVE MATCH", 07:30 Wib Bulls vs Celtics
+#EXTINF:-1 tvg-id="" tvg-name="21:00 Wib Pisa vs Como" group-title="LIVE SPORTS", 21:00 Wib Pisa vs Como
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:30 Wib Hawks vs Raptors" group-title="LIVE MATCH", 07:30 Wib Hawks vs Raptors
-https://play7ba.peodlc.com/live/201_4355550_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:00 Wib Suns vs Rockets" group-title="LIVE MATCH", 08:00 Wib Suns vs Rockets
-https://play7ba.peodlc.com/live/201_4355551_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:00 Wib Hornets vs Thunder" group-title="LIVE MATCH", 08:00 Wib Hornets vs Thunder
-https://play7ba.peodlc.com/live/201_4355552_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:30 Wib Nuggets vs 76ers" group-title="LIVE MATCH", 08:30 Wib Nuggets vs 76ers
-https://play7ba.peodlc.com/live/201_4355554_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="10:00 Wib Jazz vs Trail Blazers" group-title="LIVE MATCH", 10:00 Wib Jazz vs Trail Blazers
-https://play7ba.peodlc.com/live/201_4355553_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="10:00 Wib Warriors vs Clippers" group-title="LIVE MATCH", 10:00 Wib Warriors vs Clippers
-https://play7ba.peodlc.com/live/201_4355555_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:00 Wib Melbourne City vs Brisbane Roar" group-title="LIVE MATCH", 15:00 Wib Melbourne City vs Brisbane Roar
+#EXTINF:-1 tvg-id="" tvg-name="22:45 Wib Abu Dhabi United vs Baniyas" group-title="LIVE SPORTS", 22:45 Wib Abu Dhabi United vs Baniyas
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Ningbo vs Beijing" group-title="LIVE MATCH", 18:35 Wib Ningbo vs Beijing
+#EXTINF:-1 tvg-id="" tvg-name="00:00 Wib Lecce vs Roma" group-title="LIVE SPORTS", 00:00 Wib Lecce vs Roma
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Fujian vs Shandong" group-title="LIVE MATCH", 18:35 Wib Fujian vs Shandong
+#EXTINF:-1 tvg-id="" tvg-name="00:45 Wib Fenerbahce vs Olympiacos" group-title="LIVE SPORTS", 00:45 Wib Fenerbahce vs Olympiacos
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Guangzhou vs Xinjiang" group-title="LIVE MATCH", 18:35 Wib Guangzhou vs Xinjiang
+#EXTINF:-1 tvg-id="" tvg-name="01:00 Wib Granada vs Rayo Vallecano" group-title="LIVE SPORTS", 01:00 Wib Granada vs Rayo Vallecano
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Jilin vs Jiangsu" group-title="LIVE MATCH", 18:35 Wib Jilin vs Jiangsu
+#EXTINF:-1 tvg-id="" tvg-name="01:30 Wib Monaco vs Partizan Belgrade" group-title="LIVE SPORTS", 01:30 Wib Monaco vs Partizan Belgrade
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Tongxi vs Liaoning" group-title="LIVE MATCH", 18:35 Wib Tongxi vs Liaoning
+#EXTINF:-1 tvg-id="" tvg-name="02:00 Wib Aswil vs Real Madrid" group-title="LIVE SPORTS", 02:00 Wib Aswil vs Real Madrid
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Tianjin vs Beijing Enterprises" group-title="LIVE MATCH", 18:35 Wib Tianjin vs Beijing Enterprises
+#EXTINF:-1 tvg-id="" tvg-name="02:00 Wib Red Star Belgrade vs Valencia" group-title="LIVE SPORTS", 02:00 Wib Red Star Belgrade vs Valencia
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Shanxi vs Sichuan" group-title="LIVE MATCH", 18:35 Wib Shanxi vs Sichuan
+#EXTINF:-1 tvg-id="" tvg-name="02:15 Wib Panathinaikos vs Milan" group-title="LIVE SPORTS", 02:15 Wib Panathinaikos vs Milan
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 Wib Al Nasr Dubai vs Sharjah" group-title="LIVE MATCH", 20:00 Wib Al Nasr Dubai vs Sharjah
+#EXTINF:-1 tvg-id="" tvg-name="02:30 Wib Bologna vs Seracillis" group-title="LIVE SPORTS", 02:30 Wib Bologna vs Seracillis
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="21:00 Wib Pisa vs Como" group-title="LIVE MATCH", 21:00 Wib Pisa vs Como
+#EXTINF:-1 tvg-id="" tvg-name="02:30 Wib Barcelona vs Maccabi Tel Aviv" group-title="LIVE SPORTS", 02:30 Wib Barcelona vs Maccabi Tel Aviv
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="22:45 Wib Abu Dhabi United vs Baniyas" group-title="LIVE MATCH", 22:45 Wib Abu Dhabi United vs Baniyas
+#EXTINF:-1 tvg-id="" tvg-name="02:45 Wib Sassuolo vs Juventus" group-title="LIVE SPORTS", 02:45 Wib Sassuolo vs Juventus
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="00:00 Wib Lecce vs Roma" group-title="LIVE MATCH", 00:00 Wib Lecce vs Roma
+#EXTINF:-1 tvg-id="" tvg-name="03:00 Wib West Ham United vs Nottingham Forest" group-title="LIVE SPORTS", 03:00 Wib West Ham United vs Nottingham Forest
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="00:45 Wib Fenerbahce vs Olympiacos" group-title="LIVE MATCH", 00:45 Wib Fenerbahce vs Olympiacos
+#EXTINF:-1 tvg-id="" tvg-name="03:00 Wib Sporting Cp vs Guimarães" group-title="LIVE SPORTS", 03:00 Wib Sporting Cp vs Guimarães
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:00 Wib Granada vs Rayo Vallecano" group-title="LIVE MATCH", 01:00 Wib Granada vs Rayo Vallecano
+#EXTINF:-1 tvg-id="" tvg-name="07:00 Wib Cavaliers vs Pacers" group-title="LIVE SPORTS", 07:00 Wib Cavaliers vs Pacers
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:30 Wib Monaco vs Partizan Belgrade" group-title="LIVE MATCH", 01:30 Wib Monaco vs Partizan Belgrade
+#EXTINF:-1 tvg-id="" tvg-name="07:00 Wib Magic vs Wizards" group-title="LIVE SPORTS", 07:00 Wib Magic vs Wizards
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:00 Wib Aswil vs Real Madrid" group-title="LIVE MATCH", 02:00 Wib Aswil vs Real Madrid
+#EXTINF:-1 tvg-id="" tvg-name="08:00 Wib Heat vs Timberwolves" group-title="LIVE SPORTS", 08:00 Wib Heat vs Timberwolves
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:00 Wib Red Star Belgrade vs Valencia" group-title="LIVE MATCH", 02:00 Wib Red Star Belgrade vs Valencia
+#EXTINF:-1 tvg-id="" tvg-name="08:00 Wib Spurs vs Grizzlies" group-title="LIVE SPORTS", 08:00 Wib Spurs vs Grizzlies
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:15 Wib Panathinaikos vs Milan" group-title="LIVE MATCH", 02:15 Wib Panathinaikos vs Milan
+#EXTINF:-1 tvg-id="" tvg-name="08:00 Wib Lakers vs Pelicans" group-title="LIVE SPORTS", 08:00 Wib Lakers vs Pelicans
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:30 Wib Barcelona vs Maccabi Tel Aviv" group-title="LIVE MATCH", 02:30 Wib Barcelona vs Maccabi Tel Aviv
+#EXTINF:-1 tvg-id="" tvg-name="11:00 Wib Mavericks vs Kings" group-title="LIVE SPORTS", 11:00 Wib Mavericks vs Kings
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:30 Wib Bologna vs Seracillis" group-title="LIVE MATCH", 02:30 Wib Bologna vs Seracillis
+#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Qingdao vs Shanghai" group-title="LIVE SPORTS", 18:35 Wib Qingdao vs Shanghai
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:45 Wib Sassuolo vs Juventus" group-title="LIVE MATCH", 02:45 Wib Sassuolo vs Juventus
+#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Guangdong vs Shenzhen" group-title="LIVE SPORTS", 18:35 Wib Guangdong vs Shenzhen
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:00 Wib West Ham United vs Nottingham Forest" group-title="LIVE MATCH", 03:00 Wib West Ham United vs Nottingham Forest
+#EXTINF:-1 tvg-id="" tvg-name="20:00 Wib Kalba United vs Dubai Prayers" group-title="LIVE SPORTS", 20:00 Wib Kalba United vs Dubai Prayers
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:00 Wib Sporting Cp vs Guimarães" group-title="LIVE MATCH", 03:00 Wib Sporting Cp vs Guimarães
+#EXTINF:-1 tvg-id="" tvg-name="22:45 Wib Bata vs Dubai Nationals" group-title="LIVE SPORTS", 22:45 Wib Bata vs Dubai Nationals
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:00 Wib Cavaliers vs Pacers" group-title="LIVE MATCH", 07:00 Wib Cavaliers vs Pacers
+#EXTINF:-1 tvg-id="" tvg-name="00:30 Wib Istanbul Efes vs Paris" group-title="LIVE SPORTS", 00:30 Wib Istanbul Efes vs Paris
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:00 Wib Magic vs Wizards" group-title="LIVE MATCH", 07:00 Wib Magic vs Wizards
+#EXTINF:-1 tvg-id="" tvg-name="00:30 Wib Napoli vs Verona" group-title="LIVE SPORTS", 00:30 Wib Napoli vs Verona
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:00 Wib Heat vs Timberwolves" group-title="LIVE MATCH", 08:00 Wib Heat vs Timberwolves
+#EXTINF:-1 tvg-id="" tvg-name="00:30 Wib Bologna vs Atalanta" group-title="LIVE SPORTS", 00:30 Wib Bologna vs Atalanta
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:00 Wib Spurs vs Grizzlies" group-title="LIVE MATCH", 08:00 Wib Spurs vs Grizzlies
+#EXTINF:-1 tvg-id="" tvg-name="02:00 Wib Barcelona vs Athletic Bilbao" group-title="LIVE SPORTS", 02:00 Wib Barcelona vs Athletic Bilbao
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:00 Wib Lakers vs Pelicans" group-title="LIVE MATCH", 08:00 Wib Lakers vs Pelicans
+#EXTINF:-1 tvg-id="" tvg-name="02:30 Wib Crystal Palace vs Aston Villa" group-title="LIVE SPORTS", 02:30 Wib Crystal Palace vs Aston Villa
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="11:00 Wib Mavericks vs Kings" group-title="LIVE MATCH", 11:00 Wib Mavericks vs Kings
+#EXTINF:-1 tvg-id="" tvg-name="02:30 Wib Bayern Munich vs Baskonia" group-title="LIVE SPORTS", 02:30 Wib Bayern Munich vs Baskonia
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Qingdao vs Shanghai" group-title="LIVE MATCH", 18:35 Wib Qingdao vs Shanghai
+#EXTINF:-1 tvg-id="" tvg-name="02:30 Wib Manchester City vs Brighton" group-title="LIVE SPORTS", 02:30 Wib Manchester City vs Brighton
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Guangdong vs Shenzhen" group-title="LIVE MATCH", 18:35 Wib Guangdong vs Shenzhen
+#EXTINF:-1 tvg-id="" tvg-name="02:30 Wib Fulham vs Chelsea" group-title="LIVE SPORTS", 02:30 Wib Fulham vs Chelsea
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 Wib Kalba United vs Dubai Prayers" group-title="LIVE MATCH", 20:00 Wib Kalba United vs Dubai Prayers
+#EXTINF:-1 tvg-id="" tvg-name="02:30 Wib Everton vs Wolves" group-title="LIVE SPORTS", 02:30 Wib Everton vs Wolves
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="22:45 Wib Bata vs Dubai Nationals" group-title="LIVE MATCH", 22:45 Wib Bata vs Dubai Nationals
+#EXTINF:-1 tvg-id="" tvg-name="02:30 Wib Brentford vs Sunderland" group-title="LIVE SPORTS", 02:30 Wib Brentford vs Sunderland
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="00:30 Wib Napoli vs Verona" group-title="LIVE MATCH", 00:30 Wib Napoli vs Verona
+#EXTINF:-1 tvg-id="" tvg-name="02:30 Wib Bournemouth vs Tottenham" group-title="LIVE SPORTS", 02:30 Wib Bournemouth vs Tottenham
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="00:30 Wib Bologna vs Atalanta" group-title="LIVE MATCH", 00:30 Wib Bologna vs Atalanta
+#EXTINF:-1 tvg-id="" tvg-name="02:45 Wib Parma vs Inter Milan" group-title="LIVE SPORTS", 02:45 Wib Parma vs Inter Milan
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="00:30 Wib Istanbul Efes vs Paris" group-title="LIVE MATCH", 00:30 Wib Istanbul Efes vs Paris
+#EXTINF:-1 tvg-id="" tvg-name="02:45 Wib Torino vs Udinese" group-title="LIVE SPORTS", 02:45 Wib Torino vs Udinese
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:00 Wib Barcelona vs Athletic Bilbao" group-title="LIVE MATCH", 02:00 Wib Barcelona vs Athletic Bilbao
+#EXTINF:-1 tvg-id="" tvg-name="02:45 Wib Lazio vs Fiorentina" group-title="LIVE SPORTS", 02:45 Wib Lazio vs Fiorentina
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:30 Wib Bayern Munich vs Baskonia" group-title="LIVE MATCH", 02:30 Wib Bayern Munich vs Baskonia
+#EXTINF:-1 tvg-id="" tvg-name="03:00 Wib Benfica vs Braga" group-title="LIVE SPORTS", 03:00 Wib Benfica vs Braga
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:30 Wib Manchester City vs Brighton" group-title="LIVE MATCH", 02:30 Wib Manchester City vs Brighton
+#EXTINF:-1 tvg-id="" tvg-name="03:15 Wib Burnley vs Manchester United" group-title="LIVE SPORTS", 03:15 Wib Burnley vs Manchester United
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:30 Wib Fulham vs Chelsea" group-title="LIVE MATCH", 02:30 Wib Fulham vs Chelsea
+#EXTINF:-1 tvg-id="" tvg-name="03:15 Wib Newcastle United vs Leeds United" group-title="LIVE SPORTS", 03:15 Wib Newcastle United vs Leeds United
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:30 Wib Everton vs Wolves" group-title="LIVE MATCH", 02:30 Wib Everton vs Wolves
+#EXTINF:-1 tvg-id="" tvg-name="07:00 Wib Nuggets vs Celtics" group-title="LIVE SPORTS", 07:00 Wib Nuggets vs Celtics
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:30 Wib Brentford vs Sunderland" group-title="LIVE MATCH", 02:30 Wib Brentford vs Sunderland
+#EXTINF:-1 tvg-id="" tvg-name="07:00 Wib Wizards vs 76ers" group-title="LIVE SPORTS", 07:00 Wib Wizards vs 76ers
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:30 Wib Bournemouth vs Tottenham" group-title="LIVE MATCH", 02:30 Wib Bournemouth vs Tottenham
+#EXTINF:-1 tvg-id="" tvg-name="07:00 Wib Bulls vs Pistons" group-title="LIVE SPORTS", 07:00 Wib Bulls vs Pistons
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:30 Wib Crystal Palace vs Aston Villa" group-title="LIVE MATCH", 02:30 Wib Crystal Palace vs Aston Villa
+#EXTINF:-1 tvg-id="" tvg-name="07:00 Wib Raptors vs Hornets" group-title="LIVE SPORTS", 07:00 Wib Raptors vs Hornets
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:45 Wib Parma vs Inter Milan" group-title="LIVE MATCH", 02:45 Wib Parma vs Inter Milan
+#EXTINF:-1 tvg-id="" tvg-name="07:30 Wib Clippers vs Knicks" group-title="LIVE SPORTS", 07:30 Wib Clippers vs Knicks
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:45 Wib Torino vs Udinese" group-title="LIVE MATCH", 02:45 Wib Torino vs Udinese
+#EXTINF:-1 tvg-id="" tvg-name="07:30 Wib Magic vs Nets" group-title="LIVE SPORTS", 07:30 Wib Magic vs Nets
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:45 Wib Lazio vs Fiorentina" group-title="LIVE MATCH", 02:45 Wib Lazio vs Fiorentina
+#EXTINF:-1 tvg-id="" tvg-name="07:30 Wib Pelicans vs Hawks" group-title="LIVE SPORTS", 07:30 Wib Pelicans vs Hawks
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:00 Wib Benfica vs Braga" group-title="LIVE MATCH", 03:00 Wib Benfica vs Braga
+#EXTINF:-1 tvg-id="" tvg-name="08:00 Wib Jazz vs Thunder" group-title="LIVE SPORTS", 08:00 Wib Jazz vs Thunder
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:15 Wib Burnley vs Manchester United" group-title="LIVE MATCH", 03:15 Wib Burnley vs Manchester United
+#EXTINF:-1 tvg-id="" tvg-name="08:00 Wib Suns vs Grizzlies" group-title="LIVE SPORTS", 08:00 Wib Suns vs Grizzlies
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:15 Wib Newcastle United vs Leeds United" group-title="LIVE MATCH", 03:15 Wib Newcastle United vs Leeds United
+#EXTINF:-1 tvg-id="" tvg-name="09:30 Wib Lakers vs Spurs" group-title="LIVE SPORTS", 09:30 Wib Lakers vs Spurs
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:00 Wib Wizards vs 76ers" group-title="LIVE MATCH", 07:00 Wib Wizards vs 76ers
+#EXTINF:-1 tvg-id="" tvg-name="10:00 Wib Rockets vs Trail Blazers" group-title="LIVE SPORTS", 10:00 Wib Rockets vs Trail Blazers
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:00 Wib Bulls vs Pistons" group-title="LIVE MATCH", 07:00 Wib Bulls vs Pistons
+#EXTINF:-1 tvg-id="" tvg-name="10:00 Wib Bucks vs Warriors" group-title="LIVE SPORTS", 10:00 Wib Bucks vs Warriors
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:00 Wib Raptors vs Hornets" group-title="LIVE MATCH", 07:00 Wib Raptors vs Hornets
+#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Sichuan vs Beijing Enterprises" group-title="LIVE SPORTS", 18:35 Wib Sichuan vs Beijing Enterprises
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:00 Wib Nuggets vs Celtics" group-title="LIVE MATCH", 07:00 Wib Nuggets vs Celtics
+#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Shanxi vs Tianjin" group-title="LIVE SPORTS", 18:35 Wib Shanxi vs Tianjin
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:30 Wib Clippers vs Knicks" group-title="LIVE MATCH", 07:30 Wib Clippers vs Knicks
+#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Jilin vs Fujian" group-title="LIVE SPORTS", 18:35 Wib Jilin vs Fujian
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:30 Wib Magic vs Nets" group-title="LIVE MATCH", 07:30 Wib Magic vs Nets
+#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Guangzhou vs Zhejiang" group-title="LIVE SPORTS", 18:35 Wib Guangzhou vs Zhejiang
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:30 Wib Pelicans vs Hawks" group-title="LIVE MATCH", 07:30 Wib Pelicans vs Hawks
+#EXTINF:-1 tvg-id="" tvg-name="20:00 Wib Al Fujairah vs Khor Fakkan" group-title="LIVE SPORTS", 20:00 Wib Al Fujairah vs Khor Fakkan
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:00 Wib Jazz vs Thunder" group-title="LIVE MATCH", 08:00 Wib Jazz vs Thunder
+#EXTINF:-1 tvg-id="" tvg-name="20:00 Wib Abu Dhabi Peninsula vs Ajman" group-title="LIVE SPORTS", 20:00 Wib Abu Dhabi Peninsula vs Ajman
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:00 Wib Suns vs Grizzlies" group-title="LIVE MATCH", 08:00 Wib Suns vs Grizzlies
+#EXTINF:-1 tvg-id="" tvg-name="21:55 Wib Riyadh Crescent vs Hashem" group-title="LIVE SPORTS", 21:55 Wib Riyadh Crescent vs Hashem
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="09:30 Wib Lakers vs Spurs" group-title="LIVE MATCH", 09:30 Wib Lakers vs Spurs
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="10:00 Wib Rockets vs Trail Blazers" group-title="LIVE MATCH", 10:00 Wib Rockets vs Trail Blazers
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="10:00 Wib Bucks vs Warriors" group-title="LIVE MATCH", 10:00 Wib Bucks vs Warriors
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Sichuan vs Beijing Enterprises" group-title="LIVE MATCH", 18:35 Wib Sichuan vs Beijing Enterprises
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Jilin vs Fujian" group-title="LIVE MATCH", 18:35 Wib Jilin vs Fujian
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Shanxi vs Tianjin" group-title="LIVE MATCH", 18:35 Wib Shanxi vs Tianjin
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:35 Wib Guangzhou vs Zhejiang" group-title="LIVE MATCH", 18:35 Wib Guangzhou vs Zhejiang
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 Wib Al Fujairah vs Khor Fakkan" group-title="LIVE MATCH", 20:00 Wib Al Fujairah vs Khor Fakkan
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 Wib Abu Dhabi Peninsula vs Ajman" group-title="LIVE MATCH", 20:00 Wib Abu Dhabi Peninsula vs Ajman
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="21:55 Wib Riyadh Crescent vs Hashem" group-title="LIVE MATCH", 21:55 Wib Riyadh Crescent vs Hashem
-https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="22:45 Wib Al Khafra vs Al Ain" group-title="LIVE MATCH", 22:45 Wib Al Khafra vs Al Ain
+#EXTINF:-1 tvg-id="" tvg-name="22:45 Wib Al Khafra vs Al Ain" group-title="LIVE SPORTS", 22:45 Wib Al Khafra vs Al Ain
 https://bejosengtaksuwun.my.id/voucheran/bejolangganan.m3u8
 
 ######################################################################TV CHANNELS#############################################################################################################################################
