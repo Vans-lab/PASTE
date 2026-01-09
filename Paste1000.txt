@@ -23,6 +23,18 @@ https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4100248485967061_AiHD.m3u8?txSecret=2077e77678f5aa4ec75ce730d0bdcf45&txTime=695EE570
 
 =@============PROLIGA=============
+#EXTINF:-1 group-title="PROLIGA 2026" tvg-id="" tvg-logo="https://img.freepik.com/free-vector/live-now-streaming-news-background_1017-14196.jpg",Proliga 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79de825cc4074f4e2d0f5e62e401713d:aaa4eca2649c47572574cb8c172dfa10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/20240/file/drm/dash/stream.mpd?hdntl=exp=1767962452~acl=%2fstream%2f20240%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=196651902~data=hdntl~hmac=08dd60f47b7063fb8e9698afa99f3d35746d1307fde08e663eb598ea90ddd65f
+#EXTINF:-1 group-logo="" group-title="PROLIGA 2026" tvg-id="" tvg-logo="https://img.freepik.com/free-vector/live-now-streaming-news-background_1017-14196.jpg",Proliga 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79de825cc4074f4e2d0f5e62e401713d:aaa4eca2649c47572574cb8c172dfa10
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/20240/file/drm/dash/stream.mpd?hdntl=exp=1767962452~acl=%2fstream%2f20240%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=196651902~data=hdntl~hmac=08dd60f47b7063fb8e9698afa99f3d35746d1307fde08e663eb598ea90ddd65f|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/qtvjokowi.php/widevine.mpd?id=20240&type=drm&token=TpT9CDfX8N4nHpBQaioJrZg0rj1CHAw8
+
 #EXTINF:-1 group-title="PROLIGA 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/65/Logo_Proliga.png/250px-Logo_Proliga.png",PROLIGA 1
 https://tv.casindo.org/hls/50/50.m3u8
 
