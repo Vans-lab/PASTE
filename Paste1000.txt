@@ -14,13 +14,11 @@ https://tv.casindo.org/hls/49/49.m3u8
 
 
 #EXTINF:-1 group-title="BWF MALAYSIA OPEN 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3cjhzsHbNYBWr9uPl_G9J0V7fN4etm-Gh5Q&s",COURT 1
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4100247970076061_AiHD.m3u8?txSecret=23d03266207c939adecd7115e321062f&txTime=695EE570
+https://b188f789c84dcab4371c6e06ad24ca1e.v.smtcdns.net/play.cbalive.weibisai.com/live/4109065585652061_AiHD.m3u8?txSecret=6ebed440d6238b28f9542451eb704a84&txTime=6961CEC0
 
 #EXTINF:-1 group-title="BWF MALAYSIA OPEN 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3cjhzsHbNYBWr9uPl_G9J0V7fN4etm-Gh5Q&s",COURT 2
-https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4100248289807061_AiHD.m3u8?txSecret=d264bd7a6f742fe74339234c07e19a04&txTime=695EE570
+https://6016c12814103e2553f354492d71134e.v.smtcdns.net/play.cbalive.weibisai.com/live/4109065740311061_AiHD.m3u8?txSecret=b7d996a9cfc16c911f55da7252c68988&txTime=6961CEC0
 
-#EXTINF:-1 group-title="BWF MALAYSIA OPEN 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3cjhzsHbNYBWr9uPl_G9J0V7fN4etm-Gh5Q&s",COURT 3
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4100248485967061_AiHD.m3u8?txSecret=2077e77678f5aa4ec75ce730d0bdcf45&txTime=695EE570
 
 =@============PROLIGA=============
 #EXTINF:-1 group-title="PROLIGA 2026" tvg-id="" tvg-logo="https://img.freepik.com/free-vector/live-now-streaming-news-background_1017-14196.jpg",Proliga 2026
