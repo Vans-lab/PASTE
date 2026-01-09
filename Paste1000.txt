@@ -25,8 +25,86 @@ https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com
 =@============PROLIGA=============
 #EXTINF:-1 group-title="PROLIGA 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/65/Logo_Proliga.png/250px-Logo_Proliga.png",PROLIGA 1
 https://tv.casindo.org/hls/50/50.m3u8
+
 #EXTINF:-1 group-title="PROLIGA 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/65/Logo_Proliga.png/250px-Logo_Proliga.png",PROLIGA
 http://filex.me:8080//live/03317143343/abdulsalam/302279.ts
+
+#EXTINF:-1 group-title="PROLIGA 2026" group-logo="https://corporate.bwfbadminton.com/wp-content/uploads/2017/09/BWF-Logo-Text-Sized.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_Voli_TV.png",VOLI TV
+http://tv.casindo.org/hls/2/2.m3u8
+
+#EXTINF:-1 group-title="PROLIGA 2026" group-logo="https://corporate.bwfbadminton.com/wp-content/uploads/2017/09/BWF-Logo-Text-Sized.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_Voli_TV.png",VOLI TV 720P
+#https://kingtvada.diskon.com/Gas/Kt.php?id=51
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/edhyku/edycmfa/refs/heads/main/PlaylistOTT/Logo%20Super%20League.png" group-title="BRI Super League",INDOSIAR DIGITAL SD (BRI Super League)
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Indos.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/edhyku/edycmfa/refs/heads/main/PlaylistOTT/Logo%20Super%20League.png" group-title="BRI Super League",INDOSIAR DIGITAL HD (BRI Super League)
+http://tv.casindo.org/hls/56/56.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/edhyku/edycmfa/refs/heads/main/PlaylistOTT/Logo%20Super%20League.png" group-title="BRI Super League",INDOSIAR DIGITAL 720 VIP
+https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C8-1Z2Rp7JvQhncgXXsV4UVM/ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="BRI Super League",INDOSIAR (VDO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+#EXTINF:-1 group-logo="https://pngimg.com/uploads/manchester_united/manchester_united_PNG26.png" group-title="KING MU"
+
+#EXTINF:-1 tvg-id="MUTV.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="KING MU",KING 👑 MUTV 👑
+https://get.perfecttv.net/mutv.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="KING MU",FUBO SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="KING MU",FUBO SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+
+#EXTINF:-1 group-title="KING MU" tvg-logo="https://iili.io/FtSr5Mb.jpg",TNT SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 group-title="KING MU" tvg-logo="https://iili.io/FtSr5Mb.jpg",HUB PREMIER 1
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
+
+#EXTINF:-1 group-title="KING MU" tvg-logo="https://iili.io/FtSr5Mb.jpg",ASTRO PREMIER LEAGUE
+https://freeiptv2026.tsender57.workers.dev/live/astro_pl?token=MTc2OTEzMzE3OC5vZ2lla29l
+
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/2025_Africa_Cup_of_Nations_logo.png" group-title="AFRICA CUP OF NATIONS"
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/2025_Africa_Cup_of_Nations_logo.png" group-title="AFRICA CUP OF NATIONS",CHANNEL 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/2025_Africa_Cup_of_Nations_logo.png" group-title="AFRICA CUP OF NATIONS",CHANNEL 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/2025_Africa_Cup_of_Nations_logo.png" group-title="AFRICA CUP OF NATIONS",CHANNEL 3
+http://192.142.36.128:8080/Germanaguilar/Germanaguilar2024/99051?token=TxBbUEFZGgNDDVoGVQECDAYCCwAGVlNWVwJRBw0MVlAFC1YBCggAXQIbFRREQRFcVwtsWFNECwlYB1EHGRoQElFAbFhWEwIbUA8KAAEAQRUUElpcUkQLAVYBUw4BAFVUAx4RQVtVGgNDDQAHAwJBFRQDS0VSFF9RDWgAU0NRBgQWCF1EXl0UGw5XZlJSWAJXUkQJEwZEHRIIRBQUD1YQDVgeEVNbRUpYFVwbDFlAD1UaRFBeQghFQhgVXhR8fEdNFldLRVdfS1AOVxsMFUEQGxpEWkJoFFRDFUUBV1hdF0MOEAMTHhNVWBlmWllZWwZaQg9cX0RECxJQFUgUWFcLCEBdQW5CWFwbWxsNDwYBUxtL
 
 
 ========= LIVE EVENT =========
