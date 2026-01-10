@@ -7,17 +7,13 @@
 #EXTINF:-1 group-title="VOLI KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd63b1Lf9T4IL97RMzSeBjFbyS6U-o45BwYw&s",IBK ALTOS VS RED SPARKS
 #https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/59886vkmwkcvtitlhvnayjax920e4y6toayc/playlist.m3u8?hdnts=st=1767868551~exp=1767900961~acl=*/59886vkmwkcvtitlhvnayjax920e4y6toayc/*~hmac=5a46f7dfc643db8149933ed8f6a7b9273b5457221cee6568372dcd1d9e58a237
 
+#EXTINF:-1 group-title="BWF MALAYSIA OPEN 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3cjhzsHbNYBWr9uPl_G9J0V7fN4etm-Gh5Q&s",COURT 1
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4100252188020061_AiHD.m3u8?txSecret=73a748ea2746959f47008d5d8d757518&txTime=6962E800
+
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://bwfbadminton.com/wp-content/uploads/2022/05/BWF-red-banner-972x406-1-613x290.jpg" group-title="BWF MALAYSIA OPEN 2026", 08:00 6-11 Januari 2026
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 https://shorter.me/GdmBI
 https://tv.casindo.org/hls/49/49.m3u8
-
-
-#EXTINF:-1 group-title="BWF MALAYSIA OPEN 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3cjhzsHbNYBWr9uPl_G9J0V7fN4etm-Gh5Q&s",COURT 1
-https://b188f789c84dcab4371c6e06ad24ca1e.v.smtcdns.net/play.cbalive.weibisai.com/live/4109065585652061_AiHD.m3u8?txSecret=6ebed440d6238b28f9542451eb704a84&txTime=6961CEC0
-
-#EXTINF:-1 group-title="BWF MALAYSIA OPEN 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3cjhzsHbNYBWr9uPl_G9J0V7fN4etm-Gh5Q&s",COURT 2
-https://6016c12814103e2553f354492d71134e.v.smtcdns.net/play.cbalive.weibisai.com/live/4109065740311061_AiHD.m3u8?txSecret=b7d996a9cfc16c911f55da7252c68988&txTime=6961CEC0
 
 
 =@============PROLIGA=============
