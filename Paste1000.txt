@@ -60,39 +60,29 @@ https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C8-1Z2Rp7JvQhncgXXsV4UVM/ts
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
-===========erorr=====
-#EXTINF:-1 group-title="BRI Super League"  tvg-logo="https://thumbor.prod.vidiocdn.com/PHV9N6KXPk1NUNLlANF996glEzc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=19354&type=direm&token=tmypkNSo9cvr2W32BwBgDbHhiXQEOXnO
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="BRI Super League" tvg-logo="https://thumbor.prod.vidiocdn.com/dv7nS9JhsGwLf_aPjT7fsoHGg1E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4832276/58ccd5.jpg" ch-number="2", PERSEBAYA Surabaya vs Malut United FC - BRI Super League
+http://archertv.my.id/atraksi/index.mpd?id=19354&type=dash&token=tmypkNSo9cvr2W32BwBgDbHhiXQEOXnO|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=19385&type=direm&token=tmypkNSo9cvr2W32BwBgDbHhiXQEOXnO
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="BRI Super League" tvg-logo="https://thumbor.prod.vidiocdn.com/k79R4awxXC48scFuARnU1Elt1C4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4832288/ea32a3.jpg" ch-number="3", Madura United FC vs PSIM Jogja - BRI Super League
+http://archertv.my.id/atraksi/index.mpd?id=19385&type=dash&token=tmypkNSo9cvr2W32BwBgDbHhiXQEOXnO|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=19988&type=direm&token=tmypkNSo9cvr2W32BwBgDbHhiXQEOXnO
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="BRI Super League" tvg-logo="https://thumbor.prod.vidiocdn.com/LiOpriwDDlPRvl8CQrnxiicPnMw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4832519/e9935d.jpg" ch-number="4", PERSIB vs PERSIJA - BRI Super League
+http://archertv.my.id/atraksi/index.mpd?id=19988&type=dash&token=tmypkNSo9cvr2W32BwBgDbHhiXQEOXnO|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=19353&type=direm&token=tmypkNSo9cvr2W32BwBgDbHhiXQEOXnO
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="BRI Super League" tvg-logo="https://thumbor.prod.vidiocdn.com/F91LP0PyciqvFQGmD-M7IofbRUs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4832536/4414f3.jpg" ch-number="5", Arema FC vs PERSIK Kediri - BRI Super League
+http://archertv.my.id/atraksi/index.mpd?id=19353&type=dash&token=tmypkNSo9cvr2W32BwBgDbHhiXQEOXnO|User-Agent=VidioPlayer/6.31.6
+========= TES=====
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="BRI Super League" tvg-logo="https://thumbor.prod.vidiocdn.com/dv7nS9JhsGwLf_aPjT7fsoHGg1E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4832276/58ccd5.jpg" ch-number="2", 1. PERSEBAYA Surabaya vs Malut United FC - BRI Super League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.110 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=205&type=direm&token=TpT9CDfX8N4nHpBQaioJrZg0rj1CHAw8
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="BRI Super League" tvg-logo="https://thumbor.prod.vidiocdn.com/0EtLHSeMBQjjEovgbfTOrZvnpU0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4832164/1d9b9b.jpg" ch-number="1", PERSITA vs Borneo FC Samarinda - BRI Super League
-http://archertv.my.id/atraksi/index.mpd?id=205&type=dash&token=TpT9CDfX8N4nHpBQaioJrZg0rj1CHAw8|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=19354&type=direm&token=TpT9CDfX8N4nHpBQaioJrZg0rj1CHAw8
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="BRI Super League" tvg-logo="https://thumbor.prod.vidiocdn.com/FpmAZK1Y927S7gI_7m83NAsJlgw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4832166/dc2812.jpg" ch-number="2", PSM Makassar vs Bali United FC - BRI Super League
-http://archertv.my.id/atraksi/index.mpd?id=19354&type=dash&token=TpT9CDfX8N4nHpBQaioJrZg0rj1CHAw8|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=19355&type=direm&token=TpT9CDfX8N4nHpBQaioJrZg0rj1CHAw8
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="BRI Super League" tvg-logo="https://thumbor.prod.vidiocdn.com/9kzQWmHea9gDZjy_0CYO_8tCxAY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4832275/694361.jpg" ch-number="3", Jelang Kick Off PERSEBAYA Surabaya vs Malut United FC - BRI Super League
-http://archertv.my.id/atraksi/index.mpd?id=19355&type=dash&token=TpT9CDfX8N4nHpBQaioJrZg0rj1CHAw8|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=19354&type=direm&token=TpT9CDfX8N4nHpBQaioJrZg0rj1CHAw8
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="BRI Super League" tvg-logo="https://thumbor.prod.vidiocdn.com/dv7nS9JhsGwLf_aPjT7fsoHGg1E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4832276/58ccd5.jpg" ch-number="4", PERSEBAYA Surabaya vs Malut United FC - BRI Super League
-http://archertv.my.id/atraksi/index.mpd?id=19354&type=dash&token=TpT9CDfX8N4nHpBQaioJrZg0rj1CHAw8|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=19385&type=direm&token=TpT9CDfX8N4nHpBQaioJrZg0rj1CHAw8
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="BRI Super League" tvg-logo="https://thumbor.prod.vidiocdn.com/k79R4awxXC48scFuARnU1Elt1C4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4832288/ea32a3.jpg" ch-number="5", Madura United FC vs PSIM Jogja - BRI Super League
-http://archertv.my.id/atraksi/index.mpd?id=19385&type=dash&token=TpT9CDfX8N4nHpBQaioJrZg0rj1CHAw8|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8a8158dfb4a4a0d85dbee672e11c7e4:4ca940fd2caabe479d2feef34c63d851
+https://nissa17.adptv.workers.dev/manifest.mpd?id=19354&type=dash
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
