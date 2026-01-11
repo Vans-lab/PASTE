@@ -54,35 +54,14 @@ http://tv.casindo.org/hls/56/56.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/edhyku/edycmfa/refs/heads/main/PlaylistOTT/Logo%20Super%20League.png" group-title="BRI Super League",INDOSIAR DIGITAL 720 VIP
 https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C8-1Z2Rp7JvQhncgXXsV4UVM/ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="BRI Super League",INDOSIAR (VDO)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=19354&type=direm&token=tmypkNSo9cvr2W32BwBgDbHhiXQEOXnO
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="BRI Super League" tvg-logo="https://thumbor.prod.vidiocdn.com/dv7nS9JhsGwLf_aPjT7fsoHGg1E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4832276/58ccd5.jpg" ch-number="2", PERSEBAYA Surabaya vs Malut United FC - BRI Super League
-http://archertv.my.id/atraksi/index.mpd?id=19354&type=dash&token=tmypkNSo9cvr2W32BwBgDbHhiXQEOXnO|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=19385&type=direm&token=tmypkNSo9cvr2W32BwBgDbHhiXQEOXnO
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="BRI Super League" tvg-logo="https://thumbor.prod.vidiocdn.com/k79R4awxXC48scFuARnU1Elt1C4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4832288/ea32a3.jpg" ch-number="3", Madura United FC vs PSIM Jogja - BRI Super League
-http://archertv.my.id/atraksi/index.mpd?id=19385&type=dash&token=tmypkNSo9cvr2W32BwBgDbHhiXQEOXnO|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=19988&type=direm&token=tmypkNSo9cvr2W32BwBgDbHhiXQEOXnO
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="BRI Super League" tvg-logo="https://thumbor.prod.vidiocdn.com/LiOpriwDDlPRvl8CQrnxiicPnMw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4832519/e9935d.jpg" ch-number="4", PERSIB vs PERSIJA - BRI Super League
-http://archertv.my.id/atraksi/index.mpd?id=19988&type=dash&token=tmypkNSo9cvr2W32BwBgDbHhiXQEOXnO|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=19353&type=direm&token=tmypkNSo9cvr2W32BwBgDbHhiXQEOXnO
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="BRI Super League" tvg-logo="https://thumbor.prod.vidiocdn.com/F91LP0PyciqvFQGmD-M7IofbRUs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4832536/4414f3.jpg" ch-number="5", Arema FC vs PERSIK Kediri - BRI Super League
-http://archertv.my.id/atraksi/index.mpd?id=19353&type=dash&token=tmypkNSo9cvr2W32BwBgDbHhiXQEOXnO|User-Agent=VidioPlayer/6.31.6
-========= TES=====
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="BRI Super League" tvg-logo="https://thumbor.prod.vidiocdn.com/dv7nS9JhsGwLf_aPjT7fsoHGg1E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4832276/58ccd5.jpg" ch-number="2", 1. PERSEBAYA Surabaya vs Malut United FC - BRI Super League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.110 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-logo="" group-title="BRI Super League" tvg-id="" tvg-logo="https://img.freepik.com/free-vector/live-now-streaming-news-background_1017-14196.jpg",Bri Super League
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b8a8158dfb4a4a0d85dbee672e11c7e4:4ca940fd2caabe479d2feef34c63d851
-https://nissa17.adptv.workers.dev/manifest.mpd?id=19354&type=dash
+#KODIPROP:inputstream.adaptive.license_key=95829a55b4b9fb4cef12069f92d7c233:9924312e846e312eb20c130c67d14eee
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19988/file/drm/dash/stream.mpd?hdntl=exp=1768131664~acl=%2fstream%2f19988%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19988%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19988%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f19988%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19988%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19988%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=199283843~data=hdntl~hmac=016005c8af935e2d77dbce0e314d7942265bae48b01237007eca289d934b32b7|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/LiOpriwDDlPRvl8CQrnxiicPnMw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4832519/e9935d.jpg" group-title="BRI Super League" group-logo="" tvg-id="",PERSIB vs PERSIJA - BRI Super League
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95829a55b4b9fb4cef12069f92d7c233:9924312e846e312eb20c130c67d14eee
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19988/file/drm/dash/stream.mpd?hdntl=exp=1768131664~acl=%2fstream%2f19988%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19988%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19988%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f19988%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19988%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19988%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=199283843~data=hdntl~hmac=016005c8af935e2d77dbce0e314d7942265bae48b01237007eca289d934b32b7|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 
 ################################################################
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/ycrncrx1/BRI.png" group-title="LIVE 10/01/26", 15:30 Persebaya Surabaya vs Malut United #APPLETV
