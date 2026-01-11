@@ -7,8 +7,12 @@
 #EXTINF:-1 group-title="VOLI KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd63b1Lf9T4IL97RMzSeBjFbyS6U-o45BwYw&s",IBK ALTOS VS RED SPARKS
 #https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/59886vkmwkcvtitlhvnayjax920e4y6toayc/playlist.m3u8?hdnts=st=1767868551~exp=1767900961~acl=*/59886vkmwkcvtitlhvnayjax920e4y6toayc/*~hmac=5a46f7dfc643db8149933ed8f6a7b9273b5457221cee6568372dcd1d9e58a237
 
-#EXTINF:-1 group-title="BWF MALAYSIA OPEN 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3cjhzsHbNYBWr9uPl_G9J0V7fN4etm-Gh5Q&s",COURT 1
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4100252188020061_AiHD.m3u8?txSecret=73a748ea2746959f47008d5d8d757518&txTime=6962E800
+#EXTINF:-1 group-title="BWF MALAYSIA OPEN 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3cjhzsHbNYBWr9uPl_G9J0V7fN4etm-Gh5Q&s",FINAL
+https://5b45098b7b841fa1192076b23cc3d29b.v.smtcdns.net/play.cbalive.weibisai.com/live/4100252443990061_AiHD.m3u8?txSecret=f6d57a2351feab798a61c5db6874bec1&txTime=696455A0
+
+#EXTINF:-1 group-title="BWF MALAYSIA OPEN 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3cjhzsHbNYBWr9uPl_G9J0V7fN4etm-Gh5Q&s",FINAL HD
+https://mobilelive-play.ysp.cctv.cn/ikotv/E9A9783AE1A93F739B0BC0542B5B13FA89339250756BE25709B3ADA1BB6BAC1EDCF48F2032348346CF55FF6069CA12A8C99185DD045ADAFB24159E31C7F73B8D2158586FCDDF9C65379894727CF7A09E517009DA4B0B0EA25A5CB624C027F8C7BE1038A1798FE97F63F18055C6AFDE40/2029772201_fhd.m3u8?svrtime=1768104014&pid=600215926&m3u8_with_time_tag=2&cdn=5201&revoi=&app_id=519748109&guid=mhaklnq9_dh9vvf6p8h5&ysign=9fca0c39c6d5dc758f52434c0b17afec&ytime=1768104014&ytype=1
+
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://bwfbadminton.com/wp-content/uploads/2022/05/BWF-red-banner-972x406-1-613x290.jpg" group-title="BWF MALAYSIA OPEN 2026", 08:00 6-11 Januari 2026
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
