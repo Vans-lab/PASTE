@@ -45,6 +45,13 @@ http://tv.casindo.org/hls/2/2.m3u8
 #EXTINF:-1 group-title="PROLIGA 2026" group-logo="https://corporate.bwfbadminton.com/wp-content/uploads/2017/09/BWF-Logo-Text-Sized.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_Voli_TV.png",VOLI TV 720P
 #https://kingtvada.diskon.com/Gas/Kt.php?id=51
 
+#############################################
+
+#EXTINF:-1 group-title="BRI Super League", Arema FC vs Persatuan sepak bola Indonesia Kediri
+https://live.vivo200.com/live/sd-1-4379362.m3u8?txSecret=4656587be8be8286957e8ba45bbf75b6&txTime=69639ED3
+#EXTINF:-1 group-title="BRI Super League", Persib Bandung vs Persatuan Sepakbola Indonesia Jakarta
+https://live.vivo200.com/live/sd-1-4379372.m3u8?txSecret=932c616ecdafbcf49058039de75452c8&txTime=69639ED3
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/edhyku/edycmfa/refs/heads/main/PlaylistOTT/Logo%20Super%20League.png" group-title="BRI Super League",INDOSIAR DIGITAL SD (BRI Super League)
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Indos.m3u8
 
