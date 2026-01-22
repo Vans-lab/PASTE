@@ -20,6 +20,13 @@ https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=z3gk3rAW6KxqSek
 #EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/LO-M34EOLRTPlZ8I7fK5k2apD2c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4839892/545327.jpg", Putri: Medan Falcons vs Jakarta Electric PLN Mobile
 https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=z3gk3rAW6KxqSekSX9Ix2ScJ33DcjMJi|User-Agent=VidioPlayer/6.31.6
 
+#EXTINF:-1 group-title="PROLIGA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/65/Logo_Proliga.png/250px-Logo_Proliga.png",PROLIGA HD
+http://aflaxtv.xyz:8080/F33848/cbd9779b/298550
+
+
+#EXTINF:-1 group-title="PROLIGA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/65/Logo_Proliga.png/250px-Logo_Proliga.png",PROLIGA 
+http://filex.me:8080//live/03317143343/abdulsalam/302279.ts
+
 #############################################
 
 
