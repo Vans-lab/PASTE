@@ -85,43 +85,43 @@ https://archertv.my.id/atraksi/vidx.mpd?id=19353&type=dash&token=267UGqcIHapfUvm
 =======ERROR Liga 2========
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19541&type=drm&token=267UGqcIHapfUvmlKvuF425bsGVrUnXc
-#EXTINF:-1 group-logo="" group-title=""CHAMPIONSHIP" tvg-logo="https://thumbor.prod.vidiocdn.com/BW8mvUrrIORgy-QpkziwnRkJRTU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848805/485020.jpg", Persikad vs FC Bekasi City
+#EXTINF:-1 group-logo="" group-title="CHAMPIONSHIP" tvg-logo="https://thumbor.prod.vidiocdn.com/BW8mvUrrIORgy-QpkziwnRkJRTU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848805/485020.jpg", Persikad vs FC Bekasi City
 https://archertv.my.id/atraksi/vidx.mpd?id=19541&type=dash&token=267UGqcIHapfUvmlKvuF425bsGVrUnXc|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19541&type=drm&token=267UGqcIHapfUvmlKvuF425bsGVrUnXc
-#EXTINF:-1 group-logo="" group-title=""CHAMPIONSHIP" tvg-logo="https://thumbor.prod.vidiocdn.com/dLhUjAgkWmaPeiwANrSynDuavOc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848806/eb489d.jpg", PSPS Pekanbaru vs Adhyaksa FC
+#EXTINF:-1 group-logo="" group-title="CHAMPIONSHIP" tvg-logo="https://thumbor.prod.vidiocdn.com/dLhUjAgkWmaPeiwANrSynDuavOc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848806/eb489d.jpg", PSPS Pekanbaru vs Adhyaksa FC
 https://archertv.my.id/atraksi/vidx.mpd?id=19541&type=dash&token=267UGqcIHapfUvmlKvuF425bsGVrUnXc|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19543&type=drm&token=267UGqcIHapfUvmlKvuF425bsGVrUnXc
-#EXTINF:-1 group-logo="" group-title=""CHAMPIONSHIP" tvg-logo="https://thumbor.prod.vidiocdn.com/Tpvo55h8uzM2H7Ve0HE-zxT0ugk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849260/a5b892.jpg", Persipura Jayapura vs PSS Sleman
+#EXTINF:-1 group-logo="" group-title="CHAMPIONSHIP" tvg-logo="https://thumbor.prod.vidiocdn.com/Tpvo55h8uzM2H7Ve0HE-zxT0ugk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849260/a5b892.jpg", Persipura Jayapura vs PSS Sleman
 https://archertv.my.id/atraksi/vidx.mpd?id=19543&type=dash&token=267UGqcIHapfUvmlKvuF425bsGVrUnXc|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19542&type=drm&token=267UGqcIHapfUvmlKvuF425bsGVrUnXc
-#EXTINF:-1 group-logo="" group-title=""CHAMPIONSHIP" tvg-logo="https://thumbor.prod.vidiocdn.com/93RtExA1wKoLlinv6ttMng2vgH4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849266/d601e2.jpg", Sriwijaya FC vs Sumsel United
+#EXTINF:-1 group-logo="" group-title="CHAMPIONSHIP" tvg-logo="https://thumbor.prod.vidiocdn.com/93RtExA1wKoLlinv6ttMng2vgH4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849266/d601e2.jpg", Sriwijaya FC vs Sumsel United
 https://archertv.my.id/atraksi/vidx.mpd?id=19542&type=dash&token=267UGqcIHapfUvmlKvuF425bsGVrUnXc|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19584&type=drm&token=267UGqcIHapfUvmlKvuF425bsGVrUnXc
-#EXTINF:-1 group-logo="" group-title=""CHAMPIONSHIP" tvg-logo="https://thumbor.prod.vidiocdn.com/5Pm5znB5-ADcsnXvpP7HuJ6XYTk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849263/06ed55.jpg", Persekat Tegal vs Persiraja Banda Aceh
+#EXTINF:-1 group-logo="" group-title="CHAMPIONSHIP" tvg-logo="https://thumbor.prod.vidiocdn.com/5Pm5znB5-ADcsnXvpP7HuJ6XYTk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849263/06ed55.jpg", Persekat Tegal vs Persiraja Banda Aceh
 https://archertv.my.id/atraksi/vidx.mpd?id=19584&type=dash&token=267UGqcIHapfUvmlKvuF425bsGVrUnXc|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19584&type=drm&token=267UGqcIHapfUvmlKvuF425bsGVrUnXc
-#EXTINF:-1 group-logo="" group-title=""CHAMPIONSHIP" tvg-logo="https://thumbor.prod.vidiocdn.com/7W8ARxg3ZtgF8rW4oU2noUGj-n0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849264/3bd9ff.jpg", PSIS Semarang vs Persela Lamongan
+#EXTINF:-1 group-logo="" group-title="CHAMPIONSHIP" tvg-logo="https://thumbor.prod.vidiocdn.com/7W8ARxg3ZtgF8rW4oU2noUGj-n0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849264/3bd9ff.jpg", PSIS Semarang vs Persela Lamongan
 https://archertv.my.id/atraksi/vidx.mpd?id=19584&type=dash&token=267UGqcIHapfUvmlKvuF425bsGVrUnXc|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19543&type=drm&token=267UGqcIHapfUvmlKvuF425bsGVrUnXc
-#EXTINF:-1 group-logo="" group-title=""CHAMPIONSHIP" tvg-logo="https://thumbor.prod.vidiocdn.com/z1uht7O3RYiYqwUQGnuRa3fu0Uk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849261/18b088.jpg", Persiba Balikpapan vs PS. Barito Putera
+#EXTINF:-1 group-logo="" group-title="CHAMPIONSHIP" tvg-logo="https://thumbor.prod.vidiocdn.com/z1uht7O3RYiYqwUQGnuRa3fu0Uk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849261/18b088.jpg", Persiba Balikpapan vs PS. Barito Putera
 https://archertv.my.id/atraksi/vidx.mpd?id=19543&type=dash&token=267UGqcIHapfUvmlKvuF425bsGVrUnXc|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19541&type=drm&token=267UGqcIHapfUvmlKvuF425bsGVrUnXc
-#EXTINF:-1 group-logo="" group-title=""CHAMPIONSHIP" tvg-logo="https://thumbor.prod.vidiocdn.com/IcuTcR9lzxii55QefOY5ydqxCGw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850530/ce3eee.jpg", Deltras FC vs Persipal FC
+#EXTINF:-1 group-logo="" group-title="CHAMPIONSHIP" tvg-logo="https://thumbor.prod.vidiocdn.com/IcuTcR9lzxii55QefOY5ydqxCGw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850530/ce3eee.jpg", Deltras FC vs Persipal FC
 https://archertv.my.id/atraksi/vidx.mpd?id=19541&type=dash&token=267UGqcIHapfUvmlKvuF425bsGVrUnXc|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19542&type=drm&token=267UGqcIHapfUvmlKvuF425bsGVrUnXc
-#EXTINF:-1 group-logo="" group-title=""CHAMPIONSHIP" tvg-logo="https://thumbor.prod.vidiocdn.com/PV8GqvhHdbiMCrEa_1GYKbCCVLw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850532/502c05.jpg", Garudayaksa FC vs PSMS Medan
+#EXTINF:-1 group-logo="" group-title="CHAMPIONSHIP" tvg-logo="https://thumbor.prod.vidiocdn.com/PV8GqvhHdbiMCrEa_1GYKbCCVLw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850532/502c05.jpg", Garudayaksa FC vs PSMS Medan
 https://archertv.my.id/atraksi/vidx.mpd?id=19542&type=dash&token=267UGqcIHapfUvmlKvuF425bsGVrUnXc|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19541&type=drm&token=267UGqcIHapfUvmlKvuF425bsGVrUnXc
-#EXTINF:-1 group-logo="" group-title=""CHAMPIONSHIP" tvg-logo="https://thumbor.prod.vidiocdn.com/DVm2nIUxdqRkgKrfo8j_00Wvwrs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850531/583a2f.jpg", Kendal Tornado FC vs Persiku Kudus
+#EXTINF:-1 group-logo="" group-title="CHAMPIONSHIP" tvg-logo="https://thumbor.prod.vidiocdn.com/DVm2nIUxdqRkgKrfo8j_00Wvwrs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850531/583a2f.jpg", Kendal Tornado FC vs Persiku Kudus
 https://archertv.my.id/atraksi/vidx.mpd?id=19541&type=dash&token=267UGqcIHapfUvmlKvuF425bsGVrUnXc|User-Agent=VidioPlayer/6.31.6
 
 #########################LIVE EVENT#######################################
