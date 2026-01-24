@@ -13,6 +13,109 @@ https://mobilelive-play.ysp.cctv.cn/ikotv/12DEE72C69443E5593266C550BF303224CEF54
 #EXTINF:-1 group-title="BWF INDONESIAN MASTER 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJaIKjaS4aOP9E6iJwnBG2iK613CTro9COFw&s",COURT 2
 https://mobilelive-#play.ysp.cctv.cn/ikotv/072876AD9BC3FA504C8EF6416FC93FEB5AC66D670D7C95856F4C0F9577138652D242B5F87D14620B33ED50280D728927E073160B3462F8FC52A2DFF3473371054BC9DF2EA60D2A191A8FFA9A928131A95A2C36A449EE8D1A7531D81AC810B650F3A5EABE02DF207162A010F90EAB701A/2029893101_fhd.m3u8?svrtime=1769149954&pid=600216687&m3u8_with_time_tag=2&cdn=5201&revoi=&app_id=519748109&guid=mhaklnq9_dh9vvf6p8h5&ysign=48ecbf6066e677eb2492094f6fcfef44&ytime=1769149954&ytype=2
 
+#EXTM3U
+
+#EXTINF:-1 group-title="_LIVE | EVENT (sᴇʀᴠᴇʀ²)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBcA67Mw-x4KMIZ6QRc2c7Gj7-X3NFZEN1B2G18dREdg&s=10",PROLIGA BOLAVOLY 2026 | Server 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=20240&type=drm
+https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=20240&type=dash
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="_LIVE | EVENT (sᴇʀᴠᴇʀ²)" tvg-logo="https://thumbor.prod.vidiocdn.com/RCRLe6w7oDuv1nFiBm66Clog=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849259/6bb640.jpg",Malut United FC vs PERSIK Kediri - BRI Super League | 13:22 24 Januari 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19353&type=drm
+https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19353&type=dash
+
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratu77.adptv.workers.dev/drm.kt?id=20240&type=drm
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="_LIVE | EVENT (sᴇʀᴠᴇʀ²)" tvg-logo="https://thumbor.prod.vidiocdn.com/Tpvo55h8uzM2H7Ve0HE-zxT0ugk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849260/a5b892.jpg" ch-number="4",Persipura Jayapura vs PSS Sleman - Pegadaian Championship
+https://ratu77.adptv.workers.dev/index.mpd?id=20240&type=dash|User-Agent=VidioPlayer/6.31.6
+
+
+
+
+
+#EXTINF:-1 group-title="_LIVE | EVENT (sᴇʀᴠᴇʀ²)" tvg-logo="https://thumbor.prod.vidiocdn.com/6uA3X66p7Y0M0VnSm8u2=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849260/a5b892.jpg",Persija Jayapura vs PSS Sleman - Pegadaian Championship | 13:22 24 Januari 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19543&type=drm
+#https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19543&type=dash
+
+
+#EXTINF:-1 group-title="_LIVE | EVENT (sᴇʀᴠᴇʀ²)" tvg-logo="https://thumbor.prod.vidiocdn.com/21MCfvtOuArD40ObSyQwKxyps=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849262/173313.jpg",Bali United FC vs Semen Padang FC - BRI Super League | 15:00 24 Januari 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19988&type=drm
+https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19988&type=dash
+
+
+#EXTINF:-1 group-title="_LIVE | EVENT (sᴇʀᴠᴇʀ²)" tvg-logo="https://thumbor.prod.vidiocdn.com/hQXx-7y6OVd6n55-/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849263/06ed55.jpg",Persekat Tegal vs Persiraja Banda Aceh - Pegadaian Championship | 15:22 24 Januari 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19584&type=drm
+https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19584&type=dash
+
+
+#EXTINF:-1 group-title="_LIVE | EVENT (sᴇʀᴠᴇʀ²)" tvg-logo="https://thumbor.prod.vidiocdn.com/93RtExAiWK0Linv6ttMNgZyGH4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849266/6d012e.jpg",Sriwijaya FC vs Sumsel United - Pegadaian Championship | 15:22 24 Januari 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19542&type=drm
+https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19542&type=dash
+
+
+#EXTINF:-1 group-title="_LIVE | EVENT (sᴇʀᴠᴇʀ²)" tvg-logo="https://thumbor.prod.vidiocdn.com/6YmTSysFONYwUHAHRLZJhB5jg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849265/ce9526.jpg",PERSITA vs Bhayangkara Presisi Lampung FC - BRI Super League | 15:22 24 Januari 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19385&type=drm
+https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19385&type=dash
+
+
+#EXTINF:-1 group-title="_LIVE | EVENT (sᴇʀᴠᴇʀ²)" tvg-logo="https://thumbor.prod.vidiocdn.com/ctIjfZPwuS6Kvuu1r1TvNFkxg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849267/4adfc5.jpg",PERSIJA vs PSM Makassar - BRI Super League | 18:30 24 Januari 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=205&type=drm
+https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=205&type=dash
+
+
+#EXTINF:-1 group-title="_LIVE | EVENT (sᴇʀᴠᴇʀ²)" tvg-logo="https://thumbor.prod.vidiocdn.com/z1uht7O3RYiYqwUQGnuRa3fu0Uk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849261/18b088.jpg",Persiba Balikpapan vs PS. Barito Putera - Pegadaian Championship | 18:52 24 Januari 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19543&type=drm
+https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19543&type=dash
+
+
+#EXTINF:-1 group-title="_LIVE | EVENT (sᴇʀᴠᴇʀ²)" tvg-logo="https://thumbor.prod.vidiocdn.com/7W8ARxg3ZtgF8rW4oU2noUGj-n0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849264/3bd9ff.jpg",PSIS Semarang vs Persela Lamongan - Pegadaian Championship | 18:52 24 Januari 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19584&type=drm
+https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19584&type=dash
+
 
 =@============PROLIGA=============
 
