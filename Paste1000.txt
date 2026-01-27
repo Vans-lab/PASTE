@@ -28,16 +28,16 @@ https://allcutv.rctiplus.id/mnctv2023.m3u8
 https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #########################BWF EVENT#######################################
-#EXTINF:-1 group-title="BWF THAILAND MASTER 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJaIKjaS4aOP9E6iJwnBG2iK613CTro9COFw&s",COURT 1
+#EXTINF:-1 group-title="BWF THAILAND MASTER 2026" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/693/2025/02/01/1738068685241-3777893779.jpg",COURT 1
 https://pull-prod511.zczlxxkj.com/live/8890070.m3u8?user_session_id=50fd80ba3d99fb4a7d785e329993a507&sub_m3u8=true&auth_info=%2BMOIbOb5h1zjazvGyfixz%2FpG%2Bfwwu4bvJa6bqOK9Reg%3D.7357663854487472703730686f503572&edge_slice=true
 
-#EXTINF:-1 group-title="BWF THAILAND MASTER 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJaIKjaS4aOP9E6iJwnBG2iK613CTro9COFw&s",COURT 2
+#EXTINF:-1 group-title="BWF THAILAND MASTER 2026" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/693/2025/02/01/1738068685241-3777893779.jpg",COURT 2
 https://live.vivo200.com/live/sd-24-5054206.m3u8?txSecret=1af860bf797dc578704f4e4e271ffa32&txTime=6978A8B5
 
-#EXTINF:-1 group-title="BWF THAILAND MASTER 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJaIKjaS4aOP9E6iJwnBG2iK613CTro9COFw&s",COURT 3
+#EXTINF:-1 group-title="BWF THAILAND MASTER 2026" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/693/2025/02/01/1738068685241-3777893779.jpg",COURT 3
 https://tfsw3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel53.m3u8?wsSession=1ee942097c60e9ad5e2618e4-176949755369667&wsIPSercert=cf7373c1e0a04e43cd4d1ccd219aceb3&wsiphost=local&wsBindIP=1
 
-#EXTINF:-1 group-title="BWF THAILAND MASTER 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJaIKjaS4aOP9E6iJwnBG2iK613CTro9COFw&s",COURT 4
+#EXTINF:-1 group-title="BWF THAILAND MASTER 2026" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/693/2025/02/01/1738068685241-3777893779.jpg",COURT 4
 https://tfsw3gr5dgmttgha1hcto8yzdncbzfisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel54.m3u8?wsSession=f8e2138942e400baa6facd6b-176949760121348&wsIPSercert=cf7373c1e0a04e43cd4d1ccd219aceb3&wsiphost=local&wsBindIP=1
 
 =@============PROLIGA=============
