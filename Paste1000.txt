@@ -7,219 +7,24 @@
 #EXTINF:-1 group-title="VOLI KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd63b1Lf9T4IL97RMzSeBjFbyS6U-o45BwYw&s",IBK ALTOS VS RED SPARKS
 #https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/59886vkmwkcvtitlhvnayjax920e4y6toayc/playlist.m3u8?hdnts=st=1767868551~exp=1767900961~acl=*/59886vkmwkcvtitlhvnayjax920e4y6toayc/*~hmac=5a46f7dfc643db8149933ed8f6a7b9273b5457221cee6568372dcd1d9e58a237
 
-#EXTINF:-1 group-title="BWF INDONESIAN MASTER 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJaIKjaS4aOP9E6iJwnBG2iK613CTro9COFw&s",FINAL
-https://mobilelive-play.ysp.cctv.cn/ikotv/4BF89C7AA5BF9EB74267F24D9A6C166201F46E011066418A738AB11B5587D75713B434BFE11ED1307BDB30766296CFCB67DD6BBC456B4C77EEB9258B6DDE0EADCBD46607B8665D99616E6809D2D70C769EEA09FC051863EDF5249D8ED39CBEE159C3724ED3BF2160ABEC806B0EF7DADA/2029886801_fhd.m3u8?svrtime=1769320802&pid=600216680&m3u8_with_time_tag=2&cdn=5201&revoi=&app_id=519748109&guid=mhaklnq9_dh9vvf6p8h5&ysign=5943d65e4eda7476232dd4cf0c3cfe95&ytime=1769320802&ytype=1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTINF:-1 tvg-logo="https://media.prapanca.id/data/2026/01/26023759/AFC.webp" group-title="AFC FUTSAL ASIAN CUP 2026",Soccer Channel 
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
-#EXTINF:-1 group-title="BWF INDONESIAN MASTER 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJaIKjaS4aOP9E6iJwnBG2iK613CTro9COFw&s",FINAL FHD
-https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court1HB_sjb480.m3u8?title=8204586&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=sVL7IdMiqjICAcpX3XHVPRvx&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-Court1HB&ccode=live05030101&expire=21600&psid=5796B5A530CDE11520FB8418A8B00ADE&ups_client_netip=202.73.12.14&ups_ts=1769320902&ups_userid=0&utid=sVL7IdMiqjICAcpX3XHVPRvx&vid=8204586_8128320&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court1HB_sjb480&vkey=B9dedd89ab48669a2262ad5b40de41411&cug=10&t=b503e75f059d629&rid=200000000D493571D6BC83F299CE76BB9EFE35AE00000000
+#EXTINF:-1 tvg-logo="https://media.prapanca.id/data/2026/01/26023759/AFC.webp" group-title="AFC FUTSAL ASIAN CUP 2026",Soccer Channel V+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+#EXTINF:-1 group-title="BWF INDONESIAN MASTER 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJaIKjaS4aOP9E6iJwnBG2iK613CTro9COFw&s",FINAL
+#https://mobilelive-play.ysp.cctv.cn/ikotv/4BF89C7AA5BF9EB74267F24D9A6C166201F46E011066418A738AB11B5587D75713B434BFE11ED1307BDB30766296CFCB67DD6BBC456B4C77EEB9258B6DDE0EADCBD46607B8665D99616E6809D2D70C769EEA09FC051863EDF5249D8ED39CBEE159C3724ED3BF2160ABEC806B0EF7DADA/2029886801_fhd.m3u8?svrtime=1769320802&pid=600216680&m3u8_with_time_tag=2&cdn=5201&revoi=&app_id=519748109&guid=mhaklnq9_dh9vvf6p8h5&ysign=5943d65e4eda7476232dd4cf0c3cfe95&ytime=1769320802&ytype=1
 
 =@============PROLIGA=============
-==========PROLIGA========
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
-#EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/3BKcBX9RNBbj8kUlX6wtAIuQ7y0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849755/a3ae05.jpg", Putri: Jakarta Popsivo Polwan vs Jakarta Livin Mandiri
-https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
-#EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/dQiC9mRHCp-hwg4VCDTEE3JhMNk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849756/9655bd.jpg", Putra: Jakarta Lavani Livin Transmedia vs Surabaya Samator
-https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
-#EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/HjKRyUHcsuCbdLBgJQIzkk0-_bY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849757/8d6cd7.jpg", Putri: Bandung BJB Tandamata vs Gresik Phonska Plus Pupuk Indonesia
-https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9|User-Agent=VidioPlayer/6.31.6
-#############################################
-========ERROR LIGA 1=======
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
-#EXTINF:-1 group-logo="" group-title="SUPER LEAGUE" tvg-logo="https://thumbor.prod.vidiocdn.com/-OvRSJAUmNukUKkvotmIuHtvkb0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850528/033fc4.jpg", PSIM Jogja vs PERSEBAYA Surabaya
-https://archertv.my.id/atraksi/vidx.mpd?id=19354&type=dash&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
-#EXTINF:-1 group-logo="" group-title="SUPER LEAGUE" tvg-logo="https://thumbor.prod.vidiocdn.com/XM-Z2lWf25XkS4YNWVcjuL9VaK0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850529/48db2d.jpg", PERSIB vs PSBS Biak
-https://archertv.my.id/atraksi/vidx.mpd?id=19354&type=dash&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
-#EXTINF:-1 group-logo="" group-title="SUPER LEAGUE" tvg-logo="https://thumbor.prod.vidiocdn.com/W_b7JknsHwad3st4bIeUIhoaCDA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850906/cf9c8a.jpg", Dewa United Banten FC vs Arema FC
-https://archertv.my.id/atraksi/vidx.mpd?id=19354&type=dash&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9|User-Agent=VidioPlayer/6.31.6
-=======ERROR Liga 2========
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19541&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
-#EXTINF:-1 group-logo="" group-title="CHAMPIONSHIP" tvg-logo="https://thumbor.prod.vidiocdn.com/IcuTcR9lzxii55QefOY5ydqxCGw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850530/ce3eee.jpg", Deltras FC vs Persipal FC
-https://archertv.my.id/atraksi/vidx.mpd?id=19541&type=dash&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19542&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
-#EXTINF:-1 group-logo="" group-title="CHAMPIONSHIP" tvg-logo="https://thumbor.prod.vidiocdn.com/PV8GqvhHdbiMCrEa_1GYKbCCVLw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850532/502c05.jpg", Garudayaksa FC vs PSMS Medan
-https://archertv.my.id/atraksi/vidx.mpd?id=19542&type=dash&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19541&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
-#EXTINF:-1 group-logo="" group-title="CHAMPIONSHIP" tvg-logo="https://thumbor.prod.vidiocdn.com/DVm2nIUxdqRkgKrfo8j_00Wvwrs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850531/583a2f.jpg", Kendal Tornado FC vs Persiku Kudus
-https://archertv.my.id/atraksi/vidx.mpd?id=19541&type=dash&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9|User-Agent=VidioPlayer/6.31.6
 
 #########################LIVE EVENT#######################################
-========= LIVE EVENT 25/01 ========
-
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/ycrncrx1/BRI.png" group-title="LIVE 25/01/26", 15:30 PSIM Yogyakarta vs Persebaya Surabaya
-#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://xyzna2-cf.didjhfyu8yg.sbs/auth%3Dc9127010dda6947e5a1986a91804d9e731f2beaa810a4952ee33b9e4e10d35879101fc2996880cf20322038750fe192c60a5b27b43b8304fbade4e0ea3ca003a380f44210433d244f9a347c820ae98117fe156836501f75d00b5fdaf1749e24dd814f0ba58a05c7373d55c1f54e6414a9d84adf5b9a46a594ebb25f43464c3e6569d2074dae9cef8ef675eb113eaab2caba2245811dac95c31834e7f6c67bea68731811219c33dea1db31c6d4f8b0d79d636cd7d980d6c2200d4c27cd30fadf0%26cid%3DE21i8B7P4-fdVQ0_xsePS260112%26_v%3D2%26_r%3DU5kztc%26_vis%3D3bb4c3f8a0b0ae41115119e7a8206abbf6fb18d0118ae472d34fe11bdce17335%26_vvs%3D50b7eb02795d9e6b347357df748e4d73f0131695e2956fc940971daf979fac93/app/c399749.m3u8
-#EXTVLCOPT:http-origin=https://xoilac.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xoilac.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live.golivenow71.com/8565a3c98ab9593855d450db023937c7/1769362419784/gmpmb95/index.m3u8
-#EXTVLCOPT:http-referrer=https://vern.cjk71vanywherect4uezbean.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://fhlsport300.tb3bu207yap7.xyz/token-JEUumLeXf%2FSG5W18kvY6z2%2BDlMOH0HjjOCOqkPJNETak5LDIHUJeCo4m%2FxVCDR4YRnTfwDE1max1f8NFUUcbtMAzSEPiP9HnfjPFfrVJsxdUXtuPSIR31qcHhKAwig%3D%3Da/cfall/s2001/v3b/s65o28o2nUE0pQbiY3AaYKEmqwphZ3umqT0lYz9hMD%3D%3D/super/3x_644645.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/b5KV71b2/SERIEA.png" group-title="LIVE 25/01/26", 18:30 Sassuolo vs Cremonese
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/ycrncrx1/BRI.png" group-title="LIVE 25/01/26", 19:00 Persib vs PSBS Biak Numfor
-http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162138
-#EXTVLCOPT:http-origin=https://xoilac.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xoilac.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=c43748102124f8a3ba20004bd7d55a62&wsABSTime=1769363072
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/Z6TwXP3Z/LALIGA.png" group-title="LIVE 25/01/26", 20:00 Atlético Madrid vs Mallorca
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/8CmLbY0/EPL.png" group-title="LIVE 25/01/26", 21:00 Crystal Palace vs Chelsea
-http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1163986.ts
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/b5KV71b2/SERIEA.png" group-title="LIVE 25/01/26", 21:00 Atalanta vs Parma
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/8CmLbY0/EPL.png" group-title="LIVE 25/01/26", 21:00 Newcastle United vs Aston Villa
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
-https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/b5KV71b2/SERIEA.png" group-title="LIVE 25/01/26", 21:00 Genoa vs Bologna
-#EXTVLCOPT:http-origin=https://xoilac.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xoilac.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=40198a2d73a8ff48df8f5889195a4777&wsABSTime=1769362994
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/8CmLbY0/EPL.png" group-title="LIVE 25/01/26", 21:00 Brentford vs Nottingham Forest
-#EXTVLCOPT:http-origin=https://xoilac.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xoilac.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live.golivenow71.com/82aaf0bcb28c243f3c88a1d1cbf6cba2/1769362957979/twtxkja/index.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/Z6TwXP3Z/LALIGA.png" group-title="LIVE 25/01/26", 22:15 Barcelona vs Real Oviedo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/8CmLbY0/EPL.png" group-title="LIVE 25/01/26", 23:30 Arsenal vs Manchester United 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
-https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
-
-
-
-
-========= LIVE EVENT 26/01 =========
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/b5KV71b2/SERIEA.png" group-title="LIVE 26/01/26", 00:00 Juventus vs Napoli
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/Z6TwXP3Z/LALIGA.png" group-title="LIVE 26/01/26", 00:30 Real Sociedad vs Celta de Vigo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/b5KV71b2/SERIEA.png" group-title="LIVE 26/01/26", 02:45 Roma vs Milan
-http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/438732
-#EXTVLCOPT:http-origin=https://xoilac.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xoilac.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=32b916643b8dffc9f25ad2efe121ec42&wsABSTime=1769363150
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/HTVg4h2b/NBA.png" group-title="LIVE 26/01/26", 03:00 Pistons vs Kings
-#EXTVLCOPT:http-origin=https://xoilac.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xoilac.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel27.flv?wsSecret=95ad06ff757d7ca5654793dc6e16cc7c&wsABSTime=1769363212
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/HTVg4h2b/NBA.png" group-title="LIVE 26/01/26", 03:30 Grizzlies vs Nuggets
-#EXTVLCOPT:http-origin=https://xoilac.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xoilac.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001769320116-0-0-fd4b222a00524bd581418f6b175a9343
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/HTVg4h2b/NBA.png" group-title="LIVE 26/01/26", 05:30 Timberwolves vs Warriors
-#EXTVLCOPT:http-origin=https://xoilac.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xoilac.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel26.flv?wsSecret=894e063cf1857a6f7d17c0ef3e28aae6&wsABSTime=1769363395
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/HTVg4h2b/NBA.png" group-title="LIVE 26/01/26", 07:00 Bucks vs Maverics
-#EXTVLCOPT:http-origin=https://xoilac.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xoilac.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel27.flv?wsSecret=fb37df533484eb63a3c09be280b47c48&wsABSTime=1769363483
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/HTVg4h2b/NBA.png" group-title="LIVE 26/01/26", 07:00 Thunder vs Raptors
-#EXTVLCOPT:http-origin=https://xoilac.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xoilac.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=a4d151a4db5179d6d20c61e1c74992fc&wsABSTime=1769363596
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/HTVg4h2b/NBA.png" group-title="LIVE 26/01/26", 08:00 Suns vs Heats
-#EXTVLCOPT:http-origin=https://xoilac.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xoilac.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel25.flv?wsSecret=23516d91cf683283aa2448dc343183fd&wsABSTime=1769363662
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/HTVg4h2b/NBA.png" group-title="LIVE 26/01/26", 08:00 Clippers vs Nets
-#EXTVLCOPT:http-origin=https://xoilac.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xoilac.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel26.flv?wsSecret=aee21904eac9dc59182426852c91b446&wsABSTime=1769363725
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/ycrncrx1/BRI.png" group-title="LIVE 26/01/26", 15:30 Dewa United vs Arema
-http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162138
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/Z6TwXP3Z/LALIGA.png" group-title="LIVE 26/01/26", 03:00 Deportivo Alavés vs Real Betis
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-
-
 
 
 =@============setanta=============
