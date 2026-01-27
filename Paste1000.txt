@@ -7,6 +7,11 @@
 #EXTINF:-1 group-title="VOLI KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd63b1Lf9T4IL97RMzSeBjFbyS6U-o45BwYw&s",IBK ALTOS VS RED SPARKS
 #https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/59886vkmwkcvtitlhvnayjax920e4y6toayc/playlist.m3u8?hdnts=st=1767868551~exp=1767900961~acl=*/59886vkmwkcvtitlhvnayjax920e4y6toayc/*~hmac=5a46f7dfc643db8149933ed8f6a7b9273b5457221cee6568372dcd1d9e58a237
 
+#EXTINF:-1 tvg-logo="https://media.prapanca.id/data/2026/01/26023759/AFC.webp" group-title="AFC FUTSAL ASIAN CUP 2026",SERVER 1
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTVLCOPT:http-origin=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/dosd2RK/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTINF:-1 tvg-logo="https://media.prapanca.id/data/2026/01/26023759/AFC.webp" group-title="AFC FUTSAL ASIAN CUP 2026",Soccer Channel 
