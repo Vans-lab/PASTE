@@ -27,8 +27,18 @@ https://allcutv.rctiplus.id/mnctv2023.m3u8
 #EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="AFC FUTSAL ASIAN CUP 2026",GTV
 https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
-#EXTINF:-1 group-title="BWF INDONESIAN MASTER 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJaIKjaS4aOP9E6iJwnBG2iK613CTro9COFw&s",FINAL
-#https://mobilelive-play.ysp.cctv.cn/ikotv/4BF89C7AA5BF9EB74267F24D9A6C166201F46E011066418A738AB11B5587D75713B434BFE11ED1307BDB30766296CFCB67DD6BBC456B4C77EEB9258B6DDE0EADCBD46607B8665D99616E6809D2D70C769EEA09FC051863EDF5249D8ED39CBEE159C3724ED3BF2160ABEC806B0EF7DADA/2029886801_fhd.m3u8?svrtime=1769320802&pid=600216680&m3u8_with_time_tag=2&cdn=5201&revoi=&app_id=519748109&guid=mhaklnq9_dh9vvf6p8h5&ysign=5943d65e4eda7476232dd4cf0c3cfe95&ytime=1769320802&ytype=1
+#########################BWF EVENT#######################################
+#EXTINF:-1 group-title="BWF THAILAND MASTER 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJaIKjaS4aOP9E6iJwnBG2iK613CTro9COFw&s",COURT 1
+https://pull-prod511.zczlxxkj.com/live/8890070.m3u8?user_session_id=50fd80ba3d99fb4a7d785e329993a507&sub_m3u8=true&auth_info=%2BMOIbOb5h1zjazvGyfixz%2FpG%2Bfwwu4bvJa6bqOK9Reg%3D.7357663854487472703730686f503572&edge_slice=true
+
+#EXTINF:-1 group-title="BWF THAILAND MASTER 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJaIKjaS4aOP9E6iJwnBG2iK613CTro9COFw&s",COURT 2
+https://live.vivo200.com/live/sd-24-5054206.m3u8?txSecret=1af860bf797dc578704f4e4e271ffa32&txTime=6978A8B5
+
+#EXTINF:-1 group-title="BWF THAILAND MASTER 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJaIKjaS4aOP9E6iJwnBG2iK613CTro9COFw&s",COURT 3
+https://tfsw3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel53.m3u8?wsSession=1ee942097c60e9ad5e2618e4-176949755369667&wsIPSercert=cf7373c1e0a04e43cd4d1ccd219aceb3&wsiphost=local&wsBindIP=1
+
+#EXTINF:-1 group-title="BWF THAILAND MASTER 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJaIKjaS4aOP9E6iJwnBG2iK613CTro9COFw&s",COURT 4
+https://tfsw3gr5dgmttgha1hcto8yzdncbzfisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel54.m3u8?wsSession=f8e2138942e400baa6facd6b-176949760121348&wsIPSercert=cf7373c1e0a04e43cd4d1ccd219aceb3&wsiphost=local&wsBindIP=1
 
 =@============PROLIGA=============
 
