@@ -10,14 +10,14 @@
 #EXTINF:-1 tvg-logo="https://media.prapanca.id/data/2026/01/26023759/AFC.webp" group-title="AFC FUTSAL ASIAN CUP 2026",SERVER 1
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTVLCOPT:http-origin=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/dosd2RK/playlist.m3u8
+#https://ckhot-179939170.cdnfree.pro/live/dosd2RK/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTINF:-1 tvg-logo="https://media.prapanca.id/data/2026/01/26023759/AFC.webp" group-title="AFC FUTSAL ASIAN CUP 2026",Soccer Channel 
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://media.prapanca.id/data/2026/01/26023759/AFC.webp" group-title="AFC FUTSAL ASIAN CUP 2026",Soccer Channel V+
+#EXTINF:-1 tvg-logo="https://media.prapanca.id/data/2026/01/26023759/AFC.webp" group-title="AFC FUTSAL ASIAN CUP 2026",Soccer #Channel V+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -34,16 +34,16 @@ https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #########################BWF EVENT#######################################
 #EXTINF:-1 group-title="BWF THAILAND MASTER 2026" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/693/2025/02/01/1738068685241-3777893779.jpg",COURT 1
-https://pull-prod511.zczlxxkj.com/live/8890070.m3u8?user_session_id=50fd80ba3d99fb4a7d785e329993a507&sub_m3u8=true&auth_info=%2BMOIbOb5h1zjazvGyfixz%2FpG%2Bfwwu4bvJa6bqOK9Reg%3D.7357663854487472703730686f503572&edge_slice=true
+https://pull.chuangbwu.com/live/8861126_lud.m3u8?auth_info=PTlZcS4sPBb2I0rCtagysnh7Im%2BJroeXC23VQCE0myEEk64TBrfJjrkF91Z2EHjK.5274694b4737746f7875314f445a704d
 
 #EXTINF:-1 group-title="BWF THAILAND MASTER 2026" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/693/2025/02/01/1738068685241-3777893779.jpg",COURT 2
-https://live.vivo200.com/live/sd-24-5054206.m3u8?txSecret=1af860bf797dc578704f4e4e271ffa32&txTime=6978A8B5
+https://tfsx3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel41.m3u8?wsSession=1ee942097c60e9ad5e2618e4-176957022626906&wsIPSercert=cf7373c1e0a04e43cd4d1ccd219aceb3&wsiphost=local&wsBindIP=1
 
 #EXTINF:-1 group-title="BWF THAILAND MASTER 2026" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/693/2025/02/01/1738068685241-3777893779.jpg",COURT 3
-https://tfsw3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel53.m3u8?wsSession=1ee942097c60e9ad5e2618e4-176949755369667&wsIPSercert=cf7373c1e0a04e43cd4d1ccd219aceb3&wsiphost=local&wsBindIP=1
+https://tfsx3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel42.m3u8?wsSession=1ee942097c60e9ad5e2618e4-176957024611840&wsIPSercert=cf7373c1e0a04e43cd4d1ccd219aceb3&wsiphost=local&wsBindIP=1
 
 #EXTINF:-1 group-title="BWF THAILAND MASTER 2026" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/693/2025/02/01/1738068685241-3777893779.jpg",COURT 4
-https://tfsw3gr5dgmttgha1hcto8yzdncbzfisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel54.m3u8?wsSession=f8e2138942e400baa6facd6b-176949760121348&wsIPSercert=cf7373c1e0a04e43cd4d1ccd219aceb3&wsiphost=local&wsBindIP=1
+https://tfsx3gr5dgmttgha1hcto8yzdncbzfisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel43.m3u8?wsSession=f8e2138942e400baa6facd6b-176957026013254&wsIPSercert=cf7373c1e0a04e43cd4d1ccd219aceb3&wsiphost=local&wsBindIP=1
 
 =@============PROLIGA=============
 
