@@ -160,7 +160,7 @@ https://tfsy3gr5dgmttgha1hcto8yzdncbzfisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 ==========PROLIGA========
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=tMaqUkn8eG1nadGPM0KZaPHpQrjHXAGF
-#EXTINF:-1 group-logo="" group-title="JAJAL" tvg-logo="https://thumbor.prod.vidiocdn.com/aK3YbqjR7nU_v5jkW97siJFybWw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4860025/f988f5.jpg", Putri: Gresik Phonska Plus Pupuk Indonesia vs Medan Falcons
+#EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/aK3YbqjR7nU_v5jkW97siJFybWw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4860025/f988f5.jpg", Putri: Gresik Phonska Plus Pupuk Indonesia vs Medan Falcons
 https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=tMaqUkn8eG1nadGPM0KZaPHpQrjHXAGF|User-Agent=VidioPlayer/6.31.6
 =======ERROR Liga 2========
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
