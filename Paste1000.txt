@@ -146,57 +146,226 @@ https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #########################BWF EVENT#######################################
 #EXTINF:-1 group-title="BWF THAILAND MASTER 2026" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/693/2025/02/01/1738068685241-3777893779.jpg",COURT 1
-https://tfsy3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel40.m3u8?wsSession=1ee942097c60e9ad5e2618e4-176966946683171&wsIPSercert=cf7373c1e0a04e43cd4d1ccd219aceb3&wsiphost=local&wsBindIP=1
+#https://tfsy3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel40.m3u8?wsSession=1ee942097c60e9ad5e2618e4-176966946683171&wsIPSercert=cf7373c1e0a04e43cd4d1ccd219aceb3&wsiphost=local&wsBindIP=1
 
 #EXTINF:-1 group-title="BWF THAILAND MASTER 2026" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/693/2025/02/01/1738068685241-3777893779.jpg",COURT 2
-https://tfsy3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel41.m3u8?wsSession=1ee942097c60e9ad5e2618e4-176966952172180&wsIPSercert=cf7373c1e0a04e43cd4d1ccd219aceb3&wsiphost=local&wsBindIP=1
+#https://tfsy3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel41.m3u8?wsSession=1ee942097c60e9ad5e2618e4-176966952172180&wsIPSercert=cf7373c1e0a04e43cd4d1ccd219aceb3&wsiphost=local&wsBindIP=1
 
 #EXTINF:-1 group-title="BWF THAILAND MASTER 2026" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/693/2025/02/01/1738068685241-3777893779.jpg",COURT 3
-https://tfsy3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel42.m3u8?wsSession=1ee942097c60e9ad5e2618e4-176966954927329&wsIPSercert=cf7373c1e0a04e43cd4d1ccd219aceb3&wsiphost=local&wsBindIP=1
+#https://tfsy3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel42.m3u8?wsSession=1ee942097c60e9ad5e2618e4-176966954927329&wsIPSercert=cf7373c1e0a04e43cd4d1ccd219aceb3&wsiphost=local&wsBindIP=1
 
 #EXTINF:-1 group-title="BWF THAILAND MASTER 2026" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/693/2025/02/01/1738068685241-3777893779.jpg",COURT 4
-https://tfsy3gr5dgmttgha1hcto8yzdncbzfisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel43.m3u8?wsSession=f8e2138942e400baa6facd6b-176966961046618&wsIPSercert=cf7373c1e0a04e43cd4d1ccd219aceb3&wsiphost=local&wsBindIP=1
+#https://tfsy3gr5dgmttgha1hcto8yzdncbzfisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel43.m3u8?wsSession=f8e2138942e400baa6facd6b-176966961046618&wsIPSercert=cf7373c1e0a04e43cd4d1ccd219aceb3&wsiphost=local&wsBindIP=1
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18252&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026"" tvg-logo="https://thumbor.prod.vidiocdn.com/E21FHiqin8d0lUNZtFFYDQW2Blc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/princess-sirivannavari-thailand-masters-2026-round-of-16-court-3-30169d.jpg", Chang Ching Hui/Yang Ching Tun (TPE) vs Bao Li Jing/Li Yi Jing (CHN)
+https://medit.indi1.workers.dev/index.mpd?id=18252&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026"" tvg-logo="https://thumbor.prod.vidiocdn.com/zVICf_gGZcfKxIOEhNBX_dmOnyo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4863362/fda17e.jpg", Hsu Yin-Hui/Lin Jhih Yun (TPE) vs Febriana Dwipuji Kusuma/Meilysa Trias Puspitasari (INA)
+https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026"" tvg-logo="https://thumbor.prod.vidiocdn.com/Vju7AN1gUbrIIvz2hkWWE2WFdqk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/princess-sirivannavari-thailand-masters-2026-quarterfinals-court-1-e3a830.jpg", Hsu Yin-Hui/Lin Jhih Yun (TPE) vs Febriana Dwipuji Kusuma/Meilysa Trias Puspitasari (INA)
+https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18250&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026"" tvg-logo="https://thumbor.prod.vidiocdn.com/wwDPOn5TWRSOGWIhFfMZb_gmKBQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/princess-sirivannavari-thailand-masters-2026-quarterfinals-court-2-e4be2a.jpg", Moh. Zaki Ubaidillah (INA) vs Brian Yang (CAN)
+https://medit.indi1.workers.dev/index.mpd?id=18250&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18252&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026"" tvg-logo="https://thumbor.prod.vidiocdn.com/E21FHiqin8d0lUNZtFFYDQW2Blc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/princess-sirivannavari-thailand-masters-2026-round-of-16-court-3-30169d.jpg", Chang Ching Hui/Yang Ching Tun (TPE) vs Bao Li Jing/Li Yi Jing (CHN)
+https://medit.indi1.workers.dev/index.mpd?id=18252&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18250&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026"" tvg-logo="https://thumbor.prod.vidiocdn.com/pDOGoOSveOgfTjT13IQ6L68Ar8Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4863365/e1d7ff.jpg", Moh. Zaki Ubaidillah (INA) vs Brian Yang (CAN)
+https://medit.indi1.workers.dev/index.mpd?id=18250&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18252&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026"" tvg-logo="https://thumbor.prod.vidiocdn.com/E21FHiqin8d0lUNZtFFYDQW2Blc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/princess-sirivannavari-thailand-masters-2026-round-of-16-court-3-30169d.jpg", Zhu Xuan Chen (CHN) vs Tharun Mannepalli (IND)
+https://medit.indi1.workers.dev/index.mpd?id=18252&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026"" tvg-logo="https://thumbor.prod.vidiocdn.com/YvXpxlddvfVnbexeV1c7MI_7Foc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4863363/db7730.jpg", Lee Zii Jia (MAS) vs Alwi Farhan (INA)
+https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18250&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026"" tvg-logo="https://thumbor.prod.vidiocdn.com/rdv_iOXzBExXz9gkrmKo3Je5hDU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4863370/943c15.jpg", Amallia Cahaya Pratiwi/Siti Fadia Silva Ramadhanti (INA) vs Hsu Ya Ching/Sung Yu-Hsuan (TPE)
+https://medit.indi1.workers.dev/index.mpd?id=18250&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18252&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026"" tvg-logo="https://thumbor.prod.vidiocdn.com/2or7jli6TAsM8RkCu50bwNPN3Po=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4863379/21108f.jpg", Rachel Allessya Rose/Febi Setianingrum (INA) vs Kaho Osawa/Mai Tanabe (JPN)
+https://medit.indi1.workers.dev/index.mpd?id=18252&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026"" tvg-logo="https://thumbor.prod.vidiocdn.com/547Ll0h4UdWi1ADpETkOyidI4pQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4863364/e90d34.jpg", Fang-Chih Lee/Fang-Jen Lee (TPE) vs Muhammad Rian Ardianto/Rahmat Hidayat
+https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18250&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026"" tvg-logo="https://thumbor.prod.vidiocdn.com/Bu6rfEjtWqQ2w2HdaSnfxb545Tk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4863371/6f0fe9.jpg", Leo Rolly Carnando/Bagas Maulana (INA) vs Chia Weijie/Lwi Sheng Hao (MAS)
+https://medit.indi1.workers.dev/index.mpd?id=18250&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18252&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026"" tvg-logo="https://thumbor.prod.vidiocdn.com/E21FHiqin8d0lUNZtFFYDQW2Blc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/princess-sirivannavari-thailand-masters-2026-round-of-16-court-3-30169d.jpg", Hu Ke Yuan/Lin Xiang Yi (CHN) vs Nur Mohd Azriyn Ayub Azriyn/Tan Wee Kiong (MAS)
+https://medit.indi1.workers.dev/index.mpd?id=18252&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026"" tvg-logo="https://thumbor.prod.vidiocdn.com/uDSzi06HfaNePkICEXA5VUiBXvc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4863366/ca6783.jpg", Panitchaphon Teeraratsakul (THA) vs Prahdiska Bagas Shujiwo (INA)
+https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18250&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026"" tvg-logo="https://thumbor.prod.vidiocdn.com/RNfEIngYuNvwGTPGGHSibgTAO40=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4863372/e61722.jpg", Chia Yen Lin/Lin Yong Sheng (TPE) vs Raymond Indra/Nikolaus Joaquin (INA)
+https://medit.indi1.workers.dev/index.mpd?id=18250&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026"" tvg-logo="https://thumbor.prod.vidiocdn.com/Vju7AN1gUbrIIvz2hkWWE2WFdqk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/princess-sirivannavari-thailand-masters-2026-quarterfinals-court-1-e3a830.jpg", Supak Jomkoh/Ornnicha Jongsathapornparn (THA) vs Akira Koga/Natsu Saito (JPN)
+https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18252&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026"" tvg-logo="https://thumbor.prod.vidiocdn.com/O0V2LqBegRD9y7ZDIpqOpR1vQfc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4863381/29680d.jpg", Amri Syahnawi/Nita Violina Marwah (INA) vs Wu Hsuan-Yi/Yang Chu Yun (TPE)
+https://medit.indi1.workers.dev/index.mpd?id=18252&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18250&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026"" tvg-logo="https://thumbor.prod.vidiocdn.com/wwDPOn5TWRSOGWIhFfMZb_gmKBQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/princess-sirivannavari-thailand-masters-2026-quarterfinals-court-2-e4be2a.jpg", Hina Akechi (JPN) vs Huang Yu-Hsun (TPE)
+https://medit.indi1.workers.dev/index.mpd?id=18250&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18252&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026"" tvg-logo="https://thumbor.prod.vidiocdn.com/E21FHiqin8d0lUNZtFFYDQW2Blc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/princess-sirivannavari-thailand-masters-2026-round-of-16-court-3-30169d.jpg", Wong Ling Ching (MAS) vs Isharani Baruah (IND)
+https://medit.indi1.workers.dev/index.mpd?id=18252&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026"" tvg-logo="https://thumbor.prod.vidiocdn.com/Vju7AN1gUbrIIvz2hkWWE2WFdqk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/princess-sirivannavari-thailand-masters-2026-quarterfinals-court-1-e3a830.jpg", Supanida Katethong (THA) vs Devika Sihag (IND)
+https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
 
 ==========PROLIGA========
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=tMaqUkn8eG1nadGPM0KZaPHpQrjHXAGF
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/3QkTCSQawxCoyX03OgdVbduzJ5A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4859827/6e6c1b.jpg", Putri: Jakarta Popsivo Polwan vs Jakarta Electric PLN Mobile
+https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/PzY_WeZwbzEOKT0cALSUjD8Mz4k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4859828/962026.jpg", Putri: Medan Falcons vs Jakarta Pertamina Enduro
+https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/0PJUDF7vvJ3e2jY-n1x-qVDmyXA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4859829/95181e.jpg", Putri: Jakarta Livin Mandiri vs Jakarta Popsivo Polwan
+https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/FtUXOSdjolSVNRHXOLLSSLi_W2Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4859830/522354.jpg", Putra: Jakarta Lavani Livin Transmedia vs Medan Falcons Tirta Bhagasasi
+https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/8OaSjNczRhc7XR4Hnxv92SmhPRA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4860020/8a0ff0.jpg", Putri: Jakarta Pertamina Enduro vs Bandung BJB Tandamata
+https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/JFEE4iggjAwTnpJX1Bf3ybdJ_9E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4860023/f28c18.jpg", Putra: Surabaya Samator vs Jakarta Bhayangkara Presisi
+https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
 #EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/aK3YbqjR7nU_v5jkW97siJFybWw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4860025/f988f5.jpg", Putri: Gresik Phonska Plus Pupuk Indonesia vs Medan Falcons
-https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=tMaqUkn8eG1nadGPM0KZaPHpQrjHXAGF|User-Agent=VidioPlayer/6.31.6
+https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+
 =======ERROR Liga 2========
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19541&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
-#EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/EQu4jMdkdmhkVcnV0x6T6WMFzTY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4859825/6070bc.jpg", Putra: Surabaya Samator vs Jakarta Garuda Jaya
-https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=tMaqUkn8eG1nadGPM0KZaPHpQrjHXAGF|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19353&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/ljKXj4kBJBDWOLr9xNB0EdJIt3o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19353/bri-super-league-a1aa24.jpg", PERSIK Kediri vs Bali United FC
+https://archertv.my.id/atraksi/vidx.mpd?id=19353&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=tMaqUkn8eG1nadGPM0KZaPHpQrjHXAGF
-#EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/kbakGeKbKUPbEwdWDIkg1pcFctI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4859826/290486.jpg", Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Livin Mandiri
-https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=tMaqUkn8eG1nadGPM0KZaPHpQrjHXAGF|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/l8tp_-xi1XZou6gM6zv2rmd57UY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4856336/9405f6.jpg", PERSITA vs PERSIJA
+https://archertv.my.id/atraksi/vidx.mpd?id=19354&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=tMaqUkn8eG1nadGPM0KZaPHpQrjHXAGF
-#EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/3QkTCSQawxCoyX03OgdVbduzJ5A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4859827/6e6c1b.jpg", Putri: Jakarta Popsivo Polwan vs Jakarta Electric PLN Mobile
-https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=tMaqUkn8eG1nadGPM0KZaPHpQrjHXAGF|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19353&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/WEDp6YO8ZuWvSH8utnrB4J1NECA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4856334/7fbb7d.jpg", PERSIK Kediri vs Bali United FC
+https://archertv.my.id/atraksi/vidx.mpd?id=19353&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=tMaqUkn8eG1nadGPM0KZaPHpQrjHXAGF
-#EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/PzY_WeZwbzEOKT0cALSUjD8Mz4k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4859828/962026.jpg", Putri: Medan Falcons vs Jakarta Pertamina Enduro
-https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=tMaqUkn8eG1nadGPM0KZaPHpQrjHXAGF|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19385&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/anW2nmRWz_aAUjAVRh0M3uAs7ms=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4859834/491d65.jpg", Malut United FC vs Bhayangkara Presisi Lampung FC
+https://archertv.my.id/atraksi/vidx.mpd?id=19385&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=tMaqUkn8eG1nadGPM0KZaPHpQrjHXAGF
-#EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/0PJUDF7vvJ3e2jY-n1x-qVDmyXA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4859829/95181e.jpg", Putri: Jakarta Livin Mandiri vs Jakarta Popsivo Polwan
-https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=tMaqUkn8eG1nadGPM0KZaPHpQrjHXAGF|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19355&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/dT_KbOAhVfhr8vojN2WMTBLHzbs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4859833/2131fc.jpg", Jelang Kick Off
+https://archertv.my.id/atraksi/vidx.mpd?id=19355&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=tMaqUkn8eG1nadGPM0KZaPHpQrjHXAGF
-#EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/FtUXOSdjolSVNRHXOLLSSLi_W2Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4859830/522354.jpg", Putra: Jakarta Lavani Livin Transmedia vs Medan Falcons Tirta Bhagasasi
-https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=tMaqUkn8eG1nadGPM0KZaPHpQrjHXAGF|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19353&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/lN0e771g2qhp4DAQY04K-3NXnT0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4856335/564d0a.jpg", PERSIS vs PERSIB
+https://archertv.my.id/atraksi/vidx.mpd?id=19353&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=tMaqUkn8eG1nadGPM0KZaPHpQrjHXAGF
-#EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/8OaSjNczRhc7XR4Hnxv92SmhPRA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4860020/8a0ff0.jpg", Putri: Jakarta Pertamina Enduro vs Bandung BJB Tandamata
-https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=tMaqUkn8eG1nadGPM0KZaPHpQrjHXAGF|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=205&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/dJ3gyIwlGGwdFKh411EEm6lgX3s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4856339/ece3b9.jpg", Madura United FC vs PSBS Biak
+https://archertv.my.id/atraksi/vidx.mpd?id=205&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=tMaqUkn8eG1nadGPM0KZaPHpQrjHXAGF
-#EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/JFEE4iggjAwTnpJX1Bf3ybdJ_9E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4860023/f28c18.jpg", Putra: Surabaya Samator vs Jakarta Bhayangkara Presisi
-https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=tMaqUkn8eG1nadGPM0KZaPHpQrjHXAGF|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/6GP-P0p6YLrPw_fNrW3OQk8EkH0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4860078/310a43.jpg", Borneo FC Samarinda vs PSIM Jogja
+https://archertv.my.id/atraksi/vidx.mpd?id=19354&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=tMaqUkn8eG1nadGPM0KZaPHpQrjHXAGF
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19355&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/nvSPJqcjPGgnm1TkUsMjqlOBK8s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4860079/f61d64.jpg", Jelang Kick Off
+https://archertv.my.id/atraksi/vidx.mpd?id=19355&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/Srq_l3JjbHwYbG7rgCKDo2eba80=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4856337/2ba71c.jpg", PERSEBAYA Surabaya vs Dewa United Banten FC
+https://archertv.my.id/atraksi/vidx.mpd?id=19354&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19584&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/ojinq8LRSpi_bxDcQ0edaPC413Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4857922/beb19b.jpg", PSIS Semarang vs Kendal Tornado FC
+https://archertv.my.id/atraksi/vidx.mpd?id=19584&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19543&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/Oy3XSp8oVLxxsjauMLWhbuq4leM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4857919/e610b6.jpg", Persiku Kudus vs Persipura Jayapura
+https://archertv.my.id/atraksi/vidx.mpd?id=19543&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19584&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/oQf8qUk-uh1Jhf6BsQt8dy23O3U=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg", PSIS Semarang vs Kendal Tornado FC
+https://archertv.my.id/atraksi/vidx.mpd?id=19584&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19542&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/yy9Y8ThqCexBuhahb1t_x85TKNs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4857924/1167d4.jpg", Sumsel United vs Garudayaksa FC
+https://archertv.my.id/atraksi/vidx.mpd?id=19542&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19541&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/nORQrreaasP8mRJW7l6CZTFNSfU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4857917/367c23.jpg", PSMS Medan vs FC Bekasi City
+https://archertv.my.id/atraksi/vidx.mpd?id=19541&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19543&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/4vVjK-leDT_Y9S3ymojpIxo8Y_w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4857920/b90ee1.jpg", Persipal FC vs Persela Lamongan
+https://archertv.my.id/atraksi/vidx.mpd?id=19543&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19543&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/cbWGP-pPRx695qE2gV-tkvtKKjY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4857921/b01d2c.jpg", PSS Sleman vs PS. Barito Putera
+https://archertv.my.id/atraksi/vidx.mpd?id=19543&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19541&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/yJ5pSzcbXAD2ry9lAVjD40-Z-0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4857918/f43079.jpg", Persiba Balikpapan vs Deltras FC
+https://archertv.my.id/atraksi/vidx.mpd?id=19541&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19584&type=drm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/F-YtpjcNCPepr6YY0ON0412ps24=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4859835/4eb561.jpg", Persiraja Banda Aceh vs PSPS Pekanbaru
+https://archertv.my.id/atraksi/vidx.mpd?id=19584&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+========ERROR LIGA 1=======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=19355&type=direm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/Fj7f7_FOahghYc-hBdjC8nt9uEk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4859832/952bce.jpg" ch-number="1", Jelang Kick Off - PERSITA vs PERSIJA - BRI Super League
+http://archertv.my.id/atraksi/index.mpd?id=19355&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=19353&type=direm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/ljKXj4kBJBDWOLr9xNB0EdJIt3o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19353/bri-super-league-a1aa24.jpg" ch-number="2", PERSIK Kediri vs Bali United FC - BRI Super League
+http://archertv.my.id/atraksi/index.mpd?id=19353&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=19354&type=direm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/l8tp_-xi1XZou6gM6zv2rmd57UY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4856336/9405f6.jpg" ch-number="3", PERSITA vs PERSIJA - BRI Super League
+http://archertv.my.id/atraksi/index.mpd?id=19354&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=19353&type=direm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/WEDp6YO8ZuWvSH8utnrB4J1NECA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4856334/7fbb7d.jpg" ch-number="4", PERSIK Kediri vs Bali United FC - BRI Super League
+http://archertv.my.id/atraksi/index.mpd?id=19353&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=19385&type=direm&token=klJBW1hipBPOXXPGBVana2l8PcRC1194
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/anW2nmRWz_aAUjAVRh0M3uAs7ms=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4859834/491d65.jpg" ch-number="5", Malut United FC vs Bhayangkara Presisi Lampung FC - BRI Super League
+http://archertv.my.id/atraksi/index.mpd?id=19385&type=dash&token=klJBW1hipBPOXXPGBVana2l8PcRC1194|User-Agent=VidioPlayer/6.31.6
 
 #########################LIVE EVENT#######################################
 #EXTINF:-1 group-title="LIVE EVENT" tvg-, 03:00 WIB Aston Villa vs Salzburg
