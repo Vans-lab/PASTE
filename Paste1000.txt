@@ -120,9 +120,7 @@ https://63b2dc7196c38.streamlock.net:1937/JTVSURABAYA/_definst_/myStream/playlis
 #https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/59886vkmwkcvtitlhvnayjax920e4y6toayc/playlist.m3u8?hdnts=st=1767868551~exp=1767900961~acl=*/59886vkmwkcvtitlhvnayjax920e4y6toayc/*~hmac=5a46f7dfc643db8149933ed8f6a7b9273b5457221cee6568372dcd1d9e58a237
 
 #EXTINF:-1 tvg-logo="https://media.prapanca.id/data/2026/01/26023759/AFC.webp" group-title="AFC FUTSAL ASIAN CUP 2026",SERVER 1
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTVLCOPT:http-origin=https://watch.rkplayer.xyz/
-#https://ckhot-179939170.cdnfree.pro/live/dosd2RK/playlist.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769882456/ei/-O59af4Vko2ovw_q19O4BQ/ip/39.194.1.234/id/7kJn1Lvx7cI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/gcr/id/siu/1/bui/AW-iu_oF6lMGu8BsHWIP9cXzJSI70sbZ2N6wne5c5sijQqWUr-n_9wHqyiP7MYtovXzSPfcCwg/spc/q5xjPIjtnGHE4NVE7VHU2oGvKmINW-mn-Ml7ANo9QbUatm9zsuLGNHA/vprv/1/go/1/ns/-DBJLZElq7zG93Cy2qSTJ0kS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/iHWhjW1uBvg6ioT/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAJLgreeBOH_yx7-DfrZBrk3CXvQO4U-4jKZs_3S3A9aSAiBuBek8kwPGlcAcr2W5qbG1NzaCUXij5rnxpVwReIk2Lw%3D%3D/file/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
