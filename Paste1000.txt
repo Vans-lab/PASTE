@@ -137,60 +137,35 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 
 #########################BWF EVENT#######################################
 #EXTINF:-1 group-title="BWF THAILAND MASTER 2026" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/693/2025/02/01/1738068685241-3777893779.jpg",SEMIFINAL CH1
-https://v4-82ca4a54ad45c616f188ba4a0fdae0f2.livehwc4.com/pull.chuangbwu.com/live/8861564_lud.m3u8?edge_slice=true&sub_m3u8=true&auth_info=K0%2BQUc%2F47i3WKlby39UWkhoGuaRouYp1eU%2BQQ2Itz4Fv%2FfS4snZhB%2BuKUIQ2aTT5.6142677a314d6331577778757a716475&user_session_id=90fcf3148a39f4c203c21852db939425
+#https://v4-82ca4a54ad45c616f188ba4a0fdae0f2.livehwc4.com/pull.chuangbwu.com/live/8861564_lud.m3u8?edge_slice=true&sub_m3u8=true&auth_info=K0%2BQUc%2F47i3WKlby39UWkhoGuaRouYp1eU%2BQQ2Itz4Fv%2FfS4snZhB%2BuKUIQ2aTT5.6142677a314d6331577778757a716475&user_session_id=90fcf3148a39f4c203c21852db939425
 
 #EXTINF:-1 group-title="BWF THAILAND MASTER 2026" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/693/2025/02/01/1738068685241-3777893779.jpg",SEMIFINAL CH2
-https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-InternationalVoice2HB_sjb480.m3u8?title=8205010&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=sVL7IdMiqjICAcpX3XHVPRvx&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-InternationalVoice2HB&ccode=live05030101&expire=21600&psid=DD7E399B6F78BEEE23C0373437796E1D&ups_client_netip=202.73.12.60&ups_ts=1769753752&ups_userid=0&utid=sVL7IdMiqjICAcpX3XHVPRvx&vid=8205010_8128653&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-InternationalVoice2HB_sjb480&vkey=B15c0ee1f22b8467995d103fbdced8b09&cug=10&t=b353d27f5407cce&rid=20000000ABF23C4A4EAAD6BDA0CA76F58DDE2DAD00000000
+#https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-InternationalVoice2HB_sjb480.m3u8?title=8205010&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=sVL7IdMiqjICAcpX3XHVPRvx&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-InternationalVoice2HB&ccode=live05030101&expire=21600&psid=DD7E399B6F78BEEE23C0373437796E1D&ups_client_netip=202.73.12.60&ups_ts=1769753752&ups_userid=0&utid=sVL7IdMiqjICAcpX3XHVPRvx&vid=8205010_8128653&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-InternationalVoice2HB_sjb480&vkey=B15c0ee1f22b8467995d103fbdced8b09&cug=10&t=b353d27f5407cce&rid=20000000ABF23C4A4EAAD6BDA0CA76F58DDE2DAD00000000
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/A26QJP6glz4RPKsbYXbq7iSVFDw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4869261/4094b5.jpg", Febriana Dwipuji Kusuma/Meilysa Trias Puspitasari (INA) vs Bao Li Jing/Li Yi Jing (CHN)
-https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/lyPmf0uJynGeIwRPA07xQrTWQLQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4874582/1bb825.jpg", Bao Li Jing/Liu Yi Jing (CHN) vs Amallia Cahaya Pratiwi/Siti Fadia Silva Ramadhanti (INA)
+https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/vvLLS3pHRr2xzmXy4KVPZttq4W0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/princess-sirivannavari-thailand-masters-2026-semifinals-court-1-434b15.jpg", Febriana Dwipuji Kusuma/Meilysa Trias Puspitasari (INA) vs Bao Li Jing/Li Yi Jing (CHN)
-https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/W8OIlUR0hhzDHkzCjzi0yC1-lRY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/princess-sirivannavari-thailand-masters-2026-finals-086555.jpg", Bao Li Jing/Liu Yi Jing (CHN) vs Amallia Cahaya Pratiwi/Siti Fadia Silva Ramadhanti (INA)
+https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18250&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/5LubKCLcGHW1dWqK7owNKmhNhRM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/princess-sirivannavari-thailand-masters-2026-semifinals-court-2-efc76f.jpg", Moh. Zaki Ubaidillah (INA) vs Alwi Farhan (INA)
-https://medit.indi1.workers.dev/index.mpd?id=18250&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/hRR-YhEekHNhjPQOhJCO6Swizcg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4874580/ae3334.jpg", Leo Rolly Carnando/Bagas Maulana (INA) vs Raymond Indra/Nikolas Joaquin (INA)
+https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/Q_HWW3OhucVtCZOM1XRbX1Emxpw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4869262/202517.jpg", Hu Ke Yuan/Lin Xiang Yi (CHN) vs Raymond Indra/Nikolas Joaquin (INA)
-https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/W8OIlUR0hhzDHkzCjzi0yC1-lRY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/princess-sirivannavari-thailand-masters-2026-finals-086555.jpg", Devika Sihag (IND) vs Goh Jin Wei (MAS)
+https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/ObdKUq8j-S7CiezvdT3vA0YkMiM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4869263/77cfe3.jpg", Kaho Osawa/Mai Tanabe (JPN) vs Amallia Cahaya Pratiwi/Siti Fadia Silva Ramadhanti (INA)
-https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/v26Jwbzs_BBKBdXpOnuscYufi0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4874583/340288.jpg", Bobby Setiabudi/Melati Daeva Oktavianti (INA) vs Adnan Maulana/Indah Cahya Sari Jamil (INA)
+https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/fk71OKQJ1QxnINgu3KmI1R4XG4g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4869264/dc80be.jpg", Leo Rolly Carnando/Bagas Maulana (INA) vs Muhammad Rian Ardianto/Rahmat Hidayat (INA)
-https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/vvLLS3pHRr2xzmXy4KVPZttq4W0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/princess-sirivannavari-thailand-masters-2026-semifinals-court-1-434b15.jpg", Panitchaphon Teeraratsakul (THA) vs Zhu Xuan Chen (CHN)
-https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18250&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/renuoxr96Zti8MTh0QhMVLAV8Y4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4869272/9a482e.jpg", Moh. Zaki Ubaidillah (INA) vs Alwi Farhan (INA)
-https://medit.indi1.workers.dev/index.mpd?id=18250&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/9HdTQUtoMP7lTmrouFTAxunjpe4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4869266/0d90ac.jpg", Amri Syahnawi/Nita Violina Marwah (INA) vs Bobby Setiabudi/Melati Daeva Oktavianti (INA)
-https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18250&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/5LubKCLcGHW1dWqK7owNKmhNhRM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/princess-sirivannavari-thailand-masters-2026-semifinals-court-2-efc76f.jpg", Goh Jin Wei (MAS) vs Wong Ling Ching (MAS)
-https://medit.indi1.workers.dev/index.mpd?id=18250&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/vvLLS3pHRr2xzmXy4KVPZttq4W0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/princess-sirivannavari-thailand-masters-2026-semifinals-court-1-434b15.jpg", Devika Sihag (IND) vs Huang Yu-Hsun (TPE)
-https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/SselqJahhnUp7rAXEXVvCuyDQ5w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4869268/54bffc.jpg", Adnan Maulana/Indah Cahya Sari Jamil (INA) vs Akira Koga/Natsu Saito (JPN)
-https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
+#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/t8ZfWZNmvZc5OcbLgVO1F2D0VZI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4874584/660d28.jpg", Panitchapon Teeraratsakul (THA) vs Moh. Zaki Ubaidillah (INA)
+https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
 
 ==========PROLIGA========
 ==========PROLIGA========
