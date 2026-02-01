@@ -2,9 +2,12 @@
 
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
-#EXTINF:-1 group-title="👑 KING MU", Manchester United vs Fulham
+#EXTINF:-1 group-title="👑 KING MU" tvg-logo="https://iili.io/FtSr5Mb.jpg", MU VS LIPERVOOL (BETINA)
+#EXTVLCOPT:http-referrer=https://www.kilatlive.net/
+https://rr4---sn-8pxuuxa-on.applecdnstore.com/UK_SKY_SPORTS_PREMIER_LEAGUE_TV/index.m3u8
+#EXTINF:-1 group-title="👑 KING MU" tvg-logo="https://iili.io/FtSr5Mb.jpg", Manchester United vs Fulham
 https://hwcn111pull-b.bszb.me/live/2366319_1769944885.flv
-#EXTINF:-1 group-title="👑 KING MU", Manchester United vs Fulham CH2
+#EXTINF:-1 group-title="👑 KING MU" tvg-logo="https://iili.io/FtSr5Mb.jpg", Manchester United vs Fulham CH2
 https://hwcn111pull-b.bszb.me/live/2366319_1769944885.flv
 #EXTINF:-1 group-title="👑 KING MU" tvg-logo="https://iili.io/FkbwkX4.md.jpg",CANAL LIVE 1
 http://viphfppss.top:8080/SVIP0187174498268841/91744982688075/128997
