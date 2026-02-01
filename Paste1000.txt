@@ -168,93 +168,36 @@ https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=7tmUJVULvpq1h
 https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
 
 ==========PROLIGA========
-==========PROLIGA========
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/0PJUDF7vvJ3e2jY-n1x-qVDmyXA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4859829/95181e.jpg", Putri: Jakarta Livin Mandiri vs Jakarta Popsivo Polwan
-https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/FtUXOSdjolSVNRHXOLLSSLi_W2Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4859830/522354.jpg", Putra: Jakarta Lavani Livin Transmedia vs Medan Falcons Tirta Bhagasasi
-https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
 #EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/8OaSjNczRhc7XR4Hnxv92SmhPRA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4860020/8a0ff0.jpg", Putri: Jakarta Pertamina Enduro vs Bandung BJB Tandamata
-https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
+https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
 #EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/JFEE4iggjAwTnpJX1Bf3ybdJ_9E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4860023/f28c18.jpg", Putra: Surabaya Samator vs Jakarta Bhayangkara Presisi
-https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
+https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
 #EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/aK3YbqjR7nU_v5jkW97siJFybWw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4860025/f988f5.jpg", Putri: Gresik Phonska Plus Pupuk Indonesia vs Medan Falcons
-https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
+https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
 
 =======ERROR Liga 2========
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19385&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/anW2nmRWz_aAUjAVRh0M3uAs7ms=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4859834/491d65.jpg", Malut United FC vs Bhayangkara Presisi Lampung FC
-https://archertv.my.id/atraksi/vidx.mpd?id=19385&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19355&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/dT_KbOAhVfhr8vojN2WMTBLHzbs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4859833/2131fc.jpg", Jelang Kick Off
-https://archertv.my.id/atraksi/vidx.mpd?id=19355&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19353&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/lN0e771g2qhp4DAQY04K-3NXnT0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4856335/564d0a.jpg", PERSIS vs PERSIB
-https://archertv.my.id/atraksi/vidx.mpd?id=19353&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19353&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/ljKXj4kBJBDWOLr9xNB0EdJIt3o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19353/bri-super-league-a1aa24.jpg", PERSIS vs PERSIB
-https://archertv.my.id/atraksi/vidx.mpd?id=19353&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=205&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/dJ3gyIwlGGwdFKh411EEm6lgX3s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4856339/ece3b9.jpg", Madura United FC vs PSBS Biak
-https://archertv.my.id/atraksi/vidx.mpd?id=205&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
 #EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/6GP-P0p6YLrPw_fNrW3OQk8EkH0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4860078/310a43.jpg", Borneo FC Samarinda vs PSIM Jogja
-https://archertv.my.id/atraksi/vidx.mpd?id=19354&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
+https://archertv.my.id/atraksi/vidx.mpd?id=19354&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19355&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19355&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
 #EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/nvSPJqcjPGgnm1TkUsMjqlOBK8s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4860079/f61d64.jpg", Jelang Kick Off
-https://archertv.my.id/atraksi/vidx.mpd?id=19355&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
+https://archertv.my.id/atraksi/vidx.mpd?id=19355&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
 #EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/Srq_l3JjbHwYbG7rgCKDo2eba80=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4856337/2ba71c.jpg", PERSEBAYA Surabaya vs Dewa United Banten FC
-https://archertv.my.id/atraksi/vidx.mpd?id=19354&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
+https://archertv.my.id/atraksi/vidx.mpd?id=19354&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
 #EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/YyYA0b6oTFuAN3qOsFHdV1Q2yEI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4863387/949d30.jpg", Arema FC vs PERSIJAP
-https://archertv.my.id/atraksi/vidx.mpd?id=19354&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19543&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/4vVjK-leDT_Y9S3ymojpIxo8Y_w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4857920/b90ee1.jpg", Persipal FC vs Persela Lamongan
-https://archertv.my.id/atraksi/vidx.mpd?id=19543&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19543&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/CHel6ZjlyPFiuj2o2GFG8f4YRJ8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19543/pegadaian-championship-2025-26-de40f9.jpg", Persipal FC vs Persela Lamongan
-https://archertv.my.id/atraksi/vidx.mpd?id=19543&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19541&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/yJ5pSzcbXAD2ry9lAVjD40-Z-0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4857918/f43079.jpg", Persiba Balikpapan vs Deltras FC
-https://archertv.my.id/atraksi/vidx.mpd?id=19541&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19543&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/cbWGP-pPRx695qE2gV-tkvtKKjY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4857921/b01d2c.jpg", PSS Sleman vs PS. Barito Putera
-https://archertv.my.id/atraksi/vidx.mpd?id=19543&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19541&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/48YUEx1htBkexo1E9M8GHbUu7G8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19541/pegadaian-championship-2025-26-5a3836.jpg", Persiba Balikpapan vs Deltras FC
-https://archertv.my.id/atraksi/vidx.mpd?id=19541&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19584&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/F-YtpjcNCPepr6YY0ON0412ps24=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4859835/4eb561.jpg", Persiraja Banda Aceh vs PSPS Pekanbaru
-https://archertv.my.id/atraksi/vidx.mpd?id=19584&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19584&type=drm&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz
-#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/oQf8qUk-uh1Jhf6BsQt8dy23O3U=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg", Persiraja Banda Aceh vs PSPS Pekanbaru
-https://archertv.my.id/atraksi/vidx.mpd?id=19584&type=dash&token=gi8Zfu5S7SGbgHYnYkm6bdIunrPCQHEz|User-Agent=VidioPlayer/6.31.6
+https://archertv.my.id/atraksi/vidx.mpd?id=19354&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
 
 #########################LIVE EVENT#######################################
 #EXTINF:-1 group-title="LIVE EVENT" tvg-, 18:00 WIB Kuzeyboru vs Vakifbank (2)
