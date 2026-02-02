@@ -2,17 +2,6 @@
 
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
-#EXTINF:-1 group-title="👑 KING MU" tvg-logo="https://iili.io/FtSr5Mb.jpg", MU VS LIPERVOOL (BETINA)
-#EXTVLCOPT:http-referrer=https://www.kilatlive.net/
-https://rr4---sn-8pxuuxa-on.applecdnstore.com/UK_SKY_SPORTS_PREMIER_LEAGUE_TV/index.m3u8
-#EXTINF:-1 group-title="👑 KING MU" tvg-logo="https://iili.io/FtSr5Mb.jpg", Manchester United vs Fulham
-https://hwcn111pull-b.bszb.me/live/2366319_1769944885.flv
-#EXTINF:-1 group-title="👑 KING MU" tvg-logo="https://iili.io/FtSr5Mb.jpg", Manchester United vs Fulham CH2
-https://hwcn111pull-b.bszb.me/live/2366319_1769944885.flv
-#EXTINF:-1 group-title="👑 KING MU" tvg-logo="https://iili.io/FkbwkX4.md.jpg",CANAL LIVE 1
-http://viphfppss.top:8080/SVIP0187174498268841/91744982688075/128997
-#EXTINF:-1 group-title="👑 KING MU" tvg-logo="https://iili.io/FtSr5Mb.jpg",HUB PREMIER 1
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158'
 
 
 #########################NASIONAL#######################################
@@ -149,119 +138,48 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 
 
 #########################BWF EVENT#######################################
-#EXTINF:-1 group-title="BWF THAILAND MASTER 2026" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/693/2025/02/01/1738068685241-3777893779.jpg",SEMIFINAL CH1
-#https://v4-82ca4a54ad45c616f188ba4a0fdae0f2.livehwc4.com/pull.chuangbwu.com/live/8861564_lud.m3u8?edge_slice=true&sub_m3u8=true&auth_info=K0%2BQUc%2F47i3WKlby39UWkhoGuaRouYp1eU%2BQQ2Itz4Fv%2FfS4snZhB%2BuKUIQ2aTT5.6142677a314d6331577778757a716475&user_session_id=90fcf3148a39f4c203c21852db939425
+<=================== EVENT 1 =============================>
 
-#EXTINF:-1 group-title="BWF THAILAND MASTER 2026" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/693/2025/02/01/1738068685241-3777893779.jpg",SEMIFINAL CH2
-#https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-InternationalVoice2HB_sjb480.m3u8?title=8205010&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=sVL7IdMiqjICAcpX3XHVPRvx&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-InternationalVoice2HB&ccode=live05030101&expire=21600&psid=DD7E399B6F78BEEE23C0373437796E1D&ups_client_netip=202.73.12.60&ups_ts=1769753752&ups_userid=0&utid=sVL7IdMiqjICAcpX3XHVPRvx&vid=8205010_8128653&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-InternationalVoice2HB_sjb480&vkey=B15c0ee1f22b8467995d103fbdced8b09&cug=10&t=b353d27f5407cce&rid=20000000ABF23C4A4EAAD6BDA0CA76F58DDE2DAD00000000
+#EXTINF:-1 group-title="EVENT 02/FEBRUARI/2026" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB Woori vs Kepco
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
-#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/lyPmf0uJynGeIwRPA07xQrTWQLQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4874582/1bb825.jpg", Bao Li Jing/Liu Yi Jing (CHN) vs Amallia Cahaya Pratiwi/Siti Fadia Silva Ramadhanti (INA)
-https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
-#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/W8OIlUR0hhzDHkzCjzi0yC1-lRY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/princess-sirivannavari-thailand-masters-2026-finals-086555.jpg", Bao Li Jing/Liu Yi Jing (CHN) vs Amallia Cahaya Pratiwi/Siti Fadia Silva Ramadhanti (INA)
-https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
-#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/hRR-YhEekHNhjPQOhJCO6Swizcg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4874580/ae3334.jpg", Leo Rolly Carnando/Bagas Maulana (INA) vs Raymond Indra/Nikolas Joaquin (INA)
-https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
-#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/W8OIlUR0hhzDHkzCjzi0yC1-lRY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/princess-sirivannavari-thailand-masters-2026-finals-086555.jpg", Devika Sihag (IND) vs Goh Jin Wei (MAS)
-https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
-#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/v26Jwbzs_BBKBdXpOnuscYufi0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4874583/340288.jpg", Bobby Setiabudi/Melati Daeva Oktavianti (INA) vs Adnan Maulana/Indah Cahya Sari Jamil (INA)
-https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://medit.indi1.workers.dev/index.drm?id=18249&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
-#EXTINF:-1 group-logo="" group-title="BWF THAILAND MASTER 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/t8ZfWZNmvZc5OcbLgVO1F2D0VZI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4874584/660d28.jpg", Panitchapon Teeraratsakul (THA) vs Moh. Zaki Ubaidillah (INA)
-https://medit.indi1.workers.dev/index.mpd?id=18249&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
-
-==========PROLIGA========
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
-#EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/8OaSjNczRhc7XR4Hnxv92SmhPRA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4860020/8a0ff0.jpg", Putri: Jakarta Pertamina Enduro vs Bandung BJB Tandamata
-https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
-#EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/JFEE4iggjAwTnpJX1Bf3ybdJ_9E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4860023/f28c18.jpg", Putra: Surabaya Samator vs Jakarta Bhayangkara Presisi
-https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
-#EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/aK3YbqjR7nU_v5jkW97siJFybWw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4860025/f988f5.jpg", Putri: Gresik Phonska Plus Pupuk Indonesia vs Medan Falcons
-https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
-
-=======ERROR Liga 2========
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
-#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/6GP-P0p6YLrPw_fNrW3OQk8EkH0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4860078/310a43.jpg", Borneo FC Samarinda vs PSIM Jogja
-https://archertv.my.id/atraksi/vidx.mpd?id=19354&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19355&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
-#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/nvSPJqcjPGgnm1TkUsMjqlOBK8s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4860079/f61d64.jpg", Jelang Kick Off
-https://archertv.my.id/atraksi/vidx.mpd?id=19355&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
-#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/Srq_l3JjbHwYbG7rgCKDo2eba80=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4856337/2ba71c.jpg", PERSEBAYA Surabaya vs Dewa United Banten FC
-https://archertv.my.id/atraksi/vidx.mpd?id=19354&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI
-#EXTINF:-1 group-logo="" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/YyYA0b6oTFuAN3qOsFHdV1Q2yEI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4863387/949d30.jpg", Arema FC vs PERSIJAP
-https://archertv.my.id/atraksi/vidx.mpd?id=19354&type=dash&token=7tmUJVULvpq1hKkXNpDwufTfwR2HIZKI|User-Agent=VidioPlayer/6.31.6
-
-#########################LIVE EVENT#######################################
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 19:00 WIB Putri: Gresik Phonska Plus Pupuk Indonesia vs Medan Falcons
-#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop/
-#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://xxyznt1-cf.didjhfyu8yg.sbs/auth%3D84f7fda1ae0f97ce290730e5c0a8c43f55c132f2257320fec73df9704a7f0d4a64ac56d8ab2faedb6ea9adb8d4a78726214bab155433b8f84d93bac31a687e2f16625981fbf7a7d0e1fe0a5ced2d96b1a0697f53ba5fec1c1b1c1e5c0074a5ba1a7f0827a41ebfaa178514ac86999ad3fa802ccda032dee2684726aae540376e73836614bbd1fd88a85bbf94ee57ade079b79c89d1ee8ba907c84523d3439c0b%26cid%3DiIGrgMHrZoiMwm4y00kQT260131%26_v%3D2%26_r%3D8rDU-1%26_vis%3D4aa396c7c03ebfeb863bff17d17ad15e5224d131b3ef4f64d81173b89919f813%26_vvs%3D9c21281b065aa5376676158535dcb16ca9944aee7e846415f2fc0e46acdb5afe/app/c401605.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 19:00 WIB Putri: Gresik Phonska Plus Pupuk Indonesia vs Medan Falcons
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://hotlivezz179266008.akainu.xyz/yRkOMH9Cm8A-Y8kF1C6oSg/Fv2lucGIbhPi2caWYvF5Lg/1765562648071/live/bangHD/chunklist.m3u8
+#EXTINF:-1 group-title="EVENT 02/FEBRUARI/2026" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB IBK W vs GS Caltex W
 
 <================================================>
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 19:00 WIB Persebaya Surabaya vs Dewa United (2)
+#EXTINF:-1 group-title="EVENT 02/FEBRUARI/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Arema vs Persijap
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live1.pro2cdnlive.com/live/channel8.m3u8?wsSecret=f1c8225c81616337cd19b3e254333554&wsABSTime=1761424409
+https://live.golivenow71.com/35f4916a2c272146e97b94146acae7f3/1770052566167/gmpmb95/index.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 19:00 WIB Persebaya Surabaya vs Dewa United (3)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-http://205.237.105.46/hls/JKKK.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 19:00 WIB Persebaya Surabaya vs Dewa United (4)
+#EXTINF:-1 group-title="EVENT 02/FEBRUARI/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Arema vs Persijap
 #EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop/
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://cxyznt3-cf.didjhfyu8yg.sbs/auth%3D2c918c65c503b3ce2d51d85ee64dc94852599f780c09549f0ee474ddb68961664dd520f24295c2307f2b212dbf218dfbdb362f3ef64a3e11cc45b5661d972d5055decccd54bf8ac3daa8a6c84a48f5702981afb0dd68cc27c74f010507afd96f249778ad7132990ab1ae3660f2dc7121d8d40e01c04db940abb98d5cd2281db134cd685a9018725c382f6598eabe2a7f5e7bf3281e73eb878038d8fe2bc85225%26cid%3DjFKyyQgZE8-lmdiBGr8sG260201%26_v%3D2%26_r%3DQ-ycS6%26_vis%3D85a6599d5ddfb8cde934e09a1ef86ca07c975906f85dc66d55affb25e7a053db%26_vvs%3Db3fe1b5c27eb35376bc0a5d16ba9b77ddcb07dd04870799ed465efb8ec1ce72c/app/c401100.m3u8
+https://xyzna2-cf.didjhfyu8yg.sbs/auth%3Dd8693b85e02414bfc34de7897d69783e463049a5e2a67529e85c0220624b144df1cea0726404f7796ed6369dadc2f3fdd5d8423616aa00e33fe2fd389d6220b51613379c2bfb0c018ab00e8e9e12aa5bbba0ed90fdb124b60f39262f56f0541a169fcb3a853eed3476caaa5f625cfb1f157d8364e5fad0d28bec18b167ebe5062c856704ed17c54f91500656f684c4e87170deb4f49d72edd6efc92b62a2583c%26cid%3DjFKyyQgZE8-lmdiBGr8sG260201%26_v%3D2%26_r%3D30WUNR%26_vis%3D98322bedea1c940a4ceca925abc2038cbfeabe8b93151d168de7e05de0bb761e%26_vvs%3D23e87f634609099ba30479ec4e0205e12d3d6246146cf94b192ba13cb4d65e2a/app/c401489.m3u8
+
+
+#EXTINF:-1 group-title="EVENT 02/FEBRUARI/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB PSM vs Semen Padang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
+https://live.golivenow71.com/230f8701479ce534f6bfda25a446aac9/1770052654056/lhsazur/index.m3u8
 
 <================================================>
 <================>
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 21:00 WIB Manchester United vs Fulham (2)
-https://shorter.me/aJXUE
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 21:00 WIB Nottingham Forest vs Crystal Palace (2)
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 21:00 WIB Aston Villa vs Brentford (2)
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 23:30 WIB Tottenham Hotspur vs Manchester City (2)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
-https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
-
 <================>
+<=================== EVENT 2 =============================>
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 20:00 WIB Real Madrid vs Rayo Vallecano
+#EXTINF:-1 group-title="EVENT 03/FEBRUARI/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 03:00 WIB Sunderland vs Burnley
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 03/FEBRUARI/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 03:00 WIB Mallorca vs Sevilla
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -269,33 +187,7 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd 
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 22:15 WIB Real Betis vs Valencia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd 
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 00:30 WIB Getafe vs Celta de Vigo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd 
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 03:00 WIB Athletic Club vs Real Sociedad
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd 
-
-<================>
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 18:30 WIB Torino vs Lecce
+#EXTINF:-1 group-title="EVENT 03/FEBRUARI/2026" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 02:45 WIB Udinese vs Roma
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -303,91 +195,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 21:00 WIB Como vs Atalanta
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 00:00 WIB Cremonese vs Internazionale
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 02:45 WIB Parma vs Juventus
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-<================>
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 21:30 WIB Stuttgart vs Freiburg
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 23:30 WIB Borussia Dortmund vs Heidenheim
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-<================>
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 21:00 WIB Olympique Lyonnais vs Lille
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 23:15 WIB Toulouse vs Auxerre
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 23:15 WIB Nice vs Brest
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/sporttv3.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 02:45 WIB Strasbourg vs PSG
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/sporttv3.m3u8
-
-<================>
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 18:15 WIB Excelsior vs Ajax
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 20:30 WIB PSV vs Feyenoord
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
-<================>
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-, 00:30 WIB Al Ittihad vs Al Najma
+#EXTINF:-1 group-title="EVENT 03/FEBRUARI/2026" tvg-logo="https://shorter.me/3gy7g", 00:30 WIB Al Hilal vs Al-Ahli
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
