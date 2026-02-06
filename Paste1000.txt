@@ -136,13 +136,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #EXTINF:-1 group-logo="" group-title="PROLIGA" tvg-id="" tvg-logo="https://img.freepik.com/free-vector/live-now-streaming-news-background_1017-14196.jpg",Proliga 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79de825cc4074f4e2d0f5e62e401713d:aaa4eca2649c47572574cb8c172dfa10
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/20240/file/drm/dash/stream.mpd?hdntl=exp=1770295772~acl=%2fstream%2f20240%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=198604892~data=hdntl~hmac=4fed7c55897c4e97966ce332793e21b6851cce391153ba1443fb420d85397ffb|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/20240/file/drm/dash/stream.mpd?hdntl=exp=1770381285~acl=%2fstream%2f20240%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=198769271~data=hdntl~hmac=eb6bd3986e341272d58389a9ba2537a0485e149d680faa057f5e000d8a659129|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 
 =======ERROR Liga 2========
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm&token=JUn4EZa2XLjuVQxQWdlwSWvzwfoZgRrZ
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/B0RYcRXUvTHsQFGzCOZBvhJ9Koc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4884699/88a86b.jpg" ch-number="1", PSIM Jogja vs PERSIS - BRI Super League
-https://archertv.my.id/atraksi/vidx.mpd?id=19354&type=dash&token=JUn4EZa2XLjuVQxQWdlwSWvzwfoZgRrZ|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm&token=JUn4EZa2XLjuVQxQWdlwSWvzwfoZgRrZ
 #EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/nkupgZjZiSHBefvJEQqEWhGBJUk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4884700/d0c74c.jpg" ch-number="2", PERSIB vs Malut United FC - BRI Super League
@@ -150,12 +146,12 @@ https://archertv.my.id/atraksi/vidx.mpd?id=19354&type=dash&token=JUn4EZa2XLjuVQx
 ========ERROR LIGA 1=======
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=19354&type=direm&token=JUn4EZa2XLjuVQxQWdlwSWvzwfoZgRrZ
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/B0RYcRXUvTHsQFGzCOZBvhJ9Koc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4884699/88a86b.jpg" ch-number="1", PSIM Jogja vs PERSIS - BRI Super League
-http://archertv.my.id/atraksi/index.mpd?id=19354&type=dash&token=JUn4EZa2XLjuVQxQWdlwSWvzwfoZgRrZ|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=19354&type=direm&token=JUn4EZa2XLjuVQxQWdlwSWvzwfoZgRrZ
 #EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/nkupgZjZiSHBefvJEQqEWhGBJUk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4884700/d0c74c.jpg" ch-number="2", PERSIB vs Malut United FC - BRI Super League
 http://archertv.my.id/atraksi/index.mpd?id=19354&type=dash&token=JUn4EZa2XLjuVQxQWdlwSWvzwfoZgRrZ|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/B0RYcRXUvTHsQFGzCOZBvhJ9Koc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4884699/88a86b.jpg" group-title="LIGA KONOHA" group-logo="" tvg-id="",PSIM Jogja vs PERSIS - BRI Super League
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f18eae136c72f661a66200278f2f9ab:2f20b0e7e2e9515a045a149ed85256ef
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19354/file/drm/dash/stream.mpd?hdntl=exp=1770380671~acl=%2fstream%2f19354%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=200046407~data=hdntl~hmac=631be5fc9f5d8f6eec3b55efcdec8d93de8e0f045564e38685af15a81877833c|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 
 #########################BWF EVENT#######################################
 <=================== EVENT 1 =============================>
