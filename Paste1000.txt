@@ -131,6 +131,12 @@ http://archertv.my.id/atraksi/index.mpd?id=19385&type=dash&token=Ujakvp2OuHDACbK
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19385&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=19385&type=dash
 
+#EXTINF:-1 xui-id="4" tvg-id="Moji.id" tvg-name="MOJI HD" tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="PROLIGA",MOJI HD
+https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C85t_z0_MBwZtd69IGhbSfdg/ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/67JzNgZ9/GIF-Image1766347197335.gif" group-title="PROLIGA",MOJI SPORTS SD
+http://45.143.223.13:8070/F25660/4184162c/298550
+
 #EXTINF:-1 group-title="PROLIGA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/65/Logo_Proliga.png/250px-Logo_Proliga.png",PROLIGA 3
 http://iptvtree.net:8080/F33848/cbd9779b/298550
 #EXTINF:-1 group-title="PROLIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8al6_TMwbTQLjV4T0FwsA1BDBUrPHKNFztc3M_EG2aQ&s=10", PROLIGA 2026
