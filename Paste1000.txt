@@ -117,6 +117,36 @@ https://63b2dc7196c38.streamlock.net:1937/JTVSURABAYA/_definst_/myStream/playlis
 
 
 #########################LIVE SPORTS#######################################
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=205&type=direm&token=Ujakvp2OuHDACbKZy7kwKQeJPH3M4Ckt
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/mOlEm7NFioRBUP6DwaElOBGEgQU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4895031/f40d3a.jpg" ch-number="1", PERSIS vs Madura United FC - BRI Super League
+http://archertv.my.id/atraksi/index.mpd?id=205&type=dash&token=Ujakvp2OuHDACbKZy7kwKQeJPH3M4Ckt|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=19385&type=direm&token=Ujakvp2OuHDACbKZy7kwKQeJPH3M4Ckt
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/BU6iW7DDjMim9Y0t_z1rHVoSaeY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4895030/09b400.jpg" ch-number="2", PERSIK Kediri vs PSIM Jogja - BRI Super League
+http://archertv.my.id/atraksi/index.mpd?id=19385&type=dash&token=Ujakvp2OuHDACbKZy7kwKQeJPH3M4Ckt|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 tvg-logo="" group-title="LIGA KONOHA",COBA
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19385&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=19385&type=dash
+
+#EXTINF:-1 group-title="PROLIGA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/65/Logo_Proliga.png/250px-Logo_Proliga.png",PROLIGA 3
+http://iptvtree.net:8080/F33848/cbd9779b/298550
+#EXTINF:-1 group-title="PROLIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8al6_TMwbTQLjV4T0FwsA1BDBUrPHKNFztc3M_EG2aQ&s=10", PROLIGA 2026
+#EXTVLCOPT:http-referer=https://cdnstreaming.chuoichientv.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C85t_z0_MBwZtd69IGhbSfdg/ts
+http://filex.me:8080/live/000003/000003/302279.ts
+#EXTINF:-1 group-title="PROLIGA" tvg-logo="https://cdn.medcom.id/dynamic/content/2026/01/08/1798518/e2zfph0jmc.JPG?w=700", TV VOLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://filex.me:8080//live/MAS101A/MAS101AABB/302279.ts
+#http://103.160.205.142:9999/stream/channelid/1572314271?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9OvSrHURyB3qMHc-H8MzEoXexsDuNLmyyTQ&s" group-title="PROLIGA",MOJI TV HD
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+http://45.143.223.13:8070/F25660/4184162c/298550
+
+
 <================================================>
 
 #EXTINF:-1 group-title="EVENT 012/FEBRUARI/2026" tvg-logo="https://shorter.me/sS209", 17:00 WIB Pohang Steelers vs Gamba Osaka
