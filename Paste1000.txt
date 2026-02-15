@@ -117,25 +117,10 @@ https://63b2dc7196c38.streamlock.net:1937/JTVSURABAYA/_definst_/myStream/playlis
 
 
 #########################LIVE SPORTS#######################################
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/indosiar.png?raw=true" group-title="LIGA KONOHA", INDOSIAR 1 (VD)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=205&type=direm&token=Ujakvp2OuHDACbKZy7kwKQeJPH3M4Ckt
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/mOlEm7NFioRBUP6DwaElOBGEgQU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4895031/f40d3a.jpg" ch-number="1", PERSIS vs Madura United FC - BRI Super League
-http://archertv.my.id/atraksi/index.mpd?id=205&type=dash&token=Ujakvp2OuHDACbKZy7kwKQeJPH3M4Ckt|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://archertv.my.id/atraksi/index.php?id=19385&type=direm&token=Ujakvp2OuHDACbKZy7kwKQeJPH3M4Ckt
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="LIGA KONOHA" tvg-logo="https://thumbor.prod.vidiocdn.com/BU6iW7DDjMim9Y0t_z1rHVoSaeY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4895030/09b400.jpg" ch-number="2", PERSIK Kediri vs PSIM Jogja - BRI Super League
-http://archertv.my.id/atraksi/index.mpd?id=19385&type=dash&token=Ujakvp2OuHDACbKZy7kwKQeJPH3M4Ckt|User-Agent=VidioPlayer/6.31.6
-#EXTINF:-1 tvg-logo="" group-title="LIGA KONOHA",COBA
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19385&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=19385&type=dash
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/edhyku/edycmfa/refs/heads/main/PlaylistOTT/Logo%20Super%20League.png" group-title="BRI SUPER LEAGUE",INDOSIAR DIGITAL SD (BRI Super League)
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Indos.m3u8
+#EXTINF:-1 tvg-id="Indosiar" tvg-url="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="BRI SUPER LEAGUE",CH 3 Indosiar
+http://filex.me:8080/live/000003/000003/302264.m3u8
 
 #EXTINF:-1 xui-id="4" tvg-id="Moji.id" tvg-name="MOJI HD" tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="PROLIGA",MOJI HD
 https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C85t_z0_MBwZtd69IGhbSfdg/ts
