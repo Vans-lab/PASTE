@@ -139,6 +139,21 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 
 #########################LIVE SPORTS#######################################
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 6 HD" tvg-logo="https://sportsboardindia.com/wp-content/uploads/2026/02/YONEX-German-Open-2026.jpg" group-title="YONEX GERMAN OPEN 2026",COURT 1
+https://ikohls.tailaso.top/live/pyk7ds.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 6 HD" tvg-logo="https://sportsboardindia.com/wp-content/uploads/2026/02/YONEX-German-Open-2026.jpg" group-title="YONEX GERMAN OPEN 2026",COURT 2
+https://ikohls.tailaso.top/live/lNgQQK.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 6 HD" tvg-logo="https://sportsboardindia.com/wp-content/uploads/2026/02/YONEX-German-Open-2026.jpg" group-title="YONEX GERMAN OPEN 2026",COURT 3
+https://ikohls.tailaso.top/live/FA6hqw.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 6 HD" tvg-logo="https://sportsboardindia.com/wp-content/uploads/2026/02/YONEX-German-Open-2026.jpg" group-title="YONEX GERMAN OPEN 2026",COURT 4
+https://ikohls.tailaso.top/live/IFFomi.m3u8
+
+
+
+
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title="BRI SUPER LEAGUE",liga bri
 http://filex.me:8080//live/000003/000003/302264.ts
 
