@@ -178,113 +178,87 @@ http://45.143.223.13:8070/F25660/4184162c/298550
 
 <=================== EVENT 1 =============================>
 
-#EXTINF:-1 group-title="EVENT 026/FEBRUARI/2026" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB Hyundai Skywalkers vs Suwon KEPCO 
+#EXTINF:-1 group-title="EVENT 027/FEBRUARI/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 15:00 WIB 2026 MotoGP Rd 1 PT Grand Prix of Thailand Practice
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+
+#EXTINF:-1 group-title="EVENT 027/FEBRUARI/2026" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB Samsung Blue Fangs vs KAL Jumbos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://m.sports.naver.com
-#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20260226022M216
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0001/she8so3fr0h6oaynkdai4js7e53skjja10bu/playlist.m3u8?hdnts=st=1772100482~exp=1772132892~acl=*/she8so3fr0h6oaynkdai4js7e53skjja10bu/*~hmac=9440fe174798b3c0e040b25c44e68bf10ee31db68d800f6437d88417d291c018
+#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20260227022M218
+https://livecloud.pstatic.net/sports/lip2_kr/cnmssgpu0001/3uhsr0ogfrzgpnxqkilibtiwl54ndau4xl59/playlist.m3u8?hdnts=st=1772186773~exp=1772219183~acl=*/3uhsr0ogfrzgpnxqkilibtiwl54ndau4xl59/*~hmac=9e5b9ed1399a9a3b0f74db5a47da255d229ce96942e2c6dc0c9920e290b9947b
 
-#EXTINF:-1 group-title="EVENT 026/FEBRUARI/2026" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB Incheon Heungkuk vs GS Caltex
+#EXTINF:-1 group-title="EVENT 027/FEBRUARI/2026" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB Expressway Co vs Daejeon KGC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://m.sports.naver.com
-#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20260226022F217
-https://livecloud.pstatic.net/sports/lip2_kr/cnmssgpu0001/ceiki4iyczspkmt89nqgdnfeejqeryu1tppo/playlist.m3u8?hdnts=st=1772100388~exp=1772132798~acl=*/ceiki4iyczspkmt89nqgdnfeejqeryu1tppo/*~hmac=f673480f685a4ffc5c12281fcc534959ec2bb61df567d41794361b0896e9bb36
+#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20260227022F219
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0002/ewupccaingelwal2r21nujswd32msz1ubgtp/playlist.m3u8?hdnts=st=1772186581~exp=1772218991~acl=*/ewupccaingelwal2r21nujswd32msz1ubgtp/*~hmac=fed2bf011e5604ff225918fcd86dbd0d2f55a929b3048a653fa89f94ec8f0994
 
-
-#EXTINF:-1 group-title="EVENT 026/FEBRUARI/2026" tvg-logo="https://iili.io/fe5XHVn.md.png", 20:30 WIB Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Pertamina Enduro
+#EXTINF:-1 group-title="EVENT 027/FEBRUARI/2026" tvg-logo="https://iili.io/fe5XHVn.md.png", 20:00 WIB Putri: Jakarta Popsivo Polwan vs Medan Falcons
 
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 026/FEBRUARI/2026" tvg-logo="https://shorter.me/_bDcr", 20:30 WIB Borneo vs Arema
+#EXTINF:-1 group-title="EVENT 027/FEBRUARI/2026" tvg-logo="https://shorter.me/_bDcr", 20:30 WIB PSBS Biak Numfor vs PSIM Yogyakarta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live.golivenow71.com/f92c2bdeb262da3bf9630ed4502aa915/1772134149080/r8ztat6/index.m3u8
-
-#EXTINF:-1 group-title="EVENT 026/FEBRUARI/2026" tvg-logo="https://shorter.me/_bDcr", 20:30 WIB Persita vs Dewa United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live.golivenow71.com/0572c2667ec486616c2d0c3d17599336/1772134265870/trd02w8/index.m3u8
-
-#EXTINF:-1 group-title="EVENT 026/FEBRUARI/2026" tvg-logo="https://shorter.me/_bDcr", 20:30 WIB Persib vs Madura United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live.golivenow71.com/efb2ada025de18f123070bb7fefb35b6/1772134213824/rchtwtx/index.m3u8
+https://live.golivenow71.com/8a1fc3d5bad9cc276fd909ed9d6d14d7/1772221183829/xqispup/index.m3u8
 
 <================================================>
+
+#EXTINF:-1 group-title="EVENT 027/FEBRUARI/2026" tvg-logo="https://shorter.me/ii84S", 18:00 WIB UEFA Champions League Draw
+https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
+
+#EXTINF:-1 group-title="EVENT 027/FEBRUARI/2026" tvg-logo="https://shorter.me/Pflov", 19:00 WIB UEFA Europa League Draw
+https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 <================>
 <================>
 <=================== EVENT 2 =============================>
 
-#EXTINF:-1 group-title="EVENT 027/FEBRUARI/2026" tvg-logo="https://shorter.me/Pflov", 00:45 WIB Ferencváros vs Ludogorets
-#EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
+#EXTINF:-1 group-title="EVENT 028/FEBRUARI/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 03:00 WIB Wolverhampton Wanderers vs Aston Villa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
+https://live.golivenow71.com/6bc89a4b671f537f89cfeb717e1647e9/1772222013039/rchtwtx/rchtwtx@720p.m3u8
 
-#EXTINF:-1 group-title="EVENT 027/FEBRUARI/2026" tvg-logo="https://shorter.me/Pflov", 00:45 WIB Crvena Zvezda vs Lille
-#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-
-#EXTINF:-1 group-title="EVENT 027/FEBRUARI/2026" tvg-logo="https://shorter.me/Pflov", 00:45 WIB Viktoria Plzeň vs Panathinaikos
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-
-#EXTINF:-1 group-title="EVENT 027/FEBRUARI/2026" tvg-logo="https://shorter.me/Pflov", 00:45 WIB Stuttgart vs Celtic
+#EXTINF:-1 group-title="EVENT 028/FEBRUARI/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 03:00 WIB Levante vs Deportivo Alavés
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 027/FEBRUARI/2026" tvg-logo="https://shorter.me/Pflov", 03:00 WIB Celta de Vigo vs PAOK
-#EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
-
-#EXTINF:-1 group-title="EVENT 027/FEBRUARI/2026" tvg-logo="https://shorter.me/Pflov", 03:00 WIB Bologna vs Brann
-#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-
-#EXTINF:-1 group-title="EVENT 027/FEBRUARI/2026" tvg-logo="https://shorter.me/Pflov", 03:00 WIB Nottingham Forest vs Fenerbahçe
+#EXTINF:-1 group-title="EVENT 028/FEBRUARI/2026" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 02:45 WIB Parma vs Cagliari
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-
-#EXTINF:-1 group-title="EVENT 027/FEBRUARI/2026" tvg-logo="https://shorter.me/NzYuB", 00:45 WIB Fiorentina vs Jagiellonia Białystok
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-title="EVENT 028/FEBRUARI/2026" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 02:30 WIB Augsburg vs Köln
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-#EXTINF:-1 group-title="EVENT 027/FEBRUARI/2026" tvg-logo="https://shorter.me/NzYuB", 03:00 WIB Crystal Palace vs Zrinjski
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-
-#EXTINF:-1 group-title="EVENT 027/FEBRUARI/2026" tvg-logo="https://shorter.me/NzYuB", 03:00 WIB Crystal Palace vs Zrinjski
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+#EXTINF:-1 group-title="EVENT 028/FEBRUARI/2026" tvg-logo="https://iili.io/FDOiPI4.jpg", 02:45 WIB Strasbourg vs Lens
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
+https://live1.pro2cdnlive.com/live/channel4.m3u8?wsSecret=5f9d99c9baca82e916d4e698e13c39af&wsABSTime=1772222242
 
 
-#EXTINF:-1 group-title="EVENT 027/FEBRUARI/2026" tvg-logo="https://shorter.me/3gy7g", 02:00 WIB Al Riyadh vs Al-Ahli
+#EXTINF:-1 group-title="EVENT 028/FEBRUARI/2026" tvg-logo="https://shorter.me/3gy7g", 02:00 WIB Al Shabab vs Al Hilal
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
+
+
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
