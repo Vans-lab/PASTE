@@ -11,6 +11,9 @@ https://live.golivenow71.com/837f09df7722105e053a971d0b1567ef/1772413507967/rcht
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-name="Now Sports PL 1 FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/NowPL1.png" group-title="👑 KING MU",Now Sports PL 1 FHD
 https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
 
+#EXTINF:-1 group-title="👑 KING MU" group-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png",HUB PREMIER 1
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
+
 #EXTINF:-1 group-title="👑 KING MU" group-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png",ASTRO PREMIER LEAGUE
 https://github.com/cattviptv2605/m3u8-world-/raw/main/astropremierleague.m3u8
 
