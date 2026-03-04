@@ -2,24 +2,6 @@
 
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
-#EXTINF:-1 group-title="👑 KING MU" tvg-logo="https://i.ibb.co.com/2tBx8pR/TNT1.png",TNT SPORTS 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="👑 KING MU",03:15 WIB - NEWCASTLE UNITED VS MANCHESTER UNITED [Server 1] [FOOTBALL]
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=45b91a29022d3366031d7f2ebb7656a9&wsABSTime=1772702142
-
-#EXTINF:-1 group-title="👑 KING MU", Newcastle United vs Manchester United
-https://play2.yhuias.com/live/113908265471_3928097126_adaptive.m3u8
-
-#EXTINF:-1 group-title="👑 KING MU"tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-premier-league-uk.png",SKY SPORTS Premier League DE
-http://lunar.pm:8080/live/Mrdon/4782314540/100773.ts
-#http://myxpanel.pro/faith/faith/276905
-#http://tv.cloudcdn.me/live.ts?channelId=286&uid=15301&deviceMac=00:1A:79:1D:53:3F
 
 #########################NASIONAL#######################################
 //========================================================================
