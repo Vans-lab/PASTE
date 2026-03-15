@@ -8,7 +8,11 @@ https://ikohls.tailaso.top/live/Thzig2.m3u8
 #EXTINF:-1 group-title="BWF SWISS OPEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt7ZDrkx55lj-w8lXkdwe34YFja397hZ2EKg&s",FINAL SERVER 2
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4149303942815061_AiHD.m3u8?txSecret=034cff58e727af72f9d9d7807923a911&txTime=69B7B880
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="KING EMYU",21:00 WIB - MANCHESTER UNITED VS ASTON VILLA KILAT
+#EXTVLCOPT:http-referrer=https://kilatlive.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://rr4---sn-8pxuuxa-on.applecdnstore.com/LIVE_Sky_Sports_Main_Events/index.m3u8
+https://rr4---sn-8pxuuxa-on.applecdnstore.com/LIVE_Sky_Sports_Main_Events/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="KING EMYU" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Manchester United vs Aston Villa
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
