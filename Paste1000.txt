@@ -271,7 +271,18 @@ https://galandriel1.thobias1.cfd/puk4/usergendx42x9qrnd.m3u8
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
 
-
+//========================================================================
+🔸🔸🔸 Collected by https://t.me/IPTVgratisupdate menampilkan playlist >>> FIFA SERIES 🔸🔸🔸
+//========================================================================
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="FIFA SERIES",20:00 WIB - INDONESIA VS ST KITTS AND NEVIS [Server 1] [FOOTBALL]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=ecc563a80f0a1e0ba7b07bbfadda5790&wsABSTime=1774656332
+#EXTINF:-1 tvg-logo="https://portalnews.stekom.ac.id/media/34553/indonesia-resmi-jadi-tuan-rumah-fifa-series-2026.png" group-logo="https://portalnews.stekom.ac.id/media/34553/indonesia-resmi-jadi-tuan-rumah-fifa-series-2026.png" group-title="FIFA SERIES",INDOSIAR TIMNAS
+https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C8-1Z2Rp7JvQhncgXXsV4UVM/ts
+#EXTINF:-1 tvg-logo="https://portalnews.stekom.ac.id/media/34553/indonesia-resmi-jadi-tuan-rumah-fifa-series-2026.png" group-logo="https://portalnews.stekom.ac.id/media/34553/indonesia-resmi-jadi-tuan-rumah-fifa-series-2026.png" group-title="FIFA SERIES",INDOSIAR TIMNAS ALT
+http://exm3u.extraott.com/live/6JG6WQTK/1RS973F7/1139211.ts
 
 ========= LIVE EVENT =========
 
