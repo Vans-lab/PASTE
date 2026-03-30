@@ -2,16 +2,30 @@
 
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="FIFA SERIES",20:00 WIB - INDONESIA VS BULGARIA [Server 1] [FOOTBALL]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="FIFA SERIES INDONESIA",20:00 WIB - INDONESIA VS BULGARIA [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=06900eb5e6bb8c6a9d427d7c1435679c&wsABSTime=1774915523
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="FIFA SERIES",20:00 WIB - INDONESIA VS BULGARIA [Server 2] [FOOTBALL]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="FIFA SERIES INDONESIA",20:00 WIB - INDONESIA VS BULGARIA [Server 2] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=8b765ee1246642ffcfab1d0c7b08fa66&wsABSTime=1774915523
+
+#EXTINF:-1 group-title="FIFA SERIES INDONESIA" tvg-id="" tvg-logo="https://cdn.skor.id/uploads/member/images/news/260119205134-279.png",INDO VS bulgaria 1 JAM 20.00
+https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
+
+#EXTINF:-1 group-title="FIFA SERIES INDONESIA" tvg-id="" tvg-logo="https://cdn.skor.id/uploads/member/images/news/260119205134-279.png",INDO VS bulgaria 2 JAM 20.00 +
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
+
+#EXTINF:-1 group-title="FIFA SERIES INDONESIA" tvg-id="" tvg-logo="https://cdn.skor.id/uploads/member/images/news/260119205134-279.png",INDO VS bulgaria 3 JAM 20.00
+https://wahyu1ptv.pages.dev/ScTv-HD.m3u8
+
+#EXTINF:-1 group-title="FIFA SERIES INDONESIA" tvg-id="" tvg-logo="https://cdn.skor.id/uploads/member/images/news/260119205134-279.png",INDO VS bulgaria JAM 20.00-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile 
+http://103.160.205.142:9999/stream/channelid/1572645689?profile=pas
 
 #########################NASIONAL#######################################
 //========================================================================
