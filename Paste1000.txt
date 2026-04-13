@@ -2,7 +2,38 @@
 
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
+#EXTINF:-1 group-title="KING MU" tvg-logo="https://iili.io/FtSr5Mb.jpg", 02:00 WIB Manchester United vs Leeds United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="KING MU",HUB PREMIER 1
+http://lunar.pm:8080/Mrdon/4782314540/110288
+
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-name="Now Sports PL 1 FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/NowPL1.png" group-title="KING MU",Now Sports PL 1 FHD
+https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d39ce586fd7278342dde33b3090b3f75.png!w80" group-title="KING MU",[UPCOMING] (02:00 WIB) Manchester United vs Leeds [BLV ÔLONG]
+#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
+#EXTVLCOPT:http-origin=https://www.spindlersptown.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live5.msrktz.app/live/97312754.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d39ce586fd7278342dde33b3090b3f75.png!w80" group-title="KING MU",[UPCOMING] (02:00 WIB) Manchester United vs Leeds [BLV COCA]
+#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
+#EXTVLCOPT:http-origin=https://www.spindlersptown.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live5.msrktz.app/live/24561735.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d39ce586fd7278342dde33b3090b3f75.png!w80" group-title="KING MU",[UPCOMING] (02:00 WIB) Manchester United vs Leeds [BLV 7UP]
+#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
+#EXTVLCOPT:http-origin=https://www.spindlersptown.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live5.msrktz.app/live/78905744.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d39ce586fd7278342dde33b3090b3f75.png!w80" group-title="KING MU",[UPCOMING] (02:00 WIB) Manchester United vs Leeds [BLV 247]
+#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
+#EXTVLCOPT:http-origin=https://www.spindlersptown.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live5.msrktz.app/live/90865415.m3u8
 #########################NASIONAL#######################################
 //========================================================================
 🔸🔸🔸 Collected by https://t.me/IPTVgratisupdate menampilkan playlist >>> TV NASIONAL 🔸🔸🔸
