@@ -160,51 +160,56 @@ https://live2.pro2cdnlive.com/live/channel46.m3u8
 https://live2.pro2cdnlive.com/live/channel57.m3u8
 
 <=================== EVENT 1 =============================>
-<================================================>
 
-#EXTINF:-1 group-title="EVENT 028/APRIL/2026" tvg-logo="https://shorter.me/_bDcr", 19:45 WIB PSBS Biak Numfor vs Malut United
-#EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://xyzna2-cf.didjhfyu8yg.sbs/auth%3D57991bf942a20e7de64245cb1520ff24615d36b6f3aa81b76d47d8c01fd724358388274a3d66306bd399c330cc0a3b468f067fab70f1cc0d76152885e2696135ee9d6ac6079ff610389b62604c7c954a36fe62d6eff55d30d82251201fd653d15c270b5010a360f8b41026c8769dd21df8b09f268d149fecb563762572868db6ec6e6223c61cfb5a7df8343bc5ec6084354b19abf43c696637b91dc49bfec9ac%26cid%3DQtGIi1LtzIbu8EQWRQ-tY260418%26_v%3D2%26_r%3DONRi8G%26_vis%3Df054ea7f62f5c0c5e40c65bc9727b40cd39da6a1eb68e528c99eb9800cfc4341%26_vvs%3D0ea56118e6aadf4eb0db64fe34e9178dd10fd381f5bf90d5519d855c0395f67b%26_vas%3D27a23e5ceec33a377a2ea852ba5e233d2f365cdcfcaad4a0d88f825d8709f468/app/c420155.m3u8
+#EXTINF:-1 group-title="EVENT 029/APRIL/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShUSY6m0dQmi-vrjcWGUPtrdkufFXua4ntfw&s", 15:00 WIB Semi-Final: NEC Red Rockets Kawasaki (JPN) - Zhetysu (KAZ) (2)
+https://jn280.sportvideodata.com/1911983442_gZjBDNyQGOmdDM2ITLwQjNh1iY2IGNtUzNyQTLwQTYiBTZklzL1JnLpBXYzRncvB3cu8WZklmd/output-0.m3u8
 
-#EXTINF:-1 group-title="EVENT 028/APRIL/2026" tvg-logo="https://shorter.me/_bDcr", 19:45 WIB PSBS Biak Numfor vs Malut United
-#EXTVLCOPT:http-referrer=https://lxscore.com/
-#EXTVLCOPT:http-origin=https://lxscore.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#https://stream.titanlivescore.com/live/LXSCORE-4880009.m3u8
-
-#EXTINF:-1 group-title="EVENT 028/APRIL/2026" tvg-logo="https://shorter.me/_bDcr", 19:45 WIB PSBS Biak Numfor vs Malut United
+#EXTINF:-1 group-title="EVENT 029/APRIL/2026" tvg-logo="https://iili.io/fNScxGs.md.png", 22:30 WIB BOGDANKA LUK Lublin - Aluron CMC Warta Zawiercie | Play Off - Finals Round 2 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com
-https://live2.pro2cdnlive.com/live/channel15.m3u8
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://live2.pro2cdnlive.com/live/channel52.m3u8
 
 <================================================>
-<================>
-<=================== EVENT 2 =============================>
 
-#EXTINF:-1 group-title="EVENT 029/APRIL/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54uryfcuBl_NiOy7CWdJaMD8VoltwZbw9kg&s", 02:00 WIB PSG vs Bayern München
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#EXTINF:-1 group-title="EVENT 029/APRIL/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Persik Kediri vs Borneo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://live2.pro2cdnlive.com/live/channel19.flv
 
-#EXTINF:-1 group-title="EVENT 029/APRIL/2026" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png", 01:45 WIB Southampton vs Ipswich Town
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 group-title="EVENT 029/APRIL/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Semen Padang vs Madura United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://live2.pro2cdnlive.com/live/channel12.m3u8
 
-#EXTINF:-1 group-title="EVENT 029/APRIL/2026" tvg-logo="https://shorter.me/3gy7g", 01:00 WIB Al Hilal vs Damac
+#EXTINF:-1 group-title="EVENT 029/APRIL/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Dewa United vs Persijap
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=cc7d1811761134b519b5eff1d6591507&wsABSTime=1777483119
+
+<================================================>
+
+#EXTINF:-1 group-title="EVENT 029/APRIL/2026" tvg-logo="https://shorter.me/3gy7g", 23:10 WIB Al Taawon vs Al Ittihad
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+
+#EXTINF:-1 group-title="EVENT 030/APRIL/2026" tvg-logo="https://shorter.me/3gy7g", 01:00 WIB Al Nassr vs Al-Ahli
+#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+<================>
+<=================== EVENT 2 =============================>
+
+#EXTINF:-1 group-title="EVENT 030/APRIL/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54uryfcuBl_NiOy7CWdJaMD8VoltwZbw9kg&s", 02:00 WIB Atlético Madrid vs Arsenal
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
 
 ========= LIVE EVENT =========
 
