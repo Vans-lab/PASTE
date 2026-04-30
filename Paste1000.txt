@@ -161,55 +161,63 @@ https://live2.pro2cdnlive.com/live/channel57.m3u8
 
 <=================== EVENT 1 =============================>
 
-#EXTINF:-1 group-title="EVENT 029/APRIL/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShUSY6m0dQmi-vrjcWGUPtrdkufFXua4ntfw&s", 15:00 WIB Semi-Final: NEC Red Rockets Kawasaki (JPN) - Zhetysu (KAZ) (2)
-https://jn280.sportvideodata.com/1911983442_gZjBDNyQGOmdDM2ITLwQjNh1iY2IGNtUzNyQTLwQTYiBTZklzL1JnLpBXYzRncvB3cu8WZklmd/output-0.m3u8
-
-#EXTINF:-1 group-title="EVENT 029/APRIL/2026" tvg-logo="https://iili.io/fNScxGs.md.png", 22:30 WIB BOGDANKA LUK Lublin - Aluron CMC Warta Zawiercie | Play Off - Finals Round 2 (2)
+#EXTINF:-1 group-title="EVENT 030/APRIL/2026" tvg-logo="https://iili.io/fNScxGs.md.png", 22:30 WIB Asseco Resovia Rzeszow - PGE Projekt Warszawa | Play Off - 3rd place Round 2 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
-https://live2.pro2cdnlive.com/live/channel52.m3u8
+https://live2.pro2cdnlive.com/live/channel51.m3u8
+
+#EXTINF:-1 group-title="EVENT 01/MEI/2026" tvg-logo="https://iili.io/fNSc3aR.md.png", 01:30 WIB Sir Susa Scai Perugia - Cucine Lube Civitanova | Play Off - Finals Round 1 (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://live2.pro2cdnlive.com/live/channel51.m3u8
 
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 029/APRIL/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Persik Kediri vs Borneo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
-https://live2.pro2cdnlive.com/live/channel19.flv
+#EXTINF:-1 group-title="EVENT 030/APRIL/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSIM Yogyakarta vs Persita
+https://pullsgp.yyzb456.top/live/stream-746673_lhd.m3u8
 
-#EXTINF:-1 group-title="EVENT 029/APRIL/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Semen Padang vs Madura United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
-https://live2.pro2cdnlive.com/live/channel12.m3u8
+#EXTINF:-1 group-title="EVENT 030/APRIL/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSIM Yogyakarta vs Persita
+https://jn278.sportvideodata.com/1070098493_AZyEGMxQWMwEjYwIWL0QWYh1CN1IGNtMWYjRWLkRGO3EGOhZ2L1JnLpBXYzRncvB3cu8WZklmd/output-0.m3u8
 
-#EXTINF:-1 group-title="EVENT 029/APRIL/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Dewa United vs Persijap
+#EXTINF:-1 group-title="EVENT 030/APRIL/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSIM Yogyakarta vs Persita
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=cc7d1811761134b519b5eff1d6591507&wsABSTime=1777483119
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=779f0b18f9cacad7b1cb7d389b75e324&wsABSTime=1777570084
+
+#EXTINF:-1 group-title="EVENT 030/APRIL/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Bhayangkara vs Persib
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://live2.pro2cdnlive.com/live/channel6.m3u8
 
 <================================================>
-
-#EXTINF:-1 group-title="EVENT 029/APRIL/2026" tvg-logo="https://shorter.me/3gy7g", 23:10 WIB Al Taawon vs Al Ittihad
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
-
-#EXTINF:-1 group-title="EVENT 030/APRIL/2026" tvg-logo="https://shorter.me/3gy7g", 01:00 WIB Al Nassr vs Al-Ahli
-#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-
 <================>
 <=================== EVENT 2 =============================>
 
-#EXTINF:-1 group-title="EVENT 030/APRIL/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54uryfcuBl_NiOy7CWdJaMD8VoltwZbw9kg&s", 02:00 WIB Atlético Madrid vs Arsenal
+#EXTINF:-1 group-title="EVENT 01/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmMJZZVCA54YBxHX8JqSrL0gxUvd3Izg2GpA&s", 02:00 WIB Sporting Braga vs Freiburg
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 01/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmMJZZVCA54YBxHX8JqSrL0gxUvd3Izg2GpA&s", 02:00 WIB Nottingham Forest vs Aston Villa
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
+#EXTINF:-1 group-title="EVENT 01/MEI/2026" tvg-logo="https://shorter.me/NzYuB", 02:00 WIB Rayo Vallecano vs Strasbourg
+#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+#EXTINF:-1 group-title="EVENT 01/MEI/2026" tvg-logo="https://shorter.me/NzYuB", 02:00 WIB Shakhtar Donetsk vs Crystal Palace
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 ========= LIVE EVENT =========
 
