@@ -161,63 +161,43 @@ https://live2.pro2cdnlive.com/live/channel57.m3u8
 
 <=================== EVENT 1 =============================>
 
-#EXTINF:-1 group-title="EVENT 030/APRIL/2026" tvg-logo="https://iili.io/fNScxGs.md.png", 22:30 WIB Asseco Resovia Rzeszow - PGE Projekt Warszawa | Play Off - 3rd place Round 2 (2)
+#EXTINF:-1 group-title="EVENT 01/MEI/2026" tvg-logo="https://iili.io/fetJgpV.png", 16:05 WIB Wolfdogs Nagoya - Hiroshima Thunders | Quarter-Finals - Round 1 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
-https://live2.pro2cdnlive.com/live/channel51.m3u8
+#EXTVLCOPT:http-referrer=https://xl365.realtimegamepushz.com/
+https://live2.pro2cdnlive.com/live/channel50.m3u8
 
-#EXTINF:-1 group-title="EVENT 01/MEI/2026" tvg-logo="https://iili.io/fNSc3aR.md.png", 01:30 WIB Sir Susa Scai Perugia - Cucine Lube Civitanova | Play Off - Finals Round 1 (2)
+#EXTINF:-1 group-title="EVENT 01/MEI/2026" tvg-logo="https://iili.io/fetJgpV.png", 16:05 WIB Jtekt Stings Aichi - Tokyo Great Bears | Quarter-Finals - Round 1 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+#EXTVLCOPT:http-referrer=https://xl365.realtimegamepushz.com/
 https://live2.pro2cdnlive.com/live/channel51.m3u8
 
 <================================================>
-
-#EXTINF:-1 group-title="EVENT 030/APRIL/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSIM Yogyakarta vs Persita
-https://pullsgp.yyzb456.top/live/stream-746673_lhd.m3u8
-
-#EXTINF:-1 group-title="EVENT 030/APRIL/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSIM Yogyakarta vs Persita
-https://jn278.sportvideodata.com/1070098493_AZyEGMxQWMwEjYwIWL0QWYh1CN1IGNtMWYjRWLkRGO3EGOhZ2L1JnLpBXYzRncvB3cu8WZklmd/output-0.m3u8
-
-#EXTINF:-1 group-title="EVENT 030/APRIL/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSIM Yogyakarta vs Persita
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=779f0b18f9cacad7b1cb7d389b75e324&wsABSTime=1777570084
-
-#EXTINF:-1 group-title="EVENT 030/APRIL/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Bhayangkara vs Persib
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
-https://live2.pro2cdnlive.com/live/channel6.m3u8
-
 <================================================>
 <================>
 <=================== EVENT 2 =============================>
 
-#EXTINF:-1 group-title="EVENT 01/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmMJZZVCA54YBxHX8JqSrL0gxUvd3Izg2GpA&s", 02:00 WIB Sporting Braga vs Freiburg
+#EXTINF:-1 group-title="EVENT 02/MEI/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 02:00 WIB Leeds United vs Burnley
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 02/MEI/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 02:00 WIB Girona vs Mallorca
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 01/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmMJZZVCA54YBxHX8JqSrL0gxUvd3Izg2GpA&s", 02:00 WIB Nottingham Forest vs Aston Villa
+
+#EXTINF:-1 group-title="EVENT 02/MEI/2026" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 01:45 WIB Pisa vs Lecce
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 01/MEI/2026" tvg-logo="https://shorter.me/NzYuB", 02:00 WIB Rayo Vallecano vs Strasbourg
-#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-
-#EXTINF:-1 group-title="EVENT 01/MEI/2026" tvg-logo="https://shorter.me/NzYuB", 02:00 WIB Shakhtar Donetsk vs Crystal Palace
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd 
 
 ========= LIVE EVENT =========
 
