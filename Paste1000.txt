@@ -140,75 +140,49 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 <=================== EVENT 1 =============================>
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 04/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Persib vs PSIM Yogyakarta
-https://pullsgp.yyzb456.top/live/stream-330076_lhd.m3u8
+#EXTINF:-1 group-title="EVENT 05/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Madura United vs Bali United
+https://d302.soft4game.com/o22/stream230/o/stream230/chunks.m3u8?nimblesessionid=73839668&wmsAuthSign=c2VydmVyX3RpbWU9NS81LzIwMjYgODozNDoyNiBBTSZoYXNoX3ZhbHVlPUFVZzNVVGVkNGdLcmpqR2ZNVUxleEE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMg==
 
-#EXTINF:-1 group-title="EVENT 04/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Persib vs PSIM Yogyakarta
-https://d302.soft4game.com/o22/stream45/o/stream45/chunks.m3u8?nimblesessionid=73751994&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjYgODozODoyOCBBTSZoYXNoX3ZhbHVlPURsZ0luMEFnWTBmTkM3ZFQyL1VMdUE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMg==
+#EXTINF:-1 group-title="EVENT 05/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Madura United vs Bali United
+https://pullsgp.yyzb456.top/live/stream-433829_lhd.m3u8
 
-#EXTINF:-1 group-title="EVENT 04/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Persib vs PSIM Yogyakarta
+#EXTINF:-1 group-title="EVENT 05/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Madura United vs Bali United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.realtimegamepushz.com/
-https://live1.pro2cdnlive.com/live/channel12.m3u8?wsSecret=76dfb51c9693d92f372eb19a9569531a&wsABSTime=1777919394
+https://live1.pro2cdnlive.com/live/channel21.m3u8?wsSecret=f81709aeed84a2a77ae8ad5c5253218f&wsABSTime=1778010713
 
-
-#EXTINF:-1 group-title="EVENT 04/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSM vs Bhayangkara
-https://pullsgp.yyzb456.top/live/stream-306929_lhd.m3u8
-
-#EXTINF:-1 group-title="EVENT 04/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSM vs Bhayangkara
-https://d302.soft4game.com/o22/stream341/o/stream341/chunks.m3u8?nimblesessionid=73752005&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjYgODozOTowNCBBTSZoYXNoX3ZhbHVlPVdEbUhJK2piR3F4cGp6dlV1d2dnS1E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMg==
-
-#EXTINF:-1 group-title="EVENT 04/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSM vs Bhayangkara
+#EXTINF:-1 group-title="EVENT 05/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Borneo vs Persita
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.realtimegamepushz.com/
-https://live1.pro2cdnlive.com/live/channel15.m3u8?wsSecret=7e2cb8c85aeae24a4c05b7e9a01c04c0&wsABSTime=1777919275
-
-#EXTINF:-1 group-title="EVENT 04/MEI/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persijap vs Persija
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.realtimegamepushz.com/
-https://live2.pro2cdnlive.com/live/channel19.m3u8
+https://live1.pro2cdnlive.com/live/channel18.m3u8?wsSecret=d27534e54bfc3f7b3bf2a5b42ca690aa&wsABSTime=1778010788
 
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 04/MEI/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Chelsea vs Nottingham Forest
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 group-title="EVENT 05/MEI/2026" tvg-logo="https://g-sports.id/wp-content/uploads/2026/05/AFC-U-17-Asian-Cup-2026-Saudi-Arabia-768x507.jpg", 23:30 WIB Indonesia U-17 vs China PR U-17
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 05/MEI/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 02:00 WIB Everton vs Manchester City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 <================>
-
-#EXTINF:-1 group-title="EVENT 04/MEI/2026" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 23:30 WIB Cremonese vs Lazio
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 05/MEI/2026" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 01:45 WIB Roma vs Fiorentina
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
 <=================== EVENT 2 =============================>
 
-#EXTINF:-1 group-title="EVENT 05/MEI/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 02:00 WIB Sevilla vs Real Sociedad
+#EXTINF:-1 group-title="EVENT 06/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54uryfcuBl_NiOy7CWdJaMD8VoltwZbw9kg&s", 02:00 WIB Arsenal vs Atlético Madrid
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 group-title="EVENT 06/MEI/2026" tvg-logo="https://shorter.me/3gy7g", 01:00 WIB Al Khaleej vs Al Hilal
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
+
 
 ========= LIVE EVENT =========
 
