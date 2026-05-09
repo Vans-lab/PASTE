@@ -8,6 +8,22 @@
 #########################NASIONAL#######################################
 //========================================================================
 🔸🔸🔸 Collected by https://t.me/IPTVgratisupdate menampilkan playlist >>> TV NASIONAL 🔸🔸🔸
+#EXTINF:-1 tvg-name="[UPCOMING] 20:42 WIB 09/05/26 Sunderland vs Man United - Premier League" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Wh-1_bz4EG9O6PYomY3T5EZp9RI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062197/029a61.jpg" group-title="KING MU", [UPCOMING] 20:42 WIB 09/05/26 Sunderland vs Man United - Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9vYmZzbnp5bnR2LnFuZm5lanJxcWhmLmpiZXhyZWYucXJpL2l2cXJiL3ZxLzkxODIucWV6fDE3Nzg5MzM0MTE
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9vYmZzbnp5bnR2LnFuZm5lanJxcWhmLmpiZXhyZWYucXJpL2l2cXJiL3ZxLzkxODIuemNxfDE3Nzg5MzM0MTE
+
+#EXTINF:-1 group-title="KING MU" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Sunderland vs Manchester United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.realtimegamepushz.com/
+https://live2.pro2cdnlive.com/live/channel1.m3u8
+
+
 //========================================================================
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
