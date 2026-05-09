@@ -8,15 +8,20 @@
 #########################NASIONAL#######################################
 //========================================================================
 🔸🔸🔸 Collected by https://t.me/IPTVgratisupdate menampilkan playlist >>> TV NASIONAL 🔸🔸🔸
-#EXTINF:-1 tvg-name="[UPCOMING] 20:42 WIB 09/05/26 Sunderland vs Man United - Premier League" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Wh-1_bz4EG9O6PYomY3T5EZp9RI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062197/029a61.jpg" group-title="KING MU", [UPCOMING] 20:42 WIB 09/05/26 Sunderland vs Man United - Premier League
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Wh-1_bz4EG9O6PYomY3T5EZp9RI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062197/029a61.jpg" group-title="KING MU", 20:36 WIB 09/05/26 Sunderland vs Man United - Premier League (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9vYmZzbnp5bnR2LnFuZm5lanJxcWhmLmpiZXhyZWYucXJpL2l2cXJiL3ZxLzkxODIucWV6fDE3Nzg5MzM0MTE
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9vYmZzbnp5bnR2LnFuZm5lanJxcWhmLmpiZXhyZWYucXJpL2l2cXJiL3ZxLzkxODIuemNxfDE3Nzg5MzM0MTE
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzkxODIucWV6P3FyaV94bnh2XzA5Jmc9MTc3ODM0NjE1MiZ1PTJwN3IzN3BwcXBucjlxNTFyODBxODQ5OTFxNjIyNTE1MjBwMThyc3A1NDE1M3BvNnA2bnNwNTZzbjBvMHE1MTJ8MTc3ODk0MDE1Mg
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzkxODIuemNxP3FyaV94bnh2XzA5Jmc9MTc3ODM0NjE1MiZ1PTJwN3IzN3BwcXBucjlxNTFyODBxODQ5OTFxNjIyNTE1MjBwMThyc3A1NDE1M3BvNnA2bnNwNTZzbjBvMHE1MTJ8MTc3ODk0MDE1Mg
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Wh-1_bz4EG9O6PYomY3T5EZp9RI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062197/029a61.jpg" group-title="KING MU", 20:36 WIB 09/05/26 Sunderland vs Man United - Premier League (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzkxODIucWV6P3JrYz0xNzc4MzQ2MTUyJmZ2dGE9cDZvNjJwNzhwNDc5N3MwcTI2cHA3cHE0MXIzNnNuNXBwMTBvMDBwczdyNjk2OHM1cW82MHE5cnEzMnJvczJwOXwxNzc4OTQwMTUy
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzkxODIuemNxP3JrYz0xNzc4MzQ2MTUyJmZ2dGE9Mzg3NzhwNzZvczg1MjQzNjIxc3Nub282MXAzcTdzNjVwMTM2Mm4wbnA4NG85M281NDE3c3A5NDg5bzYzOXI0NXwxNzc4OTQwMTUy
 
 #EXTINF:-1 group-title="KING MU" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Sunderland vs Manchester United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
