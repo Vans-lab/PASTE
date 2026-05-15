@@ -2,7 +2,7 @@
 
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
-#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/8JcCxJum6tW1CipPqKTZACtDraE=/0x148:720x554/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3190229/original/029890700_1595684351-MotoGP_-_Ilustrasi_Logo_MotoGP.jpg" group-title="MOTOGP CATALUNYA",SPO TV 1
+#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/8JcCxJum6tW1CipPqKTZACtDraE=/0x148:720x554/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3190229/original/029890700_1595684351-MotoGP_-_Ilustrasi_Logo_MotoGP.jpg" group-title="MOTOGP CATALUNYA",SPO TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
@@ -18,6 +18,33 @@ https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4
 
 
 #########################NASIONAL#######################################
+#EXTINF:-1 tvg-id="olympicgames0800eurosport2fhd" tvg-logo="https://thumbor.prod.vidiocdn.com/Uiyy1-z1KH0huzSpLxw-BuxpAU0=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/11123/bwf-2025-5e38f5.jpg" group-title="BWF THAILAND OPEN 2026",COURT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af26846e31d8c142395297699771ff8f:b0d970b7ba24bd76dcab99b0fe75f4e4
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9vYmZmZ2kubmZ2bi8xZC8xODI0OS56Y3F8MTc3OTQyNjI4Mg
+#EXTINF:-1 tvg-id="olympicgames0800eurosport2fhd" tvg-logo="https://thumbor.prod.vidiocdn.com/Uiyy1-z1KH0huzSpLxw-BuxpAU0=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/11123/bwf-2025-5e38f5.jpg" group-title="BWF THAILAND OPEN 2026",COURT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=75220a7bbbf54ed5509311ea5eed03e2:3eb88f56a66998870aff2367654d9b60
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9vYmZmZ2kubmZ2bi8xZC8xODI1MC56Y3F8MTc3OTQyNjI4Mg
+#EXTINF:-1 tvg-id="olympicgames0800eurosport2fhd" tvg-logo="https://thumbor.prod.vidiocdn.com/Uiyy1-z1KH0huzSpLxw-BuxpAU0=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/11123/bwf-2025-5e38f5.jpg" group-title="BWF THAILAND OPEN 2026",COURT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c11d52e2c176d22abf86c23b4b0b9170:76197676008839a3b784d773a2542b98
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9vYmZmZ2kubmZ2bi8xZC8xODI1Mi56Y3F8MTc3OTQyNjI4Mg
 //========================================================================
 🔸🔸🔸 Collected by https://t.me/IPTVgratisupdate menampilkan playlist >>> TV NASIONAL 🔸🔸🔸
 //========================================================================
