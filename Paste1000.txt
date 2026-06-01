@@ -82,6 +82,9 @@ https://live2.pro2cdnlive.com/live/channel13.m3u8
 https://live2.pro2cdnlive.com/live/channel6.m3u8
 
 #EXTINF:-1 group-title="EVENT 01/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4XMH31OofgsKuQn1SioWS_V2VYa6U7oSeRQ&s", 20:00 WIB Indonesia U-19 vs Myanmar U-19
+https://fo-hlc.tv360.vn/bpk-tv/449/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODAzMjI2NzksInVyaSI6Ii9icGstdHYvNDQ5L291dHB1dC9pbmRleC5tM3U4In0.bAWgF4AezhRY3UkxArxeOPGQ537a3mtaXZfS1AVdWRE&minrate=0&maxrate=5000000&uid=290141770
+
+#EXTINF:-1 group-title="EVENT 01/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4XMH31OofgsKuQn1SioWS_V2VYa6U7oSeRQ&s", 20:00 WIB Indonesia U-19 vs Myanmar U-19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://live2.pro2cdnlive.com/live/channel21.m3u8
