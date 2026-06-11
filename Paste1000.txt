@@ -336,79 +336,6 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 #KODIPROP:inputstream.adaptive.license_key=3c736e5c8f5a4d1a8eb8af1e63aa2005:d1729111efdfb7727ee3e6fcbc7586e1
 https://daiconnect.com/live/dash/rtbf/tipik-56dfkkh-0epa3m40q/.mpd
 
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png",TVRI NASIONAL
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-#http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
-
-
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png",TVRI SPORT
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-http://202.169.224.202:8800/udp/239.1.2.3:1234
-https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
-
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png",CHANNEL 5 (SINGAPORE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
-#https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
-
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png",M-LIVE 1
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png",M-LIVE 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
-
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png",M-LIVE 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png",M-LIVE 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png",M-LIVE 7
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5332345367554fd39588283a2b949d02:8abcd0b3126923b068c26508e24c9f69
-#https://sports.semar.my.id/get.php?id=mw7.mpd&auth=mw7semar25
-
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png",MEDIACORP ENTERTAINMENT - CHINESE (SINGAPORE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8?ads.vf=5mohxYauw_q
-
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png",MEDIACORP ENTERTAINMENT - ENGLISH (SINGAPORE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8?ads.vf=g48qoh_qHLS
-
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png",MEDIACORP ENTERTAINMENT - TAMIL (SINGAPORE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8?ads.vf=7NuondEN9pK
-
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png",CCTV5 (CHINA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-http://74.91.26.218:82/live/cctv5hd.m3u8
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-http://69.30.245.50/live/cctv5.m3u8
-
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png",CCTV5+ (CHINA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-http://74.91.26.218:82/live/cctv5p.m3u8
-http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
-#http://69.30.246.194/live/cctv5p.m3u8
-
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png",CCTV16 (CHINA)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png",FOX (UNITED STATES)
 http://stream.cammonitorplus.net/1772/index.m3u8
@@ -459,11 +386,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1
 #KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
 https://otte.cache.aiv-cdn.net/bom-nitro/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
 
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png",BBC ONE (UNITED KINGDOM)
-https://xemzi.short.gy/1000001
-
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png",BBC TWO (UNITED KINGDOM)
-https://xemzi.short.gy/1000002
 
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png",SPORTV (BRAZIL)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -511,13 +433,13 @@ https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png",SPORTV 2
-#EXTGRP: ⚽PIALA DUNIA 2026⚽
+#EXTGRP: FIFA WORLD CUP 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png",SPORTV 3
-#EXTGRP: ⚽PIALA DUNIA 2026⚽
+#EXTGRP: FIFA WORLD CUP 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
@@ -552,27 +474,27 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/
 
 __________________________________________FIFA World Cup_________________________________________
 
-#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/kfYOQpF.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (Tyc Sports Argentina)
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/kfYOQpF.jpeg" tvg-id=" fifaworldcup.com" group-title="FIFA WORLD CUP 2026",FIFA World Cup (Tyc Sports Argentina)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
 
-#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/mv4WjUp.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (beIN Sports France 1)
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/mv4WjUp.jpeg" tvg-id=" fifaworldcup.com" group-title="FIFA WORLD CUP 2026",FIFA World Cup (beIN Sports France 1)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2499/index.m3u8
 
-#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/tlyHK4i.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (beIN Sports France 2)
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/tlyHK4i.jpeg" tvg-id=" fifaworldcup.com" group-title="FIFA WORLD CUP 2026",FIFA World Cup (beIN Sports France 2)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2500/index.m3u8
 
-#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/mv4WjUp.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (beIN Sports Qatar 1)
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/mv4WjUp.jpeg" tvg-id=" fifaworldcup.com" group-title="FIFA WORLD CUP 2026",FIFA World Cup (beIN Sports Qatar 1)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://opplextv.cyou:8080/nasir6160/nasir/353014
 
-#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/tlyHK4i.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (beIN Sports Qatar 2)
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/tlyHK4i.jpeg" tvg-id=" fifaworldcup.com" group-title="FIFA WORLD CUP 2026",FIFA World Cup (beIN Sports Qatar 2)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://opplextv.cyou:8080/nasir6160/nasir/353015
 
-#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fEcK3X2.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (beIN Sports Qatar 3)
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fEcK3X2.jpeg" tvg-id=" fifaworldcup.com" group-title="FIFA WORLD CUP 2026",FIFA World Cup (beIN Sports Qatar 3)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://opplextv.cyou:8080/nasir6160/nasir/353016
 
@@ -580,11 +502,11 @@ http://opplextv.cyou:8080/nasir6160/nasir/353016
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://opplextv.cyou:8080/nasir6160/nasir/353017
 
-#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/nKFtaha.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (beIN Sports Qatar 5)
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/nKFtaha.jpeg" tvg-id=" fifaworldcup.com" group-title="FIFA WORLD CUP 2026",FIFA World Cup (beIN Sports Qatar 5)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://opplextv.cyou:8080/nasir6160/nasir/353018
 
-#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/L1kW5Pi.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (beIN Sports Qatar 6)
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/L1kW5Pi.jpeg" tvg-id=" fifaworldcup.com" group-title="FIFA WORLD CUP 2026",FIFA World Cup (beIN Sports Qatar 6)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://opplextv.cyou:8080/nasir6160/nasir/353019
 
@@ -592,31 +514,31 @@ http://opplextv.cyou:8080/nasir6160/nasir/353019
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://opplextv.cyou:8080/nasir6160/nasir/353020
 
-#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/gCGQ6Mj.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (Cazé TV 1)
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/gCGQ6Mj.jpeg" tvg-id=" fifaworldcup.com" group-title="FIFA WORLD CUP 2026",FIFA World Cup (Cazé TV 1)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/gCGQ6Mj.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (Cazé TV 2)
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/gCGQ6Mj.jpeg" tvg-id=" fifaworldcup.com" group-title="FIFA WORLD CUP 2026",FIFA World Cup (Cazé TV 2)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
-#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/gCGQ6Mj.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (Cazé TV 3)
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/gCGQ6Mj.jpeg" tvg-id=" fifaworldcup.com" group-title="FIFA WORLD CUP 2026",FIFA World Cup (Cazé TV 3)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
-#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/QMDLXBK.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (TVRI sport Digital 1)
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/QMDLXBK.jpeg" tvg-id=" fifaworldcup.com" group-title="FIFA WORLD CUP 2026",FIFA World Cup (TVRI sport Digital 1)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://opplextv.cyou:8080/nasir6160/nasir/351052
 
-#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/QMDLXBK.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (TVRI sport digital 2)
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/QMDLXBK.jpeg" tvg-id=" fifaworldcup.com" group-title="FIFA WORLD CUP 2026",FIFA World Cup (TVRI sport digital 2)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://103.148.44.38:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/QMDLXBK.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (TVRI sport digital 3)
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/QMDLXBK.jpeg" tvg-id=" fifaworldcup.com" group-title="FIFA WORLD CUP 2026",FIFA World Cup (TVRI sport digital 3)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.mEa4egyO_TJd6jQSisnDlhhGrGqTg19FN9oTnsikoAs", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.cwl3cPdjq3-DSHHho8uVGwAbojwa_Vk7waJHZ6Bxtks"} 
@@ -625,16 +547,16 @@ http://103.148.44.38:8000/play/a05u/index.m3u8
 #http://202.169.224.202:8800/udp/239.1.2.3:1234
 http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-logo="https://i.imgur.com/7sVyTpC.jpeg" tvg-id="digital.id" group-title="Live Event Tim Nasional", FIFA World Cup (TVRI Nasional Digital 1)
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-logo="https://i.imgur.com/7sVyTpC.jpeg" tvg-id="digital.id" group-title="FIFA WORLD CUP 2026", FIFA World Cup (TVRI Nasional Digital 1)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://opplextv.cyou:8080/nasir6160/nasir/351047
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-logo="https://i.imgur.com/7sVyTpC.jpeg" tvg-id="digital.id" group-title="Live Event Tim Nasional", FIFA World Cup (TVRI Nasional Digital 2)
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-logo="https://i.imgur.com/7sVyTpC.jpeg" tvg-id="digital.id" group-title="FIFA WORLD CUP 2026", FIFA World Cup (TVRI Nasional Digital 2)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-TVRI/playlist.m3u8
 
-#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/Xq9m8Nd.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (RTVS Sport)
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/Xq9m8Nd.jpeg" tvg-id=" fifaworldcup.com" group-title="FIFA WORLD CUP 2026",FIFA World Cup (RTVS Sport)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1elamatLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -643,14 +565,14 @@ http://103.58.160.157:8278/720-TVRI/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/HcBLwku.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (TVP Sport)
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/HcBLwku.jpeg" tvg-id=" fifaworldcup.com" group-title="FIFA WORLD CUP 2026",FIFA World Cup (TVP Sport)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"95620bdd974041409d4674ab629e22d4":"c6c226ca1689f528a6f91e86da618f64","181c091002d04c5481c3faab18752843":"b081b6169351e0f4bfc40212dfeeed10","1163925b6b37434198130f773bc62841":"e2bdd2b87e1ddb502eb7898daece857f"}
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd
 
-#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/XAAGTmF.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (DSports)
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/XAAGTmF.jpeg" tvg-id=" fifaworldcup.com" group-title="FIFA WORLD CUP 2026",FIFA World Cup (DSports)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","45bbd582f220f438f896450d8306a3f2":"582c6ba7f64bbc0f2d91c6b0c265760c"}
