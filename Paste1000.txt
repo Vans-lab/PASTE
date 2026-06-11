@@ -5,52 +5,42 @@
 
 <=================== EVENT 1 =============================>
 
-#EXTINF:-1 group-title="EVENT 010/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 19:00 WIB Ukraine v Japan | Week 1 | Men's VNL 2026 (2)
+#EXTINF:-1 group-title="EVENT 011/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 15:30 WIB China v Ukraine | Week 1 | Men's VNL 2026 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel80.m3u8?wsSecret=0b3e30449d32fbb6edfd8d409a1aaedb&wsABSTime=1781111602
+https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=8e5160fcfb009786b3e94609c908b369&wsABSTime=1781202855
 
-#EXTINF:-1 group-title="EVENT 010/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 22:00 WIB Türkiye v USA | Week 1 | Men's VNL 2026 (2)
+#EXTINF:-1 group-title="EVENT 011/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 19:00 WIB Slovenia v Poland | Week 1 | Men's VNL 2026 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel80.m3u8?wsSecret=0b3e30449d32fbb6edfd8d409a1aaedb&wsABSTime=1781111602
+https://live1.pro2cdnlive.com/live/channel83.m3u8?wsSecret=475115433fd0078f6f2659d952a20a34&wsABSTime=1781202904
 
-#EXTINF:-1 group-title="EVENT 010/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 23:00 WIB Belgium v Bulgaria | Week 1 | Men's VNL 2026 (1)
+#EXTINF:-1 group-title="EVENT 012/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 02:30 WIB Bulgaria v Iran | Week 1 | Men's VNL 2026 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=b54603c4621475c04db16a6943527db8&wsABSTime=1781114055
+https://live1.pro2cdnlive.com/live/channel80.m3u8?wsSecret=5ddc61acd45ad37d4a0447377beab1db&wsABSTime=1781202971
 
-#EXTINF:-1 group-title="EVENT 011/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 02:30 WIB Serbia v Argentina | Week 1 | Men's VNL 2026 (2)
+#EXTINF:-1 group-title="EVENT 012/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 03:00 WIB Germany v Italy | Week 1 | Men's VNL 2026 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel80.m3u8?wsSecret=0b3e30449d32fbb6edfd8d409a1aaedb&wsABSTime=1781111602
-
-#EXTINF:-1 group-title="EVENT 011/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 03:00 WIB France v Italy | Week 1 | Men's VNL 2026 (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=b54603c4621475c04db16a6943527db8&wsABSTime=1781114055
+https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=341e65cc2ade8c3290c6ae450ec5956e&wsABSTime=1781203017
 
 <================================================>
-<================================================>
 
-#EXTINF:-1 group-title="EVENT 011/JUNI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 02:45 WIB Portugal vs Nigeria
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+#EXTINF:-1 group-title="EVENT 011/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s", 14:00 WIB Philippines vs Chinese Taipei
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel80.m3u8?wsSecret=291e4ff287bed56c21a4859ad5ba581b&wsABSTime=1781202595
 
-#EXTINF:-1 group-title="EVENT 011/JUNI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 03:00 WIB Inggris vs Kosta Rika
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+#EXTINF:-1 group-title="EVENT 011/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s", 17:00 WIB Korea vs Australia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel82.m3u8?wsSecret=8a62724521b9d04543a86cb40fcbe1b1&wsABSTime=1781202668
 
+#EXTINF:-1 group-title="EVENT 011/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s", 20:00 WIB Kyrgyzstan vs Uzbekistan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel84.m3u8?wsSecret=eba79e7aabc4592f1473fa510c51f126&wsABSTime=1781202717
 
 
 #########################NASIONAL#######################################
