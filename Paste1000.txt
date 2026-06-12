@@ -304,12 +304,6 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 ############### WORLD CUP 2026 ###############
 
 
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-http://sauridigital.my.id/infogeulis/JOIN%20GROUP.mp4
-
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://sauridigital.my.id/infogeulis/DONASI%20QRIS.mp4
-
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png",DS SPORT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
@@ -427,7 +421,7 @@ http://69.64.57.208/rts2/playlist.m3u8
 https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png",SPORTV 1
-#EXTGRP: ⚽PIALA DUNIA 2026⚽
+#EXTGRP: FIFA WORLD CUP 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
@@ -498,7 +492,7 @@ http://opplextv.cyou:8080/nasir6160/nasir/353015
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://opplextv.cyou:8080/nasir6160/nasir/353016
 
-#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/YSLWDO0.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (beIN Sports Qatar 4)
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/YSLWDO0.jpeg" tvg-id=" fifaworldcup.com" group-title="FIFA WORLD CUP 2026",FIFA World Cup (beIN Sports Qatar 4)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://opplextv.cyou:8080/nasir6160/nasir/353017
 
@@ -510,7 +504,7 @@ http://opplextv.cyou:8080/nasir6160/nasir/353018
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://opplextv.cyou:8080/nasir6160/nasir/353019
 
-#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/WIYY4Wk.jpeg" tvg-id=" fifaworldcup.com" group-title="Live Event Tim Nasional",FIFA World Cup (beIN Sports Qatar 7)
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/WIYY4Wk.jpeg" tvg-id=" fifaworldcup.com" group-title="FIFA WORLD CUP 2026",FIFA World Cup (beIN Sports Qatar 7)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://opplextv.cyou:8080/nasir6160/nasir/353020
 
