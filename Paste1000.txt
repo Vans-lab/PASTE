@@ -298,6 +298,33 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 http://69.30.245.50/live/cctv5.m3u8
 http://74.91.26.218:82/live/cctv5hd.m3u8
 
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/QjBhTa6.jpeg" tvg-id=" fifaworldcup.com" group-title="FIFA WORLD CUP 2026",FIFA World Cup (DAZN Mundial 1)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://myxpanel.pro/live/13579/13579/838108.ts
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/QjBhTa6.jpeg" tvg-id=" fifaworldcup.com" group-title="FIFA WORLD CUP 2026",FIFA World Cup (DAZN Mundial 2)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://myxpanel.pro/live/13579/13579/838106.ts
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/551QfXx.jpeg" tvg-id=" fifaworldcup.com" group-title="FIFA WORLD CUP 2026",FIFA World Cup (Fox Sports 1)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://myxpanel.pro/live/13579/13579/838116.ts
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/WTO4By8.jpeg" tvg-id=" fifaworldcup.com" group-title="FIFA WORLD CUP 2026",FIFA World Cup (Fox Sports 2)
+http://myxpanel.pro/live/13579/13579/838115.ts
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/SHm3xFl.jpeg" tvg-id=" fifaworldcup.com" group-title="FIFA WORLD CUP 2026",FIFA World Cup (Globo TV 1)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#http://200.77.176.130:8000/udp/224.0.0.1:49152
+#https://hplay.tv/augetv/12396547488/10.m3u8
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/SHm3xFl.jpeg" tvg-id=" fifaworldcup.com" group-title="FIFA WORLD CUP 2026",FIFA World Cup (Globo TV 2)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://200.77.176.130:8000/udp/224.0.0.1:49152
+
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 rEXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="FIFA WORLD CUP 2026",CCTV5+
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
