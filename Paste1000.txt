@@ -264,13 +264,8 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 ############### WORLD CUP 2026 ###############
 
-#EXTINF:-1 tvg-logo="https://digitalhub.fifa.com/transform/598a1d22-62b6-486b-849c-e8bf55894179/FIFA_FWC26_Tournament-Thumbnail-4-3" group-title="FIFA WORLD CUP 2026",TVRI (Maxs)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=efe538648aad30c9893edf1a69eb8c8e:fe9b77088a67777af435c3fa5f1bbdd0
-https://tencent-css.byteplaycdn.com/ef0df8a70e86f3f318504c08b510aa95/6A40D49D/Content/DASH_ENC2/Live/channel(tselwc1)/master.mpd
+#EXTINF:-1 tvg-logo="https://digitalhub.fifa.com/transform/598a1d22-62b6-486b-849c-e8bf55894179/FIFA_FWC26_Tournament-Thumbnail-4-3" group-title="FIFA WORLD CUP 2026",TVRI (Maxstream)
+http://157.15.187.3:25092/hls/49/49.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="FIFA WORLD CUP 2026",TVRI SPORT HD (DIGITAL)
 http://103.170.100.42:6799/stream/channelid/1362840449?profile=pass
