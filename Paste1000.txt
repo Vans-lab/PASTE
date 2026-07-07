@@ -274,8 +274,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 data-source="Manual" group-title="FIFA WORLD CUP 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="9a3cabf5d860d2e839fa7e7046befe82",TVRI SPORT
+#EXTINF:-1 data-source="Manual" group-title="FIFA WORLD CUP 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="9a3cabf5d860d2e839fa7e7046befe82",TVRI SPORT T
 #EXTVLCOPT:http-referrer=https://canal86.my.id/
+#EXTVLCOPT:http-origin=https://app.ambontv.my.id/
 https://pildun.cob.web.id/hls3-lo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://digitalhub.fifa.com/transform/598a1d22-62b6-486b-849c-e8bf55894179/FIFA_FWC26_Tournament-Thumbnail-4-3" group-title="FIFA WORLD CUP 2026",TVRI (Maxstream)
