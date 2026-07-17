@@ -2,6 +2,79 @@
 
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
+<=================== EVENT 1 =============================>
+
+#EXTINF:-1 group-title="EVENT 017/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9f9yKUJYrljUmC4M0QcFm9cyi0SCXhycALrVWTF8gSQ&s=10", 15:00 WIB Iran vs China
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://live1.streambylivepulse.com/live/channel83.m3u8?wsSecret=4b26e935816ed95a4ffce60e4c062f82&wsABSTime=1784311765
+
+#EXTINF:-1 group-title="EVENT 017/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9f9yKUJYrljUmC4M0QcFm9cyi0SCXhycALrVWTF8gSQ&s=10", 15:30 WIB Indonesia vs Bahrain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://live1.streambylivepulse.com/live/channel80.m3u8?wsSecret=9504aeec7398b19703f9ff3d8c6d2fda&wsABSTime=1784311812
+
+#EXTINF:-1 group-title="EVENT 017/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9f9yKUJYrljUmC4M0QcFm9cyi0SCXhycALrVWTF8gSQ&s=10", 18:00 WIB Chinese Taipei vs Japan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://live1.streambylivepulse.com/live/channel84.m3u8?wsSecret=4cae685fa15a822936cc0f0ba928d61c&wsABSTime=1784311870
+
+#EXTINF:-1 group-title="EVENT 017/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9f9yKUJYrljUmC4M0QcFm9cyi0SCXhycALrVWTF8gSQ&s=10", 18:30 WIB Philippines vs Hong Kong
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://live1.streambylivepulse.com/live/channel85.m3u8?wsSecret=f64aefcb460948d1c8ec30780528a134&wsABSTime=1784311907
+
+
+
+#EXTINF:-1 group-title="EVENT 017/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 13:00 WIB Myanmar vs Vietnam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://live2.streambylivepulse.com/live/channel33.m3u8
+
+#EXTINF:-1 group-title="EVENT 017/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 16:30 WIB Indonesia vs Philippines
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://live1.streambylivepulse.com/live/channel86.m3u8?wsSecret=c3e0105c656ce7e79ea29bb012bcf3cd&wsABSTime=1784311329
+
+
+#EXTINF:-1 group-title="EVENT 017/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcrSIjN3ue1GDlyPIUUKfyMvBwLhkGozGQnBhwUZAFw&s", 07:00 WIB Daihatsu Japan Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4266837211348061_AiSD.m3u8?txSecret=5357d7cf670347b3186094944ae761ea&txTime=6A5AA5E0
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4266837532714061_AiSD.m3u8?txSecret=bd296f94225a1bf6eaeda7a706c05d5d&txTime=6A5AA5E0
+
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcrSIjN3ue1GDlyPIUUKfyMvBwLhkGozGQnBhwUZAFw&s", 07:00 WIB Daihatsu Japan Open 2026
+https://live1.streambylivepulse.com/live/channel60.m3u8
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcrSIjN3ue1GDlyPIUUKfyMvBwLhkGozGQnBhwUZAFw&s", 07:00 WIB Daihatsu Japan Open 2026
+https://live1.streambylivepulse.com/live/channel61.m3u8
+
+#EXTINF:-1 group-title="EVENT 017/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 17:20 WIB Japan v Belgium | Week 3 | Men's VNL 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://live2.streambylivepulse.com/live/channel33.m3u8
+
+#EXTINF:-1 group-title="EVENT 017/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 21:30 WIB Türkiye v Ukraine | Week 3 | Men's VNL 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://live2.streambylivepulse.com/live/channel33.m3u8
+
+#EXTINF:-1 group-title="EVENT 018/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 01:00 WIB Iran v Slovenia | Week 3 | Men's VNL 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://live1.streambylivepulse.com/live/channel80.m3u8?wsSecret=d1f1a048ceeb08c3d294d3a3c275f922&wsABSTime=1784314012
+
+#EXTINF:-1 group-title="EVENT 018/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 04:00 WIB China v Bulgaria | Week 3 | Men's VNL 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://live1.streambylivepulse.com/live/channel81.m3u8?wsSecret=8c39d32199cd042a3d2d7407a89aa530&wsABSTime=1784314059
+
+#EXTINF:-1 group-title="EVENT 018/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 08:00 WIB Brazil v Poland | Week 3 | Men's VNL 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://live1.streambylivepulse.com/live/channel80.m3u8?wsSecret=d1f1a048ceeb08c3d294d3a3c275f922&wsABSTime=1784314012
+
+#EXTINF:-1 group-title="EVENT 018/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 11:00 WIB Canada v Cuba | Week 3 | Men's VNL 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://live1.streambylivepulse.com/live/channel81.m3u8?wsSecret=8c39d32199cd042a3d2d7407a89aa530&wsABSTime=1784314059
 
 #########################NASIONAL#######################################
 ===========================================================================================================================================================
