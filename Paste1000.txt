@@ -257,6 +257,25 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
+#EXTINF:-1 tvg-id="ID" tvg-logo="LinkLogo" group-title="FIFA WORLD CUP 2026",TVRI SPORT (MAX)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad
+#https://folaid.hbx4.workers.dev/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjIwMy4xNy44MS4yNDAiLCJleHAiOjE3ODQ0Mjk1MjF9.O3q4r0IDgSFgvBGy2En1RwCLZOd7JaTUgjUQIsLm8Ic/index.m3u8
+https://tencent-css.byteplaycdn.com/4ec70a915ee3d0b4ce696118bdcbdba9/6A5D9AF9/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
+
+#EXTINF:-1 tvg-id="ID" tvg-logo="LinkLogo" group-title="FIFA WORLD CUP 2026",MEWATCH CH 1 (MEDIACORP)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63bcb2ae029b3af3bab113950aa972dd:49ef2d7ef95fd3328f1ede9eecde6c58
+https://lion.hbx10.workers.dev/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjIwMy4xNy44MS4xMzAiLCJleHAiOjE3ODQ0OTMwMDB9.Nvl8Wb9KIZ47dDrLrtw64Bue7nRLlBdfPQrCA5TMMhU/out/v1/mwlsmpn01/ll_wc_ch01/ll_wc_ch01_cmaf_dash01/cmafdash1s.mpd
+
+#EXTINF:-1 tvg-id="ID" tvg-logo="LinkLogo" group-title="FIFA WORLD CUP 2026",FUSSBALL TV 2 (4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
+https://eude.hbx10.workers.dev/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjIwMy4xNy44MS4xMzAiLCJleHAiOjE3ODQ0OTM0MjZ9.81Whq997UsaphlP0iKXU8MHnD_rWaw0gVfMye0mBoUI/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
+
 #EXTINF:-1 data-source="Manual" group-title="FIFA WORLD CUP 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="9a3cabf5d860d2e839fa7e7046befe82",TVRI SPORT T
 #EXTVLCOPT:http-referrer=https://canal86.my.id/
 #EXTVLCOPT:http-origin=https://app.ambontv.my.id/
