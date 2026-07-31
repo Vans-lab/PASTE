@@ -2,6 +2,16 @@
 
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/2IF2vsNhzB1MYMKN78-F2xIDXUY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5217135/74ff0b.jpg" group-title="🔴 LIVE BOLA", 🔴 19:10 WIB 31/07/26 PERSIB vs Tampines Rovers FC - Piala Presiden [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=70c6ab11aa864567d08e48a1ffd17df7b1d579b19d3dd604d6c113292bcfe725&waktu=1785504007
+https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=70c6ab11aa864567d08e48a1ffd17df7b1d579b19d3dd604d6c113292bcfe725&waktu=1785504007
+
 #EXTINF:-1 group-title="ASEAN HYUNDAI CUP 2026" tvg-logo="https://i.imghippo.com/files/lZzN5049Uk.png", LIVE 1
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
