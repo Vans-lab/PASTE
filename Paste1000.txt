@@ -3,19 +3,22 @@
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
 
-#EXTINF:-1 group-title="ASEAN HYUNDAI CUP 2026" tvg-logo="https://i.imghippo.com/files/lZzN5049Uk.png", YB CHANNEL YT
-#EXTVLCOPT:http-referrer=https://www.youtube.com/
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1785605179/ei/29dtaoq3KJa39fwPtPv8oAE/ip/2404%3Ac0%3Ac201%3A1bc0%3Afded%3A705d%3A6fbe%3A9ba0/id/wdCiLuYIX0I.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51875298/txs/51875298%2C51875299%2C51875300%2C51875301%2C51875302/hfr/1/maxh/4320/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/id/siu/1/bui/AZFlqhPSCbAsCqOJC0NHuWbUXPbtLyCtEbFq5pMh6qrTk6HMrvSthgR_kCI_zixcFnPuWQ-rzQ/spc/KBGBcnbPD-Xrn4AhnMSfq3ljpD5pNx_C315HUGWspMqKhKxe1Meedp4/vprv/1/go/1/ns/A8OgQBcJe4prhZuFxHf9--0X/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51973819/dover/11/n/JlEObVewCG5-sW-/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRAIgRp_W5kr5IbXbZbppdVl4ttfhB40ZaMLUrfW9Ka3T_VoCIEGkn3HfB1AJcuZIN1of_B6jh-NWNJIrBpAJhonldjeL/file/index.m3u8
-
 #EXTINF:-1 group-title="ASEAN HYUNDAI CUP 2026" tvg-logo="https://i.imghippo.com/files/lZzN5049Uk.png", LIVE 1
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 http://beetv.my.id/stream/rctiplus.m3u8?ch=gtv
 
+
+
 #EXTINF:-1 group-title="ASEAN HYUNDAI CUP 2026" tvg-logo="https://i.imghippo.com/files/lZzN5049Uk.png", LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://lxscore.com/
-https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.lxscore.com/live/default-1832576.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c618a388f096328674c3576c32caef79
+https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.lxscore.com/live/default-1832580.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=4f78656afeaddbcefd567126c66b113c
+
+#EXTINF:-1 group-title="ASEAN HYUNDAI CUP 2026" tvg-logo="https://i.imghippo.com/files/lZzN5049Uk.png", LIVE 3
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 <=================== EVENT 1 =============================>
 
