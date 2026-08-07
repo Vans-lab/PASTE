@@ -2,6 +2,10 @@
 
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
+#EXTINF:-1 group-title="ASEAN HYUNDAI CUP 2026" tvg-logo="https://i.imghippo.com/files/lZzN5049Uk.png", YB CH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.youtube.com/
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1786125799/ei/h8l1aqncNMGassUP8ODwqQE/ip/2404%3Ac0%3Ac206%3Adfee%3A890e%3A20f1%3A4835%3Acefe/id/IiD0KwcbG0w.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51875298/txs/51875298%2C51875299%2C51875300%2C51875301%2C51875302/hfr/1/maxh/4320/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/id/ss/1/ssa/1/siu/1/bui/AZFlqhMQIpnjGT16rIlWf5e2W39TS6OEiUiFnv4XqXAAOIc-fooj6HGcmwIRovcefi3VroWizA/spc/KBGBcjRoICLZKuUzUafUHklk3T1lWI0RUQkaOhM16Yh02p_0RC4H5hU/vprv/1/go/1/ns/sYhI9DehosAJp0Q11OX2fyMX/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51973819/dover/11/n/SNG_Zm34X7x2fDj4/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRAIgSBIQuPNhG2S9rJPqdFdUWXlNTlJs0mNaATF-OKVukpUCIEKwHWMDdh2IsllBKpqF81MvaUAiMZ6vP2V8V00nC-oF/file/index.m3u8
 
 #EXTINF:-1 group-title="ASEAN HYUNDAI CUP 2026" tvg-logo="https://i.imghippo.com/files/lZzN5049Uk.png", LIVE 1
 #EXTVLCOPT:http-user-agent=android-R+
