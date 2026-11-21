@@ -2,7 +2,12 @@
 
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
+#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |PSM MAKASSAR VS PERSIJA - BRI SUPER LEAGUE|
+https://live2.jorvakstreamcache.com/live/channel20.m3u8
 
+#EXTINF:-1 group-title="LIGA 1 BRI" tvg-logo="https://i.imgur.com/vzXPJsq.png", 19:00 WIB |BHAYANGKARA VS PERSIJAP - BRI SUPER LEAGUE|
+https://live2.jorvakstreamcache.com/live/channel7.m3u8
+ 
 ------------------------
 #EXTINF:-1 tvg-id="LIGUE 1" group-title="LIVE HARI INI" tvg-logo="https://i.imgur.com/wsgHulY.png", 🔥23;15 WIB |NICE VS PSG - LIGUE 1| Tv3
 http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/179124
