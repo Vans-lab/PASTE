@@ -1,93 +1,108 @@
-#EXTINF:-1 tvg-id="metrotv.id" tvg-name="ID| METRO TV HD" tvg-logo="https://lo1.in/indo/metr.png" group-title="AS | INDONESIA",ID| METRO TV HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/34413
-#EXTINF:-1 tvg-id="beritasatu.id" tvg-name="ID| BERITA SATU HD" tvg-logo="https://lo1.in/indo/ber.png" group-title="AS | INDONESIA",ID| BERITA SATU HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/34408
-#EXTINF:-1 tvg-id="cnbc.id" tvg-name="ID| CNBC ASIA HD" tvg-logo="https://lo1.in/indo/cnb.png" group-title="AS | INDONESIA",ID| CNBC ASIA HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/34410
-#EXTINF:-1 tvg-id="cnninternational.id" tvg-name="ID| CNN INDONESIA HD" tvg-logo="https://lo1.in/indo/cnd.png" group-title="AS | INDONESIA",ID| CNN INDONESIA HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/34411
-#EXTINF:-1 tvg-id="" tvg-name="ID| Mentari" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Mentari
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/34412
-#EXTINF:-1 tvg-id="inews.id" tvg-name="ID| INEWS TV HD" tvg-logo="https://lo1.in/indo/inw.png" group-title="AS | INDONESIA",ID| INEWS TV HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149820
-#EXTINF:-1 tvg-id="trans7.id" tvg-name="ID| TRANS 7 HD" tvg-logo="https://lo1.in/indo/tran.png" group-title="AS | INDONESIA",ID| TRANS 7 HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/34419
-#EXTINF:-1 tvg-id="transtv.id" tvg-name="ID| TRANS TV HD" tvg-logo="https://lo1.in/indo/tra1.png" group-title="AS | INDONESIA",ID| TRANS TV HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/34420
-#EXTINF:-1 tvg-id="celestialmovies.id" tvg-name="ID| CELESTIAL MOVIE HD" tvg-logo="https://lo1.in/indo/celm.png" group-title="AS | INDONESIA",ID| CELESTIAL MOVIE HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149823
-#EXTINF:-1 tvg-id="" tvg-name="ID| GTV HD" tvg-logo="https://lo1.in/indo/gtv.png" group-title="AS | INDONESIA",ID| GTV HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149821
-#EXTINF:-1 tvg-id="mnctv.id" tvg-name="ID| MNC TV HD" tvg-logo="https://lo1.in/indo/mnc20.png" group-title="AS | INDONESIA",ID| MNC TV HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149819
-#EXTINF:-1 tvg-id="rctihd.id" tvg-name="ID| RCTI HD" tvg-logo="https://lo1.in/indo/rct.png" group-title="AS | INDONESIA",ID| RCTI HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149818
-#EXTINF:-1 tvg-id="tvri.id" tvg-name="ID| TVRI HD" tvg-logo="https://lo1.in/indo/pem0.png" group-title="AS | INDONESIA",ID| TVRI HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149817
-#EXTINF:-1 tvg-id="galaxy.id" tvg-name="ID| Galaxy HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Galaxy HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149836
-#EXTINF:-1 tvg-id="" tvg-name="ID| CGTN DOCUMENTARY" tvg-logo="https://lo1.in/car/cgtdoc.png" group-title="AS | INDONESIA",ID| CGTN DOCUMENTARY
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7611
-#EXTINF:-1 tvg-id="lifetime.id" tvg-name="ID| LIFETIME" tvg-logo="https://lo1.in/indo/lft.png" group-title="AS | INDONESIA",ID| LIFETIME
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7619
-#EXTINF:-1 tvg-id="antv.id" tvg-name="ID| ANTV" tvg-logo="https://lo1.in/indo/ant.png" group-title="AS | INDONESIA",ID| ANTV
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7621
-#EXTINF:-1 tvg-id="crimeinvestigation.id" tvg-name="ID| CRIME INVESTIGATION HD" tvg-logo="https://lo1.in/indo/crig.png" group-title="AS | INDONESIA",ID| CRIME INVESTIGATION HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7627
-#EXTINF:-1 tvg-id="hits.id" tvg-name="ID| HITS HD" tvg-logo="https://lo1.in/indo/hit.png" group-title="AS | INDONESIA",ID| HITS HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7649
-#EXTINF:-1 tvg-id="hitsmovies.id" tvg-name="ID| HITS MOVIES HD" tvg-logo="https://lo1.in/indo/him.png" group-title="AS | INDONESIA",ID| HITS MOVIES HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7628
-#EXTINF:-1 tvg-id="arirang.id" tvg-name="ID| ARIRANG HD" tvg-logo="https://lo1.in/indo/ari.png" group-title="AS | INDONESIA",ID| ARIRANG HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7637
-#EXTINF:-1 tvg-id="aljazeeraenglish.id" tvg-name="ID| AL JAZEERA ENGLISH HD" tvg-logo="https://lo1.in/indo/alj.png" group-title="AS | INDONESIA",ID| AL JAZEERA ENGLISH HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7640
-#EXTINF:-1 tvg-id="idx.id" tvg-name="ID| IDX CHANNEL" tvg-logo="https://lo1.in/indo/ix.png" group-title="AS | INDONESIA",ID| IDX CHANNEL
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7645
-#EXTINF:-1 tvg-id="" tvg-name="ID| Travel HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Travel HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139148
-#EXTINF:-1 tvg-id="animax.id" tvg-name="ID| ANIMAX HD" tvg-logo="https://lo1.in/indo/ani.png" group-title="AS | INDONESIA",ID| ANIMAX HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7653
-#EXTINF:-1 tvg-id="alquranalkareem.id" tvg-name="ID| AL QURAN AL KAREEM" tvg-logo="https://lo1.in/indo/alq.png" group-title="AS | INDONESIA",ID| AL QURAN AL KAREEM
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7659
-#EXTINF:-1 tvg-id="nickelodeonjr.id" tvg-name="ID| NICK JR" tvg-logo="https://lo1.in/MALAY/nickd.png" group-title="AS | INDONESIA",ID| NICK JR
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/3248
-#EXTINF:-1 tvg-id="nickelodeonjr.id" tvg-name="ID| NICK JR HD" tvg-logo="https://lo1.in/indo/nkjr.png" group-title="AS | INDONESIA",ID| NICK JR HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7665
-#EXTINF:-1 tvg-id="" tvg-name="ID| JTV" tvg-logo="https://lo1.in/indo/jtv.png" group-title="AS | INDONESIA",ID| JTV
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7671
-#EXTINF:-1 tvg-id="citradangdut.id" tvg-name="ID| Citra Dangdut HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Citra Dangdut HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139237
-#EXTINF:-1 tvg-id="citradrama.id" tvg-name="ID| Citra Drama HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Citra Drama HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139236
-#EXTINF:-1 tvg-id="" tvg-name="ID| Horee HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Horee HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139212
-#EXTINF:-1 tvg-id="indosiar.id" tvg-name="ID| Indosiar HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Indosiar HD
+
+#EXTINF:-1 tvg-id="indosiar.id" tvg-name="ID| Indosiar HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA",ID| Indosiar HD
 http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139211
-#EXTINF:-1 tvg-id="" tvg-name="ID| Flik TV HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Flik TV HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139210
-#EXTINF:-1 tvg-id="" tvg-name="ID| IMC HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| IMC HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139209
-#EXTINF:-1 tvg-id="" tvg-name="ID| MOJI HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| MOJI HD
+#EXTINF:-1 tvg-id="" tvg-name="ID| GTV HD" tvg-logo="https://lo1.in/indo/gtv.png" group-title="INDONESIA",ID| GTV HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149821
+#EXTINF:-1 tvg-id="mnctv.id" tvg-name="ID| MNC TV HD" tvg-logo="https://lo1.in/indo/mnc20.png" group-title="INDONESIA",ID| MNC TV HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149819
+#EXTINF:-1 tvg-id="rctihd.id" tvg-name="ID| RCTI HD" tvg-logo="https://lo1.in/indo/rct.png" group-title="INDONESIA",ID| RCTI HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149818
+#EXTINF:-1 tvg-id="tvri.id" tvg-name="ID| TVRI HD" tvg-lo
+#EXTINF:-1 tvg-id="trans7.id" tvg-name="ID| TRANS 7 HD" tvg-logo="https://lo1.in/indo/tran.png" group-title="INDONESIA",ID| TRANS 7 HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/34419
+#EXTINF:-1 tvg-id="transtv.id" tvg-name="ID| TRANS TV HD" tvg-logo="https://lo1.in/indo/tra1.png" group-title="INDONESIA",ID| TRANS TV HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/34420
+#EXTINF:-1 tvg-id="antv.id" tvg-name="ID| ANTV" tvg-logo="https://lo1.in/indo/ant.png" group-title="INDONESIA",ID| ANTV
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7621
+#EXTINF:-1 tvg-id="" tvg-name="ID| MOJI HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA",ID| MOJI HD
 http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139206
-#EXTINF:-1 tvg-id="bioskopindonesia.id" tvg-name="ID| Bioskop Indonesia HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Bioskop Indonesia HD
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139190
-#EXTINF:-1 tvg-id="" tvg-name="ID| Aniplus TV" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Aniplus TV
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139189
-#EXTINF:-1 tvg-id="" tvg-name="ID| Da Vinci Learning TV" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Da Vinci Learning TV
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139185
-#EXTINF:-1 tvg-id="dunialain.id" tvg-name="ID| Dunia Lain" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Dunia Lain
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139181
-#EXTINF:-1 tvg-id="jaktv.id" tvg-name="ID| JAK TV" tvg-logo="https://lo1.in/indo/jk0.png" group-title="AS | INDONESIA",ID| JAK TV
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7672
-#EXTINF:-1 tvg-id="kompastv.id" tvg-name="ID| KOMPAS TV" tvg-logo="https://lo1.in/indo/kom.png" group-title="AS | INDONESIA",ID| KOMPAS TV
-http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7675
-#EXTINF:-1 tvg-id="rtv.id" tvg-name="ID| RTV HD" tvg-logo="https://lo1.in/indo/rtv.png" group-title="AS | INDONESIA",ID| RTV HD
+#EXTINF:-1 tvg-id="rtv.id" tvg-name="ID| RTV HD" tvg-logo="https://lo1.in/indo/rtv.png" group-title="INDONESIA",ID| RTV HD
 http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7674
-#EXTINF:-1 tvg-id="nettv.id" tvg-name="ID| NET TV HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| NET TV HD
+#EXTINF:-1 tvg-id="nettv.id" tvg-name="ID| NET TV HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA",ID| NET TV HD
 http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149816
-#EXTINF:-1 tvg-id="" tvg-name="ID| Cinema World" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Cinema World
+#EXTINF:-1 tvg-id="kompastv.id" tvg-name="ID| KOMPAS TV" tvg-logo="https://lo1.in/indo/kom.png" group-title="INDONESIA",ID| KOMPAS TV
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7675
+#EXTINF:-1 tvg-id="metrotv.id" tvg-name="ID| METRO TV HD" tvg-logo="https://lo1.in/indo/metr.png" group-title="INDONESIA",ID| METRO TV HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/34413
+#EXTINF:-1 tvg-id="beritasatu.id" tvg-name="ID| BERITA SATU HD" tvg-logo="https://lo1.in/indo/ber.png" group-title="INDONESIA",ID| BERITA SATU HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/34408
+#EXTINF:-1 tvg-id="cnbc.id" tvg-name="ID| CNBC ASIA HD" tvg-logo="https://lo1.in/indo/cnb.png" group-title="INDONESIA",ID| CNBC ASIA HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/34410
+#EXTINF:-1 tvg-id="cnninternational.id" tvg-name="ID| CNN INDONESIA HD" tvg-logo="https://lo1.in/indo/cnd.png" group-title="INDONESIA",ID| CNN INDONESIA HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/34411
+#EXTINF:-1 tvg-id="" tvg-name="ID| Mentari" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA",ID| Mentari
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/34412
+#EXTINF:-1 tvg-id="inews.id" tvg-name="ID| INEWS TV HD" tvg-logo="https://lo1.in/indo/inw.png" group-title="INDONESIA",ID| INEWS TV HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149820
+#EXTINF:-1 tvg-id="" tvg-name="ID| SPOTV HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA",ID| SPOTV HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149807
+#EXTINF:-1 tvg-id="" tvg-name="ID| SPOTV 2 HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA",ID| SPOTV 2 HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149806
+
+#EXTINF:-1 tvg-id="celestialmovies.id" tvg-name="ID| CELESTIAL MOVIE HD" tvg-logo="https://lo1.in/indo/celm.png" group-title="INDONESIA",ID| CELESTIAL MOVIE HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149823
+go="https://lo1.in/indo/pem0.png" group-title="INDONESIA",ID| TVRI HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149817
+#EXTINF:-1 tvg-id="galaxy.id" tvg-name="ID| Galaxy HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA",ID| Galaxy HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149836
+#EXTINF:-1 tvg-id="" tvg-name="ID| CGTN DOCUMENTARY" tvg-logo="https://lo1.in/car/cgtdoc.png" group-title="INDONESIA",ID| CGTN DOCUMENTARY
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7611
+#EXTINF:-1 tvg-id="lifetime.id" tvg-name="ID| LIFETIME" tvg-logo="https://lo1.in/indo/lft.png" group-title="INDONESIA",ID| LIFETIME
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7619
+
+#EXTINF:-1 tvg-id="crimeinvestigation.id" tvg-name="ID| CRIME INVESTIGATION HD" tvg-logo="https://lo1.in/indo/crig.png" group-title="INDONESIA",ID| CRIME INVESTIGATION HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7627
+#EXTINF:-1 tvg-id="hits.id" tvg-name="ID| HITS HD" tvg-logo="https://lo1.in/indo/hit.png" group-title="INDONESIA",ID| HITS HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7649
+#EXTINF:-1 tvg-id="hitsmovies.id" tvg-name="ID| HITS MOVIES HD" tvg-logo="https://lo1.in/indo/him.png" group-title="INDONESIA",ID| HITS MOVIES HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7628
+#EXTINF:-1 tvg-id="arirang.id" tvg-name="ID| ARIRANG HD" tvg-logo="https://lo1.in/indo/ari.png" group-title="INDONESIA",ID| ARIRANG HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7637
+#EXTINF:-1 tvg-id="aljazeeraenglish.id" tvg-name="ID| AL JAZEERA ENGLISH HD" tvg-logo="https://lo1.in/indo/alj.png" group-title="INDONESIA",ID| AL JAZEERA ENGLISH HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7640
+#EXTINF:-1 tvg-id="idx.id" tvg-name="ID| IDX CHANNEL" tvg-logo="https://lo1.in/indo/ix.png" group-title="INDONESIA",ID| IDX CHANNEL
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7645
+#EXTINF:-1 tvg-id="" tvg-name="ID| Travel HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA",ID| Travel HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139148
+#EXTINF:-1 tvg-id="animax.id" tvg-name="ID| ANIMAX HD" tvg-logo="https://lo1.in/indo/ani.png" group-title="INDONESIA",ID| ANIMAX HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7653
+#EXTINF:-1 tvg-id="alquranalkareem.id" tvg-name="ID| AL QURAN AL KAREEM" tvg-logo="https://lo1.in/indo/alq.png" group-title="INDONESIA",ID| AL QURAN AL KAREEM
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7659
+#EXTINF:-1 tvg-id="nickelodeonjr.id" tvg-name="ID| NICK JR" tvg-logo="https://lo1.in/MALAY/nickd.png" group-title="INDONESIA",ID| NICK JR
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/3248
+#EXTINF:-1 tvg-id="nickelodeonjr.id" tvg-name="ID| NICK JR HD" tvg-logo="https://lo1.in/indo/nkjr.png" group-title="INDONESIA",ID| NICK JR HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7665
+#EXTINF:-1 tvg-id="" tvg-name="ID| JTV" tvg-logo="https://lo1.in/indo/jtv.png" group-title="INDONESIA",ID| JTV
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7671
+#EXTINF:-1 tvg-id="citradangdut.id" tvg-name="ID| Citra Dangdut HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA",ID| Citra Dangdut HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139237
+#EXTINF:-1 tvg-id="citradrama.id" tvg-name="ID| Citra Drama HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA",ID| Citra Drama HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139236
+#EXTINF:-1 tvg-id="" tvg-name="ID| Horee HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA",ID| Horee HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139212
+
+#EXTINF:-1 tvg-id="" tvg-name="ID| Flik TV HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA",ID| Flik TV HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139210
+#EXTINF:-1 tvg-id="" tvg-name="ID| IMC HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA",ID| IMC HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139209
+
+#EXTINF:-1 tvg-id="bioskopindonesia.id" tvg-name="ID| Bioskop Indonesia HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA",ID| Bioskop Indonesia HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139190
+#EXTINF:-1 tvg-id="" tvg-name="ID| Aniplus TV" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA",ID| Aniplus TV
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139189
+#EXTINF:-1 tvg-id="" tvg-name="ID| Da Vinci Learning TV" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA",ID| Da Vinci Learning TV
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139185
+#EXTINF:-1 tvg-id="dunialain.id" tvg-name="ID| Dunia Lain" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA",ID| Dunia Lain
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139181
+#EXTINF:-1 tvg-id="jaktv.id" tvg-name="ID| JAK TV" tvg-logo="https://lo1.in/indo/jk0.png" group-title="INDONESIA",ID| JAK TV
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7672
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ID| Cinema World" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA",ID| Cinema World
 http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149812
+#EXTINF:-1 tvg-id="fightsports.id" tvg-name="ID| FIGHT SPORTS HD" tvg-logo="https://lo1.in/indo/fhg.png" group-title="INDONESIA",ID| FIGHT SPORTS HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7618
+
 
 #EXTINF:-1 tvg-id="astroarena.my" tvg-name="ASIA-MY| ASTRO ARENA HD" tvg-logo="https://lo1.in/MALAY/astroar.png" group-title="VIP | ASIAN SPORT PPV",ASIA-MY| ASTRO ARENA HD
 http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1410915
