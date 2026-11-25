@@ -1,78 +1,96 @@
-#EXTINF:-1 group-title="Astro Sports" tvg-id="" tvg-logo="http://caranytv.shop/logotiger3/pl.jpg",ASTRO PL1 nd 
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8 
-#EXTINF:-1 group-title="Astro Sports" tvg-id="" tvg-logo="http://caranytv.shop/logotiger3/pl2.jpg",ASTRO PL2 hd 
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl2.m3u8
-#EXTINF:-1 group-title="Astro Sports" tvg-id="" tvg-logo="http://caranytv.shop/logotiger3/pl2.jpg",ASTRO PL3 hd 
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl3.m3u8
-#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-1.png" tvg-id="HubPremier1.sg" ,Hub Premier 1 FHD
-http://b1g.uk/200/230/952022
-#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-1.png" tvg-id="HubPremier1.sg" ,Hub Premier 1 HD
-http://b1g.uk/200/230/426734
-#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" tvg-id="HubPremier2.sg" ,Hub Premier 2 FHD
-http://b1g.uk/200/230/952023
-#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" tvg-id="HubPremier2.sg" ,Hub Premier 2 HD
-http://b1g.uk/200/230/426733
-#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-3.png" tvg-id="HubPremier3.sg" ,Hub Premier 3 FHD
-http://b1g.uk/200/230/952024
-#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-3.png" tvg-id="HubPremier3.sg" ,Hub Premier 3 HD
-http://b1g.uk/200/230/426732
-#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-4.png" tvg-id="HubPremier4.sg" ,Hub Premier 4 FHD
-http://b1g.uk/200/230/952025
-#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-4.png" tvg-id="HubPremier4.sg" ,Hub Premier 4 HD
-http://b1g.uk/200/230/426731
-#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-5.png" tvg-id="HubPremier5.sg" ,Hub Premier 5 FHD
-http://b1g.uk/200/230/952026
-#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-5.png" tvg-id="HubPremier5.sg" ,Hub Premier 5 HD
-http://b1g.uk/200/230/426730
-#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-6.png" tvg-id="HubPremier6.sg" ,Hub Premier 6 FHD
-http://b1g.uk/200/230/952027
-#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-6.png" tvg-id="HubPremier6.sg" ,Hub Premier 6 HD
-http://b1g.uk/200/230/426729
-#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-7.png" tvg-id="HubPremier7.sg" ,Hub Premier 7 FHD
-http://b1g.uk/200/230/952028
-#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-7.png" tvg-id="HubPremier7.sg" ,Hub Premier 7 HD
-http://b1g.uk/200/230/426728
-#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-8.png" tvg-id="HubPremier8.sg" ,Hub Premier 8 FHD
-http://b1g.uk/200/230/952029
-#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-8.png" tvg-id="HubPremier8.sg" ,Hub Premier 8 HD
-http://b1g.uk/200/230/426727
-#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-9.png" ,Hub Premier 9 FHD
-http://b1g.uk/200/230/952030
-#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-9.png" ,Hub Premier 9 HD
-http://b1g.uk/200/230/426726
-#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-10.png" ,Hub Premier 10 FHD
-http://b1g.uk/200/230/952031
-#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-10.png" ,Hub Premier 10 HD
-http://b1g.uk/200/230/426725
-#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-11.png" ,Hub Premier 11 FHD
-http://b1g.uk/200/230/952032
-#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-11.png" ,Hub Premier 11 HD
-http://b1g.uk/200/230/426724
-#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/PL-Star-Hub-1.png" ,Hub Premier 2 4K
-http://b1g.uk/200/230/426723
-#EXTINF:-1 group-title="Hub Sports" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-1.png" tvg-id="HubSports1.sg" ,SG | Hub Sports 1
-http://b1g.uk/200/230/625477
-#EXTINF:-1 group-title="Hub Sports" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-2.png" tvg-id="HubSports2.sg" ,SG | Hub Sports 2
-http://b1g.uk/200/230/625476
-#EXTINF:-1 group-title="Hub Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-3.png" tvg-id="HubSports3.sg" ,SG | Hub Sports 3
-http://b1g.uk/200/230/625475
-#EXTINF:-1 group-title="Hub Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-4.png" tvg-id="HubSports4.sg" ,SG | Hub Sports 4
-http://b1g.uk/200/230/625449
-#EXTINF:-1 group-title="Hub Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-5.png" tvg-id="HubSports5.sg" ,SG | Hub Sports 5
-http://b1g.uk/200/230/625523
-#EXTINF:-1 group-title="Hub Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" tvg-id="beINSPORTS.sg" ,SG | beIN Sports 1
-http://b1g.uk/200/230/625423
-#EXTINF:-1 group-title="Hub Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" tvg-id="beINSPORTS2.sg" ,SG | beIN Sports 2
-http://b1g.uk/200/230/625424
-#EXTINF:-1 group-title="Hub Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" tvg-id="beINSPORTS3.sg" ,SG | beIN Sports 3
-http://b1g.uk/200/230/625422
-#EXTINF:-1 group-title="Hub Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" tvg-id="beINSPORTS4.sg" ,SG | beIN Sports 4
-http://b1g.uk/200/230/625421
-#EXTINF:-1 group-title="Hub Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" tvg-id="beINSPORTS5.sg" ,SG | beIN Sports 5
-http://b1g.uk/200/230/625420
-#EXTINF:-1 tvg-id="HubSports1.sg" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-1.png" group-title="SPORT VIP",SG | Hub Sports 1
-http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/501590
-#EXTINF:-1 tvg-id="HubSports2.sg" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-2.png" group-title="SPORT VIP",SG | Hub Sports 2
-http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/501598
-#EXTINF:-1 tvg-id="HubSports3.sg" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-3.png" group-title="SPORT VIP",SG | Hub Sports 3
-http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/501789
+#EXTINF:-1 tvg-id="metrotv.id" tvg-name="ID| METRO TV HD" tvg-logo="https://lo1.in/indo/metr.png" group-title="AS | INDONESIA",ID| METRO TV HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/34413
+#EXTINF:-1 tvg-id="beritasatu.id" tvg-name="ID| BERITA SATU HD" tvg-logo="https://lo1.in/indo/ber.png" group-title="AS | INDONESIA",ID| BERITA SATU HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/34408
+#EXTINF:-1 tvg-id="cnbc.id" tvg-name="ID| CNBC ASIA HD" tvg-logo="https://lo1.in/indo/cnb.png" group-title="AS | INDONESIA",ID| CNBC ASIA HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/34410
+#EXTINF:-1 tvg-id="cnninternational.id" tvg-name="ID| CNN INDONESIA HD" tvg-logo="https://lo1.in/indo/cnd.png" group-title="AS | INDONESIA",ID| CNN INDONESIA HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/34411
+#EXTINF:-1 tvg-id="" tvg-name="ID| Mentari" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Mentari
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/34412
+#EXTINF:-1 tvg-id="inews.id" tvg-name="ID| INEWS TV HD" tvg-logo="https://lo1.in/indo/inw.png" group-title="AS | INDONESIA",ID| INEWS TV HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149820
+#EXTINF:-1 tvg-id="trans7.id" tvg-name="ID| TRANS 7 HD" tvg-logo="https://lo1.in/indo/tran.png" group-title="AS | INDONESIA",ID| TRANS 7 HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/34419
+#EXTINF:-1 tvg-id="transtv.id" tvg-name="ID| TRANS TV HD" tvg-logo="https://lo1.in/indo/tra1.png" group-title="AS | INDONESIA",ID| TRANS TV HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/34420
+#EXTINF:-1 tvg-id="celestialmovies.id" tvg-name="ID| CELESTIAL MOVIE HD" tvg-logo="https://lo1.in/indo/celm.png" group-title="AS | INDONESIA",ID| CELESTIAL MOVIE HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149823
+#EXTINF:-1 tvg-id="" tvg-name="ID| GTV HD" tvg-logo="https://lo1.in/indo/gtv.png" group-title="AS | INDONESIA",ID| GTV HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149821
+#EXTINF:-1 tvg-id="mnctv.id" tvg-name="ID| MNC TV HD" tvg-logo="https://lo1.in/indo/mnc20.png" group-title="AS | INDONESIA",ID| MNC TV HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149819
+#EXTINF:-1 tvg-id="rctihd.id" tvg-name="ID| RCTI HD" tvg-logo="https://lo1.in/indo/rct.png" group-title="AS | INDONESIA",ID| RCTI HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149818
+#EXTINF:-1 tvg-id="tvri.id" tvg-name="ID| TVRI HD" tvg-logo="https://lo1.in/indo/pem0.png" group-title="AS | INDONESIA",ID| TVRI HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149817
+#EXTINF:-1 tvg-id="galaxy.id" tvg-name="ID| Galaxy HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Galaxy HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149836
+#EXTINF:-1 tvg-id="" tvg-name="ID| CGTN DOCUMENTARY" tvg-logo="https://lo1.in/car/cgtdoc.png" group-title="AS | INDONESIA",ID| CGTN DOCUMENTARY
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7611
+#EXTINF:-1 tvg-id="lifetime.id" tvg-name="ID| LIFETIME" tvg-logo="https://lo1.in/indo/lft.png" group-title="AS | INDONESIA",ID| LIFETIME
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7619
+#EXTINF:-1 tvg-id="antv.id" tvg-name="ID| ANTV" tvg-logo="https://lo1.in/indo/ant.png" group-title="AS | INDONESIA",ID| ANTV
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7621
+#EXTINF:-1 tvg-id="crimeinvestigation.id" tvg-name="ID| CRIME INVESTIGATION HD" tvg-logo="https://lo1.in/indo/crig.png" group-title="AS | INDONESIA",ID| CRIME INVESTIGATION HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7627
+#EXTINF:-1 tvg-id="hits.id" tvg-name="ID| HITS HD" tvg-logo="https://lo1.in/indo/hit.png" group-title="AS | INDONESIA",ID| HITS HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7649
+#EXTINF:-1 tvg-id="hitsmovies.id" tvg-name="ID| HITS MOVIES HD" tvg-logo="https://lo1.in/indo/him.png" group-title="AS | INDONESIA",ID| HITS MOVIES HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7628
+#EXTINF:-1 tvg-id="arirang.id" tvg-name="ID| ARIRANG HD" tvg-logo="https://lo1.in/indo/ari.png" group-title="AS | INDONESIA",ID| ARIRANG HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7637
+#EXTINF:-1 tvg-id="aljazeeraenglish.id" tvg-name="ID| AL JAZEERA ENGLISH HD" tvg-logo="https://lo1.in/indo/alj.png" group-title="AS | INDONESIA",ID| AL JAZEERA ENGLISH HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7640
+#EXTINF:-1 tvg-id="idx.id" tvg-name="ID| IDX CHANNEL" tvg-logo="https://lo1.in/indo/ix.png" group-title="AS | INDONESIA",ID| IDX CHANNEL
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7645
+#EXTINF:-1 tvg-id="" tvg-name="ID| Travel HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Travel HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139148
+#EXTINF:-1 tvg-id="animax.id" tvg-name="ID| ANIMAX HD" tvg-logo="https://lo1.in/indo/ani.png" group-title="AS | INDONESIA",ID| ANIMAX HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7653
+#EXTINF:-1 tvg-id="alquranalkareem.id" tvg-name="ID| AL QURAN AL KAREEM" tvg-logo="https://lo1.in/indo/alq.png" group-title="AS | INDONESIA",ID| AL QURAN AL KAREEM
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7659
+#EXTINF:-1 tvg-id="nickelodeonjr.id" tvg-name="ID| NICK JR" tvg-logo="https://lo1.in/MALAY/nickd.png" group-title="AS | INDONESIA",ID| NICK JR
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/3248
+#EXTINF:-1 tvg-id="nickelodeonjr.id" tvg-name="ID| NICK JR HD" tvg-logo="https://lo1.in/indo/nkjr.png" group-title="AS | INDONESIA",ID| NICK JR HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7665
+#EXTINF:-1 tvg-id="" tvg-name="ID| JTV" tvg-logo="https://lo1.in/indo/jtv.png" group-title="AS | INDONESIA",ID| JTV
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7671
+#EXTINF:-1 tvg-id="citradangdut.id" tvg-name="ID| Citra Dangdut HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Citra Dangdut HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139237
+#EXTINF:-1 tvg-id="citradrama.id" tvg-name="ID| Citra Drama HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Citra Drama HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139236
+#EXTINF:-1 tvg-id="" tvg-name="ID| Horee HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Horee HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139212
+#EXTINF:-1 tvg-id="indosiar.id" tvg-name="ID| Indosiar HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Indosiar HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139211
+#EXTINF:-1 tvg-id="" tvg-name="ID| Flik TV HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Flik TV HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139210
+#EXTINF:-1 tvg-id="" tvg-name="ID| IMC HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| IMC HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139209
+#EXTINF:-1 tvg-id="" tvg-name="ID| MOJI HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| MOJI HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139206
+#EXTINF:-1 tvg-id="bioskopindonesia.id" tvg-name="ID| Bioskop Indonesia HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Bioskop Indonesia HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139190
+#EXTINF:-1 tvg-id="" tvg-name="ID| Aniplus TV" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Aniplus TV
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139189
+#EXTINF:-1 tvg-id="" tvg-name="ID| Da Vinci Learning TV" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Da Vinci Learning TV
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139185
+#EXTINF:-1 tvg-id="dunialain.id" tvg-name="ID| Dunia Lain" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Dunia Lain
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/1139181
+#EXTINF:-1 tvg-id="jaktv.id" tvg-name="ID| JAK TV" tvg-logo="https://lo1.in/indo/jk0.png" group-title="AS | INDONESIA",ID| JAK TV
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7672
+#EXTINF:-1 tvg-id="kompastv.id" tvg-name="ID| KOMPAS TV" tvg-logo="https://lo1.in/indo/kom.png" group-title="AS | INDONESIA",ID| KOMPAS TV
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7675
+#EXTINF:-1 tvg-id="rtv.id" tvg-name="ID| RTV HD" tvg-logo="https://lo1.in/indo/rtv.png" group-title="AS | INDONESIA",ID| RTV HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7674
+#EXTINF:-1 tvg-id="nettv.id" tvg-name="ID| NET TV HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| NET TV HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149816
+#EXTINF:-1 tvg-id="" tvg-name="ID| Cinema World" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| Cinema World
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149812
+#EXTINF:-1 tvg-id="fightsports.id" tvg-name="ID| FIGHT SPORTS HD" tvg-logo="https://lo1.in/indo/fhg.png" group-title="AS | INDONESIA",ID| FIGHT SPORTS HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/7618
+#EXTINF:-1 tvg-id="" tvg-name="ID| SPOTV HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| SPOTV HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149807
+#EXTINF:-1 tvg-id="" tvg-name="ID| SPOTV 2 HD" tvg-logo="https://lo1.in/indo/flg.png" group-title="AS | INDONESIA",ID| SPOTV 2 HD
+http://uaepwswf.ujikol.com:80/CMCLW9JB/BRP4RDRX/149806
